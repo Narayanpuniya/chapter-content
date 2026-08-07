@@ -1,0 +1,341 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 404,
+    "chapter_name": "पृथक्करण की विधियाँ",
+    "chapter_number": 9,
+    "book_name": "Class 6 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein Malli aur Valli ki summer holiday journey ke saath hum daily life ki separation methods seekhenge — हस्त चयन, थ्रेशिंग, ओसाई (winnowing), चालन (sieving), वाष्पीकरण se नमक बनाना, अवसादन-निस्तारण, aur निस्यंदन (filtration). Har method kisi mixture ke avayavon ke size, weight, colour ya state ke antar par aadharit hoti hai, jaise ghar, khet aur kitchen mein hota hai.",
+    "welcome": "Namaste bacchon! Aaj Smart Board par hum Class 6 Science ka ek bahut mazedaar chapter padhenge — पृथक्करण की विधियाँ. Socho, Malli aur Valli apni nani-nana, mama-mami aur dada-dadi ke ghar jaate hain — kheton mein anaj, kitchen mein atta, samundar se namak, aur chai banate waqt pattiyan alag karna. Aaj hum yeh sab methods bilkul unki kahani ke saath seekhenge. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "Mishran kya hota hai aur daily life mein uske avayav kyun alag kiye jaate hain, yeh samajhna",
+      "हस्त चयन, थ्रेशिंग, ओसाई aur चालन ko particles ke aakaar, rang, aakriti aur bhaar ke antar se jodna",
+      "समुद्री जल se नमक प्राप्ति ke liye वाष्पीकरण samajhna aur simple activity se explain karna",
+      "अवसादन, निस्तारण aur निस्यंदन (filtration) mein fark batakar sahi method choose karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "हस्त चयन – आकार, रंग और आकृति से छाँटना"
+      },
+      {
+        "number": 2,
+        "name": "थ्रेशिंग – पूले से दाने पृथक करना"
+      },
+      {
+        "number": 3,
+        "name": "ओसाई (विनोइंग) – भारी और हल्के अवयव"
+      },
+      {
+        "number": 4,
+        "name": "चालन – छिद्रों से कणों को छानना"
+      },
+      {
+        "number": 5,
+        "name": "वाष्पीकरण – समुद्री जल से नमक प्राप्त करना"
+      },
+      {
+        "number": 6,
+        "name": "अवसादन और निस्तारण – द्रव से भारी अवयव"
+      },
+      {
+        "number": 7,
+        "name": "निस्यंदन (फिल्ट्रेशन) – छानकर साफ करना"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "हस्त चयन – आकार, रंग और आकृति से छाँटना",
+      "say": "Bacchon, pehle Malli aur Valli ki kahani suno. Woh Haryana mein nani ji ke ghar pahunchte hain — bade-bade kheton se ghira hua ghar. Aangan mein alag-alag anaj ki dheriyan padi hain. Mami ji aur mama ji haathon se chawal aur gehun se chhote kankar aur bhusi nikal rahe hain. Malli-Valli poochhte hain — yeh kyun kiya ja raha hai? Nani ji samjhati hain: kankar nikalne se anaj pakane layak ban jaata hai. Isi process ko हस्त चयन kehte hain — handpicking. Solid mishran mein do ya zyada padarth mile hote hain, jaise gehun aur chawal. Jab particles ke aakaar, rang aur aakriti alag hon, aur alag kiye jaane wale particles kam matra mein hon aur asaani se uthaye ja saken, tab handpicking convenient method hai. Dopahar mein garam-garam pulao aata hai — Malli sabut kali mirch nikal kar plate ke kinare rakh deta hai. Valli mazaak mein kehti hai, \"Yahi to hast chayan hai!\" Nani ji kali mirch ke fayde batati hain aur Malli ko khane ke liye encourage karti hain. Yaad rakho — handpicking sirf tab best hai jab fark aankhon se clearly dikhe aur kaam chhota ho. Bahut badi dheri ke liye yeh method slow pad sakta hai.",
+      "example": "Pulao mein se sabut kali mirch haath se nikalna — yeh daily life ka hast chayan (handpicking) hai.",
+      "board_lines": [
+        "हस्त चयन (Handpicking) = haath se alag karna",
+        "Aadhaar: आकार, रंग, आकृति ka antar",
+        "Tab convenient jab particles kam matra mein aur asaani se uthaye ja saken"
+      ],
+      "common_mistake": "Students sochte hain handpicking har mishran ke liye best hai — actually jab particles bahut zyada hon ya bahut chhote/similar hon, yeh practical nahi rehta.",
+      "memory_trick": "H-A-R: Hand se — Aakaar/Rang/Aakriti dekh kar — Remove. Handpicking = HAR method!",
+      "gesture_action": "Students ko aankhein band karke imaginary anaj se chhote kankar chunne ki challenge do — nani ji wali tarah",
+      "real_life_examples": [
+        "Sabzi saaf karte waqt pati-gobi se peele/kharaab hisse haath se nikalna",
+        "Daal mein se pathar ya kankar dinner se pehle haath se chhanna"
+      ],
+      "worked_example": {
+        "problem": "Gehun ke daanon mein kuch chhote kankar mile hain. Kya handpicking suitable hai? Kyun?",
+        "steps": [
+          "Dekho: kankar aur gehun ke aakaar/rang/aakriti alag dikhte hain",
+          "Agar kankar kam matra mein hain aur haath se uthaye ja sakte hain, method convenient hai",
+          "Conclude: haan, hast chayan suitable hai"
+        ],
+        "answer": "Haan, suitable hai kyunki kankar aur gehun size-colour-shape mein alag hain aur kam matra mein haath se nikaale ja sakte hain."
+      },
+      "practice": {
+        "easy": [
+          "हस्त चयन kis antar ke aadhaar par kiya jaata hai?"
+        ],
+        "medium": [
+          "Kab handpicking convenient method maani jaati hai? NCERT ke hisaab se do shartein likho."
+        ],
+        "hard": [
+          "Chane ki daal mein muramure mil gaye. Handpicking ke alawa kaunsi soch sakte ho? Apna reason do."
+        ]
+      },
+      "summary": "हस्त चयन mein solid mishran ke avayav haath se aakaar, rang aur aakriti ke antar ke aadhaar par alag kiye jaate hain — jab matra kam aur kaam asaani se ho sake.",
+      "revision_point": "Handpicking = size/colour/shape difference + small quantity + easy to pick.",
+      "exam_tip": "Definition ke saath hamesha teen bases likho — आकार, रंग, आकृति — aur 'kam matra' wali condition mat bhoolna.",
+      "source_text_hint": "किसी ठोस मिश्रण ... हाथ द्ारा छोटे कंकड़ और भूसी अलग करने की प्रक्रिया हस्त चयन कहलाती है"
+    },
+    {
+      "concept": "थ्रेशिंग – पूले से दाने पृथक करना",
+      "say": "Ab mama ji Malli aur Valli ko kheton mein le jaate hain. Wahan kaate hue gehun ki poolon ke gatthar dikhte hain. Kuch poolen dhoop mein sukhane ke liye failayi gayi hain. Donon ek-ek poola uthate hain aur unmein lage anginat daane dekhte hain. Kuch kisaan poolon ko ek bade lakdi ke latthe par peet rahe hain. Valli curiosity se poochhti hai — yeh kyun kar rahe hain? Mama ji samjhate hain: daane alag karne ke liye poolon ko peeta ja raha hai. Poolon se daane पृथक karne ki is prakriya ko थ्रेशिंग kehte hain. Kisaan mehnat karte hue bhi kaam ka anand lete hain, aur kabhi-kabhi lokgeet bhi gaate hain. Threshing ke baad anaj ke daane bhuse ki dheriyon mein mil jaate hain — matlab kaam abhi poora nahi hua. Valli sochti hai: kya kisaan itni saari bhusi mein se anaj haath se chhunenge? Kitna time lagega? Yeh sawaal next method — winnowing — ki taraf le jaata hai. Yaad rakho: threshing ka kaam hai stalk/poola se daana alag karna, bhusi se daana clean karna nahi. Modern thresher machines bhi bani hain jo baad mein aayengi. Class tip: jab bhi 'poola peetna' dikhe, seedha threshing bolo.",
+      "example": "Kisaan gehun ki poolon ko lakdi ke latthe par peetkar daane nikalte hain — yahi threshing hai.",
+      "board_lines": [
+        "थ्रेशिंग (Threshing) = poolon/stalks se daane alag karna",
+        "Tarika: peetna / beating (traditionally)",
+        "Baad mein: daane + भूसा ek saath mil sakte hain → next step chahiye"
+      ],
+      "common_mistake": "Students threshing aur winnowing ko ek hi samajh lete hain — threshing poola se daana nikaalta hai; winnowing daana aur bhusa alag karta hai.",
+      "memory_trick": "T for Threshing, T for Thap-thap (peetna). Poola peeto → daane nikalte hain.",
+      "gesture_action": "Dono haathon se imaginary poola uthakar latthe par peetne ka action dikhao — 'thap-thap' sound ke saath",
+      "real_life_examples": [
+        "Gaon mein dhaan/gehun ki kheti ke baad poolon ko peetkar daane nikalna",
+        "Thresher machine se bhi yahi kaam jaldi hota hai"
+      ],
+      "worked_example": {
+        "problem": "Poolon se gehun ke daane alag kiye ja rahe hain. Is prakriya ka naam kya hai? Iske baad kaunsa problem reh sakta hai?",
+        "steps": [
+          "Poolon ko peetkar daane nikalna = threshing",
+          "Threshing ke baad daane bhuse ke saath mil sakte hain",
+          "Isliye unhe alag karne ke liye aage winnowing/osai chahiye"
+        ],
+        "answer": "Prakriya ka naam थ्रेशिंग hai. Baad mein daane aur भूसा mil jaate hain, unhe alag karna padta hai."
+      },
+      "practice": {
+        "easy": [
+          "Poolon se daane पृथक karne ki prakriya ka naam likho."
+        ],
+        "medium": [
+          "Threshing ke baad Valli kyun sochti hai ki haath se chhanna mushkil hoga?"
+        ],
+        "hard": [
+          "Threshing aur handpicking mein antar table banaakar do-do points mein likho."
+        ]
+      },
+      "summary": "थ्रेशिंग mein kaati gayi poolon/stalks ko peetkar anaj ke daane alag kiye jaate hain; uske baad aksar daane bhuse ke saath mil jaate hain.",
+      "revision_point": "Threshing = beat stalks → grains out; next problem often = grain + husk mixture.",
+      "exam_tip": "Diagram/short answer mein 'poolon ko peetna' phrase zaroor likho — examiner isi keyword se identify karta hai.",
+      "source_text_hint": "पूलों से दाने पृथक करने की यह प्रक्रिया थ्रेशिंग कहलाती है"
+    },
+    {
+      "concept": "ओसाई (विनोइंग) – भारी और हल्के अवयव",
+      "say": "Ab Activity 9.1 karte hain jaise book mein hai. Mutthi bhar bhuni moongphali ke daane lo aur hathon ke beech ragdo — kya hota hai? Kya chilke alag ho sakte hain? Ab phoonk maaro. Kaunsa hissa udta hai? Tum dekhoge ki phoonk se bhaari hissa reh jaata hai aur halka hissa ud jaata hai. Isi idea se kisaan itni bhusi se anaj alag karte hain. Traditional tarike se soop (baans ka paatr) use hota hai. Agle din nana ji unhe khet dikhate hain — ek kisaan oonche chabutare par khada hai, soop mein threshed gehun ke daane hain, aur hawa ki disha mein soop hila raha hai. Gehun ke daane aur bhusi ek hi jagah nahi girte — bhusi halki hone se door ud jaati hai, daane bhaari hone se neeche girte hain. Mishran ke bhaari aur halke avayavon ko pawan ya phoonk se alag karne ki yeh vidhi ओसाई (विनोइंग / winnowing) kehlati hai. Kabir ke dohe mein bhi soop ka idea aata hai — saar ko gahiye, thotha udaaye. Technical vikas se thresher machines bani hain jo threshing aur osai dono ek saath karti hain. Sawal: Valli band kamre mein chawal se bhusi alag nahi kar pa rahi — uski madad kaise? Hawa/ventilation chahiye! Yaad: winnowing ke liye air flow zaroori hai.",
+      "example": "Kisaan soop mein gehun hilaakar hawa se bhusi udaate hain aur daane neeche girte hain — yahi osai/winnowing hai.",
+      "board_lines": [
+        "ओसाई / Winnowing = pawan/phoonk se भारी ↔ हल्के alag",
+        "Soop (baans paatr) traditional tool",
+        "Thresher machine: थ्रेशिंग + ओसाई ek saath"
+      ],
+      "common_mistake": "Students sochte hain winnowing se kankar bhi alag ho jaayenge — nahi; winnowing mainly weight difference (heavy vs light) par kaam karti hai, size-based stones ke liye handpicking/sieving better.",
+      "memory_trick": "O-SAAI = Odakar Sasti Air se Alag Ideals — halka UDta hai, bhaari girta hai.",
+      "gesture_action": "Soop jaisa haath gol ghumao aur muh se halki phoonk dikhao — 'halka ud gaya, bhaari gir gaya'",
+      "real_life_examples": [
+        "Bhuni moongphali ragadkar chilke phoonk se udaana (Activity 9.1)",
+        "Khet mein soop se gehun-bhusa alag karna"
+      ],
+      "worked_example": {
+        "problem": "Chane ki daal mein muramure mil gaye. Handpicking ke alawa kaunsi method soch sakte ho? Kyun?",
+        "steps": [
+          "Muramura halka, chane ki daal bhaari — weight difference clear hai",
+          "Isliye osai/winnowing (phoonk ya hawa) se halka muramura alag kiya ja sakta hai",
+          "Conclude: winnowing suitable alternative hai"
+        ],
+        "answer": "ओसाई (winnowing) — kyunki muramura halka aur daal bhaari hai; hawa/phoonk se halka hissa alag ho sakta hai."
+      },
+      "practice": {
+        "easy": [
+          "Bhaari aur halke avayavon ko pawan se alag karne ki vidhi ka naam kya hai?"
+        ],
+        "medium": [
+          "Valli band kamre mein chawal se bhusi kyun nahi alag kar pa rahi? Uski madad kaise karoge?"
+        ],
+        "hard": [
+          "Threshing aur winnowing mein antar samjhao; thresher machine inmein se kya karti hai?"
+        ]
+      },
+      "summary": "ओसाई (winnowing) mein pawan ya phoonk se mishran ke भारी aur हल्के avayav alag hote hain — jaise gehun ke daane girte hain aur भूसा ud jaati hai.",
+      "revision_point": "Winnowing needs air + weight difference; soop/traditional; thresher = threshing + winnowing together.",
+      "exam_tip": "Diagram mein hawa ki disha, soop, भूसा door, अनाज neeche — teen labels zaroor lagao.",
+      "source_text_hint": "मिश्रण मेें से भारी और हल्के अवयवों कको पवन द्ारा अथवा फूँकक मारककर पृथकक ककरने ककी यह विधि ओसाई (विनोइंग) ककहलाती है"
+    },
+    {
+      "concept": "चालन – छिद्रों से कणों को छानना",
+      "say": "Ab Malli-Valli Ahmedabad jaane ke liye train pakadte hain. Valli mami ji se meethi poori banane ka request karti hai aur poochhti hai — kya main gehun ka atta goondhne mein madad karun? Mami ji kehti hain: pehle aate mein maujood chokar nikalna padta hai. Kaise? चालनी se! चालन mein aate ke baarik kan chaalni ke chhidron se nikal jaate hain; bade kan jaise chokar aur chhote kankar chaalni mein reh jaate hain. Dhyan se chaalni dekho — kya saare chhidra ek hi aakaar ke hain? Agar chhidra padarthon se bade hon, toh chhanna kaam nahi karega. Chaalni se guzarne wale kanon aur upar reh jaane wale kanon ke aakaar mein antar hota hai. Jab do ya zyada solid padarthon ke mishran ke avayavon ke particles ke aakaar alag hote hain, tab चालन use hota hai. Construction sites par bhi ret se kankar-patthar alag karne ke liye chaalni dikhti hai. Important: sieving size difference par based hai, colour par nahi. Agar particles almost same size ke hon, chaalni fail ho jaayegi. Yaad rakho — chhidra size carefully choose karo, warna galat cheez bhi nikal jaayegi ya kuch nahi nikalega.",
+      "example": "Poori/roti ke liye aate se chokar nikalne ke liye ghar mein chaalni use karna — yahi चालन hai.",
+      "board_lines": [
+        "चालन (Sieving) = particle size ke antar se alag karna",
+        "Baarik kan chhidron se guzarate hain; bade kan upar rehte hain",
+        "Chhidra padarth se bade hon → process fail"
+      ],
+      "common_mistake": "Students sochte hain chaalni se har cheez saaf ho jaati hai — agar impurities aur desired particles same size ke hon, sieving kaam nahi karti.",
+      "memory_trick": "Sieve = Size. Chaalni sirf SIZE dekh ti hai — rang nahi, weight nahi.",
+      "gesture_action": "Dono haathon se imaginary chaalni hilao aur fingers se 'fine flour neeche, bran upar' dikhao",
+      "real_life_examples": [
+        "Kitchen mein aata chhanna — chokar alag",
+        "Building site par ret se kankar/patthar alag karna"
+      ],
+      "worked_example": {
+        "problem": "Agar chaalni ke chhidra aate ke kanon se bhi bade hon, kya chhanna sahi kaam karega? Explain.",
+        "steps": [
+          "Sieving tab kaam karti hai jab desired particles chhidron se guzar saken aur bade ruk jaayen",
+          "Agar chhidra bahut bade hain, chokar/kankar bhi saath nikal jaayenge",
+          "Conclude: process sahi tarah kaam nahi karegi"
+        ],
+        "answer": "Nahi — chhidra zyada bade hone par bade kan bhi nikal jaayenge, isliye separation fail ho jaayegi."
+      },
+      "practice": {
+        "easy": [
+          "Aate se chokar alag karne ke liye kaunsi method use hoti hai?"
+        ],
+        "medium": [
+          "चालन kab use kiya jaata hai? Particle size ke bare mein ek line likho."
+        ],
+        "hard": [
+          "Handpicking, winnowing aur sieving — teenon kab choose karoge? Ek-ek example ke saath compare karo."
+        ]
+      },
+      "summary": "चालन (sieving) tab use hota hai jab solid particles ke aakaar alag hon — baarik kan chaalni se guzarate hain, bade kan upar reh jaate hain.",
+      "revision_point": "Sieving = size difference + proper hole size; flour/bran and sand/stones are classic examples.",
+      "exam_tip": "Hamesha likho: 'कणों के आकार भिन्न होने पर चालन' — yeh NCERT keyword hai.",
+      "source_text_hint": "जब दो या दो से अधि‍कक ठोस पदाथथों कके मिश्रण कके अवयवों कके कणोों कके आककार भिन्न होते हैैं, तब चालन ककी विधि कका उपयोग किया जाता है"
+    },
+    {
+      "concept": "वाष्पीकरण – समुद्री जल से नमक प्राप्त करना",
+      "say": "Ahmedabad pahunchkar woh Ghanshyam bhai ke saath Sabarmati Ashram jaate hain aur Dandi Yatra / namak satyagraha ke baare mein seekhte hain. Malli poochhta hai — namak kahan se milta hai? Jawab: samudra-jal se. Samudri jal pani mein ghule hue vibhinna lavanon aur anya padarthon ka mishran hai. Namak pane ke liye samudra ka jal uthle gaddhon mein rakha jaata hai jahan dhoop aur hawa se contact hota hai. Kuch dinon mein jal poori tarah वाष्पित ho jaata hai aur solid namak shesh reh jaata hai; phir is lavan mishran ka shodhan karke sadharan namak milta hai. Activity 9.2: katori mein aadha pani, 2-3 chammach namak, hilaakar solution banao; kale mote kagaz par boonden daalo, sukhne do — white dhabbe dikhenge, ungli se namak mehsoos hota hai. Pani kahan gaya? Yaad karo — jal ki avasthaayein. Activity 9.3 (teacher demo): china mitti ki dish mein namak solution garam karo, jal ubal kar ud jaaye; thanda hone do — dish mein namak wapas milta hai. Ayurveda mein bhi jadi-bootiyan chhaya mein sukhayi jaati hain — excess water evaporate hota hai. Garmiyon mein dark kapdon par safed dhabbe? Woh bhi pasine ke pani ke udne ke baad namak ke nishaan! Lekin agar namak aur pani dono chahiye hon toh sirf evaporation kaafi nahi — uske liye alag soch chahiye.",
+      "example": "Samudra ka khara pani shallow pits mein dhoop se sukhaya jaata hai — pani ud jaata hai, namak reh jaata hai.",
+      "board_lines": [
+        "समुद्री जल = salts + other substances dissolved in water",
+        "वाष्पीकरण: jal udta hai → solid नमक shesh",
+        "Activity: solution → dry paper/heat → namak wapas"
+      ],
+      "common_mistake": "Students sochte hain evaporation se namak 'banta' hai — actually namak pehle se dissolved tha; pani hatne par dikhayi deta hai.",
+      "memory_trick": "E-VAP: Evaporate Water Away — Padarth (namak) Peeche reh jaata hai.",
+      "gesture_action": "Haath se suraj dikhao, doosre haath se pani udte hue waves banao, phir mutthi mein 'namak bacha' dikhao",
+      "real_life_examples": [
+        "Rajasthan ki Sambhar jheel se common salt",
+        "Garmiyon mein dark kapdon par safed salt spots from sweat"
+      ],
+      "worked_example": {
+        "problem": "Namak ke solution ko china dish mein garam kiya gaya. Thanda karne ke baad kya milta hai aur kyun?",
+        "steps": [
+          "Heating se water boil/evaporate hokar ud jaata hai",
+          "Namak solid form mein dish mein reh jaata hai",
+          "Ungli se ragar kar presence mehsoos ki ja sakti hai"
+        ],
+        "answer": "Dish mein namak wapas milta hai kyunki जल वाष्पीकरण se ud gaya aur dissolved namak solid shesh reh gaya."
+      },
+      "practice": {
+        "easy": [
+          "Samudri jal se namak प्राप्ति ke liye mukhya prakriya ka naam likho."
+        ],
+        "medium": [
+          "Activity 9.2 mein kagaz par white dhabbe kyun bante hain? Pani kahan gaya?"
+        ],
+        "hard": [
+          "'Kya koi aisi method hai jisse main namak aur jal dono praapt kar sakta hoon?' — evaporation ki limit explain karke socho."
+        ]
+      },
+      "summary": "वाष्पीकरण se dissolved salts wale jal ka pani ud jaata hai aur solid नमक shesh reh jaata hai — yahi samudri namak utpadan ka aadhaar hai.",
+      "revision_point": "Evaporation recovers dissolved solid by removing water; salt was already in the solution.",
+      "exam_tip": "Process steps order likho: shallow pits → sun & air → water evaporates → solid salt → purification.",
+      "source_text_hint": "कुछ दिनों में, जल पूरीी तरह से वाष्पितत हो जााताा है और ठोस नमक शेष रह जााताा है"
+    },
+    {
+      "concept": "अवसादन और निस्तारण – द्रव से भारी अवयव",
+      "say": "Ab Malli-Valli Puducherry mein dada-dadi se milte hain aur dost Balan ke saath chai ka time aata hai. Balan poochhta hai — chai banane ke baad pattiyan kaise alag karte ho? Dada ji kehte hain: usually chaalni se, lekin agar chaalni na ho toh bhi aksar pattiyan alag ki ja sakti hain. Kaise? Chai wale bartan ko kuch der ke liye still chhod do, phir dheere-dheere cup mein udeel do. Valli samajh jaati hai — pattiyan neeche reh jaayengi! Jab kisi drav ke tal par bhaari अघुलनशील avayav jama ho jaate hain, us prakriya ko अवसादन (sedimentation) kehte hain. Jab bartan ko tirchha karke jal/drav nikaal liya jaata hai, woh निस्तारण (decantation) kehlata hai. Achha tip: yahi process chawal aur daalon ko dhone-saaf karne mein bhi use hoti hai — mitti/halka gandagi pani ke saath nikaal dete hain. Lekin dada ji sahi kehte hain: kuch pattiyan muh mein aa sakti hain kyunki decantation se poori tarah separation nahi hoti. Matlab yeh useful hai, perfect nahi. Oil aur pani ke liye bhi socho — oil pani mein mix nahi hota, alag layer banata hai; unhe alag karne ke liye bhi decantation jaisi soch kaam aa sakti hai. Yaad: pehle settle (sedimentation), phir carefully pour (decantation).",
+      "example": "Chai ko thodi der rukne do — pattiyan neeche baith jaayein — phir upar ki chai dheere se cup mein udeelna: sedimentation + decantation.",
+      "board_lines": [
+        "अवसादन (Sedimentation) = bhaari अघुलनशील avayav tal par jama hona",
+        "निस्तारण (Decantation) = tirchha karke upar ka drav nikaalna",
+        "Limit: poori tarah separation nahi; chawal-daal dhone mein useful"
+      ],
+      "common_mistake": "Students sedimentation aur decantation ko ek hi process maante hain — pehla settling hai, doosra pouring off hai; dono milkar use hote hain.",
+      "memory_trick": "SEAT-POUR: SETtlement = sedimentation; POUR carefully = decantation.",
+      "gesture_action": "Glass ko still rakhkar ungli se 'neeche baithna' dikhao, phir glass dhire se jhukakar pour karne ka action",
+      "real_life_examples": [
+        "Chawal/daal dho kar upar ka gandagi wala pani nikaalna",
+        "Oil-water alag layers — carefully oil/water alag karna"
+      ],
+      "worked_example": {
+        "problem": "Chai ki pattiyan bartan ke neeche baith gayi aur upar ki chai cup mein udeel di gayi. Kaunsi do prakriyaayein huiin?",
+        "steps": [
+          "Pattiyan neeche jama hona = अवसादन (sedimentation)",
+          "Bartan tirchha karke chai nikaalna = निस्तारण (decantation)",
+          "Note: kuch pattiyan saath aa sakti hain — incomplete separation"
+        ],
+        "answer": "Pehle अवसादन, phir निस्तारण. Yeh combination useful hai lekin hamesha 100% clean nahi hoti."
+      },
+      "practice": {
+        "easy": [
+          "Drav ke tal par bhaari अघुलनशील avayav jama hone ko kya kehte hain?"
+        ],
+        "medium": [
+          "निस्तारण ki definition likho aur chawal dhone ka example do."
+        ],
+        "hard": [
+          "Kyun decantation chai se pattiyan poori tarah alag nahi kar paati? Better method ka naam bhi socho."
+        ]
+      },
+      "summary": "अवसादन mein bhaari अघुलनशील particles neeche baithte hain; निस्तारण mein upar ka drav dheere se nikaal liya jaata hai — useful, lekin aksar incomplete.",
+      "revision_point": "Sedimentation = settle down; Decantation = pour off; often used together; not always complete.",
+      "exam_tip": "Dono terms alag-alag define karo — examiner mixed definitions par marks kaat sakta hai.",
+      "source_text_hint": "किसी द्रव के तल पर भारी अघुलनशील अवयव के जमा हो जाने की प्र‍क्र‍िया को अवसादन (सेडीमेंटटेशन) कहते हैं"
+    },
+    {
+      "concept": "निस्यंदन (फिल्ट्रेशन) – छानकर साफ करना",
+      "say": "Dada ji kehte hain decantation perfect nahi — kuch chai pattiyan aa sakti hain. Malli taak se chai ki chaalni deta hai. Dada ji chai chaalni se chhanate hain — saari pattiyan chaalni mein reh jaati hain. Chai se pattiyan alag karne ki is prakriya ko निस्यंदन (filtration) kehte hain. Balan poochhta hai — kya matmaile jal ke liye bhi chai strainer kaafi hai? Dada ji kehte hain kapde ke tukde se bhi chhano aur antar dekho. Kapde ki bunai mein dhagon ke beech chhote chhidra/randhra hote hain — purane zamane mein bhi log isi tarah chhanate the. Agar ek baar chhanne ke baad bhi jal gadla ho, toh filter-paper use karo jisme aur chhote pores hote hain. Activity 9.4: filter-paper fold karke cone banao, funnel mein rakho, matmaila jal daalo — mitti residue ke roop mein paper par, clean jal filtrate ke roop mein flask mein. Filter-paper ke alawa cotton, charcoal, sand ityadi bhi filter ban sakte hain; choice particle size par depend karti hai. Activity 9.5: low-cost materials se water filtration model banao. River mein fishing net se pani nikal jaata hai, machhliyan rukti hain — yeh bhi filtration jaisa idea hai. Plastic kachra net mein aana environment lesson hai. Tea-bag pehle soft silk/malmal se bante the, ab aksar filter-paper se. Yaad: filtration = pores se liquid guzarna, solid rukna.",
+      "example": "Chai ko strainer se chhanna — pattiyan rukti hain, chai neeche aati hai; yahi निस्यंदन hai.",
+      "board_lines": [
+        "निस्यंदन / Filtration = solid rukta hai, liquid chhidron se guzarta hai",
+        "Filter-paper: bahut sookshm pores; residue + filtrate",
+        "Materials: cotton, charcoal, sand, cloth, tea-bag paper"
+      ],
+      "common_mistake": "Students sochte hain filter se dissolved namak bhi nikal jaayega — nahi; filtration अघुलनशील solids ke liye hai, dissolved substances ke liye evaporation jaise methods chahiye.",
+      "memory_trick": "FILTER = Fine holes In Liquid; Trash/Excreta (solids) Remain.",
+      "gesture_action": "Paper fold karke cone/shanku banane ka demo karo (Activity 9.4) aur funnel mein rakhne ka action dikhao",
+      "real_life_examples": [
+        "Chai strainer / tea-bag se pattiyan rokna",
+        "Machhli pakadne ka jaal — pani nikalta hai, machhli rukti hai (filtration idea)"
+      ],
+      "worked_example": {
+        "problem": "Matmaila jal filter-paper se chhana gaya. Paper par kya milega aur flask mein kya? Names do.",
+        "steps": [
+          "Mitti ke kan paper ke pores se nahi guzar paate — paper par residue",
+          "Saaf jal pores se guzar kar flask mein jama hota hai — filtrate/nisyand",
+          "Conclude: residue = mitti; filtrate = clean water"
+        ],
+        "answer": "Filter-paper par अवशेष (residue) ke roop mein मिट्टी; flask mein निस्यंद (filtrate) ke roop mein स्वच्छ जल."
+      },
+      "practice": {
+        "easy": [
+          "Chai se pattiyan chaalni se alag karne ki prakriya ka naam likho."
+        ],
+        "medium": [
+          "Decantation se filtration kyun better maani ja sakti hai chai ke case mein?"
+        ],
+        "hard": [
+          "Filter material ka selection kis baat par depend karta hai? Cotton/sand/filter-paper mein se kab kaun choose karoge — reason do."
+        ]
+      },
+      "summary": "निस्यंदन (filtration) mein solid particles filter ke chhidron par ruk jaate hain aur liquid guzar jaata hai — tea strainer se lekar filter-paper aur low-cost water filters tak.",
+      "revision_point": "Filtration separates insoluble solids from liquids via pores; residue stays, filtrate passes; dissolved salts need other methods.",
+      "exam_tip": "Diagram labels yaad rakho: filter-paper, funnel, conical flask, muddy water, residue, filtrate.",
+      "source_text_hint": "चाय से चाय की पत्त‍ियाँ पृथक करने की इस प्रक्रिया को निस्यंदन (फ‍िल्‍टर करना) कहते हैं"
+    }
+  ]
+}
