@@ -1,0 +1,279 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 269,
+    "chapter_name": "कार्बन एवं उसके यौगिक",
+    "chapter_number": 4,
+    "book_name": "Class 10 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 10",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 10 Science ke Chapter 4 — कार्बन एवं उसके यौगिक — ko padhenge. Is chapter mein hum samjhenge ki carbon kyun itna important hai, woh ionic ki jagah covalent bonds kaise banata hai, H₂, O₂, N₂ aur methane jaise molecules ki electron-dot structures kaise banti hain, carbon ke allotropes (diamond, graphite, fullerene) kaise alag hote hain, aur catenation aur tetravalency ke wajah se carbon millions of compounds kyun bana paata hai — saath hi saturated aur unsaturated hydrocarbons (ethane, ethene, ethyne) ki structures bhi clear hongi.",
+    "welcome": "Good morning, bacchon! Aaj hum ek bahut interesting aur exam-mein-bahut-important chapter shuru karenge — कार्बन एवं उसके यौगिक. Socho, subah se tumne jo kuch use kiya — kapde, khana, kitab, dawai — unmein se bahut kuch carbon compounds se bana hai. Hum khud bhi carbon-based living structures hain! Aaj hum yeh jaanenge ki nature mein carbon itni kam matra mein hone ke bawajood itna powerful kyun hai. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "Carbon ke dainik jeevan aur living structures mein mahatva ko samajhna, aur crust/atmosphere mein uski alpa matra ko yaad rakhna",
+      "Yeh explain karna ki carbon C⁴⁺ ya C⁴⁻ ion asaani se kyun nahi banata, aur electron sharing se covalent bond kaise banta hai",
+      "H₂, Cl₂, O₂, N₂, H₂O, NH₃ aur CH₄ ki electron-dot structures banakar single, double aur triple bonds pehchanna",
+      "Covalent compounds ke low melting/boiling points aur poor electrical conductivity ko bond nature se jodna; diamond, graphite, fullerene ke structural antar ko batana",
+      "Catenation aur tetravalency se carbon ki versatile nature samajhna; saturated (ethane) aur unsaturated (ethene, ethyne) compounds ki structures step-by-step banana"
+    ],
+    "concepts": [
+      {"number": 1, "name": "कार्बन का महत्व और दैनिक जीवन में उपस्थिति"},
+      {"number": 2, "name": "कार्बन में आबंधन – सहसंयोजी आबंध क्यों?"},
+      {"number": 3, "name": "इलेक्ट्रॉन साझेदारी – H₂, O₂, N₂ और सरल अणु"},
+      {"number": 4, "name": "मेथेन की संरचना एवं सहसंयोजी यौगिकों के गुणधर्म"},
+      {"number": 5, "name": "कार्बन के अपररूप – हीरा, ग्रेफाइट और फुलेरीन"},
+      {"number": 6, "name": "कार्बन की सर्वतोमुखी प्रकृति – शृंखलन और चतुःसंयोजकता"},
+      {"number": 7, "name": "संतृप्त एवं असंतृप्त कार्बन यौगिक – एथेन, एथीन, एथाइन"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "कार्बन का महत्व और दैनिक जीवन में उपस्थिति",
+      "say": "Bacchon, aaj hum Class 10 Science ka Chapter 4 shuru karte hain — कार्बन एवं उसके यौगिक. Pehle ek chhota activity socho, jaise NCERT Activity 4.1 mein hai. Subah se tumne jo das cheezein use ki — toothbrush, kapda, copy, doodh, dawai, plastic pen — unhe teen columns mein baanto: metal se bani, glass ya mitti se bani, aur anya. Jo anya column mein aati hain, unmein se aksar food, kapde, medicines, books jaise items carbon compounds se bane hote hain. Teacher batate hain ki yeh zyadatar carbon ke yogyon se bani vastuain hain. Carbon-containing compound ko jalane par kya milta hai? Aksar carbon dioxide aur water — aur iski confirmation ke liye tests bhi hote hain. Ab suno ek amazing baat: bhupriti mein minerals jaise carbonate, hydrogen carbonate, coal aur petroleum ke roop mein sirf lagbhag 0.02 percent carbon hai, aur atmosphere mein sirf 0.03 percent carbon dioxide. Itni alpa matra hone ke bawajood carbon ka mahatva bahut zyada hai, kyunki saari living structures carbon par aadharit hain. Hum khud bhi carbon compounds se bane hain! Isliye is chapter mein hum un properties ka study karenge jinke kaaran carbon itna important aur versatile banta hai. Yaad rakhna — quantity kam, importance bahut zyada. Chalo ab bonding samajhte hain.",
+      "example": "Subah ki chai ki cup, plastic bottle aur cotton shirt — teenon mein carbon compounds maujood hote hain, jabki steel spoon metal se bani hoti hai.",
+      "board_lines": [
+        "Carbon: elemental + combined forms — both vital",
+        "Crust ≈ 0.02% C (carbonates, coal, petroleum); Air ≈ 0.03% CO₂",
+        "Food, clothes, medicines, books, living structures → carbon-based"
+      ],
+      "common_mistake": "Students sochte hain ki carbon sirf coal ya diamond mein hota hai — actually daily life ki zyadatar organic vastuain aur living bodies carbon compounds par based hain.",
+      "memory_trick": "C-LIFE: Carbon in Living things, Important for Food & Everyday materials — kam matra, zyada importance.",
+      "gesture_action": "Class se 10 daily items ki list banwao, phir board par teen columns (metal / glass-mitti / anya) mein classify karao",
+      "real_life_examples": [
+        "School bag, notebook aur pen — plastic/paper mostly carbon compounds",
+        "CNG bus aur biogas stove — methane jaise carbon fuels"
+      ],
+      "worked_example": {
+        "problem": "Bhupriti mein carbon lagbhag 0.02% aur atmosphere mein CO₂ 0.03% hone ke bawajood carbon ko 'highly important' kyun kaha jaata hai? Do points mein likho.",
+        "steps": [
+          "Yaad karo: saari sajeew sanrachnaain carbon par aadharit hoti hain",
+          "Food, kapde, dawaiyan, books jaise kai vastuain carbon compounds se bani hoti hain",
+          "Conclude: matra kam hone par bhi compounds ki variety aur jeevan mein role ke kaaran importance bahut hai"
+        ],
+        "answer": "Kyunki living structures carbon-based hain aur daily-use ki kai vastuain (food, clothes, medicines, books) carbon compounds se bani hoti hain — isliye alpa matra ke bawajood carbon atyadhik mahatvapurn hai."
+      },
+      "practice": {
+        "easy": ["Activity 4.1 jaisi socho: metal, glass/mitti aur anya — har column mein ek-ek example likho."],
+        "medium": ["Atmosphere mein carbon kis roop mein aur kitni matra mein maujood hai? Bhupriti ke saath compare karke likho."],
+        "hard": ["'Nature mein carbon ki matra bahut kam hai, phir bhi uska mahatva atyadhik hai' — is statement ko NCERT ke aadhaar par reason-based paragraph mein justify karo."]
+      },
+      "summary": "Carbon crust aur air mein bahut kam hai, lekin food, clothes, medicines aur living structures ke kaaran iska mahatva bahut bada hai — yahi chapter ka opening idea hai.",
+      "revision_point": "Crust ≈ 0.02% C; atmosphere ≈ 0.03% CO₂; living world + many daily materials = carbon-based.",
+      "exam_tip": "1-mark/2-mark mein numbers (0.02% aur 0.03%) bilkul sahi likho — examiners exact figures expect karte hain.",
+      "source_text_hint": "भूपर्पटी में खनिजों ... के रूप में केवल 0.02% कार्बन उपस्थित है तथा वायुमंडल में 0.03% कार्बन डााइअॉक्साइड उपस्थित है"
+    },
+    {
+      "concept": "कार्बन में आबंधन – सहसंयोजी आबंध क्यों?",
+      "say": "Ab hum section 4.1 padhenge — कार्बन में आबंधन– सहसंयोजी आबंध. Pehle ionic compounds yaad karo: unke melting aur boiling points ucch hote hain, aur solution ya molten state mein electricity conduct karte hain. Ab Table 4.1 dekho — acetic acid, chloroform, ethanol, methane — inke melting aur boiling points ionic compounds se kaafi kam hain. Aur majority carbon compounds ache electric conductors nahi hote. Isse hum conclude karte hain ki in atoms ke beech waisa strong attraction force nahi jo ionic compounds mein hota hai, aur bonding se ions bhi nahi bante. Carbon ki atomic number 6 hai — electronic configuration 2,4 — matlab outermost shell mein char valence electrons. Noble gas configuration ke liye ise char electrons gain ya lose karne padenge. Agar C⁴⁻ banaye — chhah protons wale nucleus ke liye das electrons hold karna mushkil. Agar C⁴⁺ banaye — char electrons khone mein bahut energy lagegi, sirf do electrons bache. Isliye carbon yeh problem electron sharing se solve karta hai — apne valence electrons ko doosre atoms ke saath share karke. Sirf carbon nahi, kai anya elements bhi sharing se molecules banate hain. Shared electrons dono atoms ke outer shells ke hote hain, aur dono noble gas configuration paate hain. Is sharing se bana bond hi covalent bond kehlata hai. Yaad rakho: carbon ionic nahi, covalent path choose karta hai.",
+      "example": "Methane (CH₄) ka boiling point sirf 111 K hai — NaCl jaisa ionic compound itna easily gas nahi banta; yeh dikhata hai bonding alag hai.",
+      "board_lines": [
+        "C atomic no. = 6; e⁻ config = 2,4 → 4 valence e⁻",
+        "C⁴⁻ difficult (extra e⁻); C⁴⁺ needs huge energy",
+        "Solution: electron sharing → covalent bond (no ions)"
+      ],
+      "common_mistake": "Students sochte hain carbon bhi sodium ki tarah ion bana kar bond karta hai — actually carbon generally electron share karta hai, transfer nahi.",
+      "memory_trick": "4-SHARE: Carbon ke 4 electrons — na easy gain, na easy lose — isliye SHARE (covalent).",
+      "gesture_action": "Do students ko ek-ek chalk piece share karte dikhao (sharing), vs ek student se chalk cheen kar dena (transfer/ionic) — contrast clear karo",
+      "real_life_examples": [
+        "Plastic aur wax electricity ke poor conductors — covalent nature ka daily evidence",
+        "Petrol/kerosene jaldi vapor ban jaate hain — low boiling points of many carbon compounds"
+      ],
+      "worked_example": {
+        "problem": "Carbon C⁴⁺ ya C⁴⁻ ion asaani se kyun nahi banata? Short answer mein dono cases explain karo.",
+        "steps": [
+          "C⁴⁻: 6 protons wale nucleus ke liye 10 electrons hold karna mushkil",
+          "C⁴⁺: 4 electrons remove karne mein bahut high energy chahiye; nucleus par sirf 2 e⁻ reh jaayenge",
+          "Conclude: isliye carbon electron sharing (covalent bonding) prefer karta hai"
+        ],
+        "answer": "C⁴⁻ banana unstable/mushkil hai kyunki extra electrons hold karna hard hai; C⁴⁺ ke liye 4 e⁻ hatane mein bahut energy chahiye — isliye carbon sharing se covalent bonds banata hai."
+      },
+      "practice": {
+        "easy": ["Carbon ki atomic number aur valence electrons kitne hain?"],
+        "medium": ["Table 4.1 ke aadhaar par batao ki carbon compounds ke melting/boiling points ionic compounds se kaise alag hain aur isse bonding ke baare mein kya nishkarsh nikalta hai."],
+        "hard": ["'Carbon compounds generally electricity ke poor conductors hote hain' — is observation ko bonding ki nature se scientifically explain karo."]
+      },
+      "summary": "Carbon ionic form (C⁴⁺/C⁴⁻) asaani se nahi bana sakta, isliye valence electrons share karke covalent bonds banata hai — low MP/BP aur poor conductivity isi se judi hain.",
+      "revision_point": "C = 2,4; no easy C⁴⁺/C⁴⁻ → electron sharing → covalent bond.",
+      "exam_tip": "Exam mein hamesha dono reasons likho — C⁴⁻ difficult aur C⁴⁺ energy-demanding — sirf ek reason se poore marks nahi milte.",
+      "source_text_hint": "कार्बन अपने अन्य परमाणुओं अथवा अन्य तत्वों के परमाणुओं के साथ संयोजकता इलेक्ट्रॉनों की साझेदारी करके इस समस्या को सुलझा लेता है"
+    },
+    {
+      "concept": "इलेक्ट्रॉन साझेदारी – H₂, O₂, N₂ और सरल अणु",
+      "say": "Ab hum electron sharing ke simple molecules samajhte hain, carbon compounds se pehle. Hydrogen ki atomic number 1 hai — K shell mein ek electron. Noble gas helium jaisa banne ke liye ek aur electron chahiye. Do hydrogen atoms apne electrons share karke H₂ banate hain — ek shared pair matlab single covalent bond. Hum ise electron-dot ya cross se dikhate hain, aur line se bhi: H–H. Chlorine atomic number 17, valence shell mein 7 electrons — Cl₂ bhi single bond se banta hai; try karo electron-dot banana, sirf valence electrons dikhana. Oxygen atomic number 8, L shell mein 6 electrons — octet ke liye 2 aur chahiye. Isliye har oxygen atom do electrons share karta hai — do shared pairs, matlab double bond: O=O. Nitrogen atomic number 7 — octet ke liye teen electrons share hote hain, teen shared pairs, matlab triple bond: N≡N. Ab water socho: oxygen aur do hydrogen — yahan single bonds hote hain, double nahi. Ammonia NH₃ mein nitrogen teen hydrogen ke saath single bonds banata hai, taaki sab noble gas configuration paayein. Rule yaad rakho: ek shared pair = single bond, do = double, teen = triple. Board par hamesha sirf valence shell electrons draw karo. Yeh foundation methane aur ethene samajhne ke liye zaroori hai.",
+      "example": "Air ka bada hissa N₂ hai — usmein nitrogen atoms teen shared pairs se jude hote hain, isliye N₂ bahut stable aur kam reactive maana jaata hai.",
+      "board_lines": [
+        "H₂: one shared pair → single bond (H–H)",
+        "O₂: two shared pairs → double bond (O=O)",
+        "N₂: three shared pairs → triple bond (N≡N); H₂O/NH₃ → single bonds"
+      ],
+      "common_mistake": "Students O₂ mein single bond aur N₂ mein double bond likh dete hain — yaad rakho: O needs 2 → double; N needs 3 → triple.",
+      "memory_trick": "H-O-N bonds: Hydrogen One, Oxygen One-plus-One (2), Nitrogen Three — single, double, triple.",
+      "gesture_action": "Do ungliyon se single bond, char ungliyon (do-do) se double bond, aur teen shared pairs ke liye teen finger-pairs se triple bond act out karo",
+      "real_life_examples": [
+        "Breathing: hum O₂ lete hain jismein double bond hota hai",
+        "Liquid nitrogen use (labs/industry) — N₂ ka triple bond uski stability se juda hai"
+      ],
+      "worked_example": {
+        "problem": "N₂ molecule mein kaunsa bond hota hai aur kyun? Electron sharing ke logic se explain karo.",
+        "steps": [
+          "N atomic number 7 → electronic config 2,5 → 5 valence electrons",
+          "Octet ke liye har N ko 3 aur electrons chahiye",
+          "Har N teen electrons share karta hai → three shared pairs → triple bond"
+        ],
+        "answer": "N₂ mein triple bond (N≡N) hota hai kyunki har nitrogen atom octet poora karne ke liye teen electrons share karta hai."
+      },
+      "practice": {
+        "easy": ["H₂ aur Cl₂ mein single bond kyun hota hai? Ek line mein likho."],
+        "medium": ["O₂ ki electron-dot structure words mein describe karo aur batao yeh double bond kyun hai."],
+        "hard": ["H₂O mein bonds single hain ya double? NH₃ ke saath compare karke valence satisfaction se prove karo."]
+      },
+      "summary": "Electron sharing se H₂/Cl₂ mein single bond, O₂ mein double bond, aur N₂ mein triple bond banta hai; H₂O aur NH₃ mein single bonds se sab atoms octet/duplet paate hain.",
+      "revision_point": "Shared pairs: 1=single, 2=double, 3=triple; draw only valence electrons.",
+      "exam_tip": "Electron-dot diagrams mein cross/dot clearly dikhao aur bond type (single/double/triple) likhna mat bhoolo — diagram + label dono marks late hain.",
+      "source_text_hint": "अॉक्सीजन के प्रत्येक परमाणु के द्वारा प्रदान किए गए दो इलेक्ट्रॉनों से इलेक्ट्रॉनों के दो सहभागी युग्म प्राप्त होते हैं। इसे दो परमाणुओं के बीच द्विआबंध बनना कहते हैं"
+    },
+    {
+      "concept": "मेथेन की संरचना एवं सहसंयोजी यौगिकों के गुणधर्म",
+      "say": "Ab carbon ka sabse simple compound dekhte hain — methane, CH₄. Yeh fuel ke roop mein bahut use hota hai, aur biogas aur CNG ka major component hai. Hydrogen ki valency 1 hai, carbon tetravalent hai — chaar valence electrons. Noble gas configuration ke liye carbon apne chaar electrons ko chaar hydrogen atoms ke saath share karta hai. Har C–H bond ek shared pair se banta hai — chaar single bonds. Electron-dot structure mein carbon centre par, chaar hydrogens around. General definition: do atoms ke beech ek electron pair share hone se bana bond covalent bond kehlata hai. Ab properties: covalent molecules ke andar bonds strong hote hain, lekin intermolecular forces weak hote hain. Isliye in compounds ke melting aur boiling points kam hote hain — Table 4.1 mein methane 90 K melting, 111 K boiling. Aur kyunki electrons share hote hain, charged particles (ions) nahi bante, isliye aise covalent compounds generally electricity ke poor conductors hote hain. Exam tip: 'strong intramolecular bond, weak intermolecular force' — yeh line bahut useful hai low MP/BP explain karne ke liye. Carbon dioxide CO₂ aur sulphur S₈ ki electron-dot structures bhi practice karo — NCERT questions mein aate hain; S₈ mein eight sulphur atoms ring mein jude hote hain.",
+      "example": "Kitchen/CNG cylinder ka gas mainly methane hota hai — low boiling point ke kaaran yeh aasani se gas form mein use hota hai.",
+      "board_lines": [
+        "CH₄: C shares 4 e⁻ with 4 H → four C–H single bonds",
+        "Covalent: strong bonds inside molecule; weak forces between molecules",
+        "Result: low MP/BP; generally poor electrical conductors"
+      ],
+      "common_mistake": "Students sochte hain covalent compounds ke bonds weak hote hain isliye MP/BP kam hai — actually molecule ke andar bond strong hota hai; kam MP/BP weak intermolecular forces ki wajah se hota hai.",
+      "memory_trick": "IN-STRONG, BETWEEN-WEAK: intramolecular strong, intermolecular weak → low MP/BP + no ions → poor conductor.",
+      "gesture_action": "Ek student group ko tightly haath pakad kar 'molecule' banao (strong inside), groups ke beech door khade raho (weak between) — low MP/BP feel karo",
+      "real_life_examples": [
+        "Candle wax aur cooking oil electricity nahi chalate — typical covalent behaviour",
+        "Biogas plant se mila methane stove mein jalata hai"
+      ],
+      "worked_example": {
+        "problem": "Methane ke melting aur boiling points ionic compounds se kaafi kam kyun hote hain?",
+        "steps": [
+          "CH₄ covalent molecule hai — atoms ke beech electron sharing",
+          "Molecule ke andar bonds strong, lekin molecules ke beech intermolecular forces weak",
+          "Weak intermolecular forces ko todne mein kam energy → low MP/BP"
+        ],
+        "answer": "Methane mein intermolecular forces weak hote hain (though covalent bonds inside are strong), isliye kam energy se phase change ho jaata hai — MP/BP low rehte hain."
+      },
+      "practice": {
+        "easy": ["Methane ka molecular formula aur uske bonds ki sankhya likho."],
+        "medium": ["Covalent compounds generally electricity ke poor conductors kyun hote hain?"],
+        "hard": ["CO₂ ki electron-dot structure ke baare mein socho: carbon aur oxygen ke beech kaunse bonds honge aur kyun? Short reasoned answer likho."]
+      },
+      "summary": "Methane mein carbon chaar hydrogen ke saath electron share karke chaar single bonds banata hai; covalent compounds ke low MP/BP aur poor conductivity weak intermolecular forces aur absence of ions se aate hain.",
+      "revision_point": "CH₄ = 4 shared pairs; covalent → low MP/BP + poor conductor (no ions).",
+      "exam_tip": "Property explain karte waqt 'ions nahi bante' aur 'intermolecular forces weak' — dono phrases zaroor likho.",
+      "source_text_hint": "सहसंयोजी आबंध वाले अणुओं में भीतर तो प्रबल आबंध होता है, लेकिन इनका अंतराअणुक बल दुर्बल होता है"
+    },
+    {
+      "concept": "कार्बन के अपररूप – हीरा, ग्रेफाइट और फुलेरीन",
+      "say": "Bacchon, 'Kya aap jaante hain?' box mein carbon ke allotropes aate hain — same element, different physical forms. Diamond aur graphite dono pure carbon atoms se bane hain, lekin bonding pattern alag hai. Diamond mein har carbon atom chaar anya carbon atoms se bonded hota hai — rigid three-dimensional structure. Isliye diamond ab tak ka known sabse hard substance hai. Graphite mein har carbon teen anya carbons se same plane mein bond karta hai — hexagonal layers banti hain; ek bond double-bond character leta hai taaki valency poori ho. Yeh hexagonal planes ek-doosre ke upar stacked rehti hain, isliye graphite smooth aur slippery hota hai — pencil mein likhta hai. Non-metals ke contrary, graphite electricity ka good conductor hai. Chemical properties diamond aur graphite ke almost same, physical properties bilkul alag — structure decide karti hai. Pure carbon ko bahut high pressure aur temperature par treat karke synthetic diamonds banaaye ja sakte hain — size chhote, lekin natural diamonds se almost indistinguishable. Fullerene allotropes ka doosra class hai; pehle C-60 identify hua, jismein carbons football jaisi arrangement mein hote hain. American architect Buckminster Fuller ke geodesic dome jaisa dikhne ke kaaran naam buckminsterfullerene / fullerene pada. Exam mein structure → property link clearly likho.",
+      "example": "Pencil lead graphite hai — layers slide karti hain, isliye paper par mark chhoot jaata hai; diamond cutting tools mein use hota hai kyunki hardest hai.",
+      "board_lines": [
+        "Diamond: each C bonded to 4 C → 3D rigid → hardest",
+        "Graphite: each C to 3 C in plane → hexagonal layers → soft, slippery, conducts electricity",
+        "Fullerene (C-60): football-like cage; Buckminster Fuller → name"
+      ],
+      "common_mistake": "Students sochte hain diamond aur graphite alag elements hain — nahi, dono sirf carbon hain; farq bonding arrangement ka hai.",
+      "memory_trick": "D4-G3-F60: Diamond 4 bonds, Graphite 3 bonds (layers), Fullerene C-60 football.",
+      "gesture_action": "Board par diamond ka tetrahedral 3D net aur graphite ki stacked hexagon layers draw karke students se touch-and-tell karwao — hard vs slippery",
+      "real_life_examples": [
+        "Diamond jewellery/cutting tools — hardness",
+        "Pencil, dry lubricant, electrodes — graphite conductivity aur slipperiness"
+      ],
+      "worked_example": {
+        "problem": "Graphite electricity conduct karta hai lekin diamond generally nahi — structural reason do.",
+        "steps": [
+          "Graphite: har C teen carbons se bonded; bonding aisi ki mobile electrons / conducting behaviour possible in layers",
+          "Diamond: har C chaar carbons se rigidly bonded in 3D — electrons localized, no free movement for conduction",
+          "Conclude: structure difference → conductivity difference; chemical nature same element"
+        ],
+        "answer": "Graphite ki layered structure conduction allow karti hai; diamond ki rigid 3D four-bonded network mein free conducting electrons available nahi — isliye graphite conductor, diamond insulator jaisa behave karta hai."
+      },
+      "practice": {
+        "easy": ["Carbon ke teen allotropes ke naam likho."],
+        "medium": ["Diamond hardest aur graphite slippery kyun hai? Bonding arrangement se explain karo."],
+        "hard": ["C-60 ko buckminsterfullerene kyun kaha gaya? Structure aur naming ka connection likho, aur diamond/graphite se ek antar batao."]
+      },
+      "summary": "Diamond, graphite aur fullerene carbon ke allotropes hain — same element, alag bonding patterns se alag physical properties; graphite conducts electricity, diamond hardest, C-60 football-shaped.",
+      "revision_point": "Same C atoms; Diamond=4 bonds 3D hard; Graphite=3 bonds layers slippery+conductor; C-60 fullerene.",
+      "exam_tip": "Allotrope questions mein hamesha 'chemical properties similar, physical different' likho — yeh NCERT line marks late hai.",
+      "source_text_hint": "हीरे में कार्बन का प्रत्येक परमाणु कार्बन के चार अन्य परमाणुओं के साथ आबंधित होता है, जिससे एक दृढ़ त्रिआयामी संरचना बनती है"
+    },
+    {
+      "concept": "कार्बन की सर्वतोमुखी प्रकृति – शृंखलन और चतुःसंयोजकता",
+      "say": "Ab section 4.2 — कार्बन की सर्वतोमुखी प्रकृति. Chemists ne formula ke saath millions of carbon compounds count kiye hain — baaki saare elements ke compounds milakar bhi itne nahi. Kyun sirf carbon mein? Do factors. Pehla — catenation: carbon apne hi anya atoms ke saath bond karke lambi chains, branched chains, aur rings bana sakta hai; bonds single, double ya triple ho sakte hain. Sirf single bonds wale saturated, double/triple wale unsaturated kehlate hain. Itni extent tak catenation kisi aur element mein nahi. Silicon hydrogen ke saath 7–8 atoms tak chain bana sakta hai, lekin woh compounds bahut reactive hote hain. Carbon–carbon bond bahut strong aur stable hai, isliye lambi stable chains milti hain. Doosra — tetravalency: carbon ki valency 4, isliye char anya carbons ya monovalent atoms se bond. Oxygen, hydrogen, nitrogen, sulphur, chlorine wagairah ke saath compounds banate hain, aur extra element ke hisaab se special properties aati hain. Carbon ke bonds aksar bahut strong hote hain — ek reason uska chhota size bhi hai; shared electron pairs ko nucleus tightly pakadta hai. Bade atoms ke bonds relatively weaker. Organic compounds box: pehle log sochte the carbon compounds sirf living things mein 'vital force' se bante hain; 1828 mein Friedrich Wöhler ne ammonium cyanate se urea banaakar yeh galat prove kiya. Ab bhi carbides, carbonates, bicarbonates ke alawa carbon compounds organic chemistry ke under aate hain.",
+      "example": "Plastic bags, cooking gas, aur sugar — teen alag compounds, lekin sabmein carbon chains/framework hota hai — catenation + tetravalency ka result.",
+      "board_lines": [
+        "(i) Catenation: C–C chains / branches / rings; single/double/triple",
+        "(ii) Tetravalency: valency 4 → bonds with C, H, O, N, S, Cl...",
+        "Small size of C → strong bonds → stable compounds; millions of C compounds"
+      ],
+      "common_mistake": "Students catenation ko sirf 'lambi chain' samajhte hain — branches, rings, aur multiple bonds bhi catenation ke under aate hain.",
+      "memory_trick": "CATE-4: CATenation + tEtravalency (4) = carbon ki versatile power.",
+      "gesture_action": "Students ki human chain banao (straight chain), phir ek branch nikaalo, phir haath milaakar ring — catenation ke teen forms dikhao",
+      "real_life_examples": [
+        "LPG/CNG hydrocarbons — carbon-carbon chains of different lengths",
+        "Urea fertilizer — Wöhler ke experiment se juda famous organic compound"
+      ],
+      "worked_example": {
+        "problem": "Silicon bhi kuch chains bana sakta hai, phir carbon jaisi compound variety silicon mein kyun nahi dikhti?",
+        "steps": [
+          "Silicon–hydrogen chains generally 7–8 atoms tak limited",
+          "Yeh silicon compounds ati reactive / kam stable hote hain",
+          "Carbon–carbon bonds bahut strong aur stable → lambi stable chains + tetravalency → millions of compounds"
+        ],
+        "answer": "Silicon ki chains short aur reactive hoti hain; carbon–carbon bonds strong/stable hote hain aur carbon tetravalent bhi hai — isliye carbon mein compound variety bahut zyada hai."
+      },
+      "practice": {
+        "easy": ["Catenation ki definition ek line mein likho."],
+        "medium": ["Carbon ke compounds itne zyada kyun hain? Do kaaran (catenation + tetravalency) clearly likho."],
+        "hard": ["Friedrich Wöhler ke 1828 experiment ne 'vital force' theory ko kaise galat prove kiya? Organic chemistry ki present definition se jodkar answer likho."]
+      },
+      "summary": "Carbon ki versatile nature catenation (stable C–C chains/branches/rings) aur tetravalency (valency 4, strong bonds due to small size) se aati hai — isliye millions of carbon compounds possible hain.",
+      "revision_point": "Catenation + tetravalency (+ small size → strong bonds) = carbon ki सर्वतोमुखी प्रकृति.",
+      "exam_tip": "3-mark mein dono points alag-alag headings mein likho aur silicon comparison ek line add karo — high-scoring structure.",
+      "source_text_hint": "कार्बन में कार्बन के ही अन्य परमाणुओं के साथ आबंध बनाने की अद्वितीय क्षमता होती है, जिससे बड़ी संख्या में अणु बनते हैं। इस गुण को शृंखलन (catenation) कहते हैं"
+    },
+    {
+      "concept": "संतृप्त एवं असंतृप्त कार्बन यौगिक – एथेन, एथीन, एथाइन",
+      "say": "Ab saturated aur unsaturated compounds practically banate hain. Methane CH₄ dekh chuke. Agla: ethane, C₂H₆. Step method: pehle do carbons ko single bond se jodo — C–C. Har carbon ki teen valencies bachi — unhe teen-teen hydrogens se poora karo. Electron-dot mein har bond ek shared pair. Propane C₃H₈ bhi isi tarah — teen carbons chain, baaki valencies hydrogen se; sab single bonds. Aise compounds jahan valencies single bonds se satisfy hoti hain, saturated compounds kehlate hain — generally kam reactive. Ab ethene, C₂H₄. Step 1: C–C. Step 2: har carbon par kuch valencies unsatisfied dikhengi. Step 3: do carbons ke beech double bond lagaao, phir remaining valencies hydrogen se — structure milti hai. Ethyne, C₂H₂ — valency poori karne ke liye carbons ke beech triple bond chahiye. Jo carbon compounds carbons ke beech double ya triple bond rakhte hain, unhe unsaturated compounds kehte hain, aur yeh saturated se zyada reactive hote hain. Section 4.2.2 kehta hai aisi chains mein das-das carbons ho sakte hain — methane, ethane, propane se aage saturated hydrocarbons ki series Table 4.2 mein aati hai. Board rule: pehle carbon skeleton, phir multiple bond if needed, phir hydrogens. Exam mein structure steps dikhana extra clarity deta hai.",
+      "example": "Ripening fruits se related ethene (ethylene) gas unsaturated hai — usmein C=C double bond hota hai, isliye saturated ethane se zyada reactive nature dikhati hai.",
+      "board_lines": [
+        "Saturated: only C–C single bonds (e.g., C₂H₆ ethane, C₃H₈ propane) — less reactive",
+        "Unsaturated: C=C or C≡C (ethene C₂H₄, ethyne C₂H₂) — more reactive",
+        "Method: join C atoms → satisfy leftover valencies with H (add multiple bond if needed)"
+      ],
+      "common_mistake": "Students C₂H₄ ko bhi saare single bonds se draw kar dete hain — phir valency poori nahi hoti; double bond zaroori hai.",
+      "memory_trick": "SAT = Single And Tired (kam reactive); UN-SAT = Double/Triple aur Active (zyada reactive).",
+      "gesture_action": "Do students single handshake (ethane), dono haath se double hold (ethene), teen fingers interlock se triple (ethyne) — class mein bonds act out karo",
+      "real_life_examples": [
+        "Welding mein acetylene (ethyne) — highly reactive unsaturated fuel gas",
+        "Natural gas/biogas components mein saturated hydrocarbons jaise methane/ethane"
+      ],
+      "worked_example": {
+        "problem": "C₂H₄ ki structure step-by-step banao aur batao yeh saturated hai ya unsaturated.",
+        "steps": [
+          "Step 1: do carbon atoms ko pehle C–C se jodo",
+          "Step 2: har carbon ki remaining valency check karo — single bonds se sab H lagaane par formula match nahi / valency unsatisfied",
+          "Step 3: carbons ke beech double bond lagaakar baaki valencies 2H + 2H se poori karo → H₂C=CH₂; double bond → unsaturated"
+        ],
+        "answer": "Ethene structure H₂C=CH₂ (C=C double bond) hai; yeh unsaturated carbon compound hai aur saturated compounds se zyada reactive hota hai."
+      },
+      "practice": {
+        "easy": ["Ethane, ethene aur ethyne ke molecular formulae likho."],
+        "medium": ["Propane (C₃H₈) saturated kyun hai? Valency satisfaction se ek short explanation likho."],
+        "hard": ["C₂H₂ mein carbons ke beech kitne bonds zaroori hain? Electron sharing / valency se prove karke ethyne ko unsaturated prove karo."]
+      },
+      "summary": "Ethane/propane jaise compounds sirf single bonds se saturated aur kam reactive hote hain; ethene (double) aur ethyne (triple) unsaturated aur zyada reactive hote hain — structures step-wise banani chahiye.",
+      "revision_point": "Single only = saturated (C₂H₆); double = ethene C₂H₄; triple = ethyne C₂H₂ → more reactive.",
+      "exam_tip": "Structure questions mein teen steps dikhao (C–C, check valency, multiple bond/H) — stepwise answer zyada marks secure karta hai.",
+      "source_text_hint": "कार्बन परमाणुओं के बीच केवल एक आबंध से जुड़े कार्बन के यौगिक संतृप्त यौगिक कहलाते हैं। द्वि अथवा त्रि-आबंध वाले कार्बन के यौगिक असंतृप्त यौगिक कहलाते हैं"
+    }
+  ]
+}
