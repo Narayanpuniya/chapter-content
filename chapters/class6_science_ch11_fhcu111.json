@@ -1,0 +1,341 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 406,
+    "chapter_name": "प्रकृति के खजाने",
+    "chapter_number": 11,
+    "book_name": "Class 6 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 6 Science (Curiosity / जिज्ञासा) ke Chapter 11 — प्रकृति के खजाने — ko padhenge. Is chapter mein Bhoomi aur Surya apni Ajji ke Western Ghats wale gaon mein nature ki amulya sampadaon ko dekhte hain — shuddh hawa, upjaau mitti, dhoop, ped-paudhe, jal aur van. Hum seekhenge ki air mein oxygen kyun zaroori hai, air ka composition kya hai, wind se pinwheel aur windmill kaise chalte hain, soft water kahan milta hai, water kaise bachaya jaaye, aur Sun Earth par energy ka mukhya source kaise hai.",
+    "welcome": "Namaste bacchon! Aaj Smart Board par hum ek bahut sundar chapter shuru karenge — प्रकृति के खजाने. Socho, Bhoomi aur Surya apni Ajji ke ghar gaye hain, jahan pahadiyan, jharne, ped aur taazi hawa hai. Ajji kehti hain — yahan nature ke bahut se khazaane hain jo hamara jeevan samriddh banate hain. Chalo, un khazaano ko milkar samajhte hain — simple words mein, jaise class mein baat karte hain!",
+    "learning_outcomes": [
+      "Prakriti ki amulya sampadaon (hawa, mitti, dhoop, ped, jal) ko pehchanna aur unka jeevan mein mahatva batana",
+      "Shvaas, oxygen aur air ke composition (nitrogen 78%, oxygen 21%, anya 1%) ko samajhna; wind, pinwheel aur windmill ka connection jodna",
+      "Jal ke daily uses, salt water vs soft (fresh) water ke sources, waste rokne ke upay, water harvesting aur pollution ko explain karna",
+      "Sun ko Earth par energy ka mukhya source maan kar plants–animals–humans ke energy connection ko samajhna; van ki paribhasha yaad rakhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "प्रकृति की अमूल्य संपदा"
+      },
+      {
+        "number": 2,
+        "name": "वायु और ऑक्सीजन – साँस का रहस्य"
+      },
+      {
+        "number": 3,
+        "name": "वायु का संघटन, पवन और पवनचक्की"
+      },
+      {
+        "number": 4,
+        "name": "जल – उपयोग और स्रोत"
+      },
+      {
+        "number": 5,
+        "name": "जल संरक्षण, संचयन और प्रदूषण"
+      },
+      {
+        "number": 6,
+        "name": "सूर्य से ऊर्जा"
+      },
+      {
+        "number": 7,
+        "name": "वन – पौधों की सघन वृद्धि"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "प्रकृति की अमूल्य संपदा",
+      "say": "Bacchon, pehle story suno — bilkul kitab jaisi. Bhoomi aur Surya school ki chuttiyon mein apni Ajji ke ghar gaye. Ajji Western Ghats ke jungle ke kinare ek gaon mein rehti hain. Wahan ki hawa shehar se zyada taazi aur thandi hai. Aas-paas sundar pahadiyan, jharne, aur kai interesting plants, animals aur birds dikhte hain. Ek dopahar Bhoomi aur Surya Ajji se us jagah ke baare mein aur jaanne ke liye kehte hain. Ajji muskurake bolti hain — Bacchon, kya tum jaante ho ki is jagah nature ki anek sampadaayein hain jo hamara jeevan samriddh banati hain? Yahan ki hawa shuddh, taazi aur sphurtidayak hai. Yahan ki mitti itni upjaau hai ki kai prakar ke jeev-jantuon ko jeevan deti hai. Achhi dhoop bhi aati hai jo kai tarah se upyogi hai. Vibhinn vriksh birds, keet-patangon aur kai jantuon ko bhojan aur aashray dete hain. Ajji poochhti hain — kya tum nature ki aisi kuch aur sampadaon ke baare mein soch sakte ho? Bhoomi kehti hai — hum jal ka upyog peene aur saag-bhaji ugane ke liye karte hain. Ajji kehti hain — Haan, humein in sampadaon ki zaroorat survival aur jeevan ko aasaan banane ke liye hoti hai. Nature ki in sampadaon ke bina Earth par kisi bhi prakar ka jeevan sambhav nahi hai. Hum sab isi nature ka ek hissa hain. Toh pehla lesson — air, soil, sunlight, trees aur water प्रकृति के खजाने hain, aur hum inka hissa hain, malik nahi.",
+      "example": "Gaon ki taazi hawa, upjaau mitti mein ugti sabziyan, aur pedon par chiriyon ka ghosla — teen alag nature ke khazaane ek saath.",
+      "board_lines": [
+        "प्रकृति की संपदाएँ = हवा, मृदा, धूप, वृक्ष, जल",
+        "इनके बिना पृथ्वी पर जीवन संभव नहीं",
+        "हम प्रकृति का ही एक भाग हैं"
+      ],
+      "common_mistake": "Bacche sochte hain nature ke khazaane sirf sona-chandi jaise cheezein hain — actually clean air, fertile soil, sunlight, trees aur water hi asli amulya sampada hain.",
+      "memory_trick": "H-M-D-P-J: हवा – मृदा – धूप – पेड़ – जल — nature ke paanch bade khazaane.",
+      "gesture_action": "Haath se aas-paas hawa, mitti (neeche), sooraj (upar), ped (khada) aur pani (peene ka gesture) dikhao",
+      "real_life_examples": [
+        "School ke bagiche ki mitti mein phool ugna — upjaau mitti ka upyog",
+        "Subah park mein taazi hawa mein saans lena — shuddh air ka fayda"
+      ],
+      "worked_example": {
+        "problem": "Ajji kehte hain nature ki sampadaon ke bina Earth par jeevan sambhav nahi. Teen sampadaon ke naam likho aur ek-ek line mein unka fayda batao.",
+        "steps": [
+          "Story se teen sampadaayein choose karo: hawa, mitti/jal, dhoop ya ped",
+          "Har ek ka short fayda likho — jaise hawa saans ke liye, jal peene/ugane ke liye, dhoop energy/garami ke liye",
+          "Conclude: yeh sab survival aur comfortable life ke liye zaroori hain"
+        ],
+        "answer": "Hawa — saans aur health; Jal — peena aur fasal; Dhoop/Ped — garami-prakash aur aashray-bhojan. Inke bina jeevan mushkil/asambhav."
+      },
+      "practice": {
+        "easy": [
+          "Prakriti ki teen amulya sampadaon ke naam likho."
+        ],
+        "medium": [
+          "Bhoomi ne jal ke kaun-kaun se do upyog bataye? Ajji ne unhe kyun zaroori kaha?"
+        ],
+        "hard": [
+          "'Hum sab isi prakriti ka ek hissa hain' — is vakya ka arth apne gaon/school ke ek example se explain karo."
+        ]
+      },
+      "summary": "Western Ghats wale gaon ki story se hum seekhte hain ki shuddh hawa, upjaau mitti, dhoop, ped aur jal nature ke amulya khazaane hain — inke bina jeevan sambhav nahi.",
+      "revision_point": "Nature ke khazaane = air + soil + sunlight + trees + water; hum nature ka hissa hain.",
+      "exam_tip": "Opening story se examples (Western Ghats, taazi hawa, upjaau mitti) likhne se answer zyada marks laata hai.",
+      "source_text_hint": "बच्चों, क्या आप जानते हैं कि इस जगह प्रकृति की अनेक संपदाएँ हैं, जो हमारे जीवन को समृद्ध बनाती हैं?"
+    },
+    {
+      "concept": "वायु और ऑक्सीजन – साँस का रहस्य",
+      "say": "Ab Ajji air ka mahatva samjhaati hain. Ek subah Bhoomi aur Surya Ajji ko shvaas-sambandhi vyayam karte dekhte hain. Ajji unhe bhi bulati hain aur kehti hain — Main gehri saans le rahi hoon aur baahar chhod rahi hoon. Yeh kriya lungs mein shuddh hawa lene mein madad karti hai aur humein swasth rakhti hai. Chalo, Activity 11.1 jaisa hum bhi try karte hain — pehle ek gehri saans lo aur dheere chhodo; phir aur gehri saans lo; jitna sambhav ho saans rokkar rakho, phir dheere chhodo. Lekin caution yaad rakho — itni der mat rokna ki discomfort ho. Is activity se pata chalta hai ki saans ko lambe time tak rokna mushkil hai. Kyun? Kyunki jo air hum andar lete hain usmein oxygen hoti hai. Hamare shareer ko kaam karne ke liye oxygen chahiye. Jab hum der tak saans rokte hain, shareer ko kaafi oxygen nahi milti. Isliye jeene ke liye humein kaafi oxygen chahiye. Anya jeevon ko bhi jeene ke liye oxygen ki zaroorat hoti hai. Ek aur strong baat kitab kehti hai — hum bhojan ya jal ke bina kuch din jee sakte hain, lekin oxygen ke bina kuch pal bhi nahi. Toh air sirf 'hawa' nahi — yeh jeevan ki pehli zaroorat hai. Jab bhi tum gehri saans lo, socho — lungs shuddh air le rahe hain, oxygen aa rahi hai, shareer kaam kar raha hai.",
+      "example": "Daudne ke baad muh kholkar saans lena — shareer ko jaldi zyada oxygen chahiye hoti hai.",
+      "board_lines": [
+        "श्वास द्वारा ली गई वायु में ऑक्सीजन होती है",
+        "शरीर को काम करने के लिए O₂ आवश्यक",
+        "भोजन/जल के बिना कुछ दिन; O₂ के बिना कुछ क्षण भी नहीं"
+      ],
+      "common_mistake": "Bacche sochte hain sirf humans ko oxygen chahiye — actually anya jeevon ko bhi jeene ke liye oxygen zaroori hai.",
+      "memory_trick": "O₂ = Immediate Life: Food/water delay chal sakta hai, oxygen wait nahi karti.",
+      "gesture_action": "Poori class ke saath 3 gehri saans (inhale–hold short–exhale) karo, phir poocho — rukne par kaisa laga?",
+      "real_life_examples": [
+        "Yoga/pranayam mein gehri saans — lungs ko shuddh air milti hai",
+        "Pahadon par thakaan jaldi — oxygen thodi kam milne ka asar"
+      ],
+      "worked_example": {
+        "problem": "Activity 11.1 mein saans lambe time tak kyun nahi ruk sakti? Short scientific reason likho.",
+        "steps": [
+          "Recall: inhaled air mein oxygen hoti hai",
+          "Body ko kaam karne ke liye continuous oxygen chahiye",
+          "Saans rokne par sufficient oxygen nahi milti, isliye uncomfortable/mushkil hota hai"
+        ],
+        "answer": "Kyunki shvaas se mili oxygen shareer ke kaam ke liye zaroori hai; der tak rokne par kaafi oxygen nahi milti, isliye saans rokna mushkil hota hai."
+      },
+      "practice": {
+        "easy": [
+          "Shvaas dwara andar li gayi air mein kaunsi gas hoti hai jo jeene ke liye zaroori hai?"
+        ],
+        "medium": [
+          "Ajji shvaas-vyayam kyun karti hain? Do fayde likho."
+        ],
+        "hard": [
+          "'Hum bhojan ke bina kuch din jee sakte hain, lekin oxygen ke bina kuch kshan bhi nahi' — is statement ko justify karo."
+        ]
+      },
+      "summary": "Gehri saans se pata chalta hai ki air mein oxygen hai; shareer aur anya jeevon ko jeene ke liye continuous oxygen chahiye — iske bina kuch pal bhi jeevan mushkil hai.",
+      "revision_point": "Inhaled air → oxygen → body works; no O₂ even for a few moments.",
+      "exam_tip": "Activity 11.1 + caution line dono yaad rakho — reason-based sawalon mein kaam aate hain.",
+      "source_text_hint": "श्वास द्वारा भीतर ली गई वायु में ऑकसीजन होती है।"
+    },
+    {
+      "concept": "वायु का संघटन, पवन और पवनचक्की",
+      "say": "Ab thoda aur deep jaate hain. Tumne pedon ki pattiyon ki sarsarahat, rassi par latke kapdon ka hilna, pankha chalana, ya khuli kitab ke panne — in sab se air ki maujoodgi mehsoos ki hogi. Jo air chalti hai, use पवन (wind) kehte hain. Kabhi yeh bahut tez hoti hai — jaise aandhi — aur kabhi dheemi, jaise बयार (gentle breeze). Activity 11.2 mein hum paper ki phirki banate hain — 15 cm × 15 cm square paper, scissors, all-pin aur soft stick. Jab tum phirki pakadkar daudte ho ya phoonkte ho, woh ghoomti hai. Kaun ghuma raha hai? Wind! Windmill aur phirki ki working almost same hai — wind unke pankhon ko ghumaati hai. Windmill se aata peesna, kuen se pani khinchna, ya electricity banana ho sakta hai. Windmill farm woh area hai jahan kai windmills wind-energy se bijli banate hain — jaise Tamil Nadu ka Muppandal, Rajasthan Jaisalmer ka windmill park, aur Maharashtra ka Brahmawel. Ab composition: Earth ke chaaron taraf air kai gases ka mixture hai — nitrogen, oxygen, argon, carbon dioxide aur bahut kam anya gases. Figure 11.1 jaisa socho — 100 squares: 78 nitrogen, 21 oxygen, aur 1 anya gases (argon, CO₂ etc.). Percent matlab har 100 mein se kitne hisse — isse % se dikhate hain. Yaad rakho numbers: 78%, 21%, 1%.",
+      "example": "Paper ki phirki ko daudte hue ghumana — seedha proof ki moving air (wind) kaam kar sakti hai.",
+      "board_lines": [
+        "वायु = गैसों का मिश्रण: N₂ 78%, O₂ 21%, अन्य 1%",
+        "चलती वायु = पवन (तेज = आँधी; मंद = बयार)",
+        "पवनचक्की → आटा / पानी खींचना / विद्युत; windmill farm"
+      ],
+      "common_mistake": "Bacche air ko sirf oxygen maante hain — actually sabse zyada hissa nitrogen (78%) hai, oxygen 21% hai.",
+      "memory_trick": "N-O-A: Ninety? No — Nitrogen Seventy-eight, Oxygen twenty-one, Anya one. Yaad: 78-21-1.",
+      "gesture_action": "Ek haath se phirki ghumao, doosre haath se board par 78 / 21 / 1 likho",
+      "real_life_examples": [
+        "Kapde sukhate waqt hawa se hilna — wind ki maujoodgi",
+        "Jaisalmer ya coastal areas ke windmill farms — bijli ke liye wind energy"
+      ],
+      "worked_example": {
+        "problem": "Agar air ko 100 equal parts mein baantein, toh nitrogen, oxygen aur anya gases ke kitne-kitne parts honge?",
+        "steps": [
+          "NCERT figure yaad karo: 100 squares = 100%",
+          "Nitrogen = 78 squares, Oxygen = 21 squares",
+          "Anya gases (argon, CO₂ etc.) = 1 square"
+        ],
+        "answer": "Nitrogen 78 parts, Oxygen 21 parts, anya gases 1 part."
+      },
+      "practice": {
+        "easy": [
+          "Chalti hui air ko kya kehte hain? Mand wind ka Hindi naam likho."
+        ],
+        "medium": [
+          "Phirki aur windmill mein similarity kya hai? Windmill ke teen upyog likho."
+        ],
+        "hard": [
+          "Air ke composition ko percent mein likho aur batao ki 'percent' ka kya arth hai. Bharat ke do windmill farms ke naam bhi do."
+        ]
+      },
+      "summary": "Air gases ka mixture hai (N₂ 78%, O₂ 21%, anya 1%); moving air wind hai jo phirki aur windmill chalati hai — windmills se bijli bhi milti hai.",
+      "revision_point": "78-21-1 composition; wind moves pinwheel/windmill; famous farms: Muppandal, Jaisalmer, Brahmawel.",
+      "exam_tip": "Composition ke percentages bilkul sahi likho (78, 21, 1) — 1-mark sawal aksar yahin se aata hai.",
+      "source_text_hint": "वायु में नाइट्ोजन, ऑकसीजन, आर्गन, कार्बन डाइ‌ऑक्साइड और सूक्ष्म मात्रा में अन्य गैसें उपस्थित होती हैं।"
+    },
+    {
+      "concept": "जल – उपयोग और स्रोत",
+      "say": "Air ke baad Ajji jal ki taraf le jaati hain — kyunki jal bhi atyadhik zaroori aur amulya hai. Socho, pyaas lage aur peene ko pani na mile — kaisa lagega? Bhoomi aur Surya Ajji ki madad karte hain — gayon ke liye naand mein pani bharna, bagiche mein saag-bhaji aur aushadhiye paudhon ko pani dena. Ajji sikhati hain ki paudhon ko aise pani do ki har boond kaam aaye, ek bhi boond waste na ho. Daily life mein jal ke kai upyog hain — peena, khana banana, nahana, kapde dhona, safai. Fasalen ugane aur industrial kaamon ke liye bhi jal chahiye. Ab sources: Earth ki surface ka lagbhag do-tihai hissa jal se ghira hai. Zyadatar jal oceans aur samudron mein hai, lekin woh namkeen (laveen/salt) hota hai — isliye ghar, kheti aur industry ke liye suitable nahi. In sab ke liye humein मृदु जल yani soft/fresh water (lavan-rahit) chahiye. Yeh ice sheets/hima, nadiyon, jheelon mein aur surface ke neeche भू-जल ke roop mein milta hai. Ice sheets, snow ya groundwater se soft water nikalna mushkil hota hai. Thodi matra mein soft water talaabon, nadiyon, jheelon aur kuon se asani se mil sakta hai. Isliye Ajji unhe jal ka vivek-purna upyog sikha rahi hain — kyunki soft water limited hai, samundar ka pani seedha use nahi ho sakta.",
+      "example": "Samundar ka pani bahut hai, phir bhi pyaas mein woh peene layak nahi — humein soft water chahiye jo nadi, kuen ya jheel se aata hai.",
+      "board_lines": [
+        "उपयोग: पीना, खाना, नहाना, कपड़े, सफाई, खेती, उद्योग",
+        "≈ 2/3 पृथ्वी जल; अधिकतर समुद्री = लवणीय",
+        "मृदु जल = नदियाँ/झीलें/तालाब/कुएँ + हिम + भू-जल"
+      ],
+      "common_mistake": "Bacche sochte hain Earth par itna pani hai toh shortage nahi ho sakti — actually usable soft water bahut limited hai; ocean water salty hai.",
+      "memory_trick": "SALT can't serve home-farm-factory; SOFT water can — Soft = nadi, jheel, kuen, groundwater.",
+      "gesture_action": "Ek glass 'samundar' (peene se mana) aur ek glass 'kuen ka pani' (peene layak) dikhakar contrast clear karo",
+      "real_life_examples": [
+        "Ghar ka handpump ya nalka — aksar groundwater/soft water",
+        "Kheti mein fasal ko pani dena — agriculture use of water"
+      ],
+      "worked_example": {
+        "problem": "Ocean water domestic, agricultural aur industrial use ke liye kyun suitable nahi? Humein kis prakar ka jal chahiye aur woh kahan milta hai?",
+        "steps": [
+          "Ocean water laveen/namkeen hota hai",
+          "Home, farm, industry ke liye soft (fresh) water chahiye",
+          "Soft water ice/hima, nadi, jheel aur groundwater mein milta hai; asani se talaab/nadi/jheel/kuen se"
+        ],
+        "answer": "Kyunki ocean water salty hai. Humein soft water chahiye jo nadi, jheel, talaab, kuen, ice/hima aur groundwater se milta hai."
+      },
+      "practice": {
+        "easy": [
+          "Daily life ke chaar kaamon ke naam likho jinke liye jal chahiye."
+        ],
+        "medium": [
+          "Laveen jal aur mridu jal mein antar batao. Mridu jal ke teen sources likho."
+        ],
+        "hard": [
+          "'Prithvi ka do-tihai hissa jal se ghira hai, phir bhi jal amulya hai' — is virodhabhas ko soft water ke logic se samjhao."
+        ]
+      },
+      "summary": "Jal peene se lekar kheti-udyog tak zaroori hai; Earth par zyada jal salty oceans mein hai, isliye limited soft water (nadi, jheel, kuen, groundwater) ka vivek-purna upyog karna chahiye.",
+      "revision_point": "Most water = salty oceans; usable = soft water from rivers/lakes/wells/groundwater/ice.",
+      "exam_tip": "Difference table banao: लवणीय जल vs मृदु जल — sources + uses — 3-mark ke liye perfect.",
+      "source_text_hint": "इन सभी गतिविधियों के लिए हमें मृदु (लवण-र‍हित या अलवणीय) जल की आवश्यकता होती है"
+    },
+    {
+      "concept": "जल संरक्षण, संचयन और प्रदूषण",
+      "say": "Ab important part — jal waste mat karo, bachao, aur ganda mat karo. Activity 11.3 mein Table 11.1 jaise socho: haath dhona, kapde dhona, bartan, nahana, khana pakana, bagwani, daant saaf karna — kis activity mein jal waste ho raha hai aur kaise rokhein? Kai methods hain — use na ho toh nal band karo, leakage theek karwao. Jal ka recycling aur water harvesting bhi bachane mein madad karte hain. Humara desh nadiyon, jharnon aur jheelon se samriddh hai, lekin log plastic bags aur wrappers paani par tairte chhod dete hain. Gharon aur udyogon ke waste jab water sources se milte hain toh jal pradooshit hota hai. Pradooshit jal sajeewon ke upyog ke liye theek nahi. Soft water limited hone se Bharat ke kai hisso mein kami hai; kuch jagah logon ko peene ka pani laane door chalna padta hai. Sabke paas barabar availability nahi, isliye conservation aur vivek-purna upyog zaroori hai. Water harvesting ek method hai — kai buildings mein barish ka jal baad ke liye collect karke store kiya jaata hai — इसे वर्षा जल संचयन kehte hain. Bharat mein yeh parampara sadiyon se hai. Rajasthan aur Gujarat mein baavdi aur vaav banaye gaye — unmein barish ka jal aur aas-paas jheel-talaab-nadi se rise hua jal bhi collect hota hai. Har saal 22 March ko World Water Day manaya jaata hai. Toh rule simple: Save, Harvest, Don't Pollute.",
+      "example": "Daant brush karte waqt nal khula chhodna — chhoti aadat se bahut pani waste hota hai; mug use karo toh bachta hai.",
+      "board_lines": [
+        "बचाओ: नल बंद / रिसाव ठीक / पुनः चक्रण / संचयन",
+        "वर्षा जल संचयन; बावड़ी–वाव (राजस्थान, गुजरात)",
+        "प्रदूषण: प्लास्टिक, घर–उद्योग अपशिष्ट → जल अनुपयुक्त"
+      ],
+      "common_mistake": "Bacche sochte hain sirf factory se hi water pollution hota hai — ghar ka kachra, plastic bags aur wrappers bhi soft water sources ko ganda karte hain.",
+      "memory_trick": "3S of Water: Shut the tap, Store the rain, Stop the waste/pollution.",
+      "gesture_action": "Nal band karne ka gesture, phir haath se 'barish ka pani tank mein' dikhao, phir plastic phenkne ka 'NO' signal",
+      "real_life_examples": [
+        "School building ke roof se barish ka pani tank mein — rainwater harvesting",
+        "Jodhpur ki Toorji ka Jhalra (baavdi) — traditional water storage"
+      ],
+      "worked_example": {
+        "problem": "Table socho: 'daant saaf karna' mein jal kaise waste hota hai aur ek upay likho. Saath hi rainwater harvesting ek line mein define karo.",
+        "steps": [
+          "Waste: brush karte waqt continuous running tap se pani bekaar jaata hai",
+          "Upay: mug/glass mein pani le kar brush karo; nal band rakho",
+          "Definition: buildings mein barish ka jal baad ke use ke liye collect/store karna = वर्षा जल संचयन"
+        ],
+        "answer": "Running tap se waste; mug use karke bachayein. Rainwater harvesting = barish ke jal ko later use ke liye ektra/sangrahit karna."
+      },
+      "practice": {
+        "easy": [
+          "World Water Day kab manaya jaata hai?"
+        ],
+        "medium": [
+          "Jal bachane ke chaar upay likho. Pradooshit jal sajeewon ke liye kyun theek nahi?"
+        ],
+        "hard": [
+          "Baavdi/vaav traditional harvesting kaise kaam karti hai? Rajasthan/Gujarat ke context mein 4-5 lines mein explain karo."
+        ]
+      },
+      "summary": "Daily activities mein jal waste rokna, rainwater harvesting (baavdi/vaav parampara) aur pollution se sources bachana — yahi jal sanrakshan hai, kyunki soft water limited hai.",
+      "revision_point": "Shut tap + fix leaks + recycle + harvest rain; don't dump plastic/waste; 22 March = World Water Day.",
+      "exam_tip": "Conservation methods aur baavdi example alag-alag likho — examiners traditional + modern dono methods dekhna chahte hain.",
+      "source_text_hint": "बहुत से भवनों में वर्षाा के जल को बाद में उपयोग करने के लिए बड़ीी मात्रा में एकत्रित एवं संग्रहित किया जाता है। इसे वर्षा जल संचययन कहा जाता है"
+    },
+    {
+      "concept": "सूर्य से ऊर्जा",
+      "say": "Ab Surya ki baari! Humne pehle seekha tha ki Suraj jal ke evaporation mein important role nibhata hai. Bhoomi aur Surya dopahar ki kadi dhoop mein Ajji ko mirch sukhane mein madad kar rahe hain. Ajji kehti hain — hum inhe sukhane ke liye Suraj ki garami use karte hain; jab taazi mirch na ho toh sookhi mirch kaam aati hai. Earth par energy ka mukhya source Suraj hai; saare plants aur animals isi par depend hain. Hum Suraj ki heat aur light kai kaamon mein use karte hain — plants dwara food banana, kapde sukhana. Rooftops, poles aur traffic signals par solar panels dikhe honge — yeh solar energy collect karke bijli banate hain. Solar cooker mein khana aur solar water heater mein pani garam kiya ja sakta hai. Ab smart conversation: ek kehta hai gay ghaas se energy leti hai; doosra kehta hai energy Suraj se hai; teesra kehta hai sirf dhoop mein khadi hone se energy nahi milti. Sahi baat — gay ghaas khati hai, lekin ghaas ko badhne ke liye sunlight chahiye; isliye mukhya source Suraj hi hai. Bin Suraj jeevan mushkil: plants Suraj se food banate hain, animals plants khate hain, hum dono se food lete hain — yeh cycle Suraj se possible hai. Kai parivaron mein subah Suraj ko jal arpit karke kritagyata dikhate hain. Agar Suraj kuch din na dikhe, toh din mein bhi artificial light chahiye padsakti hai aur plants ka food banana prabhavit hoga.",
+      "example": "Ghar ki chat par mirch ya aam ke tukde dhoop mein sukhana — seedha solar heat ka gharailu upyog.",
+      "board_lines": [
+        "सूर्य = पृथ्वी पर ऊर्जा का मुख्य स्रोत",
+        "पौधे भोजन बनाते हैं → जंतु/हम निर्भर",
+        "सौर पैनल / कुकर / जल ऊष्मक = सौर-ऊर्जा उपयोग"
+      ],
+      "common_mistake": "Bacche sochte hain animal ko energy seedha tab milti hai jab woh dhoop mein khada ho — actually animals plants (ya plant-eating animals) se energy lete hain, aur plants ki energy Suraj se aati hai.",
+      "memory_trick": "SUN → Plant food → Animal → Us: Suraj se shuru, hum tak energy pahunchti hai.",
+      "gesture_action": "Board par teer banao: सूर्य → घास → गाय → मनुष्य; saath hi solar panel ka square gesture",
+      "real_life_examples": [
+        "Traffic signal ya street light par solar panel — bijli ke liye sunlight",
+        "Dadi ka achar-masala dhoop mein sukhana — solar heat for drying"
+      ],
+      "worked_example": {
+        "problem": "Gay ghaas kha rahi hai. Kya uski energy ka mukhya source Suraj hai? Reason ke saath jawab do.",
+        "steps": [
+          "Gay energy ghaas se leti hai",
+          "Ghaas/plants ko badhne aur food banane ke liye sunlight chahiye",
+          "Isliye chain ka mukhya source Suraj hai — sirf dhoop mein khade hone se direct nahi"
+        ],
+        "answer": "Haan, mukhya source Suraj hai kyunki ghaas sunlight se badhti/food banati hai; gay us ghaas se energy leti hai."
+      },
+      "practice": {
+        "easy": [
+          "Earth par energy ka mukhya source kaunsa hai? Solar panel kya karta hai?"
+        ],
+        "medium": [
+          "Suraj ki heat aur light ke teen daily-life upyog likho."
+        ],
+        "hard": [
+          "Agar Suraj kuch din na dikhe toh kya-kya ho sakta hai? Kam se kam teen prabhav sochkar likho."
+        ]
+      },
+      "summary": "Suraj Earth par energy ka mukhya source hai — plants usse food banate hain, animals aur hum usi chain par depend karte hain; solar panels, cookers aur heaters us energy ko kaam mein late hain.",
+      "revision_point": "Sun → plants → animals → humans; also solar devices (panel, cooker, water heater).",
+      "exam_tip": "Gay-ghaas wala reasoning question bahut common hai — hamesha 'indirectly from Sun via plants' likho.",
+      "source_text_hint": "क्या आप जानते हैं कि पृथ्वीी पर ऊर्जाा का मुख्य स्ोत सूर्य है? सभी पौधे और जंतु इस पर निर्भर हैं।"
+    },
+    {
+      "concept": "वन – पौधों की सघन वृद्धि",
+      "say": "Chapter ab forests ki taraf khulta hai — story jaari hai. Ek subah Ajji Bhoomi aur Surya ko jungle mein sair ke liye le jaati hain. Wahan unhe vibhinn prakar ke plants, jhaadiyan aur vriksh milte hain. Ajji clearly batati hain — वन vibhinn prakar ke paudhon ki saghan (dense) vriddhi wale bade kshetra hote hain. Matlab chhota bagicha forest nahi; jahan kai tarah ke ped-paudhe ghane hokar bade area mein ugte hain, wahi van. Raaste mein ve zameen par gire kuch nellikai (Kannada mein amla) bhi ikattha karte hain — yeh dikhata hai ki forest se humein useful cheezein bhi milti hain. Pehle concepts se jodo: forests nature ke khazaane ka bada hissa hain — yahan hawa shuddh rehti hai, kai animals-birds ko aashray milta hai, mitti surakshit rehti hai, aur ped sunlight se food banaate hain. Jab hum pehle padhe the ki vriksh birds, keeton aur anya jantuon ko bhojan aur aashray dete hain — wahi idea forest mein bade scale par dikhta hai. Isliye van sirf 'pedon ka jhund' nahi, balki jeevan ka bada ghar hai. Class ke liye short definition bilkul yaad rakho: Forest = large area with dense growth of many kinds of plants. Aage chapter mein forest ke aur fayde detail mein aayenge, lekin aaj ka pehla kadam yeh definition aur story ka scene clear hona chahiye.",
+      "example": "School ka chhota bagicha alag hai; jahaan pahadon mein ghaney ped, jhaadiyan aur kai prakar ke paudhe milein — wahi van jaisa kshetra.",
+      "board_lines": [
+        "वन = विभिन्न पौधों की सघन वृद्धि वाले बड़े क्षेत्र",
+        "वृक्ष → भोजन + आश्रय (पक्षी, कीट, अन्य जंतु)",
+        "वन = प्रकृति का बड़ा खजाना / जीवन का घर"
+      ],
+      "common_mistake": "Bacche har pedon wale chhote area ko forest bol dete hain — NCERT kehta hai forest bade area mein dense, vibhinn prakar ke plants ki vriddhi hai.",
+      "memory_trick": "VAN = Various plants, Area large, Numerous (dense) growth — definition ke teen words.",
+      "gesture_action": "Haathon se chhota circle (bagicha) vs bada open arm-span (van) dikhao — size aur density ka fark",
+      "real_life_examples": [
+        "Western Ghats ke kinare gaon ke paas jungle — chapter ki Ajji wali setting",
+        "Picnic mein reserve forest mein kai ped, birds aur shade ek saath"
+      ],
+      "worked_example": {
+        "problem": "Ajji ne van ki kya paribhasha di? Ek example se dikhao ki chhota ghar ka bagicha van kyun nahi kahlaata.",
+        "steps": [
+          "Definition likho: vibhinn paudhon ki saghan vriddhi wale bade kshetra",
+          "Ghar ka bagicha chhota hota hai aur aksar limited plants",
+          "Isliye dense + large area wala criterion poora nahi hota"
+        ],
+        "answer": "Van = vibhinn paudhon ki dense growth wale bade area. Ghar ka bagicha chhota/limited hota hai, isliye van nahi."
+      },
+      "practice": {
+        "easy": [
+          "Van ki paribhasha ek line mein likho."
+        ],
+        "medium": [
+          "Jungle ki sair mein Bhoomi-Surya ko kaun-kaun se paudhe dikhe? Van nature ki sampada kyun hai — do reasons."
+        ],
+        "hard": [
+          "Is chapter ke pehle hisse (hawa, jal, suraj) ko van se jodkar batao ki forest in khazaano se kaise juda hai."
+        ]
+      },
+      "summary": "Van vibhinn prakar ke paudhon ki dense growth wale bade kshetra hote hain — yahan ped jeevon ko bhojan-aashray dete hain aur yahi nature ke bade khazaane ka hissa hai.",
+      "revision_point": "Forest = large area + dense growth + many kinds of plants.",
+      "exam_tip": "Definition mein teen words zaroor aaenge: विभिन्न, सघन वृद्धि, बड़े क्षेत्र — inme se koi mat chhodo.",
+      "source_text_hint": "वन विभिनन प्रकार के पौधों की सघन वृद्धि वाले बड़ेे क्षेत्र होते हैं।"
+    }
+  ]
+}
