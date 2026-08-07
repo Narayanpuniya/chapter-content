@@ -1,0 +1,341 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 407,
+    "chapter_name": "पृथ्वी से परे",
+    "chapter_number": 12,
+    "book_name": "Class 6 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 6 Science (Curiosity / जिज्ञासा) ke Chapter 12 — पृथ्वी से परे — ko padhenge. Is chapter mein hum Yangdol aur Dorje ki Nubra (Ladakh) wali kahani se shuru karke raatri-aakaash ke taare, taara-mandal (constellations), saptarishi, Dhruva tara, light pollution aur night-sky observation seekhenge. Phir hum apne solar family — Suraj aur aath grahon — ke baare mein samjhenge, bilkul NCERT ke story-style flow mein.",
+    "welcome": "Namaste bacchon! Aaj hum Smart Board par ek bahut sundar chapter shuru karenge — पृथ्वी से परे. Socho, ek baar aisi raat jab aakaash bilkul saaf ho, aur upar lakhon taare chamak rahe hon — bilkul jaise Nubra, Ladakh mein Yangdol aur uske twin brother Dorje dekhte hain. Aaj hum unhi taaron, taara-mandalon aur apne Suraj-pariwar ki journey par chalenge. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "Raatri-aakaash mein taaron ke patterns banakar unki pehchaan karna aur samajhna ki alag-alag log alag patterns/kahaniyan soch sakte hain",
+      "Taare aur taara-mandal (constellation) ka matlab batana; Orion, Canis Major, Lubdhak (Sirius) aur nakshatra names jaise Aardra, Rohini, Krittika ko pehchanna",
+      "Saptarishi (Big Dipper), Little Dipper aur Dhruva tara (Pole Star) se uttar disha ka pata lagana",
+      "Prakash-pradushan samajhkar night-sky observation ki taiyari karna; Suraj, AU, aur solar family ke aath grahon (Budh se Varun) ko kram se yaad rakhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "नुब्रा की कहानी और तारों के पैटर्न"
+      },
+      {
+        "number": 2,
+        "name": "तारे और तारा-मंडल"
+      },
+      {
+        "number": 3,
+        "name": "सप्तर्षि, लिटिल डिपर और ध्रुव तारा"
+      },
+      {
+        "number": 4,
+        "name": "रात्रि-आकाश का अवलोकन और प्रकाश प्रदूषण"
+      },
+      {
+        "number": 5,
+        "name": "सप्तर्षि, ध्रुव तारा और ओरायन की पहचान"
+      },
+      {
+        "number": 6,
+        "name": "सूर्य – हमारा निकटतम तारा"
+      },
+      {
+        "number": 7,
+        "name": "ग्रह और हमारा सौर परिवार"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "नुब्रा की कहानी और तारों के पैटर्न",
+      "say": "Bacchon, pehle ek sundar kahani suno — bilkul NCERT kitab ki tarah. Nubra, Ladakh ka ek bahut ramanlya kshetra hai. Wahan ek gaon mein gyarah saal ki balika Yangdol aur uska twin brother Dorje rehte hain. Unhe apne aas-paas ke gagan-chumbi parvat-shikhar aur himnadiyan bahut pyari hain, lekin sabse zyada pyara unhe raatri-aakaash lagta hai — jahaan taare jhilmilaate hain. Nubra mein mausam aksar badal-rahit rehta hai. Wahan air pollution aur light pollution almost nahi ke barabar hote, isliye raat ko aakaash bahut spasht dikhta hai. Yangdol aur Dorje kai raaton tak taaron ka avalokan karte hain aur asema vismay mehsoos karte hain. Bachpan se unhone parivaar se taaron ki dilchasp kahaniyan suni hain — prachin kaal mein saaf aakaash ke kuch vishesh taare Nubra se guzarne wale karvaan ke liye disha-soochak ka kaam karte the. Dono sochte hain — taare kitne bade hain, kitni door hain? Unhe taaron ke beech aise patterns dhoondhne mein anand aata hai jo kisi familiar vastu ki yaad dilate hain. Kya tumne kabhi raatri-aakaash mein taaron ko kalpanik lineon se jodkar picture banane ki koshish ki hai — jaise dots join karke drawing banate hain? Activity 12.1 kehti hai: chamakte taaron ko dekho, lines se jodo, jo jantu ya vastu dikhe uska naam likho, phir dost ke pattern se compare karo. Maza yeh hai ki tumhara pattern aur kahani alag ho sakti hai — aur yahi interesting baat hai! Pehla lesson: taare sirf points nahi — stories aur aakaash ke maps bhi hain.",
+      "example": "School ke blackboard par chalk ke dots banao aur lines se jodo — koi bachcha sher dekhega, koi nauka; bilkul jaise Yangdol-Dorje taaron mein patterns dekhte hain.",
+      "board_lines": [
+        "नुब्रा (लद्दाख) — कम प्रकाश-प्रदूषण → साफ रात्रि-आकाश",
+        "तारों को काल्पनिक रेखाओं से जोड़ो → पैटर्न / कहानी",
+        "Activity 12.1: अलग बच्चों के पैटर्न अलग हो सकते हैं — यह रोचक है!"
+      ],
+      "common_mistake": "Students sochte hain ki aakaash mein sirf ek hi sahi pattern hota hai — actually alag log alag patterns aur kahaniyan soch sakte hain; yahi NCERT ka message hai.",
+      "memory_trick": "Y-D-N: Yangdol–Dorje–Nubra — kahani se chapter shuru; 'dots join = pattern'.",
+      "gesture_action": "Air mein ungliyon se imaginary stars join karte hue ek animal shape banao, phir bacchon se unka pattern poochho",
+      "real_life_examples": [
+        "Gaon ki andheri raat mein taaron ke beech dipper ya plough jaisa aakar dekhna",
+        "Connect-the-dots drawing book — bilkul waisi hi soch taaron ke saath"
+      ],
+      "worked_example": {
+        "problem": "Yangdol aur Dorje ko Nubra mein raatri-aakaash itna spasht kyun dikhta hai? Do reasons likho.",
+        "steps": [
+          "NCERT se recall: Nubra mein mausam almost badal-rahit rehta hai",
+          "Wahan air pollution aur light pollution nahi ke barabar hote",
+          "Isliye raat ko aakaash bahut clear dikhta hai aur taare ache se dikhte hain"
+        ],
+        "answer": "Kyunki Nubra mein badalon ki kami hai aur air/light pollution bahut kam hai, isliye raatri-aakaash spasht aur taare-bhari dikhti hai."
+      },
+      "practice": {
+        "easy": [
+          "Yangdol aur Dorje kahan rehte hain? Unhe raatri-aakaash kyun pasand hai?"
+        ],
+        "medium": [
+          "Activity 12.1 ke steps apne shabdon mein likho — pattern banana aur dost se compare karna."
+        ],
+        "hard": [
+          "Prachin kaal mein taare karvaan ke liye disha-soochak kaise kaam karte the? Aaj bhi emergency mein yeh skill kyun useful ho sakti hai? Short paragraph likho."
+        ]
+      },
+      "summary": "Nubra ki Yangdol-Dorje kahani se hum seekhte hain ki saaf, andhere aakaash mein taaron ke patterns banana curiosity aur pehchaan dono sikhata hai — aur har kisi ka pattern alag ho sakta hai.",
+      "revision_point": "Nubra = clear sky (kam pollution); taaron ko join karke patterns/kahaniyan; Activity 12.1.",
+      "exam_tip": "Opening story se 1–2 mark ke 'why clear sky in Nubra' type sawal aate hain — light pollution aur badal-rahit mausam zaroor likho.",
+      "source_text_hint": "नुब्रा लद्दाख का एक रमणीय क्षेत्र है। यहाँ के एक गाँव में ग्यारह वर्ष की एक बालिका यांग्डोल और उसका जुड़वाँ भाई दोरजे रहते हैं।"
+    },
+    {
+      "concept": "तारे और तारा-मंडल",
+      "say": "Ab section 12.1 — तारे और तारा-मंडल. Raatri-aakaash mein anek taare dikhte hain — kuch chamkeele, kuch dhundhle. Important: taare khud apne prakash se chamakte hain, self-luminous hote hain. Kuch taaron ke samuh aise patterns banate hue lagte hain jo jani-pehchani vastuon se milte-julte hain. Poorvajon ne in patterns ko jantuon, vastuon ya kahaniyon ke patraon ke roop mein pehchana; alag sabhyataon mein alag names the. In kalpanik aakritiyon ne aakaash mein taare pehchaanne mein madad ki. Prachin kaal mein yeh skill travellers ke liye useful thi — magnetic compass se pehle bhi naavikon aur yatriyon ko disha jaanne mein madad mili. Aaj bhi emergency mein yeh alternative method use hota hai. Pehle taara-samuhon ke patterns ko taara-mandal kaha jaata tha. Aaj arth thoda badla: taara-mandal aakaash ke us nishchit kshetra ko kehte hain jismein uske andar ke sabhi taare shaamil hote hain. Phir bhi patterns pehle nazar aate hain, isliye aksar hum shabd ko group ke liye bhi use karte hain. Orion aksar shikari ke roop mein — beech ke teen taare shikari ki belt. Kuch log kalpana karte hain Orion ek bail (Vrish/Taurus) se yuddha kar raha hai, aur uska kutta Canis Major peeche hai. Canis Major ka Lubdhak (Sirius) raatri-aakaash ka sabse chamkeela taara hai. IAU ne boundaries define ki — aaj 88 taara-mandal hain. Bharatiya khagol mein 'nakshatra' kisi taare ya taara-mandal ke liye use hota hai — Aardra (Beetlejuice), Krittika (Pleiades), aur Aldebaran yani Rohini.",
+      "example": "Orion ke beech ke teen taare — shikari ki belt — se pehchaan; uske paas sabse chamkeela taara Lubdhak (Sirius) Canis Major mein.",
+      "board_lines": [
+        "तारे = स्वयं के प्रकाश से चमकते हैं (self-luminous)",
+        "तारा-मंडल = आकाश का निश्चित क्षेत्र (आज 88; IAU)",
+        "ओरायन (शिकारी) → बेल्ट के 3 तारे; लुब्धक (सिरियस) = सबसे चमकीला"
+      ],
+      "common_mistake": "Students sochte hain ki taara-mandal ki lines aakaash mein asli mein khinchi hoti hain — NCERT clearly kehti hai yeh lines sirf pehchaan ke liye kalpanik hain, aakaash mein nahi dikhti.",
+      "memory_trick": "O-B-L: Orion–Belt–Lubdhak. Pehle belt ke 3 taare, phir Lubdhak (Sirius) — sabse bright.",
+      "gesture_action": "Teen ungliyan seedhi line mein dikhao (Orion belt), phir east taraf ek bright star point karo (Lubdhak)",
+      "real_life_examples": [
+        "Puraani raat-ki-yatra mein taaron se disha nikalna — compass se pehle ka skill",
+        "Bharatiya calendar/nakshatra names — Rohini, Krittika, Aardra — ghar mein suni baatein science se judti hain"
+      ],
+      "worked_example": {
+        "problem": "Aajkal 'taara-mandal' shabd ka official matlab kya hai? Pehle iska kya arth tha? Short mein antar likho.",
+        "steps": [
+          "Pehle: taara-samuhon ke patterns ko taara-mandal kaha jaata tha",
+          "Aaj: taara-mandal = aakaash ka nishchit kshetra jismein uske andar ke sabhi taare aate hain",
+          "IAU ne 88 official taara-mandal define kiye; patterns ab bhi pehchaan mein help karte hain"
+        ],
+        "answer": "Pehle taara-mandal = taaron ke pattern/group; aaj = aakaash ka fixed region (officially 88). Patterns ab bhi pehchaan ke liye use hote hain."
+      },
+      "practice": {
+        "easy": [
+          "Taare kis cheez se chamakte hain — apne prakash se ya Suraj ke prakash se?"
+        ],
+        "medium": [
+          "Orion, Canis Major aur Lubdhak (Sirius) ke baare mein teen short points likho."
+        ],
+        "hard": [
+          "IAU ne taara-mandalon ki boundaries kyun define ki? Bharatiya nakshatra examples (Aardra, Rohini, Krittika) ke saath explain karo ki same sky alag cultures mein alag names se jani jaati hai."
+        ]
+      },
+      "summary": "Taare self-luminous hote hain; taara-mandal aaj aakaash ke fixed regions (88) hain, lekin patterns — jaise Orion ki belt aur Lubdhak — pehchaan aur disha dono mein madad karte hain.",
+      "revision_point": "Stars = own light; constellation today = sky region (88); Orion belt → Lubdhak (brightest); nakshatra = Aardra/Rohini/Krittika.",
+      "exam_tip": "Definition question mein 'aajkal taara-mandal = aakaash ka nishchit kshetra' zaroor likho; sirf 'pattern of stars' incomplete hota hai.",
+      "source_text_hint": "आजकल तारा-मंडल आकाश के उस निश्चित क्षेत्र को कहते हैं, जिनमें वे सभी तारे शामिल होते हैं जो उस क्षेत्र के अंदर आते हैं।"
+    },
+    {
+      "concept": "सप्तर्षि, लिटिल डिपर और ध्रुव तारा",
+      "say": "Ab Figure 12.4 — Big Dipper, Little Dipper aur Dhruva tara. Dhruva tara Little Dipper ka ang hai. Sabse important: Dhruva tara uttar disha mein almost achal — almost fixed — dikhai padta hai. Isliye uski madad se uttari golaardh mein uttar disha pehchani ja sakti hai. Big Dipper Ursa Major ka ang hai, Little Dipper Ursa Minor mein hai. Bharat mein Big Dipper ko Saptarishi kehte hain, Pole Star ko Dhruva tara. NCERT ka box suno — Bharat ke vanvasi samudayon aur janjatiyon ki kelapni stories bhi hain. Saptarishi ke woh char taare jo almost aayat (rectangle) banate hain — Madhya Bharat ki janjatiyan unhe dadi-maa ki charpai kehte hain, aur maanti hain teen chor (baaki teen taare) use chura rahe hain. Konkan-tat ke machhuaare inhi char taaron ko nauka maante hain, jinke antim teen taare nauka ki greeva hain. Same stars, alag cultures, alag stories! Science pattern dikhati hai, culture meaning deti hai. Yaad rakho: uttar chahiye toh Dhruva dhoondho — almost hilega nahi. Saptarishi usi raaste ka door hai. Agle concept mein exactly seekhenge kaise Saptarishi se Dhruva nikaalte hain. Abhi pakka: Saptarishi = Big Dipper = Ursa Major hissa; Little Dipper = Ursa Minor; Pole Star = Dhruva ≈ north, almost fixed. Aur mat bhoolna — Dhruva sabse chamkeela nahi; Lubdhak (Sirius) sabse chamkeela hai.",
+      "example": "Raat ko camping par agar compass na ho, Saptarishi dhoondhkar Dhruva tara nikaalo — uttar mil jaayega.",
+      "board_lines": [
+        "बिग डिपर = सप्तर्षि (अर्सा मेजर का अंग)",
+        "लिटिल डिपर = अर्सा माइनर; ध्रुव तारा इसका अंग",
+        "ध्रुव तारा ≈ उत्तर में लगभग अचल → उत्तर दिशा की पहचान"
+      ],
+      "common_mistake": "Students sochte hain Dhruva tara aakaash ka sabse chamkeela taara hai — galat; Lubdhak (Sirius) sabse chamkeela hai, Dhruva tara bahut chamkeela nahi hota.",
+      "memory_trick": "S-L-D: Saptarishi → Little Dipper → Dhruva. 'Saptarishi se line banao, Dhruva mil jaaye'.",
+      "gesture_action": "Ek haath se 'ladle/dipper' shape banao (Saptarishi), doosre haath se north point karke 'Dhruva almost still' dikhao",
+      "real_life_examples": [
+        "Madhya Bharat — Saptarishi ke 4 taare = dadi-maa ki charpai; 3 taare = chor",
+        "Konkan ke machhuaare — wahi 4 taare = nauka, antim 3 = greeva"
+      ],
+      "worked_example": {
+        "problem": "Dhruva tara se uttari golaardh mein uttar disha kaise pata chalti hai? Ek sentence mein reason do.",
+        "steps": [
+          "Recall: Dhruva tara uttar disha mein almost achal dikhai padta hai",
+          "Isliye uski position north direction indicate karti hai",
+          "Note: yeh southern hemisphere se nahi dikhta — next sections mein aayega"
+        ],
+        "answer": "Kyunki Dhruva tara uttar mein almost fixed dikhta hai, isliye uski madad se uttari golaardh mein uttar disha pehchani ja sakti hai."
+      },
+      "practice": {
+        "easy": [
+          "Bharat mein Big Dipper aur Pole Star ke kya naam hain?"
+        ],
+        "medium": [
+          "Big Dipper aur Little Dipper kis-kis taara-mandal ke ang hain? Dhruva tara kis pattern ka hissa hai?"
+        ],
+        "hard": [
+          "Madhya Bharat aur Konkan ki Saptarishi kahaniyan likho. Inse science ke baare mein kya seekhte ho — ki patterns cultural bhi hote hain?"
+        ]
+      },
+      "summary": "Saptarishi (Big Dipper) aur Little Dipper famous patterns hain; Dhruva tara Almost fixed north pointer hai — aur Bharat ki tribal/coastal stories isi sky ko alag nazariye se dikhati hain.",
+      "revision_point": "Saptarishi = Big Dipper (Ursa Major); Dhruva = Pole Star (Little Dipper/Ursa Minor) ≈ north, almost fixed; Sirius ≠ Pole Star.",
+      "exam_tip": "Dhruva tara vs Lubdhak confuse mat karo — exam mein 'brightest' = Lubdhak/Sirius; 'north/fixed' = Dhruva.",
+      "source_text_hint": "ध्रुव तारा उत्तर दिशा में लगभग अचल दिखाई पड़ता है, इसकी सहायता से उत्तरी गोलार्ध में उत्तर दिशा की पहचान की जा सकती है।"
+    },
+    {
+      "concept": "रात्रि-आकाश का अवलोकन और प्रकाश प्रदूषण",
+      "say": "Section 12.2 — रात्रि-आकाश का अवलोकन. Agar kisi raat aakaash mein badal na hon, toh wahan badi sankhya mein taare dikh sakte hain. Lekin bade shehar mein aakaash kabhi-kabhar hi saaf hota hai aur sirf kuch taare dikhte hain. Kyun? Light pollution, dhuaan aur dhool ke kaaran. Raatri ke samay atyadhik kritrim prakash ki upasthiti ko prakash-pradushan — light pollution — kaha jaata hai. Gaon ya un kshetron mein jahaan light pollution kam hota hai, wahan zyada taare dikhte hain. Kabhi ghar oonche buildings aur pedon se ghira hota hai, isliye bada sky-area dekh hi nahi paate. Best observation = khule aur andhere sthan se. Important: sabhi taare aur taara-mandal prithvi ke sabhi sthanon se aur saal ki har raat nahi dikhte. Example — Dhruva tara dakshini golaardh se nahi dekha ja sakta. Pehchaan ke liye jaanna zaroori hai ki pattern kaisa dikhta hai aur kahan dekhna hai — Figures 12.3 aur 12.4 madad karte hain. Kab aur kahan dikhega, uske liye sky-mapping apps jaise Sky Map ya Stellarium use kiye ja sakte hain. World mein light pollution badh raha hai, isliye kuch dark-sky protected areas banaye gaye hain. Night-sky darshan ki taiyari: adults ke saath khula-andhera sthan; app se date-time; badal-rahit aur preferably bina chand wali raat — especially Dhruva ke liye kyunki woh bahut bright nahi; sky map, magnetic compass, notebook; pahunchne ke baad lagbhag aadha ghanta wait karo taaki aankhein andhere ke according adjust ho jaayein. Safety: raat ko bina adult ke andhere khule sthan mat jaao!",
+      "example": "Diwali ke baad shehar mein street lights aur ghar ke lights ke wajah se taare kam dikhte hain — yeh light pollution ka daily proof hai.",
+      "board_lines": [
+        "प्रकाश प्रदूषण = रात में अत्यधिक कृत्रिम प्रकाश",
+        "सर्वोत्तम अवलोकन = खुला + अँधेरा स्थान; आँखों को ~30 मिनट अँधेरे में समायोजित होने दो",
+        "सावधानी: वयस्क के बिना रात को अँधेरे स्थान पर न जाएँ"
+      ],
+      "common_mistake": "Students sochte hain shehar mein taare kam isliye dikhte hain kyunki taare door chale gaye — actually taare wahi hain; light pollution, smoke aur dust unhe chhupa dete hain.",
+      "memory_trick": "DARK-30: Dark place + Adult + Ready map/compass + wait 30 minutes for eyes.",
+      "gesture_action": "Classroom lights thodi dim karke 'eyes adjusting' act karo — pehle kam, phir dheere-dheere zyada stars 'dikhte' hue dikhao",
+      "real_life_examples": [
+        "Gaon ki khet-wali raat vs city balcony — same month, alag number of visible stars",
+        "Dark-sky parks / protected areas jahaan light pollution control kiya jaata hai"
+      ],
+      "worked_example": {
+        "problem": "Tumhe Dhruva tara dhoondhna hai. Kis tarah ki raat aur taiyari best rahegi? Teen points likho.",
+        "steps": [
+          "Badal-rahit raat choose karo; preferably chand na dikhe — Dhruva bahut bright nahi",
+          "Khula, andhera sthan; adult ke saath; light/buildings/trees se door",
+          "Pahunchkar ~30 minute wait for dark adaptation; map/compass/notebook saath"
+        ],
+        "answer": "Clear, preferably moonless night; open dark place with an adult; wait ~30 minutes for eyes to adjust; carry sky map/compass."
+      },
+      "practice": {
+        "easy": [
+          "Prakash-pradushan ki definition likho."
+        ],
+        "medium": [
+          "Shehar mein taare kam kyun dikhte hain? Teen reasons do."
+        ],
+        "hard": [
+          "Night-sky observation checklist banao (6 steps) aur batao Dhruva tara dakshini golaardh se kyun nahi dikhta."
+        ]
+      },
+      "summary": "Light pollution, smoke aur dust taaron ko chhupaate hain; best view open dark sky se milta hai — eyes ko ~30 minute chahiye, aur hamesha adult ke saath safety pehle.",
+      "revision_point": "Light pollution = too much artificial night light; best = open+dark; wait ~30 min; Dhruva not visible from southern hemisphere.",
+      "exam_tip": "Preparation steps aur safety line exam mein short notes ke liye ready rakho — 'adult ke bina mat jaao' NCERT caution hai.",
+      "source_text_hint": "रात्रि के समय अत्यधिक कृत्रिम प्रकाश की उपस्थिति को प्रकाश प्रदूषण कहा जाता है।"
+    },
+    {
+      "concept": "सप्तर्षि, ध्रुव तारा और ओरायन की पहचान",
+      "say": "Ab practical part — Activity 12.2 aur 12.3. Pehle Saptarishi aur Dhruva. Greeshma-ritu mein, raatri ~9 baje, aakaash ke uttari bhag mein Saptarishi pehchano. Jab mil jaaye, Dhruva nikaalo: Big Dipper ke cup ke antim do taaron ko dekho, unhe jodne wali seedhi line ki kalpana karo, line ko uttar ki ore badhao. In taaron ke beech ki doori ke lagbhag paanch gune doori par ek taara dikhega jo bahut chamkeela nahi — yahi Dhruva tara! Formula: Pointers → 5 times distance → Pole Star. Isi tarah Orion aur Lubdhak. Activity 12.3: Bharat mein Orion December se April tak, suryast ke baad ache se dikhta hai. Orion ke almost beech mein teen chamakdaar taare — shikari ki belt. Pehle in teen ko pehchano — yeh sabse aasan method hai. Ek baar Orion mil gaya, uske paas atyant chamakdaar Lubdhak easy ho jaata hai. Orion ke beech ke teen taaron se guzarati seedhi line ki kalpana karo aur line ke along poorv (east) dekho — wahi Lubdhak. Do skills: (1) Saptarishi pointers × 5 = Dhruva (north); (2) Orion belt → east = Lubdhak (brightest night star). Practice se aadat ban jaati hai — bilkul map padhna. Lines aakaash mein nahi dikhti — dimaag mein draw karte hain!",
+      "example": "Summer night ~9 pm: north mein Saptarishi ke cup ke do tip stars se imaginary line 5× extend karke Dhruva milta hai.",
+      "board_lines": [
+        "सप्तर्षि (ग्रीष्म, ~9 बजे, उत्तर) → कप के अंतिम 2 तारे → रेखा × 5 → ध्रुव तारा",
+        "ओरायन (दिसंबर–अप्रैल, सूर्यास्त बाद): बीच के 3 तारे = बेल्ट",
+        "बेल्ट से पूर्व दिशा में रेखा → लुब्धक (सिरियस)"
+      ],
+      "common_mistake": "Students pointer stars se line ko sirf thoda aage badhate hain — NCERT kehti hai lagbhag paanch guni doori par Dhruva hota hai; kam extend karne se galat taara pakad liya jaata hai.",
+      "memory_trick": "5 for Dhruva, 3 for Orion: pointers × 5 = Pole Star; belt ke 3 → east = Lubdhak.",
+      "gesture_action": "Do students ko 'pointer stars' banao, teesra student 5 steps north jaakar Dhruva bane; phir teen students belt line mein khade hon",
+      "real_life_examples": [
+        "School night camp mein Saptarishi se north nikalna",
+        "Winter evening sky mein Orion belt dhoondhkar Sirius (Lubdhak) spot karna"
+      ],
+      "worked_example": {
+        "problem": "Saptarishi mil gaya. Dhruva tara kaise nikaaloge? Steps mein likho.",
+        "steps": [
+          "Big Dipper/Saptarishi ke cup ke antim do taare (pointers) lo",
+          "Unhe jodti kalpanik seedhi line banao aur uttar ki ore extend karo",
+          "Pointer stars ke beech ki doori ki lagbhag 5 guna doori par jo kam-chamkeela taara mile — wahi Dhruva tara"
+        ],
+        "answer": "Cup ke antim do taaron se uttar ki ore line badhao; ~5× distance par jo taara mile (bahut bright nahi) wahi Dhruva tara hai."
+      },
+      "practice": {
+        "easy": [
+          "Orion Bharat mein kis mahinon mein suryast ke baad ache se dikhta hai?"
+        ],
+        "medium": [
+          "Orion pehchaanne ka sabse aasan tarika kya hai? Lubdhak usse kaise milta hai?"
+        ],
+        "hard": [
+          "Ek flowchart banao: (A) Saptarishi→Dhruva aur (B) Orion→Lubdhak. Har step mein disha aur season/time bhi likho."
+        ]
+      },
+      "summary": "Saptarishi ke pointer stars se ~5× north line par Dhruva milta hai; Orion ki belt se east line par Lubdhak — yeh do practical sky-finding skills hain.",
+      "revision_point": "Pointers × 5 → Dhruva (summer ~9 pm, north); Orion belt Dec–Apr → east → Lubdhak.",
+      "exam_tip": "'Paanch guni doori' number yaad rakho — Activity 12.2 ke procedural questions mein yahi key hai.",
+      "source_text_hint": "इन तारों के बीच की दूरी के लगभग पाँच गुनी दूरी पर इस काल्पनिक रेखा पर एक तारा दिखेगा जो बहुत चमकीला नहीं है। यही ध्रुव तारा है।"
+    },
+    {
+      "concept": "सूर्य – हमारा निकटतम तारा",
+      "say": "Ab section 12.3 — हमारा सौर परिवार, pehle Suraj. Kaun-sa taara hamare sabse nikat? Suraj! Suraj ek taara hai — gases ka atyant garam gola. Yeh atyadhik energy utsarjit karta hai, isliye chamkeela hai. Suraj ushma aur prakash deta hai — prithvi par energy ka pramukh srot. Prithvi se doori lagbhag 15 crore kilometre hai; yahi 'khagoliya matrak' — Astronomical Unit ya au — kehlati hai. Solar family ki badi dooriyan is unit mein conveniently likhi jaati hain. Suraj vyas mein prithvi se lagbhag 100 guna bada hai, phir bhi chhota dikhta hai kyunki bahut door hai. Anya taaron se Suraj sameep hai, isliye bada dikhta hai; baaki taare bahut door hain — binduon jaise, chahe kai Suraj se bade hon. Din mein Suraj ki chamak ke kaaran anya taare nahi dikhte. Deep thought: Suraj bhi taara hai — phir kyun bada dikhta hai aur prakash faila rehta hai, jabki anya taare raat mein points hain? Answer: distance. Suraj ki ushma prithvi ko jeevan-yogya taap par rakhti hai; prakash paudhon ke liye anivarya hai. Suraj climate, rituon, mausam, jalchakra aur pavan se juda hai. Suraj ke baad next nearest taara Proxima Centauri — lagbhag 269000 au door, matlab Suraj-doori ki ~269000 guna!",
+      "example": "Din mein aakaash mein anya taare isliye nahi dikhte kyunki Suraj itna bright hai — raat ko jab Suraj nahi hota, door ke taare points jaise dikhte hain.",
+      "board_lines": [
+        "सूर्य = निकटतम तारा; गैसों का अत्यंत गर्म गोला; स्वयं चमकता है",
+        "दूरी ≈ 15 करोड़ km = 1 खगोलीय मात्रक (1 au)",
+        "व्यास ≈ पृथ्वी का 100 गुना; फिर भी दूर होने से छोटा दिखता है"
+      ],
+      "common_mistake": "Students sochte hain Suraj taara nahi, alag cheez hai — NCERT clearly kehti hai Suraj bhi ek taara hai; farq sirf doori ka hai.",
+      "memory_trick": "SUN-15-100: Suraj nearest; 15 crore km = 1 au; diameter ~100× Earth.",
+      "gesture_action": "Ek chhota ball (Earth) aur bada circle (Sun) dikhao, phir door khade hokar 'chhota kyun dikhta hai' act karo",
+      "real_life_examples": [
+        "Subah dhoop se garmi — Suraj prithvi ki energy ka main source",
+        "Ped-paudhe sunlight se food banate hain (photosynthesis) — humare bhojan aur oxygen ka basis"
+      ],
+      "worked_example": {
+        "problem": "Suraj anya taaron se humein bada kyun dikhta hai, jabki kai taare Suraj se bade hain?",
+        "steps": [
+          "Suraj humare sabse nikat ka taara hai",
+          "Anya taare bahut zyada door hain, isliye bindu jaise dikhte hain",
+          "Nazdeeki ke kaaran Suraj bada aur uska prakash faila hua dikhta hai"
+        ],
+        "answer": "Kyunki Suraj sabse nikat hai; doori kam hone se woh bada dikhta hai, chahe kai door ke taare size mein usse bade hon."
+      },
+      "practice": {
+        "easy": [
+          "1 au kis doori ko kehte hain?"
+        ],
+        "medium": [
+          "Suraj vyas mein prithvi se lagbhag kitna bada hai? Phir bhi chhota kyun dikhta hai?"
+        ],
+        "hard": [
+          "Proxima Centauri ~269000 au door hai — iska matlab Suraj se hamari doori se compare karke samjhao. Din mein anya taare kyun nahi dikhte?"
+        ]
+      },
+      "summary": "Suraj humara nearest taara hai — garam gas ball, energy ka main source; 1 au ≈ 15 crore km; size ~100× Earth diameter, lekin doori ke kaaran chhota dikhta hai.",
+      "revision_point": "Sun = nearest star; 1 au ≈ 15 crore km; ~100× Earth diameter; other stars too far → points; day sky washed by sunlight.",
+      "exam_tip": "AU ki definition aur 'Suraj bhi taara hai' — dono almost guaranteed short-answer points hain.",
+      "source_text_hint": "सूर्य एक तारा है। यह हमारे सबसे निकट का तारा है। यह गैसों का एक अत्यंत गर्म गोला है।"
+    },
+    {
+      "concept": "ग्रह और हमारा सौर परिवार",
+      "say": "Aakhri hissa — ग्रह. Kya aakaash mein keval taare hi hain? Nahi — aur bhi pind hain. Unmein se kuch ke saath prithvi aur Suraj milkar solar family banate hain. Zyadatar yeh pind Suraj ke charon ore ghoomte hain — isse parikraman kehte hain. Grah ek vishal, almost golakaar pind hota hai jo Suraj ki parikrama karta hai. Prithvi bhi grah hai kyunki Suraj ke around ghoomti hai; ek parikrama mein lagbhag ek varsh. Anya grah bhi Suraj ki parikrama karte hain. Saath hi prithvi apne aksh par ghurnan karti hai — ek baar ~24 ghante, ek din. Anya grah bhi spin karte hain — detail agle class mein. Suraj se badhti doori ke kram mein aath grah: Budh, Shukra, Prithvi, Mangal, Brihaspati, Shani, Uranus aur Varun. Sabse nikat ke char aantarik grah — Budh, Shukra, Prithvi, Mangal — aakaar mein chhote; satah thos aur chattaani. Sequence ratto: बुध–शुक्र–पृथ्वी–मंगल–बृहस्पति–शनि–यूरेनस–वरुण. Connection: taare self-light; grah Suraj ke around orbit. Prithvi special isliye nahi ki grah nahi — balki yahin jeevan hai, Suraj ki sahi doori par. Aaj ka arc: Nubra ke taaron se Suraj-pariwar tak — पृथ्वी से परे!",
+      "example": "Calendar ka ek saal ≈ Earth ki Suraj ke around ek poori parikrama; ek din ≈ Earth ka apne axis par ek poora spin.",
+      "board_lines": [
+        "ग्रह = विशाल, लगभग गोलाकार पिंड जो सूर्य की परिक्रमा करता है",
+        "परिक्रमण = सूर्य के चारों ओर घूमना; घूर्णन = अक्ष पर घूमना (~24 घंटे = 1 दिन)",
+        "8 ग्रह (दूरी क्रम): बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, यूरेनस, वरुण"
+      ],
+      "common_mistake": "Students Moon ko grah maan lete hain — Moon prithvi ka upagraha hai; grah Suraj ki parikrama karta hai. Is source text mein grah ki definition Suraj-orbit par based hai.",
+      "memory_trick": "मेरे शुक पृथ्वी मंगल बृहस्पति शनि ऊँचे वरुण — ya 'Bhai Shukriya Prithvi Mangal Bade Shani Uranus Varun' se 8-planet order yaad karo.",
+      "gesture_action": "Ek student beech mein Suraj bane, 8 students circle mein parikrama karen; phir har student apni jagah ghoomkar 'din' (rotation) dikhaye",
+      "real_life_examples": [
+        "Saal badalna — Earth ki annual revolution ka asar",
+        "Din-raat — Earth ke axis-rotation se judi daily rhythm"
+      ],
+      "worked_example": {
+        "problem": "Suraj se doori badhne ke kram mein aath grahon ke naam likho. Kaunse char aantarik grah hain aur unki satah kaisi hai?",
+        "steps": [
+          "Order likho: Budh, Shukra, Prithvi, Mangal, Brihaspati, Shani, Uranus, Varun",
+          "Pehle char = aantarik: Budh, Shukra, Prithvi, Mangal",
+          "NCERT: yeh chhote hain; satah thos aur chattaani (rocky)"
+        ],
+        "answer": "क्रम: बुध–शुक्र–पृथ्वी–मंगल–बृहस्पति–शनि–यूरेनस–वरुण। आन्तरिक चार: बुध, शुक्र, पृथ्वी, मंगल — ठोस/चट्टानी सतह।"
+      },
+      "practice": {
+        "easy": [
+          "Grah ki definition likho. Prithvi grah kyun hai?"
+        ],
+        "medium": [
+          "Parikraman aur ghurnan mein antar samjhao — time periods ke saath."
+        ],
+        "hard": [
+          "Aantarik chaar grahon ki do common properties likho. Explain karo ki 'solar family' mein Suraj ke alawa kaunse pind shaamil ho sakte hain (NCERT opening idea)."
+        ]
+      },
+      "summary": "Grah Suraj ki parikrama karne wale bade nearly-spherical pind hain; Earth ~1 year revolution aur ~24 hour rotation karti hai; aath grah doori-kram mein Budh se Varun, pehle char rocky inner planets.",
+      "revision_point": "Planet orbits Sun; Earth: 1 year revolution, ~24 h rotation; 8 planets order; inner 4 = small, solid/rocky.",
+      "exam_tip": "8 grahon ka sahi Hindi order likhna scoring hai — spelling: बृहस्पति, यूरेनस, वरुण carefully.",
+      "source_text_hint": "सूर्य से बढ़ती दूरी के क्रम में सौर परिवार के आठ ग्रह हैं— बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, यूरेनस एवं वरुण।"
+    }
+  ]
+}
