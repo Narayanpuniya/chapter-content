@@ -1,0 +1,318 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 826,
+    "chapter_name": "कंपनी के वित्तीय विवरण",
+    "chapter_number": 6,
+    "book_name": "Class 12 Accountancy",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 12",
+    "subject": "Accountancy"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum samjhenge ki company ke financial statements — Balance Sheet (तुलन-पत्र), Statement of Profit and Loss (लाभ व हानि विवरण) aur Cash Flow Statement (रोकड़ प्रवाह विवरण) — ka meaning, nature, objectives, types aur Schedule III ke format kya hain. Saath hi disclosure features, shareholders' funds, reserves & surplus aur share warrants ke prakatans bhi clear honge — yeh sab board exam ke liye core topics hain.",
+    "welcome": "Namaste bacchon! Aaj hum Class 12 Accountancy ka bahut important chapter shuru karenge — कंपनी के वित्तीय विवरण. Pehle humne dekha tha company finance kaise raise karti hai; ab us money ka result — financial statements — padhenge. Yeh statements shareholders, investors, government aur employees ke liye company ki sehat ka report card hain. Board exams mein Schedule III format aur nature-objectives se short aur long answers aate hain — dhyan se suno!",
+    "learning_outcomes": [
+      "कंपनी के वित्तीय विवरणों के अर्थ, उद्देश्यों एवं प्रकृति की व्याख्या कर सकेंगे",
+      "अनुसूची III के अनुसार लाभ व हानि विवरण के प्रारूप एवं विषय-वस्तु का विवेचन कर सकेंगे",
+      "अनुसूची III के अनुसार तुलन-पत्र के प्रारूप एवं विषय-वस्तु का विवेचन कर सकेंगे",
+      "वित्तीय विवरणों के महत्व एवं सीमाओं की व्याख्या कर सकेंगे",
+      "वित्तीय विवरणों को भली-भाँति तैयार कर सकेंगे"
+    ],
+    "concepts": [
+      {"number": 1, "name": "वित्तीय विवरणों का अर्थ"},
+      {"number": 2, "name": "वित्तीय विवरणों की प्रकृति"},
+      {"number": 3, "name": "वित्तीय विवरणों के उद्देश्य"},
+      {"number": 4, "name": "वित्तीय विवरणों के प्रकार"},
+      {"number": 5, "name": "तुलन-पत्र का प्रारूप एवं विषय-सामग्री (अनुसूची III)"},
+      {"number": 6, "name": "प्रकटन की प्रमुख विशेषताएँ"},
+      {"number": 7, "name": "अंशधारक निधियाँ – अंश पूँजी"},
+      {"number": 8, "name": "आरक्षितियाँ, अधिशेष एवं अंश वारंट"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "वित्तीय विवरणों का अर्थ",
+      "say": "Bacchon, pehle yeh clear kar lete hain — financial statements kya hain? NCERT kehta hai: वित्तीय विवरण आधारभूत एवं औपचारिक साधन होते हैं jinke madhyam se company ka management — yani निगम प्रबंध — owners aur bahari users ko financial information communicate karta hai. Kaun hain yeh users? Investors, कराधान अधिकारी, government, employees — sab. Simple language mein socho: jaise tumhara report card tumhari academic sehat batata hai, waise hi financial statements company ki financial sehat batate hain. Accounting period ke ant mein teen mukhya documents banate hain — तुलन-पत्र (Balance Sheet), लाभ व हानि विवरण (Statement of Profit and Loss), aur रोकड़ प्रवाह विवरण (Cash Flow Statement). Yaad rakho: financial statements banana accounting process ka antim चरण hai. Yeh parallel, consistent accounting policies, standards, assumptions, principles aur legal environment ke aadhar par bante hain. Yeh accounting process ke sankshiptikaran ka result hain — matlab bahut saare transactions ko short, meaningful form mein present karte hain. Inka format systematic hota hai taaki अंशधारक aur users asaani se samajh saken aur meaningful आर्थिक निर्णयों mein use kar saken. Toh definition board mein likho: Financial statements = formal means of communicating financial information by company management to owners and external users.",
+      "example": "Reliance ya TCS jaise company ke annual report mein Balance Sheet aur Profit & Loss Statement — yahi financial statements hain jo investors ko company ki profitability aur financial position batate hain.",
+      "board_lines": [
+        "वित्तीय विवरण = आधारभूत एवं औपचारिक साधन (formal means of communication)",
+        "Users: स्वामी, निवेशक, कर अधिकारी, सरकार, कर्मचारी",
+        "मुख्य विवरण: तुलन-पत्र + लाभ व हानि विवरण + रोकड़ प्रवाह विवरण"
+      ],
+      "common_mistake": "Students sirf Balance Sheet aur P&L ko financial statements maante hain aur Cash Flow Statement bhool jaate hain — NCERT teeno ko include karta hai.",
+      "memory_trick": "B-P-C: Balance Sheet, Profit & Loss, Cash Flow — teen financial statements yaad rakho.",
+      "gesture_action": "Teen ungliyan uthao — ek-ek karke B, P, C bolo — teeno statements yaad ho jayenge",
+      "real_life_examples": [
+        "Bank loan ke liye company apna Balance Sheet aur P&L bank ko dikhati hai",
+        "Shareholder AGM mein annual financial statements padhkar dividend aur performance decide karta hai"
+      ],
+      "worked_example": {
+        "problem": "वित्तीय विवरण किसे कहते हैं? इनके तीन प्रमुख प्रकारों के नाम लिखिए।",
+        "steps": [
+          "Definition likho: ये आधारभूत एवं औपचारिक साधन हैं जिनसे प्रबंध स्वामियों एवं बाह्य उपयोगकर्ताओं को वित्तीय सूचनाएँ संचारित करता है",
+          "Users mention karo: निवेशक, कर अधिकारी, सरकार, कर्मचारी आदि",
+          "Teen types: तुलन-पत्र, लाभ व हानि विवरण, रोकड़ प्रवाह विवरण"
+        ],
+        "answer": "वित्तीय विवरण औपचारिक साधन हैं जिनसे कंपनी प्रबंध वित्तीय सूचनाएँ स्वामियों एवं बाह्य उपयोगकर्ताओं को पहुँचाता है। तीन प्रमुख प्रकार: (1) तुलन-पत्र (2) लाभ व हानि विवरण (3) रोकड़ प्रवाह विवरण।"
+      },
+      "practice": {
+        "easy": ["वित्तीय विवरणों के किन्हीं दो बाह्य उपयोगकर्ताओं के नाम लिखिए।"],
+        "medium": ["वित्तीय विवरणों का अर्थ स्पष्ट कीजिए तथा बताइए कि ये लेखांकन प्रक्रिया का अंतिम चरण क्यों कहलाते हैं।"],
+        "hard": ["'वित्तीय विवरण लेखांकन प्रक्रिया के संक्षिप्तिकरण का सुखद परिणाम हैं' — इस कथन की व्याख्या उपयोगकर्ताओं एवं निर्णयन के संदर्भ में कीजिए।"]
+      },
+      "summary": "Financial statements formal means hain jinse company management owners aur external users ko financial info communicate karta hai — mainly Balance Sheet, P&L aur Cash Flow Statement.",
+      "revision_point": "अर्थ: औपचारिक संचार साधन; तीन विवरण = तुलन-पत्र + P&L + Cash Flow।",
+      "exam_tip": "2-mark definition mein 'औपचारिक साधन' + users ki list + teen statements zaroor likho — CBSE short answers mein yahi pattern aata hai.",
+      "source_text_hint": "वित्तीय विवरण आधारभूत एवं औपचारिक साधन होते हैं जिनके माध्यम से निगम प्रबंध स्वामियों तथा अन्य विभिन्न बाह्य उपयोगकर्ताओं"
+    },
+    {
+      "concept": "वित्तीय विवरणों की प्रकृति",
+      "say": "Ab nature samajhte hain — NCERT section 3.2. AICPA kehta hai: financial statements periodic review ya management ki progress report dikhane ke liye banaye jaate hain; yeh business mein investment ki position aur review period ke results reveal karte hain. Sabse important line yaad rakho: ये अभिलिखित तथ्यों, लेखांकन सिद्धांतों तथा वैयक्तिक निर्णयों के एक संयोजन को प्रतिबिंबित करते हैं — combination of recorded facts, accounting principles, and personal judgements. Char points hain. Ek — अभिलिखित तथ्य (Recorded Facts): books mein historical cost par recorded data se banate hain — cash, bank, debtors, fixed assets sab book values se. Market value nahi. Isliye current financial position poori tarah nahi dikhate. Do — लेखांकन परंपराएँ (Conventions): inventory cost ya market, jo kam; depreciation; materiality — pencil-pen ko asset nahi, expense treat karte hain; stationery cost par value hoti hai, cost-or-market nahi. Teen — अभिधारणाएँ (Postulates): going concern (सतत् व्यापार) — assets historical cost par; money measurement — currency value same maana jaata hai (though purchasing power badalti hai); revenue recognition — sale ke year mein revenue, chahe recovery late ho. Char — वैयक्तिक निर्णय (Personal Judgement): depreciation life estimate, doubtful debts provision, inventory valuation — sab judgement. Conservatism follow karke overstatement avoid karte hain. Toh nature = facts + conventions + postulates + judgement.",
+      "example": "Ek machine 2015 mein ₹10 lakh mein kharidi, aaj market value ₹25 lakh — Balance Sheet mein historical cost (minus depreciation) dikhegi, market value nahi — yahi recorded facts ki limitation hai.",
+      "board_lines": [
+        "प्रकृति = अभिलिखित तथ्य + लेखांकन परंपराएँ + अभिधारणाएँ + वैयक्तिक निर्णय",
+        "AICPA: periodic review / progress report; investment position + results",
+        "सीमा: बाज़ार मूल्य पर आधारित नहीं → वर्तमान स्थिति पूर्णतः नहीं दर्शाते"
+      ],
+      "common_mistake": "Students sochte hain financial statements hamesha current market values dikhate hain — galat; woh mainly historical cost (recorded facts) par based hote hain.",
+      "memory_trick": "F-C-P-J: Facts, Conventions, Postulates, Judgement — nature ke char pillars.",
+      "gesture_action": "Board par char columns banao — F, C, P, J — har point ke neeche ek chhota example likhne ko kaho",
+      "real_life_examples": [
+        "Doubtful debts ka provision manager ke judgement se banaya jaata hai — do companies alag % le sakti hain",
+        "Going concern assume karke building ko scrap value par nahi, historical cost basis par dikhate hain"
+      ],
+      "worked_example": {
+        "problem": "वित्तीय विवरणों की प्रकृति के चार बिन्दुओं की संक्षिप्त व्याख्या कीजिए।",
+        "steps": [
+          "अभिलिखित तथ्य: ऐतिहासिक लागत पर पुस्तकों के आँकड़े; बाज़ार मूल्य नहीं",
+          "लेखांकन परंपराएँ: cost or market lower, depreciation, materiality, conservatism",
+          "अभिधारणाएँ: going concern, money measurement, revenue recognition",
+          "वैयक्तिक निर्णय: depreciation life, provision for doubtful debts, stock valuation judgements"
+        ],
+        "answer": "वित्तीय विवरण (1) अभिलिखित तथ्यों (2) लेखांकन परंपराओं (3) अभिधारणाओं तथा (4) वैयक्तिक निर्णयों के संयोजन को प्रतिबिंबित करते हैं — यही उनकी प्रकृति है।"
+      },
+      "practice": {
+        "easy": ["वित्तीय विवरणों की प्रकृति के चार घटकों के नाम लिखिए।"],
+        "medium": ["'वित्तीय विवरण वर्तमान वित्तीय स्थिति को पूर्णतः नहीं दर्शाते' — अभिलिखित तथ्यों के आधार पर कारण दीजिए।"],
+        "hard": ["AICPA द्वारा दी गई वित्तीय विवरणों की प्रकृति की परिभाषा लिखिए तथा वैयक्तिक निर्णय का एक उदाहरण देकर स्पष्ट कीजिए।"]
+      },
+      "summary": "Financial statements recorded facts, accounting conventions, postulates aur personal judgements ka combination hain — isliye useful hain lekin absolute current values nahi dikhate.",
+      "revision_point": "Nature = F+C+P+J; historical cost ≠ market value; conservatism se overstatement avoid.",
+      "exam_tip": "6-mark nature question mein char points alag-alag headings mein likho aur har ek ka ek example — examiners structure mark karte hain.",
+      "source_text_hint": "ये अभिलिखित तथ्यों, लेखांकन सिद्धांतों तथा वैयक्तिक निर्णयों के एक संयोजन को प्रतिबिंबित करते हैं"
+    },
+    {
+      "concept": "वित्तीय विवरणों के उद्देश्य",
+      "say": "Section 3.3 — उद्देश्यों par aate hain. Primary objective kya hai? Users ko decision-making mein madad dena. Financial statements अंशधारकों aur bahari parties ke liye profitability aur financial position samajhne ka basic source hain. Specific objectives NCERT mein chhe hain — board ke liye list yaad rakho. Pehla: आर्थिक संसाधनों एवं दायित्वों ke bare mein information — investors aur outsiders jinke paas limited authority/resources hain, unke liye adequate, reliable, periodic info. Doosra: अर्जन क्षमता (earning capacity) — forecast, compare, evaluate karne ke liye useful data. Teesra: रोकड़ प्रवाह — amount, timing aur uncertainties ke perspective se cash flows ka prediction, comparison, evaluation. Chautha: प्रबंध की प्रभावशीलता — kya management resources ko effectively use kar raha hai? Paanchva: समाज को प्रभावित करने वाली व्यावसायिक गतिविधियाँ — jo measurable aur socially important hain, unki reporting. Chhatha: लेखांकन नीतियों को प्रकट करना — significant policies, concepts, aur year ke dauran changes disclose karna taaki statements better samajh aayein. Classroom tip: jab bhi 'objectives' aaye, pehle primary objective likho, phir 1 se 6 number karke. Marks ke hisaab se 4 ya 6 points expand karo. Yaad rakho — yeh sirf numbers nahi, decision-useful information hain.",
+      "example": "Ek investor Tata Motors ke financial statements dekhkar earning capacity aur cash flows ka estimate karta hai — decide karta hai share kharidna hai ya nahi. Yahi primary purpose hai.",
+      "board_lines": [
+        "प्राथमिक उद्देश्य: उपयोगकर्ताओं को निर्णय लेने में सहायता",
+        "6 उद्देश्य: संसाधन-दायित्व | अर्जन क्षमता | Cash Flow | प्रबंध प्रभावशीलता | सामाजिक प्रभाव | लेखांकन नीतियाँ",
+        "आधार: लाभप्रदता + वित्तीय स्थिति की सूचना"
+      ],
+      "common_mistake": "Students sirf 'profit batana' ko objective maan lete hain — actually earning capacity, cash flows, management effectiveness aur accounting policies disclosure bhi objectives hain.",
+      "memory_trick": "R-E-C-M-S-P: Resources, Earning capacity, Cash flow, Management, Society, Policies — chhe objectives.",
+      "gesture_action": "Ungliyon par 1 se 6 count karke har objective ek shabd mein bolo — Resources, Earning, Cash, Management, Society, Policies",
+      "real_life_examples": [
+        "SEBI/stock exchange filings mein accounting policies note — policy disclosure objective",
+        "CSR / social impact related measurable activities ki reporting — social objective"
+      ],
+      "worked_example": {
+        "problem": "वित्तीय विवरणों के किन्हीं चार उद्देश्यों की व्याख्या कीजिए।",
+        "steps": [
+          "Primary objective mention karo: निर्णय लेने में सहायता",
+          "Chaar objectives choose karo — e.g. आर्थिक संसाधन व दायित्व, अर्जन क्षमता, रोकड़ प्रवाह, प्रबंध प्रभावशीलता",
+          "Har objective ko 2-3 lines mein explain karo with decision-making link"
+        ],
+        "answer": "चार उद्देश्य: (1) आर्थिक संसाधनों एवं दायित्वों की सूचना (2) अर्जन क्षमता की सूचना (3) रोकड़ प्रवाह की सूचना (4) प्रबंध की प्रभावशीलता का आँकलन — प्राथमिक उद्देश्य उपयोगकर्ताओं को निर्णय लेने में सहायता देना है।"
+      },
+      "practice": {
+        "easy": ["वित्तीय विवरणों का प्राथमिक उद्देश्य क्या है?"],
+        "medium": ["रोकड़ प्रवाह संबंधी उद्देश्य की व्याख्या कीजिए — राशि, समयबद्धता एवं अनिश्चितताओं का उल्लेख करते हुए।"],
+        "hard": ["वित्तीय विवरणों के छह उद्देश्यों को सूचीबद्ध कीजिए तथा लेखांकन नीतियों के प्रकटन का महत्व स्पष्ट कीजिए।"]
+      },
+      "summary": "Primary objective decision-making help hai; specific objectives resources-liabilities, earning capacity, cash flows, management effectiveness, social impact aur accounting policies cover karte hain.",
+      "revision_point": "Primary = decision help; remember R-E-C-M-S-P six objectives.",
+      "exam_tip": "CBSE mein aksar 'किन्हीं चार उद्देश्यों' aata hai — pehle list, phir explanation; headings underline karo.",
+      "source_text_hint": "अतः वित्तीय विवरणों का प्राथमिक उद्देश्य उपयोगकर्ताओं को निर्णय लेने में सहायता करना है"
+    },
+    {
+      "concept": "वित्तीय विवरणों के प्रकार",
+      "say": "Section 3.4 — प्रकार. Generally do basic financial statements hote hain: तुलन-पत्र (Balance Sheet) aur लाभ व हानि विवरण (Statement of Profit and Loss). Yeh dono external reporting ke liye bhi zaroori hain aur management ki internal needs — planning, decision-making, control — ke liye bhi. Lekin sirf yeh do kaafi nahi. Business ke funds ke operation aur financial position mein badlav samajhne ke liye रोकड़ प्रवाह विवरण (Cash Flow Statement) bhi taiyar kiya jaata hai. Toh types = Balance Sheet + P&L + Cash Flow. Balance Sheet kisi specific date par financial position dikhata hai — assets aur liabilities/equity. P&L ek period ke during financial performance — income aur expenses — dikhata hai. Cash Flow batata hai cash kahan se aaya aur kahan gaya. Company Act 2013 ke under har registered company apna Balance Sheet, P&L aur Notes to Accounts, Schedule III mein nirdishth reeti ke anusar, accounting standards ki disclosure requirements ke saath taiyar karegi. Board tip: 'types' question mein teeno naam + ek line role zaroor likho. Aur yaad rakho — Notes to Accounts bhi financial statements package ka hissa hain, kyunki disclosures wahan hote hain.",
+      "example": "31 March 2025 ko Balance Sheet 'as on' date ki position dikhayegi; usi din P&L 'for the year ended' 31 March 2025 ki profitability; Cash Flow usi year ke cash movements.",
+      "board_lines": [
+        "दो मूलभूत: तुलन-पत्र + लाभ व हानि विवरण",
+        "अतिरिक्त: रोकड़ प्रवाह विवरण (स्थिति में बदलाव / निधियों का संचालन)",
+        "कानून: कंपनी अधिनियम 2013 + अनुसूची III + Accounting Standards"
+      ],
+      "common_mistake": "Students Trial Balance ko financial statement maan lete hain — Trial Balance internal worksheet hai, final financial statement nahi.",
+      "memory_trick": "P-P-C: Position (Balance Sheet), Performance (P&L), Cash (Cash Flow).",
+      "gesture_action": "Ek haath se 'photo' gesture (Balance Sheet = ek date ka snapshot), doosre se 'movie' gesture (P&L = period ka result), phir pocket se money nikaalne ka gesture (Cash Flow)",
+      "real_life_examples": [
+        "Company annual report PDF mein pehle P&L, phir Balance Sheet, phir Cash Flow Statement hota hai",
+        "Banker loan review mein teenon statements maangta hai — profit ke saath cash generation bhi dekhta hai"
+      ],
+      "worked_example": {
+        "problem": "वित्तीय विवरणों के प्रकार बताइए तथा रोकड़ प्रवाह विवरण की आवश्यकता क्यों पड़ती है?",
+        "steps": [
+          "Do basic types: तुलन-पत्र और लाभ व हानि विवरण",
+          "Additional: रोकड़ प्रवाह विवरण",
+          "Need: निधियों के संचालन एवं वित्तीय स्थिति में बदलाव जानने हेतु"
+        ],
+        "answer": "प्रकार: तुलन-पत्र, लाभ व हानि विवरण तथा रोकड़ प्रवाह विवरण। रोकड़ प्रवाह विवरण इसलिए आवश्यक है ताकि निधियों के संचालन तथा कंपनी की वित्तीय स्थिति में बदलावों की जानकारी मिल सके।"
+      },
+      "practice": {
+        "easy": ["दो मूलभूत वित्तीय विवरणों के नाम लिखिए।"],
+        "medium": ["तुलन-पत्र तथा लाभ व हानि विवरण में अन्तर स्पष्ट कीजिए (किसी एक आधार पर पर्याप्त)।"],
+        "hard": ["कंपनी अधिनियम 2013 के अंतर्गत कंपनी को कौन-कौन से वित्तीय विवरण अनुसूची III के अनुसार तैयार करने होते हैं? संक्षेप में लिखिए।"]
+      },
+      "summary": "Basic types Balance Sheet aur P&L hain; changes in financial position / funds flow ke liye Cash Flow Statement bhi taiyar hota hai — Companies Act 2013 + Schedule III ke anusar.",
+      "revision_point": "Types = BS + P&L + CFS; BS = position on date; P&L = performance for period.",
+      "exam_tip": "Distinguish questions mein 'as on date' vs 'for the period' contrast zaroor likho — easy marks.",
+      "source_text_hint": "वित्तीय विवरणों में सामान्यतः दो प्रकार के विवरण सम्मिलित होते हैं— तुलन-पत्र और लाभ व हानि विवरण"
+    },
+    {
+      "concept": "तुलन-पत्र का प्रारूप एवं विषय-सामग्री (अनुसूची III)",
+      "say": "Ab sabse exam-heavy hissa — Section 3.4.1, Schedule III vertical format. Company Act 2013 ke under Balance Sheet, P&L aur Notes Schedule III ke anusar banenge. Format ऊर्ध्वाकार (vertical) hai. Heading: तुलन-पत्र — वर्षांत 31 मार्च 20.... को. Columns: विवरण | नोट संख्या | वर्तमान रिपोर्टिंग अवधि के अंत में | पिछली रिपोर्टिंग अवधि के अंत में. Equity & Liabilities side pehle: (1) अंशधारक की निधि — (क) अंश पूँजी (ख) आरक्षितियाँ और अधिशेष (ग) अंश वारंटों के प्रति प्राप्त धन; (2) आबंटन लंबित रहने के दौरान अंश आवेदन धन; (3) गैर चालू दायित्व — दीर्घकालिक ऋण, deferred tax liability (net), अन्य दीर्घकालिक दायित्व, दीर्घकालिक उपबंध; (4) चालू दायित्व — अल्पकालिक ऋण, व्यापार देय, अन्य चालू दायित्व, अल्पकालिक उपबंध. Assets side: (1) गैर चालू परिसंपत्तियाँ — स्थाई परिसंपत्तियाँ (मूर्त, अमूर्त, चालू पूँजी संकर्म, विकासाधीन अमूर्त), गैर चालू निवेश, deferred tax assets (net), दीर्घकालिक ऋण और अग्रिम, अन्य गैर-चालू परिसंपत्तियाँ; (2) चालू परिसंपत्तियाँ — चालू निवेश, रहतिया, व्यापार प्राप्य, रोकड़ और रोकड़ तुल्यांक, अल्पकालिक ऋण और अग्रिम, अन्य चालू परिसंपत्तियाँ. Footnote: वित्तीय विवरणों के साथ लगी टिप्पणियाँ देखें. Board tip: sequence aur headings bilkul Schedule III ke hisaab se likho — 'Sundry Debtors/Creditors' ab nahi, 'Trade Receivables/Payables' likho.",
+      "example": "Agar company ke paas long-term bank loan hai toh woh 'गैर चालू दायित्व → दीर्घकालिक ऋण' mein aayega; agar 12 months ke andar payable hai toh 'चालू दायित्व → अल्पकालिक ऋण'.",
+      "board_lines": [
+        "अनुसूची III → ऊर्ध्वाकार प्रारूप; comparative figures (current + previous)",
+        "समता एवं देयताएँ: Shareholders' Funds → Share Application (pending allotment) → Non-current Liabilities → Current Liabilities",
+        "परिसंपत्तियाँ: Non-current Assets (PPE etc.) → Current Assets (inventory, receivables, cash...)"
+      ],
+      "common_mistake": "Students Trade Receivables ko Non-current Assets mein rakh dete hain — normally yeh Current Assets hain; aur 'विविध देनदार/लेनदार' purane naam use karte hain.",
+      "memory_trick": "E-L-A order yaad rakho: Equity & Liabilities pehle, Assets baad mein — Schedule III vertical mein yahi sequence.",
+      "gesture_action": "Board ke left/top par Equity & Liabilities tree banao, right/bottom par Assets tree — students se classify karao (current vs non-current)",
+      "real_life_examples": [
+        "Listed company ke Balance Sheet mein Note numbers har line item ke saath hote hain — details Notes mein",
+        "Factory building = Tangible Fixed Asset (Non-current); raw material stock = Inventory (Current)"
+      ],
+      "worked_example": {
+        "problem": "निम्नलिखित मदों को अनुसूची III के अनुसार तुलन-पत्र में सही शीर्षक के अंतर्गत वर्गीकृत कीजिए: (i) व्यापार प्राप्य (ii) दीर्घकालिक ऋण (iii) अंश पूँजी (iv) रहतिया।",
+        "steps": [
+          "व्यापार प्राप्य → चालू परिसंपत्तियाँ",
+          "दीर्घकालिक ऋण → गैर चालू दायित्व",
+          "अंश पूँजी → अंशधारक की निधि",
+          "रहतिया → चालू परिसंपत्तियाँ"
+        ],
+        "answer": "(i) चालू परिसंपत्तियाँ (ii) गैर चालू दायित्व (iii) अंशधारक की निधि (iv) चालू परिसंपत्तियाँ।"
+      },
+      "practice": {
+        "easy": ["अनुसूची III के अनुसार तुलन-पत्र का प्रारूप ऊर्ध्वाकार है या क्षैतिज?"],
+        "medium": ["गैर चालू दायित्वों की किन्हीं तीन मदों के नाम लिखिए।"],
+        "hard": ["अनुसूची III के अनुसार समता एवं देयताओं तथा परिसंपत्तियों के मुख्य शीर्षक क्रमबद्ध रूप से लिखिए।"]
+      },
+      "summary": "Companies Act 2013 Schedule III vertical Balance Sheet mein Equity & Liabilities aur Assets ko current/non-current mein classify karke comparative figures ke saath present kiya jaata hai.",
+      "revision_point": "Schedule III vertical: Shareholders' Funds → NCL → CL / NCA → CA; Notes zaroor refer.",
+      "exam_tip": "Format/classification questions bahut aate hain — headings ke exact Hindi/English names practice karo; Trade Receivables/Payables terminology use karo.",
+      "source_text_hint": "कंपनी अधिनियम 2013 के अंतर्गत प्रत्येक पंजीकृत कंपनी अपना तुलन-पत्र, लाभ व हानि विवरण एवं खातों की टिप्पणियाँ, अनुसूची III में निर्दिष्ट रीति के अनुसार"
+    },
+    {
+      "concept": "प्रकटन की प्रमुख विशेषताएँ",
+      "say": "Section 3.4.2 — प्रकटन की प्रमुख विशेषताएँ. Yeh board mein short notes ke liye perfect hain. Point-wise suno. Ek: Schedule III Indian companies ke financial statements par lagu hota hai (Companies Act 2013). Do: Insurance ya banking company par, ya jiska format kisi anya Act mein fixed ho, par lagu nahi. Teen: Accounting Standards Schedule III par अभिभावी (prevail) honge — conflict mein AS jeetega. Char: Disclosure financial statements ya Notes mein अनिवार्य तथा अपरिहार्य hai. Paanch: Schedule III ke words ka meaning applicable Accounting Standards jaisa. Chhe: Over-detail aur missing important info ke beech balance — clutter nahi, material info zaroor. Saat: Assets aur liabilities ka current vs non-current classification lagu. Aath: Rounding rules (Box 1) — turnover ₹100 crore se kam: hundreds/thousands/lakhs ya decimals; ₹100 crore ya zyada: lakhs ya nearest decimal. Nau: Presentation vertical format mein. Das: P&L ka debit balance 'अधिशेष' (Surplus) ke under negative figure ki tarah dikhaya jayega. Gyarah: Share application money pending allotment ka alag disclosure zaroori. Barah: 'विविध देनदार/लेनदार' ko 'व्यापारिक प्राप्य/व्यापारिक देय' se replace kiya gaya. Yaad rakho — yeh points 3–4 mark short answers mein seedha aate hain.",
+      "example": "Agar company ka turnover ₹150 crore hai, figures lakhs (ya decimal) mein round karke present karenge — Box 1 ke rule ke anusar.",
+      "board_lines": [
+        "AS > Schedule III (अभिभावी); Banking/Insurance आदि exempt (जहाँ अन्य अधिनियम)",
+        "Current/Non-current classification अनिवार्य; Vertical format",
+        "Rounding: Turnover < ₹100 cr → hundreds/thousands/lakhs; ≥ ₹100 cr → lakhs"
+      ],
+      "common_mistake": "Students sochte hain Schedule III Accounting Standards se upar hai — opposite: Accounting Standards अभिभावी होते हैं।",
+      "memory_trick": "A-S-V-R: AS prevails, Scope exceptions, Vertical format, Rounding rules — char yaadgaar features.",
+      "gesture_action": "Do cards dikhao — ek 'AS', ek 'Schedule III' — AS wala card upar rakhkar 'prevails' act karo",
+      "real_life_examples": [
+        "Bank ka Balance Sheet Banking Regulation Act format follow karta hai — Schedule III general companies ke liye",
+        "Annual report mein figures '₹ in lakhs' likha hota hai — rounding disclosure"
+      ],
+      "worked_example": {
+        "problem": "प्रकटन की किन्हीं चार प्रमुख विशेषताओं का उल्लेख कीजिए।",
+        "steps": [
+          "Accounting Standards Schedule III पर अभिभावी",
+          "Current/Non-current विभाजन लागू",
+          "ऊर्ध्वाकार प्रारूप निर्धारित",
+          "पूर्णांकन आवश्यकताएँ (turnover के आधार पर) अपरिहार्य"
+        ],
+        "answer": "चार विशेषताएँ: (1) लेखांकन मानक अनुसूची III पर अभिभावी (2) चालू/गैर-चालू वर्गीकरण (3) ऊर्ध्वाकार प्रस्तुतीकरण (4) आवर्त पर आधारित पूर्णांकन नियम — साथ ही प्रकटीकरण अनिवार्य।"
+      },
+      "practice": {
+        "easy": ["क्या अनुसूची III बैंकिंग कंपनी पर लागू होती है?"],
+        "medium": ["वित्तीय विवरणों में अंकों के पूर्णांकन के नियम आवर्त के आधार पर लिखिए।"],
+        "hard": ["'लेखांकन मानक कंपनी अधिनियम 2013 की अनुसूची III पर अभिभावी होंगे' — इस कथन का अर्थ एवं महत्व स्पष्ट कीजिए।"]
+      },
+      "summary": "Schedule III disclosure features: AS prevails, scope exceptions, mandatory disclosures, current/non-current split, rounding rules, vertical format, updated terminology (trade receivables/payables).",
+      "revision_point": "AS > Sch. III; Vertical; Current/NCL; Rounding by turnover; Debit P&L → negative Surplus.",
+      "exam_tip": "Rounding rules aur 'AS prevails' almost guaranteed short-answer points hain — exact thresholds (₹100 crore) yaad rakho.",
+      "source_text_hint": "लेखांकन मानक, कंपनी अधिनियम, 2013 की अनुसूची III पर अभिभावी होंगे"
+    },
+    {
+      "concept": "अंशधारक निधियाँ – अंश पूँजी",
+      "say": "Section 3.4.3 — अंशधारक निधियाँ. Balance Sheet mein Shareholders' Funds teen hison mein: (अ) अंश पूँजी (ब) आरक्षितियाँ एवं अधिशेष (स) अंश वारंटों के प्रति प्राप्त धन. Aaj share capital disclosures detail mein. Har class of shares ke liye: period start aur end par outstanding shares ki number identify karna जरूरी. Rights, preferences, restrictions — dividend distribution aur capital repayment par restrictions bhi. Ownership clarity ke liye: holding company / ultimate holding (including subsidiaries/associates) ke shares; 5% se zyada holding wale shareholders with number of shares; aur Balance Sheet date se pehle 5 years mein — fully paid shares allotted for consideration other than cash, bonus shares, buy-back — total number aur class. Share capital ke har class ke liye aur bhi disclosures: authorised number aur amount; issued, subscribed fully paid, subscribed but not fully paid; face value; reconciliation of opening-closing outstanding shares; options/contracts under which shares reserved for issue; convertible securities restrictions with earliest conversion date (descending); unpaid calls (aggregate); forfeited shares (originally paid amount). Important: Shareholders' Funds ki detailed info Notes to Accounts mein hoti hai — Balance Sheet mein limited important items. Example 1 style: Dinkar Ltd authorised capital ₹50,00,000 divided into ₹100 equity shares — applications invited for 40,000, received for 36,000 — yahi share capital working ka base banta hai.",
+      "example": "Dinkar Ltd: Authorised capital ₹50,00,000 = 50,000 equity shares of ₹100; applications invited 40,000; received 36,000 — issued/subscribed figures Notes aur Share Capital note mein clearly dikhne chahiye.",
+      "board_lines": [
+        "Shareholders' Funds = Share Capital + Reserves & Surplus + Money against Share Warrants",
+        "Key disclosures: Authorised/Issued/Subscribed; rights; >5% holders; 5-year bonus/buy-back/non-cash allotment",
+        "विस्तृत सूचना खातों की टिप्पणियों में; तुलन-पत्र में मुख्य मदें"
+      ],
+      "common_mistake": "Students Authorised Capital ko Balance Sheet ke Equity total mein add kar dete hain — Authorised sirf disclosure hai; Balance Sheet mein Issued/Subscribed (called-up related) figures aate hain.",
+      "memory_trick": "A-I-S-R: Authorised, Issued, Subscribed, Reconciliation — share capital note ka skeleton.",
+      "gesture_action": "Board par Share Capital Note ka blank skeleton banao — students se Authorised/Issued/Subscribed numbers fill karao",
+      "real_life_examples": [
+        "IPO prospectus mein authorised vs issued capital clearly alag-alag dikhaya jaata hai",
+        "Promoter holding >5% — annual report Shareholding pattern / notes mein disclose hota hai"
+      ],
+      "worked_example": {
+        "problem": "दिनकर लिमिटेड की अधिकृत पूँजी 50,00,000 रु. है जो 100 रु. प्रति समता अंश में विभाजित है। कंपनी ने 40,000 अंशों के लिए आवेदन आमंत्रित किए जबकि 36,000 अंशों के लिए आवेदन प्राप्त हुए। अधिकृत अंशों की संख्या तथा अभिदत्त अंशों की संख्या ज्ञात कीजिए।",
+        "steps": [
+          "अधिकृत अंश = 50,00,000 ÷ 100 = 50,000 अंश",
+          "आवेदन प्राप्त = 36,000 अंश → ये अभिदत्त (subscribed) माने जाएँगे (जब आबंटित/स्वीकृत हों)",
+          "आमंत्रित 40,000 से अभिदत्त कम हो सकते हैं — यहाँ प्राप्त आवेदन 36,000"
+        ],
+        "answer": "अधिकृत अंश = 50,000; आवेदन प्राप्त/अभिदत्त आधार = 36,000 समता अंश (₹100 प्रति)।"
+      },
+      "practice": {
+        "easy": ["अंशधारक निधियों के तीन उप-विभागों के नाम लिखिए।"],
+        "medium": ["अंश पूँजी के संबंध में अनुसूची III के अंतर्गत किन्हीं चार प्रकटीकरण आवश्यकताओं का उल्लेख कीजिए।"],
+        "hard": ["तुलन-पत्र की तिथि से ठीक पूर्ववर्ती पाँच वर्षों के लिए अंश पूँजी संबंधी कौन-सी सूचनाएँ प्रकट करनी होती हैं? विस्तार से लिखिए।"]
+      },
+      "summary": "Shareholders' Funds mein Share Capital ke liye Schedule III detailed disclosures maangta hai — authorised/issued/subscribed, rights, major holders, 5-year history — details Notes mein.",
+      "revision_point": "Authorised ≠ Balance Sheet liability total; disclose A/I/S, rights, >5%, 5-yr bonus/buyback/non-cash.",
+      "exam_tip": "Practical + theory mix: share capital note banana aur disclosure points — dono practice karo; Example 1 type numericals common hain.",
+      "source_text_hint": "तुलन-पत्र में अंशधारक निधियों को उप-विभाजित किया गया है (अ) अंश पूँजी (ब) आरक्षितियाँ एवं अधिशेष (स) अंश वारंटों के प्रति प्राप्त धन"
+    },
+    {
+      "concept": "आरक्षितियाँ, अधिशेष एवं अंश वारंट",
+      "say": "Ab Reserves & Surplus aur Share Warrants. Schedule III ke anusar आरक्षितियाँ और अधिशेष classify hongi: (i) पूँजी आरक्षितियाँ (ii) पूँजी विमोचन आरक्षितियाँ (iii) प्रतिभूति प्रीमियम आरक्षिती (iv) ऋणपत्र विमोचन आरक्षिती (v) पुनर्मूल्यांकन आरक्षिती (vi) अंश विकल्प बकाया खाता (vii) अन्य आरक्षितियाँ — har reserve ki nature aur purpose specify (viii) अधिशेष — P&L ka balance; dividends, bonus shares, transfers to/from reserves jaise appropriations disclose. Important amendments/points: (अ) Agar reserve specific investments se represented hai toh use 'निधि' (Fund) kahenge. (ब) P&L ka debit balance Surplus heading ke under negative figure. (स) Reserves & Surplus ka balance Surplus ke negative balance adjust karke dikhaya jayega — even if result negative ho. (द) Outstanding Share Options Account alag item — ICAI guidance note ke anusar credit balance Shareholders' Funds ke under alag heading. Share Warrants: kisi specific date par fixed rate par shares mein convert karne ke liye jo money mili — instrument ko share warrant kehte hain. 'अंश वारंटों के प्रति प्राप्त धन' Shareholders' Funds ke under alag heading. Board tip: classification list ratto; negative surplus treatment alag se yaad rakho — confusion yahin hoti hai.",
+      "example": "Agar company ka P&L debit balance ₹2,00,000 hai aur Reserves ₹5,00,000, toh Reserves & Surplus mein Surplus ko negative dikhakar net adjust karenge — Schedule III ke niyam ke anusar.",
+      "board_lines": [
+        "R&S: Capital Reserve, CRR, Securities Premium, DRR, Revaluation, Share Options Outstanding, Other, Surplus",
+        "P&L Debit → Surplus में ऋणात्मक; R&S negative Surplus adjust करके दिखाएँ",
+        "Share Warrants money → Shareholders' Funds में अलग शीर्षक"
+      ],
+      "common_mistake": "Students P&L ke loss ko Assets side ya fictitious asset ki tarah dikha dete hain — Schedule III mein ise Surplus ke under negative figure dikhana hai.",
+      "memory_trick": "C-C-S-D-R-O-O-S: Capital, CRR, Securities Premium, DRR, Revaluation, Options, Other, Surplus — reserves order yaadgaar.",
+      "gesture_action": "Plus-minus cards: Surplus green (+), Debit balance red (−) — dikhao ki negative Surplus R&S ke under adjust hota hai",
+      "real_life_examples": [
+        "IPO mein share premium → Securities Premium Reserve (often used as per Companies Act rules)",
+        "ESOP schemes mein Share Options Outstanding Account Balance Sheet mein alag se dikhta hai"
+      ],
+      "worked_example": {
+        "problem": "एक कंपनी के लाभ-हानि विवरण का डेबिट अतिशेष ₹1,50,000 है तथा अन्य आरक्षितियाँ ₹4,00,000 हैं। अनुसूची III के अनुसार आरक्षितियाँ और अधिशेष कैसे दर्शाए जाएँगे?",
+        "steps": [
+          "P&L debit balance को 'अधिशेष' शीर्ष के अंतर्गत ऋणात्मक आंकड़े के रूप में दिखाएँ = (1,50,000)",
+          "आरक्षितियाँ 4,00,000 से ऋणात्मक अधिशेष समायोजित करें",
+          "Net Reserves & Surplus = 4,00,000 − 1,50,000 = 2,50,000"
+        ],
+        "answer": "अधिशेष को ऋणात्मक ₹1,50,000 दिखाया जाएगा तथा आरक्षितियाँ और अधिशेष का अतिशेष समायोजन के बाद ₹2,50,000 दर्शाया जाएगा।"
+      },
+      "practice": {
+        "easy": ["आरक्षितियों और अधिशेष के अंतर्गत किन्हीं चार मदों के नाम लिखिए।"],
+        "medium": ["लाभ-हानि विवरण के डेबिट अतिशेष को अनुसूची III में कैसे दर्शाया जाता है?"],
+        "hard": ["अंश वारंटों के प्रति प्राप्त धन क्या है? इसे तुलन-पत्र में कहाँ दिखाया जाता है? अंश विकल्प बकाया खाते से अंतर भी स्पष्ट कीजिए।"]
+      },
+      "summary": "Reserves & Surplus Schedule III classification follow karti hai; P&L debit = negative Surplus; share warrant money aur share options outstanding Shareholders' Funds ke under alag headings hain.",
+      "revision_point": "R&S list + negative Surplus rule + Share Warrants alag heading + Options Outstanding alag item.",
+      "exam_tip": "Negative surplus aur 'Fund vs Reserve' distinction short notes mein poochha jaata hai — exact Schedule III language use karo.",
+      "source_text_hint": "लाभ और हानि विवरण के डेबिट अतिशेष को 'अधिशेष' शीर्ष के अधीन ऋणात्मक आंकड़े के रूप में दर्शाया जाएगा"
+    }
+  ]
+}
