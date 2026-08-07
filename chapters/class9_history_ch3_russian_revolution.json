@@ -1,0 +1,316 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 655,
+    "chapter_name": "यूरोप में समाजवाद एवं रूसी क्रांति",
+    "chapter_number": 3,
+    "book_name": "Class 9 History (India and the Contemporary World-I)",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "History"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 History ke Chapter 3 — यूरोप में समाजवाद एवं रूसी क्रांति — ko padhenge. Is chapter mein pehle Europe ke liberals, radicals aur conservatives ke ideas, industrial society ki problems, aur socialism ka aana (Robert Owen, Louis Blanc, Karl Marx) samjhenge. Phir Russian Empire 1914, uski economy-society, aur Russia mein socialism ke early organisations tak pahunchenge — taaki aap clearly samajh sako ki Russian Revolution ka background kaise bana.",
+    "welcome": "Good morning, class! Aaj Smart Board par ek bahut powerful history chapter shuru karte hain — यूरोप में समाजवाद एवं रूसी क्रांति. Socho: agar kisi desh mein sirf ameer log vote kar sakein, mazdoor factories mein 12-15 ghante kaam karein, aur farmers zameen ke liye taras rahein — toh log change kyun maangenge? Aaj hum wahi political aur social ideas samjhenge jo Europe se Russia tak pahunche. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "Liberals, radicals aur conservatives ke political ideas ko compare karke unke differences clearly batana",
+      "Industrial society ki samasyaon (long hours, low wages, unemployment, housing) ko social change se jodna",
+      "Socialism ka private property critique, cooperatives (Owen, Blanc) aur Marx-Engels ke communist vision ko explain karna",
+      "1870 ke baad Europe mein socialist support — Second International, parties aur Paris Commune — ko identify karna",
+      "1914 ke Russian Empire, uski agrarian-industrial society aur Russia mein early socialist parties (RSDWP, SR) ka background samajhna"
+    ],
+    "concepts": [
+      {"number": 1, "name": "उदारवादी, रैडिकल और रुढ़िवादी विचारधाराएँ"},
+      {"number": 2, "name": "औद्योगिक समाज और सामाजिक परिवर्तन"},
+      {"number": 3, "name": "यूरोप में समाजवाद का आना – निजी संपत्ति और सहकारी विचार"},
+      {"number": 4, "name": "कार्ल मार्क्स, एंगेल्स और साम्यवादी समाज"},
+      {"number": 5, "name": "समाजवाद के लिए समर्थन – इंटरनैशनल, पार्टियाँ और पेरिस कम्यून"},
+      {"number": 6, "name": "रूसी साम्राज्य, 1914 – राजशाही और साम्राज्य का विस्तार"},
+      {"number": 7, "name": "रूस की अर्थव्यवस्था और समाज – किसान, मजदूर और मीर"},
+      {"number": 8, "name": "रूस में समाजवाद – RSDWP और समाजवादी क्रांतिकारी पार्टी"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "उदारवादी, रैडिकल और रुढ़िवादी विचारधाराएँ",
+      "say": "Bacchon, French Revolution ke baad Europe mein ek bada debate chala — society aur government kaise honi chahiye? Teen bade political streams hain: liberals, radicals aur conservatives. Liberals chahte the freedom of individuals, end of privileges of clergy and aristocracy, aur representative government. Lekin dhyan dena — bahut se liberals universal adult franchise ke paksh mein nahi the. Unka manna tha ki vote ka adhikar sirf property-holders ko milna chahiye. Radicals iske bilkul opposite side par the. Woh aisi government chahte the jo desh ki aabadi ke bahumat ke support par based ho. Bahut se radicals women suffrage movement ke bhi supporters the — matlab mahilaon ko bhi vote milna chahiye. Liberals ke contrary, radicals bade zamindaron aur sampann industrialists ke kisi bhi special privilege ke khilaaf the. Woh private property ke complete enemies nahi the, lekin sirf kuch logon ke paas property ke concentration ka zaroor virodh karte the. Conservatives liberals aur radicals dono ke against the. Purane time mein, 18th century mein, conservatives usually change ke ideas ka virodh karte the. Lekin French Revolution ke baad, aur 19th century tak aate-aate, woh bhi maanane lage ki kuch change zaroori hai — par past ka samman hona chahiye, past ko poori tarah thukraya na jaaye, aur badlav dheema ho. 1815 ke baad kuch nationalists, liberals aur radicals revolution ke paksh mein the — France, Italy, Germany, Russia mein kings ke against attempts hue. Italy ke nationalist Giuseppe Mazzini ne supporters ke saath raja ke against conspiracy rachi; India samet duniya bhar ke nationalists uski rachnaayein padhte the. Yaad rakho: Liberals = limited reform + property-based vote; Radicals = majority rule + against privilege concentration; Conservatives = slow change with respect for past.",
+      "example": "School council election socho — Liberal type bolega sirf top scorers vote karein; Radical bolega har student vote kare; Conservative bolega pehle wala system dheere-dheere hi badlo.",
+      "board_lines": [
+        "Liberals: individual freedom, end of privileges; vote often only for property-holders",
+        "Radicals: government based on majority; many supported women’s suffrage; against concentration of property",
+        "Conservatives: after French Revolution accepted some change — but slow, with respect for the past"
+      ],
+      "common_mistake": "Students liberals aur radicals ko same samajh lete hain — actually liberals often wanted limited franchise for property-owners, while radicals wanted majority-based government and opposed privilege of the rich.",
+      "memory_trick": "L-R-C: Liberals = Limited vote; Radicals = Majority Rule; Conservatives = Careful (slow) Change.",
+      "gesture_action": "Teen students ko L, R, C labels do — L sirf do ‘property’ cards wale ko vote de, R poori class ko vote de, C dheere-dheere seat change kare",
+      "real_life_examples": [
+        "Village panchayat debate — kuch log sirf zameen-walon ko adhikar dena chahte hain (liberal-style limit), kuch sabko equal say chahte hain (radical-style)",
+        "School rules badalte waqt kuch teachers poora naya system chahte hain, kuch purane rules ka respect rakhte hue dheere change (conservative approach)"
+      ],
+      "worked_example": {
+        "problem": "Ek statement: ‘Liberals aur radicals dono private property ke complete enemies the.’ Sahi ya galat? Reason do.",
+        "steps": [
+          "Source se recall: radicals private property ke virodhi nahi the",
+          "Woh sirf kuch logon ke paas property ke concentration ka virodh karte the",
+          "Liberals bhi industrial/trade property ke supporters the — isliye statement galat hai"
+        ],
+        "answer": "Galat. Radicals private property ke complete enemies nahi the; woh concentration of property ka virodh karte the. Liberals bhi individual enterprise aur property efforts ko support karte the."
+      },
+      "practice": {
+        "easy": ["Liberals vote ka adhikar kis tak seemit rakhna chahte the?"],
+        "medium": ["Radicals aur liberals mein private property/privileges ke mudde par do antar likho."],
+        "hard": ["Conservatives 18th century aur 19th century mein change ke baare mein kaise alag sochne lage? French Revolution ke asar ke saath explain karo."]
+      },
+      "summary": "French Revolution ke baad Europe mein liberals (limited reform), radicals (majority rule) aur conservatives (slow change with respect for past) teen alag political streams ban gaye.",
+      "revision_point": "Liberals ≠ universal vote; Radicals = majority + against privilege concentration; Conservatives = gradual change.",
+      "exam_tip": "3-mark comparison table banao: Liberals | Radicals | Conservatives — franchise, privileges, attitude to change — examiner ko clear points pasand aate hain.",
+      "source_text_hint": "उनका मानना था कि वोट का अधिकार केवल संपत्तिधारियों को ही मिलना चाहिए"
+    },
+    {
+      "concept": "औद्योगिक समाज और सामाजिक परिवर्तन",
+      "say": "Ab section 1.2 — औद्योगिक समाज और सामाजिक परिवर्तन. Yeh political ideas ek naye yug ka dyotak the — deep social aur economic changes ka daur. Naye shehar bas rahe the, naye industrial areas develop ho rahe the, railways ka kaafi vistaar ho chuka tha, aur Industrial Revolution sampann ho chuki thi. Industrialisation ne auraton-aadmiyon aur bachchon — sabko factories mein la diya. Kaam ke ghante yaani shifts bahut lambe hote the aur mazdoori bahut kam thi. Berrozgari aam samasya thi. Jab industrial goods ki maang girti thi, berrozgari aur badh jaati thi. Shehar tezi se baste aur failte ja rahe the, isliye aawas aur saaf-safai ka kaam bhi mushkil hota ja raha tha. Liberals aur radicals dono in problems ka hal dhoondhne ki koshish kar rahe the. Lagbhag sab industries individual ownership mein the. Bahut se radicals aur liberals ke paas khud kaafi property thi aur unke yahan bahut log naukri karte the. Unhone trade ya industrial businesses se dhan ikattha kiya tha, isliye woh chahte the ki aise efforts ko zyada se zyada badhava mile. Unhe lagta tha agar mazdoor swasth hon aur nagrik padhe-likhe hon, toh is vyavastha ka bharpoor labh liya ja sakta hai. Yeh log birth-based privileges ke viruddh the. Individual effort, labour aur enterprise mein unka gehra vishwas tha. Unki manyata thi ki agar har ek ko individual liberty di jaaye, gareebon ko rozgar mile, aur jinke paas capital hai unhe bina rok-tok kaam karne ka mauka diya jaaye, toh society tarakki kar sakti hai. Isliye 19th century ke shuruati dashakon mein society change ke ichchuk bahut se working men and women liberal aur radical groups ke ird-gird mobilise ho gaye. Henry Mayhew ki book London Labour and the London Poor (1861) us daur ke London ke gareebon ki dasha dikhati hai. Yaad rakho: industrial boom ke saath poverty, long hours aur dirty cities bhi aayi — yahi tensions ne political ideas ko tezi di.",
+      "example": "Aaj bhi agar kisi shehar mein factories badhein lekin mazdooron ke ghar, paani, saafai na hon — toh wahi 19th-century industrial problem modern form mein dikhti hai.",
+      "board_lines": [
+        "Industrial age: new cities, industrial regions, railways, Industrial Revolution",
+        "Problems: long shifts, low wages, unemployment, poor housing & sanitation",
+        "Liberals/Radicals: opposed birth privileges; trusted individual liberty, work & enterprise"
+      ],
+      "common_mistake": "Students sochte hain liberals/radicals mazdoor ke complete enemies the — actually kai log industrial problems solve karna chahte the, lekin unka solution individual liberty + enterprise pe based tha, socialism jaisa nahi.",
+      "memory_trick": "CITY-WORK: Cities grow + Work long hours + Wages low + Unemployment rises + Rights debates — Industrial Society formula.",
+      "gesture_action": "Clock ki taraf haath ghumate hue ‘12-15 hours’ dikhao, phir empty pocket gesture se low wages, phir crowded classroom se city housing problem act out karo",
+      "real_life_examples": [
+        "Railway town ya mill area mein suddenly population badhna — housing aur toilet/water ki kami",
+        "Seasonal factory demand girne par temporary workers ki naukri jaana — unemployment spike"
+      ],
+      "worked_example": {
+        "problem": "Industrialisation ne Europe ke shehron mein kaun-kaun si samasyaayein paida kiin? Chaar points likho.",
+        "steps": [
+          "Factories mein men, women, children — long working hours aur low wages",
+          "Demand girne par unemployment badhna",
+          "Cities tezi se failne se housing aur sanitation mushkil",
+          "Nearly all industries privately owned — wealth aur power concentrated"
+        ],
+        "answer": "Long shifts/low wages; widespread unemployment (worse when demand fell); housing & sanitation crisis in fast-growing cities; private ownership of most industries with related inequalities."
+      },
+      "practice": {
+        "easy": ["Industrial Revolution ke daur mein factories mein kaam ke ghante aur mazdoori ke baare mein ek-ek line likho."],
+        "medium": ["Liberals aur radicals industrial problems ka hal kis tarah ke ideas se dhoondhna chahte the?"],
+        "hard": ["‘Industrial society ne political ideas ko kyun tezi di?’ — social problems aur liberal/radical mobilisation ko jodkar paragraph likho."]
+      },
+      "summary": "Industrial Revolution ne naye shehar aur factories ke saath long hours, low wages, unemployment aur dirty housing bhi laayi — liberals aur radicals inke solutions individual liberty aur enterprise mein dhoondhte the.",
+      "revision_point": "Industrial boom = factories + railways + cities; cost = long hours, low pay, unemployment, poor sanitation.",
+      "exam_tip": "‘Describe the social problems created by industrialisation’ type question mein hamesha wages, hours, unemployment, housing/sanitation — yeh chaar points cover karo.",
+      "source_text_hint": "औद्योगीकरण ने औरतों-आदमियों और बच्चों, सबको कारखानों में ला दिया"
+    },
+    {
+      "concept": "यूरोप में समाजवाद का आना – निजी संपत्ति और सहकारी विचार",
+      "say": "Section 1.3 — यूरोप में समाजवाद का आना. Society ke punargathan ki sabse dooragami drishti shayad socialism ne di. 19th century ke madhya tak Europe mein socialism ek jana-pehchana idea ban chuka tha. Socialists private property ke virodhi the — matlab property par private ownership ko sahi nahi maante the. Unka kehna tha ki private ownership of property hi saari problems ki jad hai. Kyun? Unka tark tha: bahut logon ke paas property hoti hai jisse doosron ko rozgar bhi milta hai, lekin property-holder ko sirf apne fayde se matlab rehta hai — woh unke baare mein nahi sochta jo uski property ko productive banate hain. Isliye agar property par kisi ek vyakti ke bajay poore society ka control ho, toh shared social interests par zyada achhi tarah dhyan diya ja sakta hai. Socialists ne is change ke liye bade scale par abhiyan chalaya. Future ki vision alag-alag thi. Kuch socialists ko cooperative yani samuhik udyam mein dilchaspi thi. England ke famous industrialist Robert Owen (1771–1858) ne Indiana (America) mein New Harmony ke naam se ek naye tarah ke community ki rachna ka prayas kiya. Kuch socialists maante the ki sirf individual initiative se bahut bade collective farms nahi banaye ja sakte — woh chahte the ki government khud collective farming ko badhava de. France mein Louis Blanc (1813–1882) chahte the ki government capitalist enterprises ki jagah collective enterprises ko promote kare. Cooperatives aise logon ke groups the jo milkar cheezein banate the aur munafa har member ke kiye gaye kaam ke hisaab se baant lete the. Classroom tip: socialism ka core question yaad rakho — private profit pehle, ya social interest pehle? Cooperatives ek practical experiment the is sawaal ka jawab dene ka.",
+      "example": "Village dairy cooperative socho — doodh milkar becha jaaye aur munafa kaam ke hisaab se baante; yahi idea Europe ke early socialists ke cooperatives jaisa hai.",
+      "board_lines": [
+        "Socialists opposed private ownership of property as root of problems",
+        "Wanted social control of property for common social interests",
+        "Owen → New Harmony (cooperative community); Blanc → state-supported collective enterprises"
+      ],
+      "common_mistake": "Students sochte hain socialism matlab ‘koi property nahi hogi bilkul’ aur log bekam honge — NCERT ke hisaab se socialists chahte the property par social/collective control, aur cooperatives mein munafa kaam ke hisaab se baanta jaata tha.",
+      "memory_trick": "S-O-B: Socialism Opposed private monopoly; Owen = cooperative community; Blanc = government-backed collectives.",
+      "gesture_action": "Ek student akela ‘factory owner’ bane (private), phir poori class circle bana kar ‘cooperative’ dikhaye jahan munafa baanta jaaye",
+      "real_life_examples": [
+        "Farmers’ producer company / dairy society — members milkar produce bechte hain",
+        "School garden project jahan sab milkar ugate hain aur faayda class fund mein jaata hai"
+      ],
+      "worked_example": {
+        "problem": "Private property ke baare mein capitalist/liberal view aur socialist view mein do antar batao.",
+        "steps": [
+          "Capitalist/liberal side: individual ownership, enterprise aur profit ko encourage karna; liberty + capital without excessive restriction",
+          "Socialist side: private ownership problems ki jad; property par social/collective control",
+          "Second difference: cooperatives/collective enterprises vs privately owned factories for private profit"
+        ],
+        "answer": "(1) Liberals/capitalists private ownership aur individual enterprise support karte hain; socialists private ownership ko root problem maante hain. (2) Socialists social/collective control aur cooperatives chahte hain; capitalist system mein factories mainly private profit ke liye chalti hain."
+      },
+      "practice": {
+        "easy": ["Robert Owen ne America mein kaunsa cooperative community banane ki koshish ki?"],
+        "medium": ["Socialists private property ko problems ki jad kyun maante the? Unka tark apne shabdon mein likho."],
+        "hard": ["Louis Blanc aur Robert Owen ke approaches mein similarity aur difference explain karo — individual initiative vs government support."]
+      },
+      "summary": "Socialism ne kaha private property social problems ki jad hai; Owen aur Blanc jaise thinkers cooperatives aur collective enterprises se samaj ko reorganise karna chahte the.",
+      "revision_point": "Socialism = social control of property; Owen (New Harmony); Blanc (state-aided collectives); cooperatives share profit by work.",
+      "exam_tip": "‘What were the ideas of early socialists?’ mein hamesha (a) critique of private property (b) Owen (c) Blanc/cooperatives — teenon mention karo.",
+      "source_text_hint": "समाजवादी निजी संपत्ति के विरोधी थे"
+    },
+    {
+      "concept": "कार्ल मार्क्स, एंगेल्स और साम्यवादी समाज",
+      "say": "Ab socialism ke sabse influential thinkers — Karl Marx (1818–1882) aur Friedrich Engels (1820–1895). Marx ka vichar tha ki industrial society ‘capitalist’ society hai. Factories mein lagi capital par capitalists ka ownership hai, aur capitalists ka munafa mazdooron ki mehnat se paida hota hai. Marx ka nishkarsh tha: jab tak private capitalists isi tarah munafa ka sanchay karte jayenge, tab tak mazdooron ki stithi mein sudhaar nahi ho sakta. Apni stithi sudharne ke liye mazdooron ko capitalism aur private property par aadharit shasan ko ukhaad phenkna hoga. Marx ka vishwas tha ki khud ko capitalist shoshan se mukt karane ke liye mazdooron ko ek atyant bhinn tarah ka society banana hoga jismein saari property par poore society ka — yani social — control aur ownership rahega. Unhone future ke is society ko communist (साम्यवादी) society ka naam diya. Marx ko vishwas tha ki capitalists ke saath hone wale struggle mein jeet antatah mazdooron ki hi hogi; unki raay mein communist society hi future ka society hoga. Board tip: pehle socialism broad idea tha — private property ka virodh aur social interest. Marx ne isme class struggle aur workers’ revolution ka strong theory add kiya. Common classroom confusion: socialism aur communism words kabhi loosely use hote hain, lekin NCERT mein Marx clearly future society ko communist society kehta hai jahaan social ownership hoga. Yaad rakho chain: Capitalist profit from workers’ labour → workers remain poor → overthrow capitalist rule → social ownership → communist society.",
+      "example": "Factory socho jahaan malik machine ka owner hai aur mazdoor 12 ghante kaam karke kam salary lete hain — Marx kehte ki munafa asal mein usi mehnat se banta hai, isliye system workers ke against hai.",
+      "board_lines": [
+        "Industrial society = capitalist society (Marx)",
+        "Capitalists own capital; profit comes from workers’ labour",
+        "Solution: overthrow capitalist rule → social ownership → communist society"
+      ],
+      "common_mistake": "Students Marx ko sirf ‘private property khatam’ tak seemit kar dete hain — incomplete. Marx specifically workers’ struggle, overthrow of capitalist rule, aur communist society with social ownership batate hain.",
+      "memory_trick": "M-E-C: Marx & Engels → Exploit Capital → Communist society with Collective ownership.",
+      "gesture_action": "Ek taraf ‘capitalist’ (owner gesture), doosri taraf group of ‘workers’; phir workers saath milkar board par ‘SOCIAL OWNERSHIP’ likhein",
+      "real_life_examples": [
+        "Film/story jahaan factory owner rich ho aur workers poor — class inequality ka simple picture",
+        "Trade union meeting jahaan workers better wages ke liye organize hote hain — Marx ke ‘workers unite’ idea ka soft modern echo"
+      ],
+      "worked_example": {
+        "problem": "Marx ke anusar mazdooron ki stithi mein sudhaar kab tak nahi ho sakta, aur unhe kya karna hoga?",
+        "steps": [
+          "Jab tak private capitalists munafa ka accumulation karte rahenge, workers ki condition improve nahi hogi",
+          "Workers ko capitalism aur private-property based rule ko overthrow karna hoga",
+          "Unhe aisa society banana hoga jahaan property par social ownership/control ho — communist society"
+        ],
+        "answer": "Marx ke anusar jab tak capitalists munafa sanchay karte rahenge tab tak workers ki stithi nahi sudhegi; unhe capitalist rule ukhaadkar social ownership wala communist society banana hoga."
+      },
+      "practice": {
+        "easy": ["Karl Marx aur Friedrich Engels ke janm-varsh likho."],
+        "medium": ["Marx industrial society ko ‘capitalist society’ kyun kehte hain? Short explanation do."],
+        "hard": ["Marx ke communist society aur earlier cooperative socialism (Owen/Blanc) mein kya farq hai? Ownership aur change ke tareeke ke aadhaar par likho."]
+      },
+      "summary": "Marx-Engels ne kaha industrial society capitalist hai jahaan munafa workers ki mehnat se aata hai; workers ko capitalist rule hataakar social ownership wala communist society banana hoga.",
+      "revision_point": "Capitalist profit ← workers’ labour; cure = overthrow capitalism → social ownership → communism.",
+      "exam_tip": "Marx wale answers mein teen keywords zaroor: capitalist society, accumulation of profits, communist society with social ownership.",
+      "source_text_hint": "मार्क्स का विचार था कि औद्योगिक समाज ‘पूँजीवादी’ समाज है"
+    },
+    {
+      "concept": "समाजवाद के लिए समर्थन – इंटरनैशनल, पार्टियाँ और पेरिस कम्यून",
+      "say": "Section 1.4 — समाजवाद के लिए समर्थन. 1870s tak socialist ideas poore Europe mein fail chuke the. Apne prayason mein coordination lane ke liye socialists ne Second International naam ki ek international body bana li. England aur Germany ke workers ne apni life aur working conditions sudharne ke liye organisations banana shuru kiya. Crisis ke time members ki madad ke liye funds banaye, aur working hours mein kami aur voting rights (franchise) ke liye awaaz uthayi. Germany mein in organisations ke Social Democratic Party (SPD) ke saath kaafi gehre rishte the; parliamentary elections mein woh party ki madad bhi karte the. 1905 tak Britain ke socialists aur trade union activists ne Labour Party naam se apni alag party bana li. France mein bhi Socialist Party bani. Lekin 1914 tak Europe mein socialists kahin bhi government banana mein kamiyab nahi ho paaye. Parliamentary politics mein unke representatives badi sankhya mein jeette rahe, unhone laws banwane mein bhi aham role nibhaya, magar governments mein conservatives, liberals aur radicals ka hi dabba bana raha. Ab ek famous event — Paris Commune, 1871. March se May 1871 ke beech Paris ki municipal council (Commune) par workers, common people, professionals aur political activists ki ‘people’s government’ ne kabza kar liya tha. Yeh French government ki policies ke against rising discontent se paida hui. Ant mein government troops ne ise crush kar diya, lekin duniya bhar ke socialists ne ise socialist revolution ki poorvapeethika ke roop mein celebrate kiya. Paris Commune do cheezon ke liye bhi yaad hai: workers ke red flag ka uday — Communards ne yahi jhanda choose kiya; aur ‘Marseillaise’, jo is event ke baad Paris Commune aur liberation struggle ka pratik ban gaya (originally 1792 ka war song). Yaad rakho: ideas fail gaye, parties bani, influence badha — lekin 1914 se pehle Europe mein socialist government nahi bani. Russia mein yeh samikaran badalega.",
+      "example": "School clubs alag-alag rooms mein kaam karein toh weak rehte hain; agar ek ‘federation’ bana lein — Second International jaisa coordination — toh unki awaaz tezz hoti hai.",
+      "board_lines": [
+        "1870s: socialist ideas spread; Second International formed",
+        "Workers’ associations → shorter hours, franchise; SPD (Germany), Labour Party (Britain, 1905), Socialist Party (France)",
+        "Paris Commune 1871: crushed, but celebrated; red flag + Marseillaise remembered"
+      ],
+      "common_mistake": "Students sochte hain 1914 se pehle Europe mein socialists already governments chala rahe the — NCERT clearly kehti hai 1914 tak woh government banana mein kamiyab nahi hue.",
+      "memory_trick": "S-P-L-C: Second International → Parties (SPD/Labour) → Limits till 1914 → Commune 1871 (red flag).",
+      "gesture_action": "Red cloth/scarf ko ‘red flag of Communards’ banao; phir calendar par 1871 aur 1914 mark karke ‘ideas yes, government no’ dikhao",
+      "real_life_examples": [
+        "Workers’ union strike fund — crisis mein members ki madad, jaise European workers’ associations ke funds",
+        "Election campaign jahaan party aur unions saath kaam karein — SPD-worker organisation link jaisa"
+      ],
+      "worked_example": {
+        "problem": "Paris Commune (1871) ko aaj bhi kyun yaad kiya jaata hai? Teen points likho.",
+        "steps": [
+          "March–May 1871 mein Paris par people’s government (workers, common people, professionals, activists)",
+          "Though crushed, socialists worldwide celebrated it as a prelude to socialist revolution",
+          "Remembered for rise of workers’ red flag and for Marseillaise becoming a symbol of the Commune/liberation struggle"
+        ],
+        "answer": "Paris Commune ek people’s government tha jo crush ho gaya, lekin socialists ne ise socialist revolution ki poorvapeethika maana; red flag aur Marseillaise ke symbols ke liye bhi yaad hai."
+      },
+      "practice": {
+        "easy": ["Second International kyun banayi gayi?"],
+        "medium": ["1914 tak Europe mein socialist parties ka influence kya tha aur limitation kya thi?"],
+        "hard": ["Paris Commune ko ‘failure’ ke bawajood socialist memory mein important kyun maana gaya? Symbols ke saath evaluate karo."]
+      },
+      "summary": "1870s ke baad socialism Europe mein faila — Second International, workers’ associations aur parties bani; Paris Commune 1871 crush hui lekin iconic bani; phir bhi 1914 tak socialists government nahi bana sake.",
+      "revision_point": "Spread + organisation yes; government power in Europe before 1914 = no; Commune = red flag memory.",
+      "exam_tip": "Dates yaad rakho: Paris Commune 1871; Britain Labour Party by 1905; ‘no socialist government in Europe till 1914’ — yeh line high-scoring hai.",
+      "source_text_hint": "1870 का दशक आते-आते समाजवादी विचार पूरे यूरोप में फैल चुके थे"
+    },
+    {
+      "concept": "रूसी साम्राज्य, 1914 – राजशाही और साम्राज्य का विस्तार",
+      "say": "Ab Part 2 — रूसी क्रांति. Europe ke sabse pichhade industrial countries mein se ek, Russia mein, yeh samikaran ulat gaya. 1917 ki October Revolution ke through Russia ki satta par socialists ne kabza kar liya. February 1917 mein rajshahi ka patan aur October ki ghatnaayein — isi ko October Revolution kaha jaata hai. Lekin pehle background: Section 2.1 — रूसी साम्राज्य, 1914. 1914 mein Russia aur uske poore empire par Tsar Nicholas II ka shasan tha. Moscow ke aas-paas ke area ke alawa aaj ka Finland, Latvia, Lithuania, Estonia, tatha Poland, Ukraine aur Belarus ke kuch hisse Russian Empire ke ang the. Yeh empire Pacific Ocean tak faila hua tha, aur aaj ke Central Asian states ke saath-saath Georgia, Armenia aur Azerbaijan bhi isi empire ke antargat aate the. Russia mein Greek Orthodox Church se upji shakha — Russian Orthodox Christianity — ko manne wale bahumat mein the. Lekin empire ke tahat rehne walon mein Catholics, Protestants, Muslims aur Buddhists bhi shamil the. Matlab: ek bahut bada, multi-national, multi-religious empire, jiska centre autocratic Tsar tha. Map tip: NCERT map 1914 Europe dikhata hai — Russian Empire, Central Powers, Allies, neutral states. Classroom hook: itna bada empire + industrial backwardness + Tsarist rule — yahi combination later revolutions ka stage banega. Abhi sirf setting yaad rakho: Who ruled? Tsar Nicholas II. How big? From Europe into Asia till the Pacific. How diverse? Many peoples and religions under one crown.",
+      "example": "Ek bada school jahaan ek hi principal har building control kare, lekin har building alag language/culture ki ho — Russian Empire ki diversity ka school-version.",
+      "board_lines": [
+        "1914: Tsar Nicholas II ruled the Russian Empire",
+        "Empire included Finland, Baltic regions, parts of Poland/Ukraine/Belarus, Caucasus, Central Asia — to the Pacific",
+        "Majority Russian Orthodox; also Catholics, Protestants, Muslims, Buddhists"
+      ],
+      "common_mistake": "Students Russia ko sirf Moscow-Petersburg samajh lete hain — actually 1914 ka Russian Empire ek multi-national empire tha jo Asia tak faila tha.",
+      "memory_trick": "Tsar-PACIFIC: Tsar Nicholas II + empire stretched to the PACIFIC + many Peoples And Creeds In Far-flung Imperial Countries.",
+      "gesture_action": "Board par west-to-east haath failao — ‘Europe se Pacific tak’; phir alag-alag students ko alag religions/regions assign karo",
+      "real_life_examples": [
+        "India jaise multi-lingual/multi-religious regions under one political authority — diversity samajhne mein help",
+        "Atlas mein Russia ka eastward stretch dekhna — size aur distance ka feel"
+      ],
+      "worked_example": {
+        "problem": "1914 mein Russian Empire kitna vishal aur vividh tha? Do territorial aur ek religious point likho.",
+        "steps": [
+          "Territory: Finland, Latvia, Lithuania, Estonia; parts of Poland, Ukraine, Belarus",
+          "Further: Central Asia, Georgia, Armenia, Azerbaijan; stretched to Pacific Ocean",
+          "Religion: majority Russian Orthodox, but Catholics, Protestants, Muslims, Buddhists also lived in the empire"
+        ],
+        "answer": "Russian Empire Europe se Pacific tak faila tha (Baltic, Poland/Ukraine parts, Caucasus, Central Asia included) aur religiously diverse tha — majority Orthodox with many other faiths."
+      },
+      "practice": {
+        "easy": ["1914 mein Russian Empire par kis Tsar ka shasan tha?"],
+        "medium": ["Russian Empire ke antargat aane wale kinchaun aaj ke regions/countries ke naam likho (kam se kam paanch)."],
+        "hard": ["‘Russia in 1914 was not just a nation-state but a vast multi-national empire.’ NCERT facts se is statement ko justify karo."]
+      },
+      "summary": "1914 mein Tsar Nicholas II ke under Russian Empire ek vishal, multi-national aur multi-religious empire tha — yahi stage tha jahaan 1917 mein socialist power ulat-pulat hui.",
+      "revision_point": "Tsar Nicholas II; empire to Pacific; Orthodox majority + many religions; 1917 revolutions later overturn the equation.",
+      "exam_tip": "Map-based/short notes mein ‘Finland–Baltic–Poland/Ukraine parts–Caucasus–Central Asia–Pacific’ chain likhne se full marks milte hain.",
+      "source_text_hint": "1914 में रूस और उसके पूरे साम्राज्य पर जार निकोलस द्वितीय का शासन था"
+    },
+    {
+      "concept": "रूस की अर्थव्यवस्था और समाज – किसान, मजदूर और मीर",
+      "say": "Section 2.2 — अर्थव्यवस्था और समाज. 20th century ke shuru mein Russian Empire ki lagbhag 85 percent janta aajivika ke liye kheti par nirbhar thi — Europe ke kisi bhi desh mein itna high percentage nahi tha. France aur Germany mein farming-dependent population 40–50 percent se zyada nahi thi. Russian peasants apni zarooraton ke saath-saath bazaar ke liye bhi paidawar karte the; Russia anaaj ka bada niryatak tha. Industry bahut kam thi. St Petersburg aur Moscow major industrial areas the. Zyadatar production artisans karte the, lekin workshops ke saath bade factories bhi the. Bahut factories 1890s mein chalu hui jab railway network failaya ja raha tha aur foreign investment tezi se badha — kuch hi saalon mein coal production double aur steel production four times badh gayi. 1900 tak kuch areas mein artisans aur factory workers ki sankhya nearly equal ho chuki thi. Zyadatar factories industrialists ki private property the. Government departments badi factories par nazar rakhte the ki minimum wages milen aur shifts fixed hon — lekin factory inspectors rules ke violation rokne mein nakamyab rahe. Artisan units/workshops mein shifts aksar 15 hours tak khinch jaati thin; factories mein usually 10–12 hours. Workers socially divided the — kuch gaon se jude, kuch shehron mein permanent; skill levels alag; metal workers khud ko ‘sahib’ samajhte the. 1914 mein factory workers mein women 31 percent thin, lekin unhe mardon ki salary ka aadha se teen-chauthai milta tha. Phir bhi dismissal ya complaints par workers unite hokar strikes karte the — 1896–97 textile, 1902 metal strikes. Dehat mein vast kulaks? Vast estates nobles, crown aur Orthodox Church ke paas the. Peasants bahut religious the, lekin nobles ka respect nahi karte the — chahte the nobles ki zameen chheenkar baant di jaaye; aksar lagaan nahi chukate; kabhi zamindar hatya bhi — 1902 south Russia, 1905 wider Russia. Russian peasants Europe se alag isliye bhi the: woh time-time par saari zameen apne commune (mir) ko saump dete the aur mir har family ki zaroorat ke hisaab se zameen baantta tha. Yeh mir system baad mein kuch socialists ko lagega ki Russian peasants naturally socialist hain.",
+      "example": "Agar gaon ki saari kheti pehle panchayat jama kare aur phir har ghar ko zaroorat ke hisaab se plot de — woh idea Russian mir jaisa hai.",
+      "board_lines": [
+        "≈85% population in agriculture (France/Germany only 40–50%)",
+        "Industry limited but growing (1890s railways + foreign capital → coal×2, steel×4)",
+        "Workers: 10–15 hr shifts, divisions, strikes; Peasants: hate nobles, want land; land redistributed via mir"
+      ],
+      "common_mistake": "Students French peasants aur Russian peasants ko same samajh lete hain — NCERT contrast karti hai: French Brittany peasants nobles ko bachane lade; Russian peasants nobles ki zameen baantna chahte the.",
+      "memory_trick": "85-MIR-STRIKE: 85% farmers; MIR redistributes land; workers STRIKE despite divisions.",
+      "gesture_action": "Pehle 8–9 students ko ‘farmers’ aur 1–2 ko ‘factory’ banao (85% feel); phir paper plots collect karke mir ki tarah dubara baanto",
+      "real_life_examples": [
+        "Harvest season mein gaon ki almost poori population kheti mein busy — Russia jaisi agrarian dominance ka local feel",
+        "Night-shift factory hostel jahaan workers shifts mein soyen — dormitory bunk life jaisa source image"
+      ],
+      "worked_example": {
+        "problem": "Russian peasants Europe ke baaki peasants se kaise alag the? Do points likho.",
+        "steps": [
+          "Attitude to nobles: Russian peasants generally did not respect nobles and wanted their land redistributed; often refused rents; sometimes attacked landlords",
+          "Mir system: periodically handed all land to the commune (mir), which redistributed land according to each family’s needs",
+          "Optional contrast: unlike some French peasants who fought to save nobles during the French Revolution"
+        ],
+        "answer": "Russian peasants nobles ka respect nahi karte the aur unki zameen baantna chahte the; saath hi mir commune ke through zameen ko zaroorat ke hisaab se dubara baanta jaata tha."
+      },
+      "practice": {
+        "easy": ["1914 se pehle Russian Empire ki kitni percent janta kheti par nirbhar thi?"],
+        "medium": ["Factory workers aur artisan workshops ke working hours mein antar likho; women workers ki wage situation bhi batao."],
+        "hard": ["Workers divided the, phir bhi strikes kaise possible thin? Peasants ke land anger aur mir system ko bhi jodkar 1917 se pehle ke social tensions explain karo."]
+      },
+      "summary": "Russia mostly agrarian (≈85%) with growing but harsh industry; workers faced long hours and low women’s wages yet struck; peasants hated noble land monopoly and used the mir to redistribute land.",
+      "revision_point": "85% peasants; St Petersburg/Moscow industry; 10–15 hr work; mir land share; peasants want nobles’ land.",
+      "exam_tip": "Compare Russia with France/Germany on agricultural population (85% vs 40–50%) — yeh figure almost har paper mein useful hai.",
+      "source_text_hint": "रूसी साम्राज्य की लगभग 85 प्रतिशत जनता आजीविका के लिए खेती पर ही निर्भर थी"
+    },
+    {
+      "concept": "रूस में समाजवाद – RSDWP और समाजवादी क्रांतिकारी पार्टी",
+      "say": "Section 2.3 — रूस में समाजवाद. 1914 se pehle Russia mein sabhi political parties illegal thin. Marx ke ideas manne wale socialists ne 1898 mein Russian Social Democratic Workers Party (RSDWP / रूसी सामाजिक लोकतांत्रिक श्रमिक पार्टी) ka gathan kiya. Governmenti aatank ke karan is party ko illegal organisation ke roop mein kaam karna padta tha. Is party ka ek akhbar nikalta tha, usne workers ko organise kiya aur strikes jaise programmes aayojit kiye. Kuch Russian socialists ko lagta tha ki Russian peasants jis tarah time-time par zameen baantte hain (mir), usse pata chalta hai ki woh swabhavik roop se socialist bhavna wale log hain. Isi aadhaar par unka manna tha ki Russia mein workers nahi balki peasants hi kranti ki mukhya shakti banenge — woh leadership karenge aur Russia baaki deshon ke muqable zyada jaldi socialist desh ban jayega. 19th century ke ant mein Russia ke grameen ilakon mein socialists kaafi active the. San 1900 mein unhone Socialist Revolutionary Party (समाजवादी क्रांतिकारी पार्टी) ka gathan kar liya. Is party ne peasants ke adhikaron ke liye sangharsh kiya aur maang ki ki nobles ke kabze wali zameen fauran peasants ko saump di jaaye. Activist Alexander Shlyapnikov ke bayaan se pata chalta hai meetings kaise hoti thin: factory aur dukaan mein ja-jakar prachar; study circles; legal meetings on authorised issues, lekin activity ko workers’ liberation ke wider struggle mein nipunta se piro diya jaata tha; illegal meetings zaroorat par lunch ke dauran, shaam ko, gate ke bahar, yard mein turant aayojit ho jaati thin. Board conclusion: Russia mein socialism do strong currents mein develop hua — Marxist worker-focused RSDWP (1898), aur peasant-focused Socialist Revolutionaries (1900). Illegal conditions ne underground organisation, newspaper, strikes aur secret meetings ko normal bana diya. Yahi underground political culture baad ki revolutions ka base banti hai.",
+      "example": "Agar school mein student council banned ho, phir bhi students lunch break mein yard mein chhupi meeting karke newsletter nikaalein — RSDWP ki illegal working style ka soft comparison.",
+      "board_lines": [
+        "Before 1914: all political parties illegal in Russia",
+        "1898: RSDWP — Marxist, workers, newspaper, strikes (underground)",
+        "1900: Socialist Revolutionary Party — peasants as main revolutionary force; demand nobles’ land to peasants"
+      ],
+      "common_mistake": "Students sochte hain Russia mein pehle se open democratic parties chalti thin — actually 1914 se pehle political parties illegal thin aur socialist work underground tha.",
+      "memory_trick": "1898-WORK / 1900-LAND: RSDWP 1898 for Workers; SRs 1900 for peasant Land.",
+      "gesture_action": "Do teams banao — ‘Workers Party 1898’ newspaper/strike card; ‘SR 1900’ land-to-peasants card; whisper-meeting se illegal work dikhao",
+      "real_life_examples": [
+        "Secret study circle after school to discuss a banned topic — study circles jaisa underground learning",
+        "Farmers’ rights campaign demanding redistribution of large estates — SR land demand ka local echo"
+      ],
+      "worked_example": {
+        "problem": "RSDWP aur Socialist Revolutionary Party mein mukhya antar kya tha?",
+        "steps": [
+          "RSDWP (1898): Marxists; focused on organising industrial workers; newspaper, strikes; worked illegally under repression",
+          "Some other socialists argued peasants’ mir showed natural socialism; peasants would lead revolution",
+          "Socialist Revolutionary Party (1900): fought for peasant rights; demanded nobles’ land be transferred immediately to peasants"
+        ],
+        "answer": "RSDWP mainly Marxist workers’ party (1898); Socialist Revolutionaries (1900) saw peasants as the main revolutionary force and demanded immediate transfer of nobles’ land to peasants."
+      },
+      "practice": {
+        "easy": ["RSDWP kab bani aur uska poora naam kya tha?"],
+        "medium": ["Kuch Russian socialists peasants ko kranti ki mukhya shakti kyun maante the?"],
+        "hard": ["Illegal conditions ne Russia mein socialist politics ko kaise shape diya? RSDWP methods aur Shlyapnikov-style meetings se illustrate karo."]
+      },
+      "summary": "Russia mein parties illegal thin; Marxists ne 1898 mein RSDWP banaayi (workers), aur 1900 mein Socialist Revolutionaries ne peasants ki zameen maang ko centre banaya — underground socialism ka stage set ho gaya.",
+      "revision_point": "Illegal politics; RSDWP 1898 (workers/Marx); SRs 1900 (peasants/land via mir logic).",
+      "exam_tip": "Dates 1898 aur 1900 bilkul clear likho, aur ‘peasants vs workers as main force’ debate mention karo — yeh 3-mark differentiator hai.",
+      "source_text_hint": "मार्क्स के विचारों को मानने वाले समाजवादियों ने 1898 में रशियन सोशल डेमोक्रैटिक वर्कर्स पार्टी"
+    }
+  ]
+}
