@@ -1,0 +1,387 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 1085,
+    "chapter_name": "वंशागति के आणविक आधार",
+    "chapter_number": 5,
+    "book_name": "Class 12 Biology",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 12",
+    "subject": "Biology"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 12 Biology ke Chapter 5 — वंशागति के आणविक आधार (Molecular Basis of Inheritance) — ko padhenge. Is chapter mein hum DNA ki structure, polynucleotide chain, Watson-Crick double helix, Central Dogma, DNA packaging (nucleosome/chromatin), aur genetic material ki discovery — Griffith transformation, Avery–MacLeod–McCarty, aur Hershey–Chase experiments — ko board-exam depth mein samjhenge. Yeh sab topics CBSE/board papers mein repeatedly aate hain, isliye accuracy aur keywords dono zaroori hain.",
+    "welcome": "Good morning, Class 12! Aaj hum Biology ka ek bahut high-weightage chapter shuru karte hain — वंशागति के आणविक आधार. Socho, Mendel ne inheritance ke patterns bataye, lekin un factors ka chemical identity kai saal baad mila — DNA! Aaj Smart Board par hum us molecular story ko step-by-step clear karenge jo board exam mein diagrams, experiments aur numericals ke saath aati hai. Ready ho? Chalo DNA se shuru karte hain!",
+    "learning_outcomes": [
+      "DNA aur RNA ke as genetic material / messenger roles ko distinguish karna, aur Central Dogma (DNA → RNA → Protein) explain karna",
+      "Polynucleotide chain ke components, 5′–3′ polarity, phosphodiester bonds, aur Watson–Crick double helix ki features (Chargaff, base pairing, pitch) likhna",
+      "Mammalian DNA length ka numerical calculate karna aur nucleosome, chromatin, euchromatin/heterochromatin packaging samajhna",
+      "Griffith transformation aur Avery–MacLeod–McCarty experiments se yeh conclude karna ki transforming principle DNA hai",
+      "Hershey–Chase (³²P / ³⁵S) experiment se prove karna ki bacteriophage ka genetic material DNA hai"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अध्याय परिचय एवं न्यूक्लिक अम्ल"
+      },
+      {
+        "number": 2,
+        "name": "डीएनए – पॉलीन्यूक्लियोटाइड शृंखला की संरचना"
+      },
+      {
+        "number": 3,
+        "name": "द्विकुंडली डीएनए – वाटसन-क्रिक मॉडल"
+      },
+      {
+        "number": 4,
+        "name": "सेंट्रल डॉग्मा"
+      },
+      {
+        "number": 5,
+        "name": "डीएनए कुंडली का पैकेजिंग"
+      },
+      {
+        "number": 6,
+        "name": "आनुवंशिक पदार्थ की खोज – ग्रिफिथ का रूपांतरण प्रयोग"
+      },
+      {
+        "number": 7,
+        "name": "एवरी-मैकलिऑड-मैककार्टी प्रयोग"
+      },
+      {
+        "number": 8,
+        "name": "हर्षे-चेस प्रयोग – डीएनए आनुवंशिक पदार्थ है"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अध्याय परिचय एवं न्यूक्लिक अम्ल",
+      "say": "Bacchon, pehle chapter ka big picture clear karte hain. Pichhle chapter mein tumne Mendelian inheritance patterns padhe — lekin Mendel ke rules ke baad bhi yeh clear nahi tha ki woh genetic factors chemically kya hain. Lagbhag sau saal baad genetic material identify hua. Most organisms mein yeh DNA hai — deoxyribonucleic acid. Class 11 se yaad karo: nucleic acids nucleotides ke polymers hain. Living organisms mein do types milte hain — DNA (deoxyribonucleic acid) aur RNA (ribonucleic acid). Majority organisms mein genetic material DNA hota hai. Kuch viruses mein RNA genetic material ke roop mein milta hai, lekin zyadatar cases mein RNA messenger/carrier ki tarah kaam karta hai. RNA ke aur bhi roles hain — adapter, structural, aur kuch situations mein catalytic molecule (ribozyme). Is chapter mein hum padhenge: DNA ki structure, uski replication (प्रतिकृति), DNA se RNA banane ki process — transcription (अनुलेखन), genetic code jo proteins mein amino acids ka sequence decide karta hai, protein synthesis — translation (स्थानांतरण), gene expression ka regulation, Human Genome Project, aur DNA fingerprinting. Last decade mein human genome ke complete nucleotide sequences determine hone se genomics ka naya yug shuru hua. Aaj hum discussion DNA se start karenge — kyunki yahi sabse interesting aur abundant genetic molecule hai — aur aage samjhenge yeh genetic material kyun bana, aur RNA se iska relation kya hai. Board tip: chapter map yaad rakho — structure → packaging → discovery experiments → Central Dogma pathway.",
+      "example": "Humans mein DNA genetic material hai, jabki kuch viruses (jaise tobacco mosaic virus) mein RNA genetic material hota hai — lekin cell ke andar protein banane ke liye RNA aksar messenger kaam karta hai.",
+      "board_lines": [
+        "Genetic material (most organisms): DNA; some viruses: RNA",
+        "Nucleic acids = polymers of nucleotides (Class 11 recall)",
+        "Chapter flow: DNA structure → replication → transcription → genetic code → translation → regulation → HGP → fingerprinting"
+      ],
+      "common_mistake": "Students sochte hain RNA kabhi genetic material nahi hota — galat; kuch viruses mein RNA hi genetic material hai, lekin majority organisms mein DNA hai.",
+      "memory_trick": "D-R-P: DNA stores, RNA carries/helps, Protein acts — chapter ka overall information flow.",
+      "gesture_action": "Board par teen boxes banao — DNA → RNA → Protein — aur finger se arrow follow karao; viruses ke liye alag chhota RNA box dikhao",
+      "real_life_examples": [
+        "COVID-19 jaise kuch viruses RNA genome rakhte hain — isse RNA-as-genetic-material concept connect hota hai",
+        "Forensic DNA tests aur family resemblance — DNA as hereditary material ka daily relevance"
+      ],
+      "worked_example": {
+        "problem": "Statement: 'Sabhi living organisms mein genetic material DNA hota hai.' Sahi/galat? Reason do.",
+        "steps": [
+          "NCERT: moretar jeevon mein genetic material DNA hota hai",
+          "Lekin kuch viruses mein RNA genetic material ke roop mein milta hai",
+          "Isliye absolute statement 'sabhi' galat hai"
+        ],
+        "answer": "Galat. Majority organisms mein DNA genetic material hai; kuch viruses mein RNA genetic material hota hai."
+      },
+      "practice": {
+        "easy": [
+          "Living systems mein do nucleic acids ke naam likho aur batao majority organisms ka genetic material kaunsa hai."
+        ],
+        "medium": [
+          "RNA ke genetic material ke alawa teen additional roles NCERT ke aadhaar par likho."
+        ],
+        "hard": [
+          "Is chapter ke opening se explain karo ki Mendel ke baad bhi genetic material ki chemical identity late kyun mili, aur aaj hum kaun-kaun se molecular processes padhenge (at least 4 naam)."
+        ]
+      },
+      "summary": "Most organisms mein DNA genetic material hai; RNA kuch viruses mein genetic material aur aksar messenger/adapter/structural/catalytic roles nibhata hai — yahi chapter ka starting framework hai.",
+      "revision_point": "DNA = main genetic material; RNA = genetic (some viruses) + messenger/adapter/structural/catalyst.",
+      "exam_tip": "1-mark definition/role questions mein 'most organisms DNA; some viruses RNA' wali precision likho — overgeneralisation se marks kate jaate hain.",
+      "source_text_hint": "अधिकतर जीवों में आनुवंशिक पदार्थ डीएनए होता है। कुछ विषाणुओं में आरएनए आनुवंशिक पदार्थ के रूप में मिलता है"
+    },
+    {
+      "concept": "डीएनए – पॉलीन्यूक्लियोटाइड शृंखला की संरचना",
+      "say": "Ab section 5.1 — DNA. DNA deoxyribonucleotides ka lamba polymer hai. Uski length generally nucleotides/base pairs ki number par depend karti hai — yeh har organism ki characteristic hoti hai. Examples yaad rakho: bacteriophage φ×174 mein 5386 nucleotides; bacteriophage lambda mein 48502 base pairs; Escherichia coli mein 4.6×10⁶ bp; human haploid DNA mein 3.3×10⁹ bp. Ab polynucleotide chain ki chemical structure. Har nucleotide ke teen components: (1) nitrogenous base, (2) pentose sugar — RNA mein ribose, DNA mein deoxyribose, (3) phosphate group. Nitrogenous bases do types: purines — adenine (A) aur guanine (G); pyrimidines — cytosine (C), uracil (U), thymine (T). Cytosine DNA aur RNA dono mein milta hai; thymine DNA mein; uracil RNA mein thymine ki jagah. Base, nitrogenous glycosidic bond se pentose ke 1′ carbon (hydroxyl) se judkar nucleoside banata hai — jaise adenosine/deoxyadenosine, guanosine/deoxyguanosine, cytidine/deoxycytidine, uridine/deoxythymidine. Jab phosphate, phosphoester bond se nucleoside ke 5′ hydroxyl se judta hai, nucleotide banta hai. Do nucleotides 3′–5′ phosphodiester bond se judkar dinucleotide banate hain; aise kai nucleotides milkar polynucleotide chain. Chain ke ek end par sugar ke 5′ side free phosphate hota hai — 5′ end; doosre end par free 3′-OH — 3′ end. Backbone sugar-phosphate se banta hai; bases sugar se project karte hain. RNA mein har nucleotide ke ribose ke 2′ par extra OH hota hai; RNA mein thymine (5-methyl uracil) ki jagah uracil milta hai. Friedrich Miescher ne 1869 mein nucleus se acidic substance isolate karke 'nuclein' naam diya — baad mein DNA. Technical limitations ke wajah se bahut din tak long polymer ki clear structure nahi mili. Board ke liye 5′–3′ polarity aur phosphodiester linkage bilkul sharp likho.",
+      "example": "Agar ek DNA strand 5′-ATG-3′ hai, toh polarity 5′ se 3′ ki taraf padhi jaati hai — jaise sentence left-to-right; reverse polarity alag meaning deta hai biology mein.",
+      "board_lines": [
+        "Nucleotide = nitrogenous base + pentose sugar + phosphate",
+        "Purines: A, G | Pyrimidines: C, T (DNA), U (RNA)",
+        "Chain links by 3′–5′ phosphodiester bonds; polarity 5′ → 3′; backbone = sugar–phosphate"
+      ],
+      "common_mistake": "Students nucleoside aur nucleotide confuse karte hain — nucleoside = base + sugar; nucleotide = base + sugar + phosphate.",
+      "memory_trick": "PURe As Gold (Purines = A, G); CUT the pyramid (Pyrimidines = C, U, T).",
+      "gesture_action": "Teen fingers dikhao — Base, Sugar, Phosphate; phir haath se 5′ se 3′ direction arrow banao",
+      "real_life_examples": [
+        "Genome size compare: φ×174 chhota virus genome vs human 3.3×10⁹ bp — complexity/packaging questions mein use hota hai",
+        "Lab mein DNA extraction — long sticky threads actually polynucleotide polymers hain"
+      ],
+      "worked_example": {
+        "problem": "Human haploid DNA mein base pairs kitne hain? Diploid cell mein approximate total base pairs kitne honge?",
+        "steps": [
+          "NCERT: human haploid DNA = 3.3×10⁹ base pairs",
+          "Diploid cell mein generally do haploid sets → ≈ 2 × 3.3×10⁹ = 6.6×10⁹ bp",
+          "Yahi value DNA length numericals mein use hoti hai"
+        ],
+        "answer": "Haploid: 3.3×10⁹ bp; diploid typical mammalian cell: about 6.6×10⁹ bp."
+      },
+      "practice": {
+        "easy": [
+          "Nucleotide ke teen components likho. DNA aur RNA ke sugars ke naam bhi likho."
+        ],
+        "medium": [
+          "Nucleoside aur nucleotide mein antar clear karo; 3′–5′ phosphodiester bond kya jodta hai?"
+        ],
+        "hard": [
+          "φ×174, λ phage, E. coli aur human haploid DNA ke genome sizes table banao; explain karo ki DNA length organism-specific kyun hoti hai."
+        ]
+      },
+      "summary": "DNA deoxyribonucleotides ka polymer hai jisme sugar–phosphate backbone, 5′–3′ polarity, aur projecting bases hote hain; A/G purines, C/T (DNA) pyrimidines.",
+      "revision_point": "Nucleotide = base+sugar+phosphate; links = 3′–5′ phosphodiester; ends = 5′ phosphate & 3′-OH.",
+      "exam_tip": "Structure 3-mark/5-mark mein diagram labels: 5′ end, 3′ end, phosphodiester bond, base projecting inward — labels incomplete hone par marks katte hain.",
+      "source_text_hint": "न्यूक्लियोटाइड के तीन घटक होते हैं - नाइट्रोजनी क्षार, पेंटोस शर्करा ... और एक फॉस्फेट ग्रुप"
+    },
+    {
+      "concept": "द्विकुंडली डीएनए – वाटसन-क्रिक मॉडल",
+      "say": "1953 mein James Watson aur Francis Crick ne Maurice Wilkins aur Rosalind Franklin ke X-ray diffraction data ke aadhaar par DNA ka double helical model propose kiya. Unke model ka central point tha — do polynucleotide chains ke beech base pairing. Yeh Erwin Chargaff ke findings se bhi support hota hai: adenine aur thymine ka ratio almost equal; guanine aur cytosine ka ratio almost equal. Base pairing complementary hoti hai — ek strand ka sequence pata ho toh doosri strand predict kar sakte ho. Is complementary nature se hi replication possible hoti hai: parental DNA ki har strand template banakar do daughter double-stranded DNAs banate hain jo parental jaisi hoti hain. Double helix ki khas features NCERT ke hisaab se: (a) Do polynucleotide chains; sugar–phosphate backbone bahar, bases andar project. (b) Dono chains antiparallel polarity — ek 5′→3′, doosri 3′→5′. (c) Opposite strands ke bases hydrogen bonds se pair: A–T do H-bonds; G–C teen H-bonds. Purine ke saamne hamesha pyrimidine — isliye dono strands ke beech distance almost constant rehta hai. (d) Dono chains right-handed coil; helix pitch 3.4 nm (1 nm = 10⁻⁹ m); har turn mein approximately 10 base pairs; consecutive base pairs ke beech ≈ 0.34 nm. Base pairs stacked hote hain; stacking + H-bonds helix ko stability dete hain. Question socho: purine–pyrimidine pairing se inter-strand distance nearly constant kyun? Kyunki purine–purine bahut chowda, pyrimidine–pyrimidine bahut patla hota — purine+pyrimidine perfect fit deta hai. Yeh CBSE favourite hai.",
+      "example": "Agar template strand 5′-ATGC-3′ hai, complementary strand 3′-TACG-5′ hogi — A opposite T, G opposite C — bilkul lock-and-key.",
+      "board_lines": [
+        "Watson–Crick (1953): right-handed double helix; antiparallel strands",
+        "Chargaff: A≈T, G≈C; pairs: A–T (2 H-bonds), G–C (3 H-bonds)",
+        "Pitch 3.4 nm; ~10 bp/turn; distance between adjacent bp ≈ 0.34 nm"
+      ],
+      "common_mistake": "Students A–T ko teen bonds aur G–C ko do bonds likh dete hain — reverse mat karna; G–C stronger (3 bonds) hota hai.",
+      "memory_trick": "AT-2, GC-3: 'A Tea for Two'; 'Gala Celebration for Three'. Antiparallel: '5 se 3 upar, neeche ulta'.",
+      "gesture_action": "Dono haathon ki ungliyan interlocking fingers se base pairs dikhao; phir wrists antiparallel direction mein twist karke right-handed helix act out karo",
+      "real_life_examples": [
+        "Photocopy machine analogy: complementary strands templates banakar identical copies — inheritance fidelity",
+        "PCR/lab DNA work complementary base pairing principles par based hota hai"
+      ],
+      "worked_example": {
+        "problem": "Ek DNA double helix ke 5 complete turns hain. Approximate base pairs kitne? Helix length (nm) kitni?",
+        "steps": [
+          "1 turn ≈ 10 bp → 5 turns ≈ 50 bp",
+          "Adjacent bp distance ≈ 0.34 nm → length ≈ 50 × 0.34 = 17 nm",
+          "Alternatively: pitch 3.4 nm/turn → 5 × 3.4 = 17 nm"
+        ],
+        "answer": "≈ 50 base pairs; helix length ≈ 17 nm."
+      },
+      "practice": {
+        "easy": [
+          "A–T aur G–C mein hydrogen bonds ki sankhya likho. Antiparallel polarity kya hoti hai?"
+        ],
+        "medium": [
+          "Chargaff rule state karo aur batao yeh Watson–Crick model ko kaise support karti hai."
+        ],
+        "hard": [
+          "Double helix ki paanch features (a–e style) points mein likho: backbone, polarity, base pairing, handedness/pitch, stacking/stability."
+        ]
+      },
+      "summary": "Watson–Crick double helix antiparallel complementary strands, A–T/G–C pairing, 3.4 nm pitch aur ~0.34 nm bp spacing se genetic information faithfully copy ho sakti hai.",
+      "revision_point": "Antiparallel + complementary (A–T 2H, G–C 3H) + right-handed; pitch 3.4 nm, 10 bp/turn, 0.34 nm/bp.",
+      "exam_tip": "Diagram-based 5-mark mein Chargaff + antiparallel + H-bond numbers teenon zaroor likho — yeh high-scoring keywords hain.",
+      "source_text_hint": "1953 में जेम्स वाट्सन व फ्रांसिस क्रीक ने डीएनए की संरचना का द्विकुंडली नमूना प्रस्तुत किया"
+    },
+    {
+      "concept": "सेंट्रल डॉग्मा",
+      "say": "Francis Crick ne Central Dogma ka idea diya — genetic information ka flow DNA se RNA, aur RNA se Protein ki taraf hota hai. Short form: DNA → RNA → Protein. Matlab pehle DNA ka message transcription se RNA (generally mRNA) mein copy hota hai, phir translation se protein banata hai. Yeh molecular biology ka foundational principle hai aur Class 12 board mein almost guaranteed topic hai. NCERT clearly likhta hai: DNA → mRNA → Protein. Ab exception bhi samajho — kuch viruses mein information flow reverse direction mein bhi hota hai: RNA se DNA. Is reverse process ko commonly reverse transcription kehte hain, aur enzyme reverse transcriptase hota hai (retroviruses context). Teacher classroom mein poochte hain: 'Kya tum is reverse process ka simple naam suggest kar sakte ho?' — answer direction mein reverse transcription aata hai. Yaad rakho Central Dogma ko rigid one-way slogan mat banao exams mein; NCERT khud viruses wali reverse flow mention karta hai. Lekin eukaryotic/prokaryotic cells ke normal gene expression ke liye standard flow DNA→RNA→Protein hi likho. Connection pehle concepts se: DNA structure complementary hai isliye accurate transcription templates milte hain; baad mein packaging decide karti hai kaunse genes accessible hain. Board writing tip: arrow notation clean rakho, aur teen processes ke naam — replication (DNA→DNA), transcription (DNA→RNA), translation (RNA→Protein) — confuse mat karna.",
+      "example": "Insulin gene DNA mein stored hai; pancreas cell mein uska mRNA banta hai, phir insulin protein — Central Dogma ka real body example.",
+      "board_lines": [
+        "Central Dogma (Crick): DNA → RNA → Protein",
+        "Normal cell flow: transcription then translation",
+        "Some viruses: RNA → DNA (reverse transcription)"
+      ],
+      "common_mistake": "Students transcription ko translation bol dete hain — transcription = DNA se RNA; translation = RNA se protein (language change: nucleotide → amino acid).",
+      "memory_trick": "D-R-P bus route: DNA depot → RNA road → Protein destination. Reverse bus sirf kuch viruses pakadte hain.",
+      "gesture_action": "Left hand DNA book, middle hand RNA note, right hand protein product — left-to-right pass karke Central Dogma act out karo; reverse ke liye virus wala reverse arrow alag dikhao",
+      "real_life_examples": [
+        "Vaccine/molecular biology labs mein mRNA concepts Central Dogma se judte hain",
+        "HIV jaise retroviruses reverse transcription use karte hain — NCERT exception ka modern link"
+      ],
+      "worked_example": {
+        "problem": "Crick ke Central Dogma ke according information flow likho. Kuch viruses mein jo reverse flow hota hai uska common naam kya hai?",
+        "steps": [
+          "Standard flow: DNA → RNA → Protein",
+          "NCERT: kuch viruses mein RNA se DNA ki taraf bhi flow",
+          "Common name: reverse transcription"
+        ],
+        "answer": "DNA → RNA → Protein; reverse process commonly called reverse transcription."
+      },
+      "practice": {
+        "easy": [
+          "Central Dogma ka flowchart arrows ke saath likho."
+        ],
+        "medium": [
+          "Replication, transcription aur translation — har ek ka start molecule aur product likho."
+        ],
+        "hard": [
+          "'Central Dogma always unidirectional in all biological systems' — is statement ko NCERT ke virus exception se critically examine karo."
+        ]
+      },
+      "summary": "Central Dogma kehta hai genetic information generally DNA se RNA aur phir Protein ki taraf bahti hai; kuch viruses mein RNA→DNA reverse transcription bhi hoti hai.",
+      "revision_point": "DNA→RNA→Protein; exception: some viruses RNA→DNA (reverse transcription).",
+      "exam_tip": "Short notes mein Crick ka naam + arrow diagram + virus exception — teenon include karo for full marks.",
+      "source_text_hint": "क्रिक ने मूल सिद्धांत (सेंट्रल डॉग्मा) का विचार प्रस्तुत किया ... डीएनए → आरएनए → प्रोटीन"
+    },
+    {
+      "concept": "डीएनए कुंडली का पैकेजिंग",
+      "say": "Ab socho packaging problem. Consecutive base pairs ke beech distance 0.34 nm maante hue, typical mammalian cell ke DNA ki length calculate karo: 6.6×10⁹ bp × 0.34 × 10⁻⁹ m/bp ≈ 2.2 metre. Nucleus sirf about 10⁻⁶ m scale ka hota hai — matlab 2.2 m DNA ek microscopic nucleus mein kaise fit hota hai? Prokaryotes jaise E. coli mein clear nucleus nahi hota, phir bhi DNA cell mein randomly faila nahi rehta. Negatively charged DNA, positively charged proteins se bind karke nucleoid region mein organize hota hai — large loops protein-associated. Eukaryotes mein packaging zyada complex: positively charged basic proteins — histones. Histones mein basic amino acids lysine aur arginine bahut hote hain; unki side chains positive charge rakhti hain. Histones organize hokar eight histone molecules ki unit banate hain — histone octamer. Negatively charged DNA is octamer ke around wrap hota hai — structure nucleosome. Typical nucleosome ≈ 200 bp DNA helix. Nucleosomes chromatin mein 'beads on a string' dikhte hain (electron microscope). Chromatin further coiled/condensed hokar metaphase chromosomes banata hai. Higher-order packaging ke liye non-histone chromosomal proteins (NHC) chahiye. Nucleus mein loosely packed, lightly stained chromatin = euchromatin; densely packed, darkly stained = heterochromatin. Numerical practice: agar E. coli DNA length 1.36 mm ho, bp = length / 0.34×10⁻⁹ m. Board mein 2.2 m calculation aur nucleosome definition almost fixed questions hain.",
+      "example": "2.2 metre lambi thread ko chhote matchbox mein neatly wind karna — nucleosome 'beads' us packing ke pehle steps hain.",
+      "board_lines": [
+        "Mammalian DNA length ≈ 6.6×10⁹ × 0.34×10⁻⁹ m ≈ 2.2 m",
+        "Nucleosome = histone octamer + ~200 bp DNA; chromatin = beads-on-a-string",
+        "Euchromatin = loose/light stain; Heterochromatin = dense/dark stain; NHC proteins for higher packaging"
+      ],
+      "common_mistake": "Students histone octamer ko '8 types of histones' samajh lete hain — yeh eight histone molecules ki unit hai (H2A, H2B, H3, H4 — two each typically); H1 linker se related hota hai diagram mein.",
+      "memory_trick": "2.2 metre DNA, 10⁻⁶ m nucleus — 'Do point two in a tiny room'. Beads on a string = nucleosomes on chromatin.",
+      "gesture_action": "Ek student ko 'histone octamer' banao, doosra student ribbon/dupatta (DNA) uske around wrap kare — nucleosome; phir kai beads ek thread par dikhao",
+      "real_life_examples": [
+        "School bag mein lambi earphone wire ko coils mein pack karna — unmanaged wire tangle, managed packaging compact",
+        "Microscope slides par metaphase chromosomes — extreme condensation of packaged chromatin"
+      ],
+      "worked_example": {
+        "problem": "E. coli DNA ki length 1.36 mm hai. Base pairs ki sankhya calculate karo (0.34 nm per bp).",
+        "steps": [
+          "1.36 mm = 1.36 × 10⁻³ m",
+          "Distance/bp = 0.34 × 10⁻⁹ m",
+          "Number of bp = (1.36 × 10⁻³) / (0.34 × 10⁻⁹) = 4 × 10⁶ bp (approximately)"
+        ],
+        "answer": "Approximately 4 × 10⁶ base pairs (≈ 4.0 × 10⁶ bp)."
+      },
+      "practice": {
+        "easy": [
+          "Nucleosome kya hai? Histone octamer kis charge ka hota hai aur DNA kis charge ka?"
+        ],
+        "medium": [
+          "Euchromatin aur heterochromatin mein staining aur packing ke aadhaar par antar likho."
+        ],
+        "hard": [
+          "Typical mammalian cell mein DNA length 2.2 m kaise aati hai? Full calculation dikhao, aur explain karo prokaryotic nucleoid packaging eukaryotic nucleosome se kaise alag hai."
+        ]
+      },
+      "summary": "Meters-long DNA nucleus mein histone octamer–nucleosome–chromatin hierarchy se pack hota hai; euchromatin loose aur heterochromatin dense hota hai.",
+      "revision_point": "2.2 m DNA; nucleosome ≈ 200 bp + histone octamer; beads-on-a-string → chromatin → chromosomes; eu vs hetero.",
+      "exam_tip": "Numerical 2.2 m aur 'beads on a string' dono yaad rakho — CBSE frequently calculation + one-line definition poochta hai.",
+      "source_text_hint": "6.6×10⁹ क्षार युग्म × 0.34 × 10⁻⁹ मीटर ... लगभग 2.2 मीटर के बराबर होगी"
+    },
+    {
+      "concept": "आनुवंशिक पदार्थ की खोज – ग्रिफिथ का रूपांतरण प्रयोग",
+      "say": "Section 5.2 — Discovery of genetic material. Miescher ke nuclein aur Mendel ke baad bhi yeh prove karna baaki tha ki DNA actually genetic material hai. Chromosomes nucleus mein hain — Sutton, Morgan wagairah se clear tha — lekin kaunsa molecule hereditary material hai? 1928 mein Frederick Griffith ne Streptococcus pneumoniae (pneumococcus — pneumonia bacteria) par transformation explain kiya. Culture plate par do colony types: Smooth shiny colonies (S) aur Rough colonies (R). S strain ke bacteria mein polysaccharide (mucus) capsule hoti hai — virulent; R mein capsule nahi — non-virulent. Experiment logic: S live inject → mouse mar jaata hai. R live → mouse jeevit. Heat-killed S → mouse jeevit (kyunki bacteria dead). Lekin heat-killed S + live R ka mixture → mouse mar jaata hai, aur dead mouse se live S bacteria isolate hote hain! Griffith ka conclusion: R bacteria, heat-killed S se aaye kisi transforming principle se transform ho gaye — unmein capsule banane ki heritable ability aa gayi, isliye virulent ban gaye. Yeh genetic material ke transfer ka evidence tha. Lekin is experiment se transforming substance ki biochemical nature (DNA/protein/RNA?) clear nahi hui. Board mein mouse table + four combinations perfectly likhna scoring point hai. Keywords: transforming principle, S virulent with capsule, R non-virulent without capsule.",
+      "example": "Heat-killed S + live R = dead mouse with live S — jaise dead teacher's notes se living student ne 'virulence chapter' copy kar liya ho (transforming principle transfer).",
+      "board_lines": [
+        "Griffith (1928), Streptococcus pneumoniae: S (smooth, capsule, virulent) vs R (rough, no capsule)",
+        "Heat-killed S + live R → mouse dies; live S recovered",
+        "Conclusion: transforming principle transferred; chemical nature unknown yet"
+      ],
+      "common_mistake": "Students likhte hain heat-killed S alone se mouse mar gaya — nahi; heat-killed S alone mein mouse jeeta hai. Death mixture wale set mein hoti hai.",
+      "memory_trick": "S = Smooth = Scary (virulent); R = Rough = Safe. Dead S + Live R = Dead mouse (transformation).",
+      "gesture_action": "Board par 2×2 experiment grid banao — S, R, heat-killed S, mixture — har box mein mouse alive/dead sticker lagao",
+      "real_life_examples": [
+        "Pneumonia context — S capsule host immunity se bachne mein help karti hai, isliye virulence",
+        "Modern bacterial transformation labs bhi DNA uptake principle use karti hain — Griffith ka conceptual root"
+      ],
+      "worked_example": {
+        "problem": "Griffith ne heat-killed S aur live R ka mixture inject kiya. Mouse ka kya hua aur transforming principle ka evidence kya mila?",
+        "steps": [
+          "Mixture inject → mouse died",
+          "Dead mouse se live S bacteria isolate hue",
+          "Matlab R, heat-killed S se heritable virulent character acquire kar chuka — transforming principle"
+        ],
+        "answer": "Mouse mar gaya; live S recover hua → R bacteria transformed by a heat-stable transforming principle from dead S."
+      },
+      "practice": {
+        "easy": [
+          "S aur R strains mein capsule aur virulence ka antar likho."
+        ],
+        "medium": [
+          "Griffith ke char experimental sets (live S, live R, heat-killed S, heat-killed S + live R) ke outcomes table mein likho."
+        ],
+        "hard": [
+          "Griffith experiment genetic material ke transfer ko kaise suggest karta hai, lekin uski chemical identity kyun prove nahi karta? Explain."
+        ]
+      },
+      "summary": "Griffith ne dikhaya ki heat-killed S se koi transforming principle live R ko virulent S mein badal sakta hai — genetic transfer ka pehla clear biological evidence, chemical nature baad mein.",
+      "revision_point": "S virulent (capsule), R non-virulent; heat-killed S + live R → transformation → live S; principle unknown chemically.",
+      "exam_tip": "Experiment-based 5-mark mein outcomes table + 'transforming principle' term zaroor use karo; sirf story se marks adhoore reh jaate hain.",
+      "source_text_hint": "ग्रीफिथ ने बताया कि आर-प्रभेद जीवाणु ताप मृत एस-प्रभेद जीवाणु द्वारा रूपांतरित किए गए"
+    },
+    {
+      "concept": "एवरी-मैकलिऑड-मैककार्टी प्रयोग",
+      "say": "Griffith ke baad sawal tha — transforming principle chemically kya hai? Us zamaney mein kai biologists sochte the genetic material protein hai. Oswald Avery, Colin MacLeod aur Maclyn McCarty (1933–44) ne heat-killed S cells se biochemicals purify karke test kiya — kaunsa fraction R cells ko S mein transform karta hai. Unhone paya: S bacteria ka sirf DNA hi R ko transform kar sakta hai. Controls bahut important hain board ke liye: protease (protein-digesting enzymes) aur RNase (RNA-digesting) transformation ko affect nahi karte — isliye transforming substance protein ya RNA nahi. Lekin DNase se digest karne par transformation band ho jaati hai — clear indication DNA responsible hai. Conclusion: genetic material DNA hai. Phir bhi us time sab biologists convinced nahi the — isliye Hershey–Chase tak debate chali. NCERT ek interesting side question bhi deta hai: DNAs aur DNase mein kya antar? DNA genetic polymer hai; DNase woh enzyme hai jo DNA ko digest/hydrolyse karta hai. Exam mein enzyme names galat mat likhna — protease ≠ DNase. Avery group ka contribution: pehli strong biochemical evidence ki transforming principle DNA hai, Griffith ke biological observation ko molecular level par le aayi.",
+      "example": "Jaise photocopy ink (DNA) hata doge toh copy nahi banegi, lekin cover page (protein) ya sticky notes (RNA) hataane se copy ban sakti hai — DNase ne 'ink' destroy ki.",
+      "board_lines": [
+        "Avery, MacLeod, McCarty: only DNA from S transforms R → S",
+        "Protease / RNase: transformation unaffected → not protein/RNA",
+        "DNase: transformation stops → DNA is transforming principle / genetic material"
+      ],
+      "common_mistake": "Students RNase aur DNase ke results ulta likh dete hain. Yaad rakho: sirf DNase transformation rokta hai.",
+      "memory_trick": "P-R safe, D stops: Protease/RNase — transformation chalti rehti; DNase — full stop. DNA = answer.",
+      "gesture_action": "Teen beakers dikhao labelled Protease, RNase, DNase — pehle do mein 'Transformation YES' card, teesre mein 'NO' card",
+      "real_life_examples": [
+        "Molecular cloning labs mein purified plasmid DNA cells ko transform karta hai — Avery conclusion ka practical echo",
+        "Enzyme treatments (DNase contamination) experiments spoil kar sakti hain — DNA integrity matter karti hai"
+      ],
+      "worked_example": {
+        "problem": "Ek extract mein transformation ho rahi thi. Protease aur RNase se koi asar nahi, DNase se transformation ruk gayi. Nishkarsh?",
+        "steps": [
+          "Protease no effect → transforming principle protein nahi",
+          "RNase no effect → RNA nahi",
+          "DNase stops transformation → principle DNA hai"
+        ],
+        "answer": "Transforming principle / genetic material DNA hai."
+      },
+      "practice": {
+        "easy": [
+          "Avery–MacLeod–McCarty ne kaunse teen enzyme treatments use kiye? Unke effects short mein likho."
+        ],
+        "medium": [
+          "DNA aur DNase mein antar clearly distinguish karo."
+        ],
+        "hard": [
+          "Kyun Avery et al. ke baad bhi kai biologists convinced nahi the? Griffith se Avery tak evidence kaise strong hua — compare karke likho."
+        ]
+      },
+      "summary": "Avery, MacLeod aur McCarty ne enzyme digestion experiments se dikhaya ki transforming principle DNA hai — proteases/RNase asar nahi, DNase transformation rok deta hai.",
+      "revision_point": "Only DNA transforms; DNase abolishes transformation → DNA = genetic material (biochemical proof).",
+      "exam_tip": "CBSE often asks 'why proteases and RNase did not affect transformation' — mechanism + conclusion dono lines likho.",
+      "source_text_hint": "डीएनएज से पाचन के बाद रूपांतरण प्रक्रिया बंद हो जाती है। इससे स्पष्ट है कि डीएनए ही रूपांतरण के लिए जिम्मेदार है"
+    },
+    {
+      "concept": "हर्षे-चेस प्रयोग – डीएनए आनुवंशिक पदार्थ है",
+      "say": "DNA genetic material hai — iska definitive proof Alfred Hershey aur Martha Chase (1952) ke experiment se aaya. Unhone bacteriophages par kaam kiya — viruses jo bacteria infect karte hain. Phage bacteria se chipakkar apna genetic material bacterial cell mein inject karta hai; bacterium us material ko apna samajhkar more viruses banata hai. Sawal: andar kya jaata hai — protein ya DNA? Labeling strategy brilliant thi. Ek set phages radioactive phosphorus (³²P) medium mein grow kiye — DNA radioactive hua, kyunki DNA mein phosphorus hota hai, protein mein nahi. Doosra set radioactive sulfur (³⁵S) par — protein coat radioactive hui, kyunki protein mein sulfur hota hai (cysteine/methionine), DNA mein sulfur nahi. Infection ke baad blender se viral coats alag kiye, centrifugation se bacterial cells pellets mein alag. Result: jis infection mein ³²P-DNA tha, radioactivity bacterial cells mein mili — DNA andar gaya. Jismein ³⁵S-protein tha, radioactivity cells mein nahi (supernatant/coats mein) — protein andar nahi gayi. Conclusion: genetic material DNA hai jo virus se bacterium mein enter karta hai. Yeh experiment protein-vs-DNA debate ko decisively settle karne wala board classic hai. Diagram steps: labelling → infection → blending → centrifugation → radioactivity detection. Keywords: bacteriophage, ³²P, ³⁵S, blender experiment.",
+      "example": "Courier parcel: box (protein coat) bahar reh jaata hai, letter (DNA) andar deliver hota hai — Hershey–Chase ka intuitive picture.",
+      "board_lines": [
+        "Hershey & Chase (1952): bacteriophage + E. coli",
+        "³²P labels DNA; ³⁵S labels protein coat",
+        "Only ³²P enters bacterial cells → DNA is genetic material"
+      ],
+      "common_mistake": "Students ³²P ko protein aur ³⁵S ko DNA se label kar dete hain. Trick: Phosphorus → DNA (P in phosphate); Sulfur → protein (S in some amino acids).",
+      "memory_trick": "P for Polynucleotide DNA; S for Skin/coat protein. Jo andar gaya = ³²P = DNA = genes.",
+      "gesture_action": "Do alag colour chalks — blue ³²P-DNA, yellow ³⁵S-protein — infection skit: blue chalk cell ke andar, yellow bahar drop",
+      "real_life_examples": [
+        "Radioisotope tracing medical/research labs mein pathway track karne ke liye use hota hai — same logic",
+        "Virus infection models vaccines/antivirals samajhne mein genetic material entry pehle step hota hai"
+      ],
+      "worked_example": {
+        "problem": "Hershey–Chase mein agar bacterial cells ke andar ³⁵S radioactivity milti aur ³²P nahi, toh genetic material ke baare mein kya galat conclusion nikalta? Actual result kya tha?",
+        "steps": [
+          "³⁵S andar = protein entry suggest; ³²P nahi = DNA entry nahi — galat world mein protein genetic dikhta",
+          "Actual: ³²P cells mein mili, ³⁵S nahi",
+          "Correct conclusion: DNA genetic material hai"
+        ],
+        "answer": "Hypothetical opposite labelling pattern protein ko genetic suggest kare; actual result ³²P inside cells → DNA is genetic material."
+      },
+      "practice": {
+        "easy": [
+          "Hershey–Chase mein ³²P aur ³⁵S se kya-kya label hota hai? Kyun?"
+        ],
+        "medium": [
+          "Blending aur centrifugation steps kyun zaroori the? Short explain."
+        ],
+        "hard": [
+          "Griffith, Avery–MacLeod–McCarty aur Hershey–Chase — teen experiments ka comparison table banao: organism/system, key method, main conclusion."
+        ]
+      },
+      "summary": "Hershey–Chase ne radioactive ³²P-DNA aur ³⁵S-protein labelling se prove kiya ki bacteriophage infection mein DNA hi bacterial cell mein enter karta hai — hence DNA genetic material.",
+      "revision_point": "³²P→DNA inside cells; ³⁵S→protein stays out; blender experiment → DNA = genetic material.",
+      "exam_tip": "5-mark experiment question mein labelling reason (P in DNA, S in protein) + result table + conclusion — teen blocks alag-alag likho.",
+      "source_text_hint": "जो जीवाणु विकिरण सक्रिय डीएनए रखने वाले विषाणु से संक्रमित हुए थे, वे विकिरण सक्रिय रहे ... आनुवंशिक पदार्थ डीएनए ही है"
+    }
+  ]
+}
