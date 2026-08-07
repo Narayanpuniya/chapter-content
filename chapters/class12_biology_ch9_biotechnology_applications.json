@@ -1,0 +1,351 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 1090,
+    "chapter_name": "जैव प्रौद्योगिकी एवं उसके उपयोग",
+    "chapter_number": 9,
+    "book_name": "Class 12 Biology",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 12",
+    "subject": "Biology"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum samjhenge ki biotechnology ko health aur food production mein life-standard improve karne ke liye kaise use kiya jaata hai. Pehle agriculture side — tissue culture, somatic hybridisation, GM crops, Bt cotton aur RNAi — phir medical side — recombinant insulin, gene therapy, molecular diagnosis — aur ant mein transgenic animals. Yeh Class 12 board ke liye high-weightage, application-based chapter hai.",
+    "welcome": "Good morning, Class 12! Aaj hum ek bahut practical aur board-mein-bahut-poocha jaane wala chapter shuru karte hain — जैव प्रौद्योगिकी एवं उसके उपयोग. Socho, Bt cotton ke khet, diabetes ke patients ko milne wala human insulin, HIV test mein PCR — yeh sab isi chapter ke ideas hain. Teacher aaj class mein nahi hain, lekin Smart Board par hum bilkul classroom jaisa padhenge — clear concepts, exam points, aur common mistakes. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "Biotechnology ke teen critical research areas aur agriculture/medicine mein uske applications ko explain karna",
+      "Tissue culture, totipotency, micropropagation, somaclones aur meristem culture se virus-free plants samajhna",
+      "Somatic hybridisation (pomato) aur genetically modified organisms (GMO) ke labhon ko board-style points mein likhna",
+      "Bt toxin mechanism (cry genes) aur RNAi-based nematode resistance ko step-by-step explain karna",
+      "Recombinant insulin, gene therapy (ADA deficiency), molecular diagnosis (PCR, ELISA, probe) aur transgenic animals ke uses yaad rakhna"
+    ],
+    "concepts": [
+      {"number": 1, "name": "जैव प्रौद्योगिकी के अनुप्रयोगों का परिचय"},
+      {"number": 2, "name": "ऊतक संवर्धन, पूर्णशक्तता और सूक्ष्मप्रवर्धन"},
+      {"number": 3, "name": "कायिक संकरण और पोमेटो"},
+      {"number": 4, "name": "आनुवंशिकतः रूपांतरित जीव (GMO) और उनके लाभ"},
+      {"number": 5, "name": "बीटी कपास – पीड़क प्रतिरोधी फसल"},
+      {"number": 6, "name": "आरएनए अंतरक्षेप द्वारा सूत्रकृमि प्रतिरोध"},
+      {"number": 7, "name": "आनुवंशिकतः निर्मित इंसुलिन"},
+      {"number": 8, "name": "जीन चिकित्सा – एडीए की कमी"},
+      {"number": 9, "name": "आण्विक निदान और पारजीवी जंतु"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "जैव प्रौद्योगिकी के अनुप्रयोगों का परिचय",
+      "say": "Bacchon, pehle chapter mein tumne biotechnology ke tools padhe the — recombinant DNA, vectors, cloning. Ab sawaal yeh hai: us technology ka real-world use kya hai? NCERT clearly kehti hai ki biotechnology mein mainly genetically modified microorganisms, fungi, plants aur animals ka use karke biopharmaceuticals aur biological products ka industrial-scale production hota hai. Aaj yeh technology medicine, diagnostics, agriculture mein genetically modified crops, processed food, bioremediation, waste treatment aur energy production — sab mein lag rahi hai. Board exam ke liye teen critical research areas bilkul yaad rakhna. Pehla — improved organisms banana, jaise microorganisms ya pure enzymes ke form mein best biocatalysts. Doosra — us catalyst ke kaam ke liye engineering se best conditions banana, matlab bioreactor design aur process optimisation. Teesra — downstream processing techniques se protein ya organic compound ka purification. Simple language mein: best cell/enzyme banao, usko best environment do, phir product ko pure nikaalo. Is chapter mein hum specially dekhengen ki insan biotechnology ka use health aur food production mein life-standard improve karne ke liye kaise kar raha hai. Agriculture se shuru karenge, phir medicine. Yaad rakho — yeh chapter applications ka hai, isliye har topic ko example ke saath padho, sirf definition se marks nahi milte.",
+      "example": "Insulin factory socho: E. coli ko genetically engineer karke human insulin chain banwayi, bioreactor mein badhaya, phir downstream processing se pure insulin nikaala — teenon research areas ek saath.",
+      "board_lines": [
+        "Biotech uses: medicine, diagnostics, GM crops, processed food, bioremediation, waste treatment, energy",
+        "3 critical areas: (a) best biocatalysts (b) optimal conditions/engineering (c) downstream processing/purification",
+        "Focus of chapter: improving quality of life via health + food production"
+      ],
+      "common_mistake": "Students teen research areas mein se sirf 'GM organisms' yaad rakhte hain aur downstream processing chhod dete hain — CBSE aksar teeno poochta hai.",
+      "memory_trick": "C-C-P: Catalyst banao — Conditions optimise karo — Purify (downstream). Biotech industry ka formula.",
+      "gesture_action": "Board par teen columns likho — Catalyst / Conditions / Purification — aur students se ek-ek industrial example bolwao",
+      "real_life_examples": [
+        "Vaccine aur antibiotic production plants — biocatalyst + bioreactor + purification",
+        "Village biogas/waste treatment units — biotech ka energy aur waste angle"
+      ],
+      "worked_example": {
+        "problem": "Biotechnology ke teen critical research areas likho aur har ek ko ek line mein samjhao.",
+        "steps": [
+          "Pehla area: improved organisms/pure enzymes as best biocatalysts",
+          "Doosra: engineering se catalyst ke liye optimal conditions create karna",
+          "Teesra: downstream processing se protein/organic compounds purify karna"
+        ],
+        "answer": "(a) Best biocatalysts (microbes/enzymes) banana (b) unke kaam ke liye best conditions engineer karna (c) downstream processing se product purify karna."
+      },
+      "practice": {
+        "easy": ["Biotechnology ke koi teen application areas ke naam likho jo NCERT mein diye gaye hain."],
+        "medium": ["Downstream processing biotechnology ke critical research areas mein kyun shamil hai? Example se samjhao."],
+        "hard": ["'Biotechnology = sirf gene cloning' — is statement ko teen critical research areas ke aadhaar par galat prove karo."]
+      },
+      "summary": "Biotechnology industrial production aur life-quality improvement ke liye use hoti hai; uske teen pillars hain — biocatalyst, optimal conditions, aur downstream purification.",
+      "revision_point": "Yaad rakho: applications broad hain, lekin exam mein 3 research areas + health/food focus core hain.",
+      "exam_tip": "2–3 mark question: 'Biotechnology ke teen critical research areas kaunse hain?' — numbering (a)(b)(c) mein exact NCERT points likho.",
+      "source_text_hint": "जैव प्रौद्योगिकी के तीन विवेचनात्मक अनुसंधन क्षेत्रा हैं"
+    },
+    {
+      "concept": "ऊतक संवर्धन, पूर्णशक्तता और सूक्ष्मप्रवर्धन",
+      "say": "Ab agriculture ki baat. Food production badhane ke teen raste sochte hain — agro-chemical based agriculture, organic agriculture, aur genetically engineered crop-based agriculture. Green Revolution ne food supply roughly teen guna badhai, lekin badhti population ke liye ab bhi kaafi nahi. Production badhne ka ek hissa improved varieties se aaya, lekin mainly better management aur agrochemicals — fertilizers aur pesticides — se. Developing countries ke farmers ke liye yeh chemicals mehenge padte hain, aur traditional breeding se desired jump nahi milta. Jab traditional breeding fail huyi, ek nayi technology aayi — tissue culture, यानी ऊतक संवर्धन. 1950s mein scientists ne dekha ki poora plant ek explant se regenerate ho sakta hai — plant ka koi hissa lo, specific nutrient medium aur sterile conditions mein test tube mein ugao. Kisi cell/explant se poora plant banane ki yeh capacity totipotency, यानी पूर्णशक्तता, kehlati hai. Medium mein carbon source jaise sucrose, inorganic salts, vitamins, amino acids, aur growth regulators — auxins, cytokinins — hone chahiye. Is method se bahut kam time mein hazaaron plants ban sakte hain — micropropagation, सूक्ष्मप्रवर्धन. Har plant genetically parent jaisa hota hai — somaclones. Tomato, banana, apple jaise crops isi se large scale par produce hue. Agar plant virus-infected hai tab bhi apical aur axillary meristem virus-free rehta hai; meristem ko alag karke in vitro ugate hain — virus-free plants milte hain. Banana, sugarcane, potato mein yeh kaafi successful raha. Board tip: totipotency, micropropagation, somaclone, meristem — yeh char keywords alag-alag definition ke saath likho.",
+      "example": "Virus-infected banana plant se healthy plant chahiye ho toh meristem tip nikaal kar tissue culture lab mein ugate hain — poora plant virus-free somaclone ban jaata hai.",
+      "board_lines": [
+        "3 food options: agrochemical / organic / genetically engineered crops",
+        "Totipotency = cell/explant → whole plant; Micropropagation → many plants fast",
+        "Somaclones = genetically identical to parent; Meristem culture → virus-free plants"
+      ],
+      "common_mistake": "Students totipotency aur micropropagation ko same maan lete hain — totipotency capacity hai, micropropagation us capacity ka large-scale use hai.",
+      "memory_trick": "T-M-S-M: Totipotency → Micropropagation → Somaclones; Meristem = virus se Safe.",
+      "gesture_action": "Ek ungli se chhota explant dikhao, phir dono haathon se kai plants faila kar micropropagation act out karo",
+      "real_life_examples": [
+        "Nursery mein tissue-cultured banana aur orchid plantlets — uniform quality",
+        "Sugarcane sett disease problem par meristem-derived healthy planting material"
+      ],
+      "worked_example": {
+        "problem": "Ek virus-infected potato plant se healthy plants kaise prapt kiye ja sakte hain? Technique ka naam aur principle likho.",
+        "steps": [
+          "Principle: apical/axillary meristem virus se generally unaffected rehta hai",
+          "Method: meristem ko isolate karke sterile nutrient medium mein in vitro culture karo",
+          "Result: regenerated plants virus-free hote hain; large scale par micropropagation possible"
+        ],
+        "answer": "Meristem culture (tissue culture): virus-free meristem explant se in vitro regeneration → healthy, virus-free plants."
+      },
+      "practice": {
+        "easy": ["पूर्णशक्तता (totipotency) ki definition likho."],
+        "medium": ["Somaclones kya hote hain? Micropropagation se unka sambandh samjhao."],
+        "hard": ["Tissue culture medium ke zaroori components likho aur batao ki virus-infected plant se healthy plant recover karne ka scientific basis kya hai."]
+      },
+      "summary": "Tissue culture totipotency par based hai; micropropagation se somaclones milte hain aur meristem culture se virus-free plants recover kiye ja sakte hain.",
+      "revision_point": "Green Revolution limits → tissue culture; keywords: totipotency, micropropagation, somaclone, meristem.",
+      "exam_tip": "3-mark: 'Micropropagation kya hai? Iske do advantages likho.' — speed + genetic uniformity (somaclones) + virus-free option zaroor mention karo.",
+      "source_text_hint": "किसी कोशिका कत्र्तोतकी से पूर्ण पादप में जनित्रा होने की यह क्षमता पूर्णशक्तता कहलाती है"
+    },
+    {
+      "concept": "कायिक संकरण और पोमेटो",
+      "say": "Tissue culture ke baad ek aur powerful idea aata hai — protoplast fusion. Scientists plants se single cells alag karte hain, cell wall ko digest karke naked protoplast nikaalte hain — yeh sirf plasma membrane se ghira hota hai. Har variety mein kuch desirable traits hote hain. Do alag varieties ke protoplasts ko fuse karaoge toh hybrid protoplast banta hai, jo aage naya plant de sakta hai. Is hybrid ko somatic hybrid kehte hain aur process ko somatic hybridisation, यानी कायिक संकरण. Classic NCERT example — tomato ka protoplast aur potato ka protoplast fuse hua, grow karke naya hybrid plant bana jisme tomato aur potato dono ke characters the. Ise pomato, पोमेटो, kehte hain. Lekin NCERT saaf kehti hai — unfortunately is plant mein commercially desired combined characters nahi the. Matlab scientifically interesting, commercially successful nahi. Ab sawaal uthta hai — kya koi better rasta hai jisse farmers zyada production le saken, fertilizers aur chemicals kam use karein, aur environment par nuksaan kam ho? Isi sawaal ka jawab genetically modified crops hain, jo agla topic hai. Exam mein pomato ko 'failure example' ki tarah mat likho negative tone mein; likho — somatic hybrid bana, lekin desired commercial traits absent the. Flow yaad rakho: cell wall digestion → protoplast → fusion → somatic hybrid → plant.",
+      "example": "Tomato (fruit trait) + potato (tuber trait) protoplast fusion → pomato plant — concept clear, lekin market-ready crop nahi bana.",
+      "board_lines": [
+        "Protoplast = cell wall removed; plasma membrane enclosed naked cell",
+        "Somatic hybridisation = fusion of protoplasts of two different varieties/species",
+        "Pomato = tomato + potato somatic hybrid; lacked desired commercial traits"
+      ],
+      "common_mistake": "Students pomato ko successful commercial GM crop maan lete hain — NCERT kehta hai usmein desired commercial characters ka abhav tha; yeh Bt cotton jaisa success story nahi hai.",
+      "memory_trick": "PRO-FUSE-POM: PROtoplast → FUSE → POMato. Wall hatao, fuse karo, hybrid paao.",
+      "gesture_action": "Do alag colour chalk pieces lo (tomato/potato), unhe ek saath join karke 'fusion' dikhao, phir shoulders uchka kar 'commercially useful nahi' act karo",
+      "real_life_examples": [
+        "Breeding mein distant crosses jab sexually possible nahi, wahan protoplast fusion research tool ban sakta hai",
+        "Lab demo: enzymatic cell-wall digestion se round protoplasts microscope mein dikhte hain"
+      ],
+      "worked_example": {
+        "problem": "Somatic hybridisation ki definition likho. Pomato example se ek success aur ek limitation batāo.",
+        "steps": [
+          "Define: do different plants ke protoplasts fuse karke somatic hybrid banana",
+          "Success/interest: tomato + potato characters wala hybrid plant (pomato) banaya gaya",
+          "Limitation: commercially desired combined traits absent the"
+        ],
+        "answer": "Somatic hybridisation = protoplast fusion se hybrid plant. Pomato bana (tomato+potato traits), lekin commercial utility ke desired characters nahi mile."
+      },
+      "practice": {
+        "easy": ["Protoplast kise kehte hain?"],
+        "medium": ["कायिक संकरण aur कायिक संकर mein antar clear karte hue pomato explain karo."],
+        "hard": ["Kyun somatic hybridisation ke baad bhi scientists GM crops ki taraf badhe? Pomato ki limitation se reason do."]
+      },
+      "summary": "Protoplast fusion se somatic hybrids banate hain; pomato famous example hai, lekin commercially desired traits na milne ke karan GM crops ka raasta zaroori bana.",
+      "revision_point": "Protoplast → fusion → somatic hybrid; Pomato = tomato + potato; commercial traits lacking.",
+      "exam_tip": "Diagram/flow-based 3-mark: protoplast isolation → fusion → hybrid plant. Pomato ke saath 'commercial failure of desired traits' line mat bhoolna.",
+      "source_text_hint": "यह संकर कायिक संकरऋ जबकि यह प्रक्रम कायिक संकरण कहलाता है"
+    },
+    {
+      "concept": "आनुवंशिकतः रूपांतरित जीव (GMO) और उनके लाभ",
+      "say": "Ab core solution — genetically modified organisms. NCERT definition: aise plants, bacteria, fungi aur animals jinke genes human manipulation se badal diye gaye hain, unhe Genetically Modified Organisms — GMO — kehte hain. GMO ka behaviour depend karta hai transferred gene ki nature par, host plant/animal/bacteria ki nature par, aur food web par. GM plants kai tarah se useful hain. Board ke liye numbered points mein likho. (a) Abiotic stresses — cold, drought, salt, heat — ke prati zyada tolerant crops. (b) Chemical pesticides par kam dependency — pest-resistant crops. (c) Post-harvest losses kam karna. (d) Plants ki mineral-use efficiency badhana, taaki soil fertility jaldi exhaust na ho. (e) Food ke nutritional value badhana — classic example Golden Rice, jo Vitamin A se enriched hai. Inke alawa GM se customised plants bhi banaye jaate hain jo industries ko alternative resources — fats, fuels, pharmaceuticals — supply kar saken. Agriculture biotechnology ka detailed focus pest-resistant crops par hai, jo pesticide use kam karte hain. Agle concept mein Bt toxin aur cry genes detail mein aayenge. Yaad rakho: GMO sirf 'insect resistant' nahi hota — abiotic stress, nutrition, post-harvest, mineral use — saare angles exam mein aate hain. Golden Rice ko hamesha Vitamin A se jodo, iron se nahi.",
+      "example": "Drought-prone area mein aisi GM crop jo water stress tolerate kare, aur saath mein pest resistance bhi ho — farmer ke liye chemical aur irrigation dono pressure kam.",
+      "board_lines": [
+        "GMO = organisms with genes altered by manipulation",
+        "GM plant benefits: abiotic stress tolerance; less pesticide need; less post-harvest loss; better mineral use; higher nutrition (Golden Rice – Vit A)",
+        "Also: tailor-made plants for fats, fuels, pharmaceuticals"
+      ],
+      "common_mistake": "Students Golden Rice ko protein-rich ya iron-rich likh dete hain — NCERT kehta hai Vitamin A enriched (golden rice).",
+      "memory_trick": "A-P-P-M-N: Abiotic stress, Pesticide kam, Post-harvest loss kam, Mineral use better, Nutrition up (Golden Rice).",
+      "gesture_action": "Paanch ungliyon par A-P-P-M-N points ginate hue board par tick lagao",
+      "real_life_examples": [
+        "Golden Rice debate/news — Vitamin A deficiency aur biofortification ka real context",
+        "Bt crops adoption in India — pesticide spray frequency mein kami ka farmer experience"
+      ],
+      "worked_example": {
+        "problem": "GM plants ke koi paanch labh NCERT ke anusaar likho. Ek nutritional example bhi do.",
+        "steps": [
+          "List abiotic stress tolerance, reduced pesticide dependence, reduced post-harvest losses",
+          "Add enhanced mineral usage efficiency aur increased nutritional value",
+          "Example: Golden Rice — Vitamin A enriched"
+        ],
+        "answer": "Tolerance to abiotic stresses; less pesticide need; less post-harvest loss; better mineral use; higher nutrition — e.g., Golden Rice (Vitamin A)."
+      },
+      "practice": {
+        "easy": ["GMO ki definition likho."],
+        "medium": ["Golden Rice kis nutrient se enriched hai aur yeh GM plant ka kaunsa benefit dikhata hai?"],
+        "hard": ["GM plants ke labhon ko environment aur farmer economy dono angles se evaluate karke 5-point answer likho."]
+      },
+      "summary": "GMOs gene manipulation se bante hain; GM crops abiotic stress, pest control, post-harvest loss, mineral use aur nutrition (Golden Rice) mein fayda dete hain.",
+      "revision_point": "GMO definition + 5 benefits + Golden Rice = Vitamin A — yeh combo almost guaranteed marks deta hai.",
+      "exam_tip": "5-mark long answer mein benefits ko (a)–(e) numbering mein likho; ant mein industrial uses (fat/fuel/pharma) add karke full marks package banao.",
+      "source_text_hint": "आनुवंशिकतः रूपांतरित जीव ;जेनेटिकली मोडीपफाइड आर्गेनाइजेशनद्ध कहलाते हैं"
+    },
+    {
+      "concept": "बीटी कपास – पीड़क प्रतिरोधी फसल",
+      "say": "Ab sabse important application — pest-resistant crops, especially Bt cotton. Bt toxin ek biological toxin hai jo bacterium Bacillus thuringiensis — short mein Bt — banata hai. Is bacterium ke toxin gene ko clone karke plant mein express karaya jaata hai, jisse plant khud insect-resistant ban jaata hai aur chemical insecticide ki zaroorat nahi rehti — yeh biopesticide approach hai. Examples: Bt cotton, Bt corn, rice, tomato, potato, soybean. Mechanism bilkul clear hona chahiye. B. thuringiensis ki kuch strains aisi proteins banati hain jo specific insects — Lepidopterans (tobacco budworm, armyworm), Coleopterans (beetles), Dipterans (flies, mosquitoes) — ko maar sakti hain. Bacteria apni growth ki specific stage mein protein crystals banata hai; in crystals mein toxic insecticidal protein hota hai. Sabse classic board sawaal: yeh toxin Bacillus ko khud kyun nahi maarta? Kyunki Bt toxin inactive protoxin form mein hota hai. Jab insect is inactive toxin ko khaata hai, uske gut ka alkaline pH crystals ko dissolve karke active toxin bana deta hai. Active toxin midgut epithelial cells ki surface se bind karke pores banata hai; cells swell karke burst ho jaati hain, insect mar jaata hai. Specific Bt toxin genes cotton jaise crops mein insert kiye gaye hain; gene choice crop aur target pest par depend karti hai. Toxin genes ko cry kehte hain. cryIAc aur cryIIAb cotton bollworms control karte hain; cryIAb corn borer control karta hai. Figure 10.1 bollworm-damaged vs healthy cotton boll yaad rakho. Exam mein protoxin → alkaline gut → active toxin → pores → death — yeh chain incomplete mat chhodo.",
+      "example": "Cotton field mein bollworm attack: non-Bt plant ke bolls khaaye jaate hain; Bt cotton ke leaves/bolls mein Cry protein hoti hai, pest gut mein activate hokar mar jaata hai — sprays kam.",
+      "board_lines": [
+        "Bt = Bacillus thuringiensis; produces insecticidal crystal protein (protoxin)",
+        "Inactive in bacterium; activated in insect midgut (alkaline pH) → pores → death",
+        "cryIAc & cryIIAb → cotton bollworms; cryIAb → corn borer"
+      ],
+      "common_mistake": "Students likhte hain Bt toxin bacterium mein bhi active hota hai — galat; woh protoxin (inactive) hota hai, insect ke alkaline gut mein activate hota hai.",
+      "memory_trick": "Bt-Cry-Alkaline: Bacillus thuringiensis → cry gene → alkaline gut activates protoxin. 'Bacillus Safe, Insect Grave'.",
+      "gesture_action": "Pehle closed fist dikhao (inactive protoxin), phir haath khol kar 'activate' aur midgut pores ka gesture karo",
+      "real_life_examples": [
+        "Indian Bt cotton fields — bollworm damage aur pesticide spray counts mein kami",
+        "Organic farming mein bhi Bt sprays (bacterial preparation) traditional biopesticide ke roop mein use hote rahe hain"
+      ],
+      "worked_example": {
+        "problem": "Bt toxin Bacillus thuringiensis ko kyun nahi maarta, lekin bollworm ko maar deta hai? Mechanism steps mein likho.",
+        "steps": [
+          "Bacterium mein toxin inactive protoxin / crystal protein form mein store hota hai",
+          "Insect ke midgut ka alkaline pH protoxin ko soluble active toxin mein badal deta hai",
+          "Active toxin epithelial cells par pores banata hai → cells swell/lyse → insect death; bacterium mein activation nahi hoti"
+        ],
+        "answer": "Kyunki toxin bacterium mein inactive protoxin hota hai; insect gut ke alkaline pH se activate hokar midgut cells mein pores bana kar insect maar deta hai."
+      },
+      "practice": {
+        "easy": ["cryIAc aur cryIIAb kaunse pest ko control karte hain?"],
+        "medium": ["Bt cotton mein insect resistance ka molecular basis cry genes ke saath explain karo."],
+        "hard": ["Lepidopteran, Coleopteran aur Dipteran examples ke saath Bt toxin specificity samjhao; kyun gene choice crop-pest specific hoti hai?"]
+      },
+      "summary": "Bt cotton mein Bacillus thuringiensis ke cry genes express hote hain; inactive protoxin insect ke alkaline midgut mein active hokar pest maar deta hai, isliye chemical insecticide dependence kam hoti hai.",
+      "revision_point": "Protoxin + alkaline pH + cryIAc/cryIIAb (bollworm) + cryIAb (corn borer) — must-remember set.",
+      "exam_tip": "CBSE favourite: 'Why does Bt toxin not kill the Bacillus?' — answer mein protoxin aur alkaline gut dono words compulsory hain.",
+      "source_text_hint": "वास्तव में बीटी जीव-विष प्रोटीन, प्राक्जीव विष निष्कि्रय रूप में होता है"
+    },
+    {
+      "concept": "आरएनए अंतरक्षेप द्वारा सूत्रकृमि प्रतिरोध",
+      "say": "Pest resistance sirf Bt se nahi aati — nematodes ke against ek elegant molecular strategy hai, RNA interference ya RNAi, हिंदी में आरएनए अंतरक्षेप. Nematodes humans samet kai animals aur plants par parasites hote hain. Meloidogyne incognita tobacco plant ki roots infect karke yield bahut gira deta hai. Ise rokne ke liye RNAi-based strategy adopt ki gayi. RNAi saare eukaryotic organisms mein cellular defense method hai. Ismein specific mRNA, complementary dsRNA se bind hone ke baad silenced/inactive ho jaata hai, jisse us mRNA ka translation ruk jaata hai. dsRNA ka source aksar infecting virus ke complementary RNA genome se, ya transposons ke replication ke intermediate RNA se aata hai. Agrobacterium vectors use karke nematode-specific genes ko host plant mein introduce kiya gaya. DNA is tarah design hota hai ki host cells sense (अर्थ) aur antisense (प्रति-अर्थ) RNA dono banayein. Yeh dono complementary hote hain, dsRNA banate hain, RNAi trigger hota hai, aur nematode ke specific mRNAs silence ho jaate hain. Result: parasite survive nahi kar paata; transgenic host plant khud apni raksha karta hai. Figure 10.2 controlled roots vs protected transgenic roots after nematode challenge — concept visually yaad rakho. Exam mein confusion mat karna: yahan Cry protein nahi, balki gene silencing via dsRNA hai. Keywords: Meloidogyne incognita, Agrobacterium vector, sense + antisense → dsRNA → RNAi → mRNA silencing → nematode death/failure.",
+      "example": "Tobacco field mein root-knot nematode attack; RNAi transgenic plant roots mein parasite ke essential mRNA silence ho jaate hain, infection establish nahi hoti.",
+      "board_lines": [
+        "Meloidogyne incognita → root nematode of tobacco; reduces yield",
+        "RNAi: complementary dsRNA silences specific mRNA → blocks translation",
+        "Sense + antisense RNA in host → dsRNA → nematode mRNA silenced; plant protected"
+      ],
+      "common_mistake": "Students RNAi ko Bt toxin se mix kar dete hain — Bt protein pores banata hai; RNAi mRNA ko silence karta hai. Dono pest resistance hain, mechanism alag hai.",
+      "memory_trick": "S-A-D Silence: Sense + Antisense → dsRNA → Silence nematode mRNA.",
+      "gesture_action": "Do haathon ki ungliyon ko complementary zip ki tarah jodo (dsRNA), phir 'mRNA band' ka cross gesture karo",
+      "real_life_examples": [
+        "Root-knot nematode se vegetable crops ki roots par galls — yield loss ka common field problem",
+        "Modern RNAi research crops mein virus/insect resistance ke naye approaches"
+      ],
+      "worked_example": {
+        "problem": "RNAi ke through Meloidogyne incognita ke against tobacco plant kaise protect hota hai? Steps likho.",
+        "steps": [
+          "Nematode-specific gene sequences Agrobacterium vector se host mein introduce kiye jaate hain",
+          "Host sense aur antisense RNA banata hai → complementary dsRNA form hota hai",
+          "RNAi se nematode specific mRNA silence → translation rukti hai → parasite survive nahi karta"
+        ],
+        "answer": "Transgenic tobacco sense+antisense RNA se dsRNA bana kar RNAi trigger karta hai; nematode mRNA silence hone se infection fail ho jaati hai."
+      },
+      "practice": {
+        "easy": ["RNAi ka full form aur ek line principle likho."],
+        "medium": ["Sense aur antisense RNA RNAi strategy mein kyun dono chahiye?"],
+        "hard": ["Bt cotton aur RNAi-based nematode-resistant tobacco mein pest-resistance mechanisms compare karo — table banao."]
+      },
+      "summary": "Meloidogyne incognita ke against transgenic plants sense/antisense RNA se dsRNA bana kar RNAi chalate hain, jisse nematode mRNA silence ho jaata hai aur plant safe rehta hai.",
+      "revision_point": "Meloidogyne incognita + Agrobacterium + sense/antisense → dsRNA → RNAi → protection.",
+      "exam_tip": "Diagram-based question common hai (Fig. 10.2 style): controlled vs transgenic roots. Answer mein 'translation inhibition of nematode mRNA' clearly likho.",
+      "source_text_hint": "आरएनए अंतरक्षेप सभी ससीमवेंफद्रकी जीनों में कोशकीय सुरक्षा की एक विध् िहै"
+    },
+    {
+      "concept": "आनुवंशिकतः निर्मित इंसुलिन",
+      "say": "Ab medicine side — recombinant DNA technology ne healthcare mein bahut impact daala hai kyunki safe aur highly effective therapeutic drugs large quantity mein ban sakte hain. Recombinant therapeutics generally unwanted immunological effects nahi daalte, jabki non-human sources se isolate kiye products allergy/immune reactions de sakte hain. About 30 recombinant therapeutics world mein approved; unmein se 12 India mein marketed — yeh figure yaad rakhna useful hai. Pehla detailed example: genetically engineered insulin. Adult-onset diabetes control ke liye timed insulin doses zaroori hote hain. Pehle insulin animals aur pigs ko maar kar unke pancreas se nikaali jaati thi; kuch patients mein allergy ya foreign protein reactions ho jaati thin. Insulin do short polypeptide chains — A aur B — se banti hai, jo disulfide bonds se judi hoti hain. Mammals, including humans, mein insulin prohormone ke roop mein synthesise hota hai; usmein extra stretch hota hai — C peptide. Mature insulin mein C peptide nahi hota; maturation ke dauran woh hataya jaata hai. rDNA se insulin banane ki main challenge yahi thi ki insulin ko assemble karke mature form mein ready kiya jaaye. 1983 mein Eli Lilly (American company) ne do DNA sequences prepare kiye corresponding to human insulin A aur B chains, unhe E. coli plasmids mein daal kar chains produce kiye, phir separately bani A aur B chains ko extract karke disulfide bonds se combine karke human insulin banaya. Oral insulin kyun nahi? Socho — insulin protein hai; digestive enzymes use tod denge. Isliye injection route use hota hai. Structure figure: proinsulin → C peptide removal → mature insulin (A+B with disulfide bonds).",
+      "example": "Diabetes patient ko pehle pig insulin se rash/allergy; recombinant human insulin se immune reaction ka risk kaafi kam — yahi recombinant therapy ka practical fayda.",
+      "board_lines": [
+        "~30 recombinant therapeutics approved worldwide; 12 marketed in India",
+        "Insulin = chains A + B joined by disulfide bonds; C peptide removed from proinsulin",
+        "1983, Eli Lilly: A & B chains in E. coli → extracted → combined via disulfide bonds"
+      ],
+      "common_mistake": "Students mature insulin mein C peptide bhi draw kar dete hain — C peptide sirf proinsulin mein hota hai, mature insulin se remove ho chuka hota hai.",
+      "memory_trick": "A-B-C-gone: A aur B chains disulfide se judti hain; C peptide mature insulin se Gone.",
+      "gesture_action": "Do ungliyan (A aur B) dikhao, beech ki teesri ungli (C) hatao, phir A-B ko join karke disulfide bonds act out karo",
+      "real_life_examples": [
+        "Pharmacy mein human insulin vials/pens — recombinant biotech product",
+        "Why insulin injection not tablet — protein digestion in gut"
+      ],
+      "worked_example": {
+        "problem": "rDNA technology se human insulin kaise banaya gaya? Challenge kya thi aur Eli Lilly ne use kaise solve kiya?",
+        "steps": [
+          "Challenge: insulin ko mature assembled form mein banana (proinsulin se C peptide removal biology mein hoti hai)",
+          "Solution: A-chain aur B-chain ke liye alag DNA sequences E. coli plasmids mein express kiye",
+          "Purified A aur B chains ko disulfide bonds se combine karke mature human insulin banaya"
+        ],
+        "answer": "Challenge was preparing mature insulin; Eli Lilly produced A and B chains separately in E. coli and combined them by disulfide bonds to make human insulin."
+      },
+      "practice": {
+        "easy": ["Insulin ki A, B aur C peptide ke baare mein ek-ek line likho."],
+        "medium": ["Animal insulin ke comparison mein recombinant insulin kyun safer maana jaata hai?"],
+        "hard": ["'Insulin mukh se kyun nahi diya ja sakta?' — biochemical reason ke saath elaborate answer likho, aur rDNA production steps bhi add karo."]
+      },
+      "summary": "Recombinant human insulin E. coli mein A aur B chains alag-alag bana kar disulfide bonds se jodi jaati hai; C peptide mature insulin mein nahi hota, aur yeh animal insulin se safer hai.",
+      "revision_point": "Proinsulin = A+B+C; Mature = A+B (disulfide); Eli Lilly 1983; E. coli plasmids.",
+      "exam_tip": "Figure-based question on proinsulin→insulin bahut common hai — C peptide removal clearly label karo. Saath mein 'why not oral' 1-mark bonus sawaal ban sakta hai.",
+      "source_text_hint": "1983 में एली लिली नामक एक अमेरिकी कंपनी ने दो डीएनए अनुक्रमों को तैयार किया"
+    },
+    {
+      "concept": "जीन चिकित्सा – एडीए की कमी",
+      "say": "Agar koi genetic disease ke saath paida hua hai, toh kya treatment possible hai? Gene therapy ek aisa attempt hai. Gene therapy un methods ka set hai jisse child ya embryo mein identify kiye gaye gene defects ko correct kiya jaata hai — disease treatment ke liye genes ko individual ke cells ya tissues mein introduce kiya jaata hai. Defective cells ke liye normal gene transfer kiya jaata hai jo non-functional gene ki kami poori karke uska function restore kare. Pehla clinical use 1990 mein ek 4-year-old girl mein adenosine deaminase — ADA — deficiency ke liye hua. ADA enzyme immune system ke kaam ke liye critically required hai; deficiency ADA gene ke deletion/defect se hoti hai. Kuch children mein bone marrow transplantation se treatment hota hai; doosron mein enzyme replacement therapy — injectable functional ADA. Dono methods ki kami yeh hai ki yeh completely curative nahi hain. Gene therapy procedure: patient ke blood se lymphocytes nikaal kar bahar culture kiye jaate hain; functional ADA cDNA ko retroviral vector se lymphocytes mein introduce karke patient mein wapas daal diya jaata hai. Lekin yeh cells immortal nahi — finite life — isliye genetically engineered lymphocytes ko time-time par dena padta hai. Permanent cure tab possible ho sakta hai jab bone marrow cells se isolate kiye good genes ko early embryonic stage cells mein introduce kiya jaaye jo ADA produce karein. Board clarity: temporary therapy = corrected lymphocytes (repeated); possible permanent = gene into early embryonic/stem-like marrow lineage. Retrovirus vector aur cDNA words zaroor use karo.",
+      "example": "ADA-deficient child baar-baar infections se struggle karta hai; lymphocyte-based gene therapy temporarily immune function improve karti hai, lekin repeats chahiye.",
+      "board_lines": [
+        "Gene therapy = introduce normal gene to correct defect in child/embryo cells",
+        "First use (1990): 4-year-old girl with ADA deficiency; ADA essential for immune system",
+        "Lymphocytes + ADA cDNA (retrovirus) → reinfused; temporary; embryonic/marrow approach → possible permanent cure"
+      ],
+      "common_mistake": "Students gene therapy ko hamesha permanent cure likh dete hain — NCERT clearly kehti hai lymphocyte method temporary hai kyunki cells die; permanent cure embryonic stage approach se possible ho sakta hai.",
+      "memory_trick": "ADA-1990-4: ADA deficiency, year 1990, 4-year-old girl — first gene therapy memory anchor.",
+      "gesture_action": "Student se lymphocyte 'nikalo-vector daalo-wapas inject' teen-step roleplay karwao; phir repeat arrow dikhao for temporary nature",
+      "real_life_examples": [
+        "SCID/ADA deficiency cases in medical news — bubble-boy type immune failure context",
+        "Bone marrow transplant wards — alternative but not always available/matching donor"
+      ],
+      "worked_example": {
+        "problem": "ADA deficiency ki gene therapy steps likho aur batao yeh treatment temporary kyun maana jaata hai. Permanent cure ka suggested approach kya hai?",
+        "steps": [
+          "Lymphocytes blood se nikaal kar culture karo; ADA cDNA retroviral vector se insert karo; cells patient mein return",
+          "Temporary kyunki genetically corrected lymphocytes die / long-term persist nahi karti — repeats need",
+          "Permanent approach: early embryonic stage cells / marrow cells mein functional ADA gene introduction"
+        ],
+        "answer": "Lymphocyte-ADA cDNA therapy temporary hai (cells short-lived); permanent cure ke liye early embryonic/marrow gene correction suggested hai."
+      },
+      "practice": {
+        "easy": ["Gene therapy ki definition likho."],
+        "medium": ["ADA deficiency ke liye enzyme replacement aur gene therapy mein antar samjhao."],
+        "hard": ["Kyun bone marrow transplant aur enzyme replacement 'fully curative' nahi maane jaate? Gene therapy ke temporary vs permanent angles se discuss karo."]
+      },
+      "summary": "Gene therapy defective gene ki jagah/complement ke liye normal gene introduce karti hai; ADA deficiency ka 1990 case pehla use tha, lymphocyte method temporary hai aur embryonic approach permanent cure de sakta hai.",
+      "revision_point": "1990, 4-year-old, ADA, lymphocytes + retroviral cDNA, temporary vs permanent.",
+      "exam_tip": "5-mark favourite: ADA deficiency gene therapy — procedure steps + limitation + permanent cure suggestion. Steps skip mat karna.",
+      "source_text_hint": "जीन चिकित्सा का पहले पहल प्रयोग वर्ष 1990 में एक चार वर्षीय लड़की में"
+    },
+    {
+      "concept": "आण्विक निदान और पारजीवी जंतु",
+      "say": "Effective treatment ke liye early diagnosis aur disease pathogenesis samajhna zaroori hai. Traditional methods — serum, urine analysis — se early detection often possible nahi. Recombinant DNA technology, Polymerase Chain Reaction — PCR — aur Enzyme Linked Immunosorbent Assay — ELISA — early detection mein madad karte hain. Pathogen tab detect hota hai jab symptoms dikhte hain; tab tak uski number body mein kaafi badh chuki hoti hai. Jab bacteria/virus bahut kam hon aur symptoms clear na hon, PCR se unke nucleic acid ko amplify karke identify kiya ja sakta hai. Suspected AIDS patients mein HIV detection ke liye PCR commonly use hota hai; suspected cancer patients ke gene mutations aur kai genetic disorders detect karne mein bhi useful hai. Probe method: DNA/RNA single strand se radioactive molecule (probe) jod kar clones ke complementary DNA se hybridise karate hain, phir autoradiography se identify. Mutated gene wale clones film par nahi dikhte kyunki probe mutated sequence se complementary nahi hota. ELISA antigen-antibody interaction principle par kaam karta hai — pathogen antigens (proteins/glycoproteins) ya unke against bani antibodies detect karke infection pehchante hain. Ab transgenic animals: aise animals jinke DNA mein manipulation se ek extra foreign gene arrange hota hai jo apna trait express karta hai. Transgenic mice, rabbits, pigs, sheep, cows, fishes ban chuke hain. NCERT aage unke uses — normal physiology/development study, disease models, biological products, vaccine safety, chemical safety testing — detail karti hai; board mein definition + examples pakka likho. Ethical questions bhi chapter ka last theme hai — biotech powerful hai, isliye responsible use zaroori.",
+      "example": "Window period mein HIV antibodies abhi detect na hon, lekin PCR se viral nucleic acid early pakda ja sakta hai — yahi molecular diagnosis ka strength hai.",
+      "board_lines": [
+        "Early diagnosis tools: rDNA methods, PCR, ELISA",
+        "PCR amplifies pathogen nucleic acid (e.g., HIV); probes + autoradiography detect mutations; ELISA = antigen-antibody",
+        "Transgenic animal = extra foreign gene in DNA that is expressed (mice, rabbit, pig, sheep, cow, fish)"
+      ],
+      "common_mistake": "Students ELISA ko nucleic acid test maan lete hain — ELISA antigen-antibody par based hai; nucleic acid amplification PCR ka kaam hai.",
+      "memory_trick": "P-E-P for diagnosis: PCR (nucleic acid), ELISA (Ag-Ab), Probe (hybridisation). Transgenic = 'extra gene express'.",
+      "gesture_action": "Teen alag corners mein PCR (copy-copy), ELISA (lock-key Ag-Ab), Probe (radio signal) gestures se distinguish karo",
+      "real_life_examples": [
+        "Diagnostic labs mein HIV PCR aur ELISA reports",
+        "Research transgenic mice used as disease models in medical colleges/pharma R&D"
+      ],
+      "worked_example": {
+        "problem": "PCR aur ELISA mein diagnosis principle ka antar example ke saath likho. Transgenic animal ki definition bhi do.",
+        "steps": [
+          "PCR: pathogen ke nucleic acid ko amplify karke detect (e.g., HIV DNA/RNA)",
+          "ELISA: antigen-antibody interaction se pathogen antigen ya host antibody detect",
+          "Transgenic animal: DNA mein extra foreign gene manipulated/inserted jo trait express kare"
+        ],
+        "answer": "PCR = nucleic acid amplification; ELISA = Ag-Ab detection. Transgenic animal = organism with engineered extra foreign gene that is expressed."
+      },
+      "practice": {
+        "easy": ["ELISA kis principle par based hai?"],
+        "medium": ["Probe aur autoradiography se mutated gene kaise identify hota hai?"],
+        "hard": ["Traditional diagnosis vs molecular diagnosis compare karo; PCR, ELISA aur probe — teenon ke ek-ek clinical use likho, aur transgenic animals ke do examples do."]
+      },
+      "summary": "Molecular diagnosis PCR, probes aur ELISA se early/accurate detection deta hai; transgenic animals foreign gene express karne wale engineered animals hain jo research aur biotech applications mein use hote hain.",
+      "revision_point": "PCR→nucleic acid; ELISA→Ag-Ab; Probe→hybridisation/autoradiography; Transgenic→extra expressed gene.",
+      "exam_tip": "Differentiate PCR vs ELISA almost every year aata hai — principle alag-alag boxes mein likho. Transgenic definition + any two examples 2-mark package hai.",
+      "source_text_hint": "पुनर्योगज डीएनए प्रौद्योगिकी, पाॅलीमरेज  शंृखला अभिक्रिया व एंजाइम सहलग्न प्रतिरक्षा शोषक आमापन ;एलाइजाद्ध"
+    }
+  ]
+}
