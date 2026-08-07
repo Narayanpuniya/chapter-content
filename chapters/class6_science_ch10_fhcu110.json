@@ -1,0 +1,278 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 405,
+    "chapter_name": "सजीव प्राणी: उनकी विशेषताओं की खोज",
+    "chapter_number": 10,
+    "book_name": "Class 6 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 6 Science (Curiosity / जिज्ञासा) ke Chapter 10 — सजीव प्राणी: उनकी विशेषताओं की खोज — ko samjhenge. Is chapter mein Avadhi aur Ayush ke snail-shell wale prashn se shuru karke hum seekhenge ki sajeew aur nirjeev mein kya farq hai; gati, vriddhi, poshan, shwasan, utsarjan, uddeepan ke prati anukriya, janman aur mrityu jaise lakshan; phir seed germination ke liye hawa-paani-prakash ki jaroorat; aur ant mein paudhon mein root-shoot ki growth direction.",
+    "welcome": "Good morning, bacchon! Aaj ek chhoti si kahani se class shuru karte hain — Avadhi ne morning walk par snail ke shells dekhe, lekin Mummy ne kaha yeh sirf khol nahi, jeete hue ghonghe ka ghar bhi ho sakta hai! Toh socho — jo cheez hil bhi nahi rahi, uske andar sajeew praani kaise? Aaj hum yahi mystery solve karenge. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "Sajeew aur nirjeev vastuyon ko unki visheshataon ke aadhaar par pehchanna aur Table 10.1 jaisi list banakar reason dena",
+      "Gati, vriddhi, poshan, shwasan, utsarjan, uddeepan-anukriya, janman aur mrityu — sajeewon ki saamanya visheshataen samajhna",
+      "Yeh explain karna ki sirf hila-dola karna sajeew hone ka proof nahi (jaise car), aur paudhe bhi gati dikhate hain (jaise Drosera, chhui-mui)",
+      "Beej ke ankurana ke liye upyukt jal aur vayu zaroori hain, surya prakash ankurana ke liye zaroori nahi — Activity 10.2 ke aadhaar par nishkarsh nikalna"
+    ],
+    "concepts": [
+      {"number": 1, "name": "सजीव और निर्जीव की पहचान – अवधि-आयुष की कहानी"},
+      {"number": 2, "name": "गति – क्या सिर्फ हिलना सजीव बनाता है?"},
+      {"number": 3, "name": "वृद्धि, भोजन और श्वसन"},
+      {"number": 4, "name": "उत्सर्जन और उद्दीपन के प्रति अनुक्रिया"},
+      {"number": 5, "name": "जनन, मृत्यु और सजीव की सामान्य विशेषताएँ"},
+      {"number": 6, "name": "बीज के अंकुरण के लिए आवश्यक परिस्थितियाँ"},
+      {"number": 7, "name": "पौधों में वृद्धि एवं गति – जड़ और प्ररोह"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "सजीव और निर्जीव की पहचान – अवधि-आयुष की कहानी",
+      "say": "Bacchon, pehle suno Avadhi aur Ayush ki baat. Subah walk par Avadhi ne snail ke kuch shells dekhe aur unhe uthane lagi. Mummy ne roka — yeh khol ek jeete hue ghonghe ka ghar ho sakta hai; asal mein yeh uske shareer ka ek ang bhi hota hai! Avadhi-Ayush hairaan — jo shell hil bhi nahi raha, uske andar sajeew praani kaise? School mein unhone friends aur teacher se yeh sawaal poocha, aur teacher ne class mein sajeew-nirjeev ki discussion shuru ki. Ab Activity 10.1 — class ke aas-paas dekho: pencil jo tumne pakdi hai, kitab jo padh rahe ho, khidki ke paas kabootar. Table 10.1 mein naam likho, Column II mein apna andaza — sajeew ya nirjeev — aur Column III mein reason. Pencil nirjeev, kabootar sajeew — kyun? Car chal rahi hai toh kya car sajeew? Apne aap se compare karo: aisi kaunsi visheshataen hain jo tumhe car se alag karti hain? Car ka size apne aap nahi badhta. Yaad rakho — pehchaan sirf dikhne se nahi, visheshataon se hoti hai. Baad mein jab hum saari visheshataen seekh lenge, Column IV aur V — sahi uttar aur uska reason — bharenge. Ek important sawaal sochte raho: beej ko tum sajeew ya nirjeev kis shreni mein rakheoge, aur kyun?",
+      "example": "Morning walk par mila snail shell — bahar se nishchal dikhta hai, lekin andar jeeta ghongha ho sakta hai; isliye sirf 'hilna-na-hilna' se faisla mat lo.",
+      "board_lines": [
+        "सजीव vs निर्जीव — पहचान विशेषता से, सिर्फ दिखने से नहीं",
+        "Activity 10.1: नाम | मेरा अनुमान | कारण | सही उत्तर | सही कारण",
+        "उदाहरण: पेंसिल = निर्जीव; कबूतर = सजीव; बीज = ?"
+      ],
+      "common_mistake": "Students sochte hain jo hil raha hai woh sajeew, jo nahi hil raha woh nirjeev — shell/seed jaise cases mein yeh galat faisla de sakta hai.",
+      "memory_trick": "SHELL-STORY: Snail shell se shuru — pehle socho, phir list banao, phir reason do; haste mat karo sirf hila-dola dekh kar.",
+      "gesture_action": "Ek haath mein pencil, doosre mein imaginary kabootar — class se poocho kaun sajeew, aur reason board par likhwao",
+      "real_life_examples": [
+        "Class mein kitab, chalk, bag — nirjeev; school garden ka paudha aur chidiya — sajeew",
+        "Park mein ghonghe ka khol uthate waqt pehle check karo — andar jeev ho sakta hai"
+      ],
+      "worked_example": {
+        "problem": "Table 10.1 jaisi socho: pencil, kitab, kabootar, car, paudhe — har ek ke liye sajeew/nirjeev aur ek short reason likho.",
+        "steps": [
+          "Pencil aur kitab — khud nahi badhte, shwasan/janman nahi — nirjeev",
+          "Kabootar aur paudhe — gati/vriddhi/poshan jaise lakshan dikhate hain — sajeew",
+          "Car hilti hai lekin khud grow/reproduce/respire nahi karti — nirjeev"
+        ],
+        "answer": "Pencil, kitab, car = nirjeev; kabootar, paudhe = sajeew. Reason: sajeewon mein jeevan ki visheshataen hoti hain; sirf hilna kaafi nahi."
+      },
+      "practice": {
+        "easy": ["Class ke aas-paas teen sajeew aur teen nirjeev vastuyon ke naam likho."],
+        "medium": ["Avadhi ke snail-shell wale sawaal ko apne shabdon mein likho — teacher ne discussion kyun shuru ki?"],
+        "hard": ["Beej ko sajeew ya nirjeev — apna paksh reason ke saath likho; baad mein ankurana padhne ke baad apna jawab check karoge."]
+      },
+      "summary": "Avadhi-Ayush ki shell wali kahani se hum seekhte hain ki sajeew-nirjeev ki pehchaan soch-samajh aur visheshataon se hoti hai — Activity 10.1 se list aur reason banana seekho.",
+      "revision_point": "Pehchaan = visheshataen + reason; hilna akela proof nahi; Table 10.1 ke saare columns baad mein poore karo.",
+      "exam_tip": "Exam mein examples ke saath short reason zaroor likho — sirf 'sajeew/nirjeev' likhne se poore marks nahi milte.",
+      "source_text_hint": "अवधि घोंघे के कुछ खोल देखती है और उनहें उठाने लगती है"
+    },
+    {
+      "concept": "गति – क्या सिर्फ हिलना सजीव बनाता है?",
+      "say": "Ab sawaal — sajeew ko nirjeev se alag kya karta hai? Bahut bacche pehle bolte hain: gati! Haan, gati ek common baat hai sajeewon mein. Lekin socho — sadak par car chalti hai; kya car sajeew? List banao: aise kaam jo tum kar sakte ho lekin car nahi. Tum khud sajeew hone ka adbhut example ho! Ab plants: jaise animals ek jagah se doosri jagah nahi jaate, toh kya paudhe nirjeev? Nahi. Paudhe kuch nishchit gatiyan dikhate hain — flowers ka khilna ek example. Insectivorous plants mein bhi gati dikhti hai. Drosera ki pattiyan saucer jaisi hoti hain, unpar unequal length ke baal-jaise tantu, tip par chipchipa padarth. Jab keet surface ko touch karta hai, baal andar ki taraf mud jaate hain aur sticky tip se keet pakad lete hain. Climbing vines bhi paas rakhhi vastu ke around lipat jaati hain. Matlab — paudhe place badal kar nahi chalte, phir bhi movement dikhate hain. Toh gati useful clue hai, lekin akeli feature se faisla mat karo. Paanch aisi vastuon ki list banao jo khud move kar sakti hain — kya sirf isliye woh sajeew hain? Class mein discuss karo.",
+      "example": "Drosera (insectivorous plant) — keet touch karte hi sticky hairs band ho kar keet pakad lete hain; paudha jagah nahi badalta, phir bhi gati dikhata hai.",
+      "board_lines": [
+        "गति = सजीवों में समानता, पर अकेली पहचान नहीं",
+        "कार चलती है ≠ कार सजीव",
+        "पौधे: फूल खिलना, ड्रोसेरा, आरोही लताएँ — गति दिखाते हैं"
+      ],
+      "common_mistake": "Students car/fan/toy ko sajeew maan lete hain sirf kyunki woh hilte hain; ya paudhon ko nirjeev kyunki woh chal-phir nahi sakte.",
+      "memory_trick": "MOVE-MORE: Movement dekh kar MORE features check karo — car move karti hai par grow/reproduce nahi.",
+      "gesture_action": "Haath se car chalate dikhao, phir ruk kar poocho 'kya yeh sajeew?'; phir ungliyon se Drosera ke sticky hairs band hone ka action karo",
+      "real_life_examples": [
+        "School gate par climbing plant lohe ke grill par lipat jaata hai",
+        "Garden mein flower morning mein khilna — paudhe ki gati ka soft example"
+      ],
+      "worked_example": {
+        "problem": "Paudhe ek sthan se doosre sthan par nahi jaate. Kya unhe sajeew maana jaaye? Do examples dekar jawab do.",
+        "steps": [
+          "Recall: animals jaisi locomotion zaroori nahi",
+          "Paudhe movement dikhate hain — flower blooming, Drosera trapping, vines twining",
+          "Conclude: haan, paudhe sajeew hain; gati alag tarah se hoti hai"
+        ],
+        "answer": "Haan, paudhe sajeew hain. Woh locomotion nahi dikhate, lekin blooming, Drosera ki trapping movement aur climbing vines ki twining se gati pradarshit karte hain."
+      },
+      "practice": {
+        "easy": ["Drosera plant mein gati kaise dikhti hai? Ek-do lines mein likho."],
+        "medium": ["Car sajeew kyun nahi? Teen aise kaam likho jo tum kar sakte ho lekin car nahi."],
+        "hard": ["'Gati sajeewon ki visheshata hai, isliye jo bhi move kare woh sajeew hai' — is statement ko support ya reject karke reasoned paragraph likho."]
+      },
+      "summary": "Gati sajeewon mein common hai, lekin car jaise nirjeev bhi hil sakte hain; paudhe locomotion ke bina bhi movement dikhate hain — isliye gati akeli kasauti nahi.",
+      "revision_point": "Car ≠ sajeew; plants move without walking — Drosera, vines, blooming.",
+      "exam_tip": "Agar poochha jaaye 'kya gati se sajeew-nirjeev alag kar sakte hain?' — pehle haan-ish clue, phir car/plant counter-example zaroor do.",
+      "source_text_hint": "क्या हम सजीव और निर्जीव के बीचच अंतर करने के लिए गति को एक विशेषता मान सकते हैं?"
+    },
+    {
+      "concept": "वृद्धि, भोजन और श्वसन",
+      "say": "Ab doosri badi visheshata — vriddhi. Apni childhood photo se compare karo: kya tum woh kapde pehen sakte ho jo chaar saal pehle pehente the? Nahi, kyunki shareer bada ho gaya — growth! Paudhe aur anya sajeew bhi grow karte hain. Kya hum keh sakte hain growth sajeewon ki visheshata hai? Haan. Growth aur development ke liye food/poshan chahiye. Paanch sajeew list karo jinhhe growth ke liye food chahiye. Ab ek process jiske bina hum jee nahi sakte — shwasan. Normal walk, daud, thoda dance ke baad per-minute breaths gino aur data likho — har situation ke baad number badalta hai kya? Kutte, billi, gay, bhains ko rest karte waqt pet ki movement dekho. Shwasan mein saans andar — hawa shareer mein; saans bahar — hawa bahar. Breathing shwasan ka hissa hai. Kya paudhe bhi respire karte hain? Haan — pattiyon ki surface par chhote chhidra, randhra (stomata), hawa andar-bahar karne mein madad karte hain. Senior students se microscope se stomata dikhane ko bolo. Yaad: sab sajeew shwasan karte hain. Growth + food + respiration — teen strong clues sajeew hone ke.",
+      "example": "Chaar saal pehle wale school uniform ke kapde ab fit nahi aate — yeh tumhari growth ka seedha proof hai.",
+      "board_lines": [
+        "वृद्धि: शरीर का आकार बढ़ना (बचपन की तस्वीर vs आज)",
+        "भोजन/पोषण = वृद्धि और विकास के लिए ज़रूरी",
+        "श्वसन: सभी सजीव; पौधों में रंध्र (stomata) से वायु आना-जाना"
+      ],
+      "common_mistake": "Students sochte hain sirf animals breathe karte hain, paudhe nahi — actually paudhe bhi randhron se shwasan karte hain.",
+      "memory_trick": "G-F-R: Growth needs Food, and all need Respiration — Grow-Feed-Respire.",
+      "gesture_action": "Students se 30 second march + 30 second jog karwao, phir breath count likhwao — activity se respiration feel karo",
+      "real_life_examples": [
+        "Puppy mahine-mahine bada hota hai — food se linked growth",
+        "Summer mein daudne ke baad saans tez — breathing rate badhna"
+      ],
+      "worked_example": {
+        "problem": "Kya paudhe shwasan karte hain? Kaise? Short scientific answer likho.",
+        "steps": [
+          "Yaad karo: sab sajeew shwasan karte hain",
+          "Paudhe ki pattiyon par chhote chhidra = randhra/stomata",
+          "Yeh chhidra hawa andar lene aur bahar nikalne mein madad karte hain"
+        ],
+        "answer": "Haan, paudhe shwasan karte hain. Pattiyon ki surface par randhra (stomata) hote hain jo plant body mein hawa aane-jaane mein sahayak hote hain."
+      },
+      "practice": {
+        "easy": ["Vriddhi ka ek ghar-jaisa example likho jo tumhare shareer se juda ho."],
+        "medium": ["Walk, run aur dance ke baad breath-count mein kya farq aa sakta hai aur kyun?"],
+        "hard": ["'Car ka size badh sakta hai agar usmein naye parts lagayein' — kya yeh sajeew wali growth hai? Growth aur poshan se compare karke likho."]
+      },
+      "summary": "Sajeew grow karte hain aur growth ke liye food chahiye; saath hi sab sajeew — paudhe shamil — shwasan karte hain; paudhon mein randhra hawa ke aadan-pradan mein madad karte hain.",
+      "revision_point": "Growth + nutrition + respiration (plants: stomata/randhra) = sajeew clues.",
+      "exam_tip": "Paudhon ke shwasan wale sawaal mein 'रंध्र' shabd zaroor likho — NCERT keyword hai.",
+      "source_text_hint": "सभी सजीव श्वसन करते हैं।"
+    },
+    {
+      "concept": "उत्सर्जन और उद्दीपन के प्रति अनुक्रिया",
+      "say": "Garmi mein kamiz par kankh ke aas-paas safed dhabbe dekhe hain? Yeh paseene se padte hain. Paseene mein jal aur lavan hote hain — body se waste nikalna. Body se apshisht utpaad ke nishkasan ko utsarjan kehte hain. Animals mein urine bhi ek excretory product hai. Kya paudhe bhi utsarjan karte hain? Haan — pattiyon ki surface par extra water aur minerals ko sookshm boondon ke roop mein; jaise grass aur gulab. Sab sajeew utsarjan karte hain. Ab agla lakshan — anukriya. Bina jute ghoomte hue kaante par pair pad jaaye ya galti se chai ka garam pyala chhoo lo — tum kya karoge? Kaanta/garam vastu = uddeepan (stimulus). Koi vastu ya ghatna jo sajeew ko react karne ke liye prerit kare, uddeepan kehlati hai. Teen stimuli aur unke prati apni body responses list karo. Kya paudhe bhi respond karte hain? Haan! Chhui-mui (lajjalu / touch-me-not / Mimosa) ko chhoone par pattiyan band. Surajast ke baad kuch paudhe pattiyan band kar lete hain — aamle ke ped ki band pattiyan. Sab sajeew uddeepan ke prati anukriya karte hain. Socho: aamla aur chhui-mui kyun aisa behave karte hain — kaunsa stimulus zimmedaar?",
+      "example": "Chhui-mui (Mimosa) ko halka sa touch karo — pattiyan turant jhuk/band ho jaati hain; yeh uddeepan (touch) ke prati anukriya hai.",
+      "board_lines": [
+        "उत्सर्जन = अपशिष्ट पदार्थों का निष्कासन (पसीना, मूत्र; पौधों में जल की बूँदें)",
+        "उद्दीपन = वह घटना/वस्तु जो अनुक्रिया करवाए",
+        "छुई-मुई, आँवला — पौधे भी उद्दीपन के प्रति अनुक्रिया करते हैं"
+      ],
+      "common_mistake": "Students sochte hain utsarjan aur anukriya sirf animals mein hoti hai; paudhon ko bhool jaate hain.",
+      "memory_trick": "E-R: Excrete waste, Respond to stimulus — 'ER' doctor nahi, sajeew ka rule!",
+      "gesture_action": "Finger se chhui-mui touch ka natak karo aur haath ki ungliyan suddenly fold karke pattiyan band hone dikhao",
+      "real_life_examples": [
+        "Football khelne ke baad paseena — human excretion example",
+        "Subah garden mein grass tip par pani ki boonden — paudhe ka water release"
+      ],
+      "worked_example": {
+        "problem": "Teen uddeepan aur unke prati ek-ek anukriya likho (human examples).",
+        "steps": [
+          "Garam vastu chhoona → haath turant hata lena",
+          "Kaante par pair → pair uthana / dard feel karke reaction",
+          "Tez awaaz / horn → chaukna ya peeche hatna"
+        ],
+        "answer": "Example set: (1) garam pyala → haath hataana (2) kaanta → pair uthana (3) sudden loud sound → startle/step back. Stimulus triggers response in living beings."
+      },
+      "practice": {
+        "easy": ["Utsarjan ki definition ek line mein likho."],
+        "medium": ["Paudhe utsarjan kaise karte hain? Grass/gulab ka example dekar likho."],
+        "hard": ["Aamle ki pattiyan surajast ke baad band — is behaviour ka stimulus kya ho sakta hai? Apna reasoned guess likho."]
+      },
+      "summary": "Sab sajeew waste nikaalte hain (utsarjan) aur stimulus ke prati react karte hain; chhui-mui aur aamla dikhate hain ki paudhe bhi anukriya karte hain.",
+      "revision_point": "Utsarjan = waste out; Uddeepan → Anukriya; Mimosa + amla = plant responses.",
+      "exam_tip": "Chhui-mui ka doosra naam (लज्जालु / touch-me-not / Mimosa) yaad rakho — naming wale 1-mark aate hain.",
+      "source_text_hint": "समसत सजीव उद्ीपन के प्रति अनुक्रिया करते हैं।"
+    },
+    {
+      "concept": "जनन, मृत्यु और सजीव की सामान्य विशेषताएँ",
+      "say": "Kya tumne billi, kutte ya anya janwar ke bachchon ko dekha hai? Paanch alag animals ke bacchon ki list banao. Ab socho — kya kabhi pencil, kursi ya bulb ke bacche dekhe? Nahi! Sab sajeew janman karte hain. Janman = apni tarah ke navjaaton ko janm dena. Yeh kyun zaroori? Life ki nirantarta ke liye — bina janman ke peedhi aage nahi badhegi. Ab ek sober baat: jab koi sajeew food, hawa, jal sab available hone par bhi upar wali saari visheshataen dikhane mein asamarth ho jaaye, use mrit kehte hain. Discussion se hum samajhte hain — sab sajeewon mein kuch common features: gati, food ki zaroorat, vriddhi, shwasan, janman, utsarjan, uddeepan ke prati anukriya, aur ant mein mar jaana. Inmein se ek bhi lakshan ka abhav — nirjeev vastu ka sanket. Ab jab pehchaan aa gayi, Activity 10.1 ke Column IV aur V bharo — sahi uttar aur uska reason. Beej ko kis shreni mein rakheoge? Kyun? Agla hissa isi beej se judega — ankurana se hum paudhon ki zaroori visheshataen explore karenge. Class tip: features ki poori list yaad rakhna exam aur daily observation dono ke liye gold hai.",
+      "example": "Kutte ke puppy hote hain, lekin plastic toy dog ke 'bacche' nahi hote — janman sajeewon ki nishani hai.",
+      "board_lines": [
+        "जनन = अपनी तरह के नवजात पैदा करना (जीवन की निरंतरता)",
+        "मृत = संसाधन होने पर भी लक्षण न दिखाना",
+        "सजीव = गति + भोजन + वृद्धि + श्वसन + जनन + उत्सर्जन + अनुक्रिया + मृत्यु"
+      ],
+      "common_mistake": "Students ek-do features dekh kar hi 'sajeew' likh dete hain; ya sochte hain sirf animals reproduce karte hain, plants nahi.",
+      "memory_trick": "8-LIFE checklist: Move, Eat, Grow, Breathe, Excrete, Sense, Reproduce, Die — ek bhi missing? Check carefully!",
+      "gesture_action": "Board par 8 boxes banao; har student ek feature ka naam bolkar tick kare — poori chain complete karo",
+      "real_life_examples": [
+        "School garden mein naye chhote paudhe — plants bhi reproduce/seed se nayi peedhi",
+        "Purana dry leaf jo ab grow/respond nahi karta — living features khatam"
+      ],
+      "worked_example": {
+        "problem": "Sajeewon ki saamanya visheshataen list karke batao: inmein se kisi ek ke abhav ka kya matlab?",
+        "steps": [
+          "List: gati, food, vriddhi, shwasan, janman, utsarjan, stimulus-response, mrityu",
+          "NCERT nishkarsh: inmein se ek bhi lakshan ka abhav nirjeev hone ka sanket",
+          "Example apply: car mein gati hai lekin janman/vriddhi/shwasan nahi → nirjeev"
+        ],
+        "answer": "Sajeewon mein gati, poshan, vriddhi, shwasan, janman, utsarjan, anukriya aur ant mein mrityu common hain; kisi zaroori lakshan ka abhav nirjeev vastu ki ore ishara karta hai."
+      },
+      "practice": {
+        "easy": ["Janman ki definition likho."],
+        "medium": ["Mrit kise kehte hain? NCERT wali baat apne shabdon mein likho."],
+        "hard": ["Table 10.1 ke liye car aur paudhe ke Columns IV–V (sahi uttar + reason) poore karo, poori visheshata-list use karke."]
+      },
+      "summary": "Janman life ko aage badhata hai; mrityu tab jab jeevan ke lakshan khatam; sajeewon ki common features ki list se hi hum sajeew-nirjeev alag karte hain.",
+      "revision_point": "Reproduce for continuity; full feature list; missing feature → likely non-living.",
+      "exam_tip": "Long answer mein 8 features ki bulleted list likho — examiner ko structured answer pasand aata hai.",
+      "source_text_hint": "सभी सजीव गति प्रदर्शित करते हैं, उनहें भोजन की आवश्यकता होती है, वे वृद्धि करते हैं, श्वसन करते हैं, जनन करते हैं, उत्सर्जन करते हैं, उद्ीपन के प्रति अनुक्रिया करते हैं और अंतत: मर जाते हैं।"
+    },
+    {
+      "concept": "बीज के अंकुरण के लिए आवश्यक परिस्थितियाँ",
+      "say": "Beej sajeew ya nirjeev? Isi sawaal se judkar Activity 10.2 — let's experiment. Char same garden-soil pots; har mein phali (sem, rajma, lobia) ke 4-4 beej. 15 din ke liye alag conditions: (क) seedha sooraj, bilkul bina jal; (ख) seedha sooraj, atyadhik jal — mitti par hamesha pani; (ग) andhera, halki nami wali mitti; (घ) seedha sooraj, halki nami. Table 10.2 mein vayu, surya prakash, jal ki uplabdhata, poorvanuman aur avalokan bharo. Jab beej se ankur nikle — ankurit beej. Socho: kya prakash ankurana ke liye zaroori hai? Kis pot mein hawa nahi mil rahi aur kyun? Atyadhik jal wale beejon ka kya hua? Kaunse pots mein ankurana dikha? Phali ke beej ke liye upyukt matra mein jal aur vayu chahiye. Jal beejavarana (seed coat) ko mulayam karta hai aur andar ke nanhe bhrun (embryo) ko paudhe mein develop hone mein madad karta hai. Vayu mitti ke kanon ke beech space se milti hai; usi space se jad bhi badhti hai. Prakash ankurana ke liye generally zaroori nahi; ankurana ke baad navodbidh ki vriddhi ke liye sooraj chahiye. Kya aap jaante hain? Coleus/Petunia ko prakash chahiye; Calendula/Zinnia ko andhkaar — alag beej, alag need!",
+      "example": "Rajma ke beej ko geeli mitti + hawa do toh ankur nikalta hai; bilkul sookhe pot mein nahi — jal ki zaroorat clear dikhti hai.",
+      "board_lines": [
+        "अंकुरण के लिए: उपयुक्त जल + वायु (प्रकाश सामान्यतः आवश्यक नहीं)",
+        "जल → बीजावरण मुलायम → भ्रूण विकसित",
+        "अत्यधिक जल → वायु नहीं मिलती; अंकुरण के बाद नवोद्भिद को सूर्य प्रकाश"
+      ],
+      "common_mistake": "Students sochte hain bina sooraj ke koi beej ankurit nahi hoga — phali/rajma type ke liye prakash ankurana ke liye zaroori nahi.",
+      "memory_trick": "W-A not L: Water + Air for germination; Light later for seedling growth (mostly).",
+      "gesture_action": "Char corners mein 'क ख ग घ' pots ka role-play — students predict kahan ankur aayega, phir reason bolo",
+      "real_life_examples": [
+        "Kitchen mein rajma geele kapde mein lapet kar ankurana — school project classic",
+        "Barish ke baad khet/garden mein beej phootna — upyukt nami + hawa"
+      ],
+      "worked_example": {
+        "problem": "Activity 10.2 ke char pots mein se kis mein ankurana sabse sambhav hai aur kyun? Atyadhik jal wale pot ka problem kya hai?",
+        "steps": [
+          "Ankurana ke liye upyukt jal + vayu chahiye; prakash zaroori nahi",
+          "Pot घ: nami + sooraj + mitti mein hawa space — favourable; Pot ग: andhera + nami — bhi ankurana ho sakta hai",
+          "Pot ख: atyadhik jal se mitti ke spaces water-filled → beej ko vayu nahi → ankurana ruka/affected"
+        ],
+        "answer": "Upyukt nami + vayu wale pots (jaise घ, aur often ग) mein ankurana; atyadhik jal (ख) mein hawa na milne se ankurana prabhavit hota hai; sookha pot (क) mein jal abhav."
+      },
+      "practice": {
+        "easy": ["Beejavarana aur bhrun kya hote hain? Ek-ek line."],
+        "medium": ["Kyun kehte hain ki phali ke beej ke ankurana ke liye surya prakash zaroori nahi?"],
+        "hard": ["Table 10.2 complete karo: क–घ ke liye poorvanuman, avalokan ka expected pattern, aur har ka possible reason."]
+      },
+      "summary": "Beej ankurana ke liye upyukt jal aur vayu zaroori hain; prakash generally nahi; bahut zyada jal hawa rok deta hai; ankurana ke baad seedling ko sooraj chahiye.",
+      "revision_point": "Germination = water + air (right amount); light usually after germination; water softens seed coat.",
+      "exam_tip": "Char pots (क–घ) ke conditions yaad rakho — comparison table wale 3-mark bahut common hain.",
+      "source_text_hint": "फली के बीजों के अंकुरण के लिए जल और वायु की उपयुक्‍तत मात्ा की आवश्यकता होती है।"
+    },
+    {
+      "concept": "पौधों में वृद्धि एवं गति – जड़ और प्ररोह",
+      "say": "Activity 10.2 ke baad socho — paudhon ko sajeew shreni mein kyun rakha? Kya growth dikhi? Ab Activity 10.3 — paudhon mein vriddhi aur gati, khas kar sooraj ke prati anukriya. Phali/chane ke beej geele kapde mein ankurit karo jab tak chhoti jad aur chhoti praroh (shoot) wale navodbidh ban jaayein. Teen beaker क ख ग. Glass plate par blotting/tissue baandho, navodbidh soft thread se loosely fix karo — damage na ho. क aur ग mein plate seedhi — shoot upar. ख mein plate aisi ki shoot neeche, jad upar — ulta! Teeno mein pani itna ki seedling water surface se upar rahe, lekin blotting ka neeche hissa geela rahe — nami mile. क aur ख ko sooraj mein; ग ko gatte ke box mein rakhho jahaan ek chhote gol chhed se sirf ek direction se prakash aaye. Table 10.3: prakash ki direction, plant orientation, jad aur praroh ki growth direction — poorvanuman vs avalokan. Key idea: paudhe light ke prati respond karte hain; root aur shoot ki growth direction conditions se prabhavit hoti hai. Ulta rakhne par bhi plant apni tarah se adjust karne ki koshish dikhata hai — yahi living response hai. Yeh section chapter ko plants ki clear growth-movement se wrap karta hai.",
+      "example": "Window ke paas rakha paudha dheere-dheere light ki taraf jhuk jaata hai — shoot light ki direction mein badhne ki koshish karta hai.",
+      "board_lines": [
+        "Activity 10.3: बीकर क–सीधा+धूप; ख–उलटा+धूप; ग–एक दिशा से प्रकाश",
+        "प्ररोह और जड़ की वृद्धि दिशा का पूर्वानुमान vs अवलोकन",
+        "पौधे प्रकाश के प्रति अनुक्रिया → वृद्धि की दिशा प्रभावित"
+      ],
+      "common_mistake": "Students sochte hain ulta rakha paudha mar hi jaayega / bilkul nahi badhega — actually growth direction respond karti hai; observe patiently.",
+      "memory_trick": "SHOOT-UP, ROOT-DOWN — lekin light ek side se ho toh shoot light ki ore; experiment se confirm karo, ratta mat maro.",
+      "gesture_action": "Teen students ko beaker क ख ग banao — ek seedha, ek ulta (hands down for shoot), ek ek-aankh-chhed se light dekhte hue — directions act out",
+      "real_life_examples": [
+        "Ghar ki khidki ke paas tulsi/money plant light ki taraf mudna",
+        "Germination project mein chane ke seedlings ka shoot upar, root neeche"
+      ],
+      "worked_example": {
+        "problem": "Beaker ग mein prakash sirf ek chhote chhed se aa raha hai. Praroh ki growth kis ore hone ki sambhavna hai? Kyun?",
+        "steps": [
+          "Recall: paudhe light ke prati anukriya karte hain",
+          "Ek direction se prakash = uneven light",
+          "Shoot generally light ki taraf badhta/jhukta hai — observation Table 10.3 mein record"
+        ],
+        "answer": "Praroh usi chhed/prakash wali direction ki ore badhne/jhukne ki sambhavna hai, kyunki paudhe surya prakash ke prati anukriya karte hain aur growth direction prabhavit hoti hai."
+      },
+      "practice": {
+        "easy": ["Praroh aur jad kya hote hain? Seedling mein kaun upar/neeche badhta hai normally?"],
+        "medium": ["Activity 10.3 mein beaker ख ko ulta kyun banaya gaya? Isse kaunsa sawaal explore hota hai?"],
+        "hard": ["Table 10.3 ke liye क, ख, ग — har ek ka poorvanuman likho (praroh aur jad ki direction) aur apna reason do."]
+      },
+      "summary": "Activity 10.3 se hum dekhte hain ki paudhe light aur orientation ke hisaab se root-shoot growth direction adjust karte hain — yahi paudhon mein vriddhi aur gati ka clear proof hai.",
+      "revision_point": "Three beakers: upright, inverted, one-sided light — predict then observe root vs shoot directions.",
+      "exam_tip": "Diagram-based sawaal aa sakte hain — क ख ग conditions short labels ke saath yaad rakho.",
+      "source_text_hint": "पौधे सूर्य के प्रकाश के प्रति किस प्रकार अनुक्रिया करते हैं?"
+    }
+  ]
+}
