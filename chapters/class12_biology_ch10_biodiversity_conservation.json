@@ -1,0 +1,342 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 1093,
+    "chapter_name": "जैव-विविधता एवं संरक्षण",
+    "chapter_number": 10,
+    "book_name": "Class 12 Biology",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 12",
+    "subject": "Biology"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum NCERT Class 12 Biology ke Biodiversity and Conservation / जैव-विविधता एवं संरक्षण ko board-exam depth mein padhenge. Hum samjhenge ki biodiversity genetic, species aur ecological teen levels par hoti hai; Earth aur India mein kitni species hain; latitudinal gradient aur species-area relationship ke patterns; ecosystem stability mein diversity ka role (Tilman experiments aur Rivet Popper hypothesis); aur biodiversity loss ke facts, sixth extinction, aur human-driven causes jaise habitat loss, fragmentation aur overexploitation.",
+    "welcome": "Good morning, Class 12! Aaj hum ek aisa chapter shuru karte hain jo sirf theory nahi, balki hamare planet ke survival se juda hai — जैव-विविधता एवं संरक्षण. Socho, agar koi alien Earth par aaye, toh usko sabse pehle kya chaukayega? NCERT kehti hai — life ki ati vishaal diversity! Board exam mein yeh chapter definitions, figures, hypotheses aur cause-effect links se bhara hota hai. Chalo, teacher ki tarah line-by-line clear karte hain.",
+    "learning_outcomes": [
+      "Biodiversity ke teen mahatvapurn levels — genetic, species aur ecological — ko examples ke saath explain karna",
+      "Earth aur India ke species estimates (IUCN 2004, Robert May) aur India ke megadiverse status ko figures ke saath yaad rakhna",
+      "Latitudinal gradient aur species-area relationship (log S = log C + Z log A) ko graph/equation ke saath apply karna",
+      "Species diversity ke ecosystem importance ko Tilman experiments aur Rivet Popper hypothesis se jodna",
+      "Biodiversity loss, sixth extinction, aur causes (habitat loss/fragmentation, overexploitation) ko board-style answers mein present karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "जैव विविधता के तीन स्तर"
+      },
+      {
+        "number": 2,
+        "name": "पृथ्वी तथा भारत में कितनी जातियाँ हैं?"
+      },
+      {
+        "number": 3,
+        "name": "अक्षांशीय प्रवणता"
+      },
+      {
+        "number": 4,
+        "name": "जातीय-क्षेत्र संबंध"
+      },
+      {
+        "number": 5,
+        "name": "पारितंत्र में जातीय विविधता का महत्त्व"
+      },
+      {
+        "number": 6,
+        "name": "जैव विविधता की क्षति और छठा विलोपन"
+      },
+      {
+        "number": 7,
+        "name": "आवासीय क्षति, विखंडन और अतिदोहन"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "जैव विविधता के तीन स्तर",
+      "say": "Bacchon, chapter ek powerful imagination se shuru hota hai. Agar door ki galaxy se koi alien Earth par aaye, toh NCERT kehti hai — sabse pehle usko hamare jeevan ki ati vishaal diversity chaukayegi. Common man mushkil se believe karega ki Earth par lagbhag 20,000 cheenti species, 3,00,000 beetles, 28,000 fish species, aur 20,000 se adhik orchids hain. Ecologists poochhte hain: itni species kyun hain? Yeh diversity biosphere ke liye kyun important hai? Human life isse kaise linked hai? Definition carefully suno: biosphere mein diversity sirf species level par nahi, balki biological organisation ke har level par milti hai — macromolecules se biomes tak. Term biodiversity ko social biologist Edward Wilson ne popular kiya. Teen board-critical levels: (क) Genetic diversity — ek species apne range mein genetic variation dikha sakti hai. Himalayan ranges mein Rauwolfia vomitoria; uski diversity active chemical reserpine ki potency/concentration se judi ho sakti hai. India mein 50,000 se adhik genetically different rice aur 1,000 se adhik mango varieties hain. (ख) Species diversity — Western Ghats ki amphibian diversity Eastern Ghats se adhik hai. (ग) Ecological diversity — India ke deserts, rain forests, mangroves, coral reefs, wetlands, estuaries aur alpine meadows Norway se zyada ecological diversity dikhate hain. Yeh samriddhi evolve hone mein lakhs years lage, lekin agar species loss isi rate se chali, toh hum is wealth ko do centuries se bhi kam time mein kho sakte hain. Aaj biodiversity conservation ek critical international environmental issue hai.",
+      "example": "India mein 50,000 se adhik genetically different dhaan varieties — genetic diversity ka national board example.",
+      "board_lines": [
+        "Biodiversity (Edward Wilson): diversity at all levels of biological organisation",
+        "Genetic → Rauwolfia/reserpine; India: >50,000 rice & >1000 mango varieties",
+        "Species (W. Ghats amphibians > E. Ghats); Ecological (India ecosystems > Norway)"
+      ],
+      "common_mistake": "Students biodiversity ko sirf 'kitni species hain' samajh lete hain — board mein teen levels alag examples ke saath likhne hote hain.",
+      "memory_trick": "G-S-E: Genes → Species → Ecosystems. Rauwolfia/rice; amphibians; mangrove-to-alpine.",
+      "gesture_action": "Teen ungliyan uthao — gene, species, ecosystem — har level par ek example bolte hue tap karo",
+      "real_life_examples": [
+        "Alag aam varieties (Dasheri, Langra, Alphonso) — same species, genetic diversity",
+        "Sundarbans mangrove vs Thar desert — ecological diversity within India"
+      ],
+      "worked_example": {
+        "problem": "Rauwolfia vomitoria ki alag Himalayan populations mein reserpine concentration alag ho sakti hai. Yeh biodiversity ka kaunsa level hai?",
+        "steps": [
+          "Same species ke andar chemical potency/concentration variation hai",
+          "Within-species genetic variation = genetic diversity",
+          "Conclude: genetic level, not species/ecological"
+        ],
+        "answer": "Genetic diversity — ek hi species ke andar reserpine potency/concentration se judi genetic variation."
+      },
+      "practice": {
+        "easy": [
+          "Edward Wilson ne biodiversity term kis cheez ko denote karne ke liye popular kiya?"
+        ],
+        "medium": [
+          "Biodiversity ke teen levels ke naam likho aur har ek ka ek NCERT example do."
+        ],
+        "hard": [
+          "'India ki ecological diversity Norway se adhik hai' — ecosystem examples se justify karo aur species diversity se farq batao."
+        ]
+      },
+      "summary": "Biodiversity har biological level par hoti hai; board ke liye genetic, species aur ecological teen levels with NCERT examples core hain.",
+      "revision_point": "G-S-E + examples: Rauwolfia/rice; W. Ghats amphibians; India ecosystems > Norway.",
+      "exam_tip": "3-mark definition mein Wilson + three levels + one example each likho — sirf 'variety of life' se full marks nahi milte.",
+      "source_text_hint": "जैव विविधता शब्द सामाजिक जीववैज्ञानिक एडवर्ड विलसन द्वारा"
+    },
+    {
+      "concept": "पृथ्वी तथा भारत में कितनी जातियाँ हैं?",
+      "say": "Section 13.1.1 — Earth aur India mein kitni species? IUCN (2004) ke anusar described animals aur plants 1.5 million se thodi adhik hain. Lekin total kitni hain — easy nahi, kyunki bahut species abhi discover/describe honi baaki hain. Temperate discovery tropical se zyada complete maani jaati hai. Scientists ne well-studied insects ki tropical-temperate statistics se extrapolate kiya. Extreme estimates 20–25 million tak jaate hain, lekin Robert May ka balanced estimate ~7 million hai. Patterns: estimated species mein >70% animals; plants (algae, fungi, bryophytes, angiosperms, gymnosperms) ≤22%. Animals mein insects >70% — har 10 animals mein se 7 insects! Fungi species fishes + amphibians + reptiles + mammals se adhik hain. Figure 13.1 major taxa dikhata hai. Yeh counts prokaryotes include nahi karte; traditional taxonomy microbes ke liye kaafi nahi, kai species culture nahi hoti, molecular methods se diversity millions mein ho sakti hai. India: world land ka 2.4%, global species diversity ka 8.1% — isliye megadiversity country (12 mein se ek). India mein ~45,000 plants aur usse do guna se adhik animals recorded. Agar May accept karein, globally ~22% hi discover hui; us ratio se India mein >1,00,000 plants aur >3,00,000 animals baaki. NCERT warning: bahut species catalogue se pehle extinct — biological library titles se pehle destroy ho rahi hai.",
+      "example": "India world land ka 2.4% hai, lekin global species diversity ka 8.1% — megadiversity country.",
+      "board_lines": [
+        "IUCN (2004): >1.5 million described; Robert May ≈ 7 million total",
+        ">70% animals; insects >70% of animals; plants ≤22%; fungi > fish+amphibia+reptiles+mammals",
+        "India: 2.4% land → 8.1% species; ~45,000 plants; ~22% discovered globally"
+      ],
+      "common_mistake": "Students 1.5 million ko total species samajh lete hain — yeh described number hai; May ~7 million estimate karta hai; prokaryotes alag hain.",
+      "memory_trick": "1.5 D / 7 M / 2.4→8.1: Described 1.5M, May 7M, India 2.4% land but 8.1% diversity.",
+      "gesture_action": "Pie-chart gesture: bada animal slice, usme 7/10 insects, chhota plant slice",
+      "real_life_examples": [
+        "School garden ke insects — insects global animal diversity dominate karte hain",
+        "Western Ghats endemics — India ke megadiversity status ka local face"
+      ],
+      "worked_example": {
+        "problem": "Agar total ~7 million aur described ~1.5 million hain, toh approximately kitne percent abhi undiscovered hain? NCERT ke 22% se link karo.",
+        "steps": [
+          "Percent discovered ≈ (1.5/7)×100 ≈ 21.4% ≈ 22%",
+          "Undiscovered ≈ 100 − 22 = 78%",
+          "Match NCERT: only about 22% discovered"
+        ],
+        "answer": "Lagbhag 78% species abhi discover/describe nahi hui (NCERT: ~22% discovered if May's estimate accepted)."
+      },
+      "practice": {
+        "easy": [
+          "IUCN (2004) ke anusar ab tak kitni plant aur animal species describe hui hain?"
+        ],
+        "medium": [
+          "Robert May ka estimate kya hai aur extreme 20–25 million se yeh kaise alag hai?"
+        ],
+        "hard": [
+          "'Biological library catalogue hone se pehle destroy ho raha hai' — India ke undiscovered plants/animals estimates se explain karo."
+        ]
+      },
+      "summary": "Described >1.5 million, May ~7 million; India 2.4% land par 8.1% diversity ke saath megadiverse hai.",
+      "revision_point": "IUCN 1.5M; May ~7M; insects dominate; India 2.4%→8.1%; prokaryotes excluded.",
+      "exam_tip": "Exact figures yaad rakho: 1.5 million, 7 million, 2.4%, 8.1%, 45,000 plants, 22% discovered.",
+      "source_text_hint": "यद्यपि भारत का भूमिक्षेत्रा विश्व का केवल 2.4 प्रतिशत है"
+    },
+    {
+      "concept": "अक्षांशीय प्रवणता",
+      "say": "Section 13.1.2 (क) — latitudinal gradient. Species diversity world mein equal nahi; latitudes ke along ordered gradient dikhti hai. Generally equator se poles ki taraf jaane par species diversity kam hoti jaati hai. Few exceptions chhodkar, tropics (23.5°N–23.5°S) temperate/polar se zyada rich hain. Bird data: Colombia (near equator) 1,400; New York (41°N) 105; Greenland (71°N) 56. India, mostly tropical, 1,200+ bird species. Ecuador tropical forests mein vascular plants USA mid-west temperate forests se 10× adhik. Amazon Earth par sabse biodiverse: 40,000 plants, 3,000 fishes, 1,300 birds, 427 mammals, 427 amphibians, 378 reptiles, 1,25,000+ invertebrates; kam se kam 2,00,000 insects abhi baaki. Board favourite: tropics mein itni diversity kyun? Teen hypotheses — (क) Speciation time ka function hai; temperate mein baar-baar glaciation, tropics lakhs years se relatively undisturbed — zyada evolutionary time. (ख) Tropical climate less seasonal/more constant → niche specialisation → zyada species. (ग) Adhik solar energy → higher productivity → indirectly higher biodiversity. Exam mein teen reasons numbering ke saath: evolutionary time, climatic constancy/niche specialisation, solar energy-productivity. Amazon figures aur bird latitudinal data short-answer mein separately aate hain — dono ratto.",
+      "example": "Colombia 1400, New York 105, Greenland 56 bird species — equator se pole diversity-drop ka classic data set.",
+      "board_lines": [
+        "Latitudinal gradient: richness generally decreases equator → poles",
+        "Tropics (23.5°N–23.5°S) richest; Amazon = most biodiverse rain forest",
+        "Why tropics? longer evolutionary time; less seasonal → niche specialisation; more solar energy/productivity"
+      ],
+      "common_mistake": "Students sirf 'tropics mein zyada garmi' likh dete hain — NCERT teen specific hypotheses maangta hai.",
+      "memory_trick": "T-C-S: Time (no repeated glaciation), Constancy (stable niches), Sun (solar productivity).",
+      "gesture_action": "Equator par haath wide (high diversity), poles ki taraf haath sikodte jao (diversity kam)",
+      "real_life_examples": [
+        "Western Ghats forests vs Ladakh cold desert — India ke andar climatic diversity contrast",
+        "Amazon documentaries ki species richness — NCERT figures ka visual support"
+      ],
+      "worked_example": {
+        "problem": "New York (41°N) mein 105 bird species aur Greenland (71°N) mein 56. Yeh kis rule ko support karta hai?",
+        "steps": [
+          "Greenland higher latitude par hai",
+          "Species count 105 > 56",
+          "Supports decrease of diversity towards poles"
+        ],
+        "answer": "Latitudinal gradient: species diversity generally decreases from lower latitudes towards the poles."
+      },
+      "practice": {
+        "easy": [
+          "Latitudinal gradient ek line mein define karo."
+        ],
+        "medium": [
+          "Amazon rain forest ke NCERT figures — plants, fishes, birds, mammals — likho."
+        ],
+        "hard": [
+          "Tropics ki high biodiversity explain karne wali teen hypotheses mechanisms ke saath likho."
+        ]
+      },
+      "summary": "Richness generally equator se poles tak ghat ti hai; tropics richest hain due to time, climatic constancy aur high solar productivity.",
+      "revision_point": "Birds: Colombia 1400 / India 1200+ / NY 105 / Greenland 56; tropics = T-C-S.",
+      "exam_tip": "'Why are tropics more diverse?' 3-mark mein teen hypotheses numbering ke saath likho.",
+      "source_text_hint": "सामान्यतः भूमध्य रेखा से ध्रुवों की ओर जाने पर जाति विविधता घटती जाती है"
+    },
+    {
+      "concept": "जातीय-क्षेत्र संबंध",
+      "say": "Section 13.1.2 (ख) — species-area relationship. Alexander von Humboldt ne South America ke jungles explore karte hue dikhaya ki kisi had tak area ki species richness, explored area badhne ke saath badhti hai. Species richness aur kai taxa — angiosperms, birds, bats, freshwater fishes — ke area ke beech relation rectangular hyperbola hota hai (Figure 13.2). Log scale par yeh straight line ban jaata hai: log S = log C + Z log A. Yahan S = species richness, A = area, Z = regression coefficient/slope, C = Y-intercept. Ecologists kehte hain Z generally 0.1–0.2 hota hai, chahe Britain ke plants, California ke birds, ya New York ke molluscs hon — slope surprisingly similar. Lekin entire continents analyse karo toh slope steep: Z often 0.6–1.2. Example: continents ke tropical forests ke frugivorous birds aur mammals ke liye Z = 1.15. Steeper Z ka matlab area change ke saath species richness mein sharper change; continental biotas zyada different hote hain. Board checklist: Humboldt ka naam, rectangular hyperbola, log-log linear equation, symbols define, aur do Z ranges ka contrast. Sirf formula likhkar mat chhodna — Z values explain karo. NCERT poochhti hai steep slope ka kya matlab — answer mein 'faster increase of species with area at very large spatial scales' type reasoning do.",
+      "example": "Britain plants, California birds, New York molluscs — alag groups, phir bhi Z aksar 0.1–0.2.",
+      "board_lines": [
+        "Humboldt: species richness increases with explored area (upto a limit)",
+        "log S = log C + Z log A (curve = rectangular hyperbola; log-log = straight line)",
+        "Z ≈ 0.1–0.2 usually; continents Z ≈ 0.6–1.2; frugivores example Z = 1.15"
+      ],
+      "common_mistake": "Students Z ko hamesha 0.1–0.2 likh dete hain aur continental range 0.6–1.2 bhool jaate hain.",
+      "memory_trick": "S-A-Z: Species-Area; Small areas Small Z (0.1–0.2), Continents Climbing Z (0.6–1.2).",
+      "gesture_action": "Imaginary graph banao — pehle dheemi dhalan, phir steep continental slope",
+      "real_life_examples": [
+        "School garden vs national park — bade area mein generally zyada species",
+        "Ek forest patch vs poora subcontinent — scale badalte hi slope badal sakti hai"
+      ],
+      "worked_example": {
+        "problem": "'Z hamesha 0.1–0.2 hota hai' — yeh statement fully correct hai kya?",
+        "steps": [
+          "Many regional studies mein Z ≈ 0.1–0.2",
+          "Continental analyses mein Z ≈ 0.6–1.2 (e.g., 1.15)",
+          "Absolute rule ke taur par statement galat/incomplete"
+        ],
+        "answer": "Nahin. Local/regional studies mein Z ≈ 0.1–0.2; very large areas/continents par Z ≈ 0.6–1.2 ho sakta hai."
+      },
+      "practice": {
+        "easy": [
+          "Species-area equation likho aur S, A, Z, C define karo."
+        ],
+        "medium": [
+          "Rectangular hyperbola aur log-log straight line ka connection samjhao."
+        ],
+        "hard": [
+          "Z = 0.1–0.2 vs 0.6–1.2 compare karke steeper slope ka meaning batao."
+        ]
+      },
+      "summary": "Species richness area ke saath badhti hai; log S = log C + Z log A, with Z ~0.1–0.2 generally aur ~0.6–1.2 for continents.",
+      "revision_point": "Humboldt + equation + two Z ranges + 1.15 frugivore example.",
+      "exam_tip": "Equation questions mein symbols expand karna mat bhoolna — sirf formula se adhe marks milte hain.",
+      "source_text_hint": "log S= log C+ Z log A"
+    },
+    {
+      "concept": "पारितंत्र में जातीय विविधता का महत्त्व",
+      "say": "Section 13.1.3 — kya species number ecosystem functions ko affect karti hai? Long-held belief: species-rich communities kam species wali se zyada stable. Stable community features: (1) productivity mein year-to-year zyada variation nahi; (2) natural/human disturbances ko resist; (3) alien invasion ko resist. Exact link fully clear nahi, lekin David Tilman ke long-term outdoor plot experiments preliminary evidence dete hain. Tilman: zyada species wale plots mein total biomass ki year-to-year variation kam; diversity badhne se productivity badhti hai. Mechanism fully known nahi, lekin rich biodiversity good ecosystem aur human survival dono ke liye zaroori feel hoti hai. Thought questions: Western Ghats ki tree frog forever lut ho jaaye toh? 20,000 ant species ke bajay 15,000 reh jaayein toh? Direct answers nahi, lekin Paul Ehrlich ki Rivet Popper hypothesis direction deti hai. Airplane = ecosystem; rivets = species. Har passenger ek rivet le jaaye (extinction) toh shuru mein safety theek; rivets zyada hatne par plane dangerously weak. Kaunsa rivet matter karta hai — wing rivet seat/window se zyada critical. Wing rivets = keystone species. Board answer structure: hypothesis name + Ehrlich + airplane-rivet analogy + keystone comparison. Tilman aur Rivet Popper dono alag tools hain — ek experimental evidence, doosri conceptual warning model.",
+      "example": "Tilman plots: higher diversity → less year-to-year biomass variation + higher productivity.",
+      "board_lines": [
+        "Stable community: steady productivity; resists disturbance; resists alien invasion",
+        "Tilman: more diversity → less biomass variation + increased productivity",
+        "Rivet Popper (Paul Ehrlich): species = rivets; keystone species = wing rivets"
+      ],
+      "common_mistake": "Students Rivet Popper ko galat scientist se link kar dete hain — proposer Paul Ehrlich hai; keystone = wing rivet.",
+      "memory_trick": "TILL-MORE, RIVET-EHRLICH: Tilman → more diversity/productivity; Rivets → Ehrlich airplane.",
+      "gesture_action": "Airplane wings se rivets nikaalte dikhao — thode safe, zyada dangerous; wing rivet ko keystone bolo",
+      "real_life_examples": [
+        "Invasive weed crop field mein failna — low invasion-resistance intuition",
+        "Western Ghats frog extinction thought experiment — local function par sawal"
+      ],
+      "worked_example": {
+        "problem": "Rivet Popper mein airplane ke wing rivet ko kis se compare kiya gaya hai aur kyun?",
+        "steps": [
+          "Airplane = ecosystem; rivets = species",
+          "Wing rivet loss flight safety ke liye zyada critical",
+          "NCERT: wing rivets ↔ keystone species"
+        ],
+        "answer": "Keystone species se — unka loss ecosystem function ko disproportionately affect karta hai."
+      },
+      "practice": {
+        "easy": [
+          "Stable community ki teen features likho."
+        ],
+        "medium": [
+          "Tilman experiments ke do main conclusions likho."
+        ],
+        "hard": [
+          "Rivet Popper hypothesis explain karo aur batao yeh 'har species equally important' view se kaise nuanced hai."
+        ]
+      },
+      "summary": "Higher richness stability/productivity se judi dikhti hai; Rivet Popper batata hai progressive species loss, especially keystone loss, ecosystem ko weak karti hai.",
+      "revision_point": "Tilman + Ehrlich Rivet Popper + keystone = wing rivet.",
+      "exam_tip": "Hypothesis answers mein naam + proposer + analogy + conclusion — four-part format full marks dilata hai.",
+      "source_text_hint": "रिवेट पोपर परिकल्पना"
+    },
+    {
+      "concept": "जैव विविधता की क्षति और छठा विलोपन",
+      "say": "Section 13.1.4 — biodiversity loss. Speciation se nayi species add hona doubtful ho sakta hai, lekin continuous loss sure hai; human activities main driver. Pacific tropical islands par settlement se 2,000+ native bird species extinct. IUCN Red List (2004): last 500 years mein 784 extinctions — 338 vertebrates, 359 invertebrates, 87 plants. Icons: Mauritius dodo, Africa quagga, Australia thylacine, Russia Steller's sea cow, Bali/Java/Caspian tiger subspecies. Last 20 years: 27 extinctions. Extinctions random nahi — amphibians disproportionately hit. Ab >15,500 species brink par; currently 12% birds, 23% mammals, 32% amphibians, 31% angiosperms threatened. Fossil history: nearly 3 billion years mein 5 mass extinctions; ab sixth extinction. Fark mainly rate: current rate pre-human se 100–1,000× zyada; humans zimmedar. Warning: yahi rate chali toh ~100 years mein aadhi Earth species lut ho sakti hain. Loss effects: (क) plant productivity ghat ti hai; (ख) drought jaise stresses ke prati resistance kam; (ग) productivity, water use, pest/disease cycles ki variability badhti hai. Board package: Red List numbers + extinct examples + amphibian bias + sixth extinction rate difference + teen consequences. Spelling carefully: quagga, thylacine, Steller.",
+      "example": "Dodo, quagga, thylacine, Steller's sea cow, Bali/Java/Caspian tiger subspecies — human-era extinction icons.",
+      "board_lines": [
+        "IUCN Red List 2004: 784 extinctions/500 yrs (338 vert + 359 invert + 87 plants)",
+        "Threatened: >15,500; birds 12%, mammals 23%, amphibians 32%, angiosperms 31%",
+        "Sixth extinction: rate 100–1000× higher; half species may go in ~100 years"
+      ],
+      "common_mistake": "Students sixth extinction ka core point — rate 100–1000× higher — bhool jaate hain ya pehli paanch se confuse karte hain.",
+      "memory_trick": "784-RED / 15.5K-EDGE / 100to1000-SIX: extinct, threatened, faster sixth extinction.",
+      "gesture_action": "Paanch ungliyan = past mass extinctions; sixth ke liye haath tez hilao — 'same loss, much faster'",
+      "real_life_examples": [
+        "Critically endangered species news — Red List threat ka modern echo",
+        "Global amphibian declines — NCERT ke amphibian vulnerability point se match"
+      ],
+      "worked_example": {
+        "problem": "Sixth extinction pehli paanch se mukhya roop se kaise alag hai?",
+        "steps": [
+          "Earth ne pehle 5 mass extinctions dekhi",
+          "Current event bhi large-scale loss hai",
+          "NCERT difference: rate 100–1000× higher due to humans"
+        ],
+        "answer": "Mukhya antar rate ka hai — aaj extinction rate pre-human levels se 100 se 1000 guna adhik hai."
+      },
+      "practice": {
+        "easy": [
+          "Last 500 years mein IUCN (2004) ke anusar kitni species extinct hui?"
+        ],
+        "medium": [
+          "Threatened percentages: birds, mammals, amphibians, angiosperms likho."
+        ],
+        "hard": [
+          "Biodiversity loss ke teen ecological consequences likho aur human welfare se link karo."
+        ]
+      },
+      "summary": "Human-driven extinctions tezi se badh rahi hain; Red List facts aur sixth extinction ka ultra-high rate central warning hain.",
+      "revision_point": "784 extinct; >15,500 threatened; amphibians worst; sixth = 100–1000× faster.",
+      "exam_tip": "Extinct species ke naam sahi spelling mein likho — dodo, quagga, thylacine, Steller's sea cow.",
+      "source_text_hint": "अब जो ‘छठा विलोपन’ प्रगति पर है"
+    },
+    {
+      "concept": "आवासीय क्षति, विखंडन और अतिदोहन",
+      "say": "Biodiversity loss ke causes mainly human activities; NCERT char main causes batati hai. Is source portion mein pehle do detail mein hain. (क) Habitat loss and fragmentation — extinction ka main cause. Tropical rain forests: pehle Earth ke ~14% area, ab ~6% se adhik nahi. Itni tezi se nash ki chapter padhte-padhte hazaaron hectares khatam. Amazon size ki wajah se 'lungs of the planet' / पृथ्वी का फेफड़ा kehlata hai; crores species yahan ho sakti hain. Soybean cultivation aur cattle pastures ke liye kaatkar saaf kiya gaya. Complete destruction ke alawa pollution bhi habitats fragment karta hai. Jab bade habitats chhote patches mein toot jaate hain, toh large home-range mammals/birds aur migratory animals badly affected hote hain — populations decline. (ख) Overexploitation: humans food/shelter ke liye nature par dependent rahe, lekin jab need greed ban jaati hai, overexploitation shuru hota hai. Last 500 years mein isse kai species — jaise Steller's sea cow — extinct hui. Board framing: habitat loss = leading cause; 14%→6%; Amazon = lungs + soy/cattle; fragmentation hits wide-ranging/migratory species; overexploitation = need→greed. Char-causes framework yaad rakho — extracted text mein pehle do fully develop hue hain, aage chapter continue hota hai.",
+      "example": "Amazon clearing for soybean fields aur cattle pastures — habitat loss ka vivid NCERT example.",
+      "board_lines": [
+        "Habitat loss & fragmentation = leading cause of extinction",
+        "Rain forests: ~14% of land → now ≤6%; Amazon = 'lungs of the planet'",
+        "Overexploitation: need → greed; e.g., Steller's sea cow and many species in 500 years"
+      ],
+      "common_mistake": "Students loss aur fragmentation ko ek hi baat bana dete hain — fragmentation alag process hai jismein large habitat small isolated patches ban jaata hai.",
+      "memory_trick": "H-F-O: Habitat loss (greatest), Fragmentation (pieces), Overexploitation (greed).",
+      "gesture_action": "Bada paper = continuous habitat; faad kar chhote pieces = fragmentation; need se greed ki taraf haath = overexploitation",
+      "real_life_examples": [
+        "Highway/dam se jungle ke do tukde — local fragmentation intuition",
+        "Overfishing ya illegal wildlife trade — need vs greed"
+      ],
+      "worked_example": {
+        "problem": "Habitat fragmentation specially un mammals/birds ko kyun zyada affect karta hai jinko bada aawas chahiye?",
+        "steps": [
+          "Fragmentation continuous habitat ko small isolated patches mein todta hai",
+          "Large home-range aur migratory species ko connected space chahiye",
+          "Isolation/resource loss se populations decline"
+        ],
+        "answer": "Unke liye bade connected areas zaroori hote hain; patches chhote/isolated hone par movement aur survival disrupt hokar population kam ho jaati hai."
+      },
+      "practice": {
+        "easy": [
+          "Tropical rain forests pehle kitne percent area par the aur ab kitne percent par hain?"
+        ],
+        "medium": [
+          "Amazon ko 'Earth ka phephda' kyun kaha jaata hai? Destruction ke do NCERT uses likho."
+        ],
+        "hard": [
+          "Habitat loss, fragmentation aur overexploitation ko alag define karke ek-ek example se 5-mark compare karo."
+        ]
+      },
+      "summary": "Habitat loss/fragmentation leading cause hai (rain forests 14%→6%); overexploitation tab hota hai jab need greed ban jaati hai.",
+      "revision_point": "14%→6%; Amazon lungs; fragmentation hits large/migratory species; need→greed.",
+      "exam_tip": "Causes long-answer mein heading + one figure/example + one consequence — structured points examiner prefer karta hai.",
+      "source_text_hint": "आवासीय क्षति तथा विखंडन- यह जंतु व पौधे के विलुप्तीकरण का मुख्य कारण है"
+    }
+  ]
+}
