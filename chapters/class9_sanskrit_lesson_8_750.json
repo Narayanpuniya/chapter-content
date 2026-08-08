@@ -1,0 +1,341 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 750,
+    "chapter_name": "अन्नाद् आनन्दं प्रति",
+    "chapter_number": 8,
+    "book_name": "Class 9 Sanskrit",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Sanskrit"
+  },
+  "concept_map": {
+    "chapter_overview": "यह अष्टमः पाठः ‘अन्नाद् आनन्दं प्रति’ तैत्तिरीयोपनिषद् के भृगु–वरुण पिता–पुत्र संवाद पर आधारित है। भृगु ब्रह्मज्ञान के लिए तप करता है और क्रमशः अन्न, प्राण, मन, विज्ञान तथा आनन्द को ब्रह्मरूप में जानता है — यही पञ्चकोश-विवेक है। पाठ सिखाता है कि पूर्ण विकास केवल शरीर से नहीं, बल्कि क्रमिक साधना से होता है: food → life-breath → mind → intellect → bliss. Smart Board पर हम अन्वय, शब्दार्थ और जीवन-संदेश bilingual तरीके से समझेंगे।",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Sanskrit — अष्टमः पाठः: अन्नाद् आनन्दं प्रति. Socho: khana se shuru karke anand tak kaise pahunchte hain? Aaj hum Bhrigu aur Varuna ke upanishadic dialogue mein ghumenge — story bhi, grammar bhi, aur ek badi life-map: पञ्चकोश. Dil se suno, kyunki yeh sirf पाठ nahi — आत्मविकास ka roadmap hai!",
+    "learning_outcomes": [
+      "भृगु–वरुण संवाद की कथा-रेखा और ‘अन्नाद् आनन्दं प्रति’ शीर्षक का अर्थ स्पष्ट करना",
+      "पञ्चकोश (अन्नमय, प्राणमय, मनोमय, विज्ञानमय, आनन्दमय) को क्रम सहित समझाना",
+      "पाठ के प्रमुख संस्कृत वाक्यों का अन्वय/अर्थ और महत्वपूर्ण शब्दार्थ याद रखना",
+      "आहार-शुद्धि, प्राणायाम, मनःसाधना और आनन्द-प्राप्ति के नैतिक संदेश को परीक्षा उत्तर में जोड़ना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "पाठ परिचय — भृगु-वरुण संवाद"
+      },
+      {
+        "number": 2,
+        "name": "अन्नमयकोश — अन्नं वै ब्रह्म"
+      },
+      {
+        "number": 3,
+        "name": "प्राणमयकोश — प्राणो वै ब्रह्म"
+      },
+      {
+        "number": 4,
+        "name": "मनोमयकोश — मनो वै ब्रह्म"
+      },
+      {
+        "number": 5,
+        "name": "विज्ञानमयकोश — विज्ञानं वै ब्रह्म"
+      },
+      {
+        "number": 6,
+        "name": "आनन्दमयकोश — आनन्दो वै ब्रह्म"
+      },
+      {
+        "number": 7,
+        "name": "पञ्चकोश क्रम और जीवन-संदेश"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "पाठ परिचय — भृगु-वरुण संवाद",
+      "say": "Bacchon, aaj ka path NCERT Class 9 Sanskrit (शेमुषी) ka अष्टमः पाठः hai — title: अन्नाद् आनन्दं प्रति. Seedha arth: ‘अन्न से आनन्द की ओर’ — From food towards bliss. Yeh path Upaniṣad-sahitya se aaya hai; तैत्तिरीयोपनिषद् mein pita Varuna aur putra Bhrigu ka gyaan-prad संवाद milta hai. Opening scene yaad rakho: एकदा ब्रह्मज्ञानाय तत्परः वरुणस्य पुत्रः भृगुः सविनयं पितरं प्रति गत्वा निवेदयति — ek din Brahma-jñāna ke liye utsuk Bhrigu vinay se pita ke paas jaata hai. Woh kehta hai: अभिवादयेऽहं सादरम् — main aadar se pranam karta hoon; ब्रह्मविषये मयि काचिद् जिज्ञासा वर्तते — mujhe Brahma ke baare mein जिज्ञासा hai. Key question: किं तद् ब्रह्म येन सर्वं जगदिदं सञ्चाल्यते? — woh Brahma kya hai jisse poora jagat chal raha hai? Varuna seedha answer nahi thopata. Woh kehte hain: शुभं भूयात् — kalyan ho; ब्रह्मज्ञानाय त्वया स्वयमेव अन्वेषणं क्रियताम् — tum khud अन्वेषण करो; यत्नः अभ्यासश्च क्रियेताम्; तपस्तप्यताम्; तपसैव ज्ञायते — effort, practice, tapas — isi se gyaan milta hai. English mein: knowledge of the Absolute is not spoon-fed; it is discovered through disciplined seeking. Classroom tip: yeh ‘teaching method’ bhi hai — guru direction deta hai, shishya experience karta hai. Path ka central map पञ्चकोश hai: annamaya, pranamaya, manomaya, vijnanamaya, anandamaya. Aaj se hum stepwise padhenge ki Bhrigu har stage par kya सम्यग् अवबुद्धम् (samajh) leta hai. Yaad rakho — title ‘अन्नाद् आनन्दं प्रति’ journey dikhata hai, destination sirf first step nahi.",
+      "example": "अयि भोः पितः! अभिवादयेऽहं सादरम् — ‘हे पिता! मैं सादर अभिवादन करता हूँ’ — vinay + जिज्ञासा, dono saath.",
+      "board_lines": [
+        "अष्टमः पाठः — अन्नाद् आनन्दं प्रति (अन्न → आनन्द)",
+        "पात्र: भृगुः (पुत्र) · वरुणः (पिता/गुरु)",
+        "सूत्र: तपसैव ज्ञायते — तप से ही ज्ञान"
+      ],
+      "common_mistake": "Students sochte hain Varuna ne turant ‘Brahma = X’ bata diya. Asli baat: unhone स्वयम् अन्वेषणम् aur तपः ka path diya — discovery learning.",
+      "memory_trick": "B-V-T: भृगु पूछता है, वरुण दिशा देता है, तपः उत्तर खोलता है.",
+      "gesture_action": "Pranam mudra (अभिवादन), phir dono haath se ‘search’ (अन्वेषण), phir steady tapas pose — baithkar focus.",
+      "real_life_examples": [
+        "Science lab mein teacher formula ratwane ke bajay experiment karwata hai — bilkul Varuna wali method",
+        "Sports mein coach kehta hai ‘practice karo, feel aayega’ — ‘तपसैव ज्ञायते’ jaisa"
+      ],
+      "worked_example": {
+        "problem": "‘किं तद् ब्रह्म येन सर्वं जगदिदं सञ्चाल्यते?’ — अन्वय/अर्थ लिखिए तथा बताइए कि वरुण ने उत्तर में क्या मार्ग बताया।",
+        "steps": [
+          "प्रश्न का अर्थ लिखो: वह ब्रह्म क्या है जिससे यह सारा जगत् संचालित होता है?",
+          "वरुण का निर्देश: स्वयमेव अन्वेषणम्, यत्नः, अभ्यासः, तपः",
+          "निष्कर्ष: ब्रह्मज्ञान तप और अनुभव से आता है, केवल सुनने से नहीं"
+        ],
+        "answer": "भृगु पूछता है कि जगत् को चलाने वाला ब्रह्म क्या है। वरुण कहते हैं कि पुत्र स्वयं अन्वेषण करे, यत्न-अभ्यास करे और तप करे — क्योंकि तपसैव ज्ञायते।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का नाम और पाठ-संख्या (अष्टमः) लिखिए।"
+        ],
+        "medium": [
+          "भृगु ने पिता से ब्रह्म के विषय में क्या जिज्ञासा प्रकट की? एक संस्कृत पंक्ति उद्धृत कर अर्थ लिखिए।"
+        ],
+        "hard": [
+          "वरुण ने ब्रह्मज्ञान के लिए ‘तपस्तप्यताम्’ क्यों कहा? आधुनिक शिक्षा की दृष्टि से दो वाक्यों में समझाइए।"
+        ]
+      },
+      "summary": "पाठ भृगु–वरुण संवाद से शुरू होता है: जिज्ञासा + विनय, और गुरु का मार्ग — स्वयं अन्वेषण तथा तप द्वारा भविष्य के पञ्चकोश ज्ञान की नींव।",
+      "revision_point": "Title = अन्नाद् आनन्दं प्रति; Method = अन्वेषण + तपः; Source dialogue = भृगु–वरुण.",
+      "exam_tip": "परिचय वाले 2-mark में हमेशा लिखो: तैत्तिरीयोपनिषद्, पिता-पुत्र संवाद, पञ्चकोश — तीन keywords.",
+      "source_text_hint": "अष्टम: पाठ: अन् नाद् आनन्दं प्रति"
+    },
+    {
+      "concept": "अन्नमयकोश — अन्नं वै ब्रह्म",
+      "say": "Pehla bada station: अन्नमयकोश. Bhrigu bahut saal तप करता है, phir pita ke paas aata hai. Varuna poochhte hain: त्वया किं ज्ञातम्? Bhrigu boldly kehta hai — अन्नं वै ब्रह्म इति. ‘वै’ yahan emphatic particle hai — certainly/indeed. Varuna challenge karte hain: कथम् अन्नं ब्रह्मरूपेण ज्ञातम्? Ab अन्वय-अर्थ carefully: अन्नाद् एव प्राणिनः जायन्ते — प्राणी अन्न से ही जन्म लेते हैं; अन्नेन एव प्राणिनः जीवन्ति — अन्न से ही जीते हैं; अन्नेनैव शरीरं बलं च वर्धते — शरीर और बल अन्न से बढ़ते हैं; अतः अन्नं ब्रह्म. Shloka/support line bhi aati hai jaisa path mein: आहारात् सर्वभूतानि समभवन्ति — food se living beings arise; आहारेण विवर्धन्ते तेन जीवन्ति जन्तवः — food se badhte aur jeete hain. Varuna approve karte hain: त्वया सम्यग् अवबुद्धम् — tumne sahi samjha. Moral instructions crystal clear hain: अन्नं हि भूतानां ज्येष्ठम्; अन्नं सर्वौषधम्; कदापि अन्नं न निन्देत् — food ko kabhi ninda mat karo; अन्नं सदा ईश्वरबुद्ध्या सेवताम् — Ishwar-buddhi se sevan; कदापि अन्नं न परिहर्तव्यम्; प्रयत्नेन अन्नं बहु कुर्वीत; सर्वदा सात्त्विकं हितकारकं च आहारं सेवताम्. English: Food is the first sheath of life — respect it, grow it, choose sattvic nourishing diet. Grammar spot: परिहर्तव्यम् = परि + √हृ + तव्यत् — ‘should be discarded/avoided’ (yahan negative: nahi tyagna chahiye). कुर्वीत = विधिलिङ् — should do. Classroom link: exam mein ‘अन्नं वै ब्रह्म’ ke peeche sirf slogan nahi — birth, sustenance, growth teen reasons likho.",
+      "example": "अन्नं वै ब्रह्म — Food indeed is Brahman (the sustaining principle at the bodily level).",
+      "board_lines": [
+        "अन्नमयकोश: अन्नं वै ब्रह्म",
+        "कारण: जायन्ते · जीवन्ति · वर्धते (जन्म–जीवन–वृद्धि)",
+        "नीति: न निन्देत् · ईश्वरबुद्ध्या सेवताम् · सात्त्विक आहार"
+      ],
+      "common_mistake": "Students ‘अन्न = ब्रह्म’ ko sirf ‘khana khana important hai’ tak chhod dete hain. Full answer: उत्पत्ति, स्थिति, वृद्धि — teen points + अन्न निन्दा न करे.",
+      "memory_trick": "J-J-V: जन्म (जायन्ते) — जीवन (जीवन्ति) — वृद्धि (वर्धते) = अन्नं ब्रह्म.",
+      "gesture_action": "Plate dikhao (अन्न), pet par haath (जीवन), phir biceps dikhao (बल/वृद्धि).",
+      "real_life_examples": [
+        "Mid-day meal school mein — अन्न से ही पढ़ाई और स्वास्थ्य दोनों मजबूत होते हैं",
+        "Food waste mat karo — ‘कदापि अन्नं न निन्देत् / न परिहर्तव्यम्’ practical message"
+      ],
+      "worked_example": {
+        "problem": "भृगु ने अन्न को ब्रह्म क्यों कहा? पाठ के आधार पर तीन हेतु लिखिए।",
+        "steps": [
+          "अन्नाद् प्राणिनः जायन्ते — उत्पत्ति",
+          "अन्नेन जीवन्ति — जीवन-धारण",
+          "अन्नेन शरीरं बलं च वर्धते — वृद्धि; निष्कर्ष: अतः अन्नं ब्रह्म"
+        ],
+        "answer": "अन्न से प्राणियों का जन्म होता है, अन्न से वे जीवित रहते हैं और अन्न से शरीर व बल बढ़ते हैं; इसलिए भृगु कहते हैं — अन्नं वै ब्रह्म।"
+      },
+      "practice": {
+        "easy": [
+          "‘अन्नं वै ब्रह्म’ का हिन्दी अर्थ लिखिए।"
+        ],
+        "medium": [
+          "वरुण ने अन्न के विषय में कौन-से आचरण बताए? कोई दो निर्देश लिखिए।"
+        ],
+        "hard": [
+          "‘अन्नं सर्वौषधम्’ और ‘सात्त्विकं हितकारकं च आहारम्’ — दोनों का जीवन में महत्त्व अपने शब्दों में समझाइए।"
+        ]
+      },
+      "summary": "पहला कोश अन्नमय है: अन्न जन्म–जीवन–बल का आधार है; इसलिए अन्न की निन्दा नहीं, ईश्वरबुद्धि से सात्त्विक सेवन और उत्पादन का यत्न चाहिए।",
+      "revision_point": "अन्नमयकोश = अन्नं वै ब्रह्म; keywords: जायन्ते, जीवन्ति, वर्धते, न निन्देत्.",
+      "exam_tip": "अन्न वाले उत्तर में हमेशा ‘ज्येष्ठम् / सर्वौषधम्’ शब्द जोड़ो — examiner ko textual flavour pasand aata hai.",
+      "source_text_hint": "अन्नं वै ब्रह्म इति"
+    },
+    {
+      "concept": "प्राणमयकोश — प्राणो वै ब्रह्म",
+      "say": "Doosra round of तप: Bhrigu phir mountains/forest tapas karta hai aur lautkar kehta hai — प्राणो वै ब्रह्म इति. Varuna again: कथं प्राणो ब्रह्म? Anvay carefully suno. प्राणो हि भूतानाम् आयुः — प्राण ही प्राणियों की आयु है; प्राणे शरीरं प्रतिष्ठितम् — शरीर प्राण में प्रतिष्ठित है; प्राण एव अस्माकं जीवनम् — प्राण ही हमारा जीवन है; प्राणेन विना शरीरं क्रियाशून्यं भवति — बिना प्राण के शरीर क्रियाशून्य; अतः प्राणो ज्येष्ठः श्रेष्ठश्च. Varuna confirm: प्राणाद् एव इमानि भूतानि जायन्ते; प्राणेन जातानि जीवन्ति; प्राणशक्त्या एव शारीरिकक्रियाशक्तेर्विकासो भवति. Practical order: अतः प्राणः सर्वथा रक्षणीयः; प्रतिदिनं प्राणायामः कर्तव्यः. Support verse path mein: यावद् वायुः स्थितो देहे तावज्जीवनमुच्यते। मरणं तस्य निष्क्रान्तिस्ततो वायुं निरोधयेत्॥ — jab tak body mein वायु/प्राण hai, tab tak life; uske nikalne (निष्क्रान्ति) ko death kehte hain, isliye breath ko control/protect karo (प्राणायाम context). Word focus: निष्क्रान्तः/निष्क्रान्ति — बाहर जाना; आयुः — life-span. English classroom line: Breath is not ‘just air’ — it is the life-sheath that makes the body functional. Grammar/usage: रक्षणीयः, कर्तव्यः — अनीयर्/तव्यत् duty forms — ‘should be protected / should be done’. Link to previous: annamaya ke bina pranamaya strong nahi — pehle food, phir breath capacity. Exam tip: ‘प्राणो वै ब्रह्म’ ke liye आयुः + प्रतिष्ठा + क्रियाशून्य — teen pillars.",
+      "example": "यावद् वायुः स्थितो देहे तावज्जीवनमुच्यते — While breath stays in the body, life is said to continue.",
+      "board_lines": [
+        "प्राणमयकोश: प्राणो वै ब्रह्म",
+        "प्राण = आयुः · शरीरप्रतिष्ठा · जीवनम्",
+        "आचार: प्राणरक्षण · प्रतिदिनं प्राणायामः"
+      ],
+      "common_mistake": "Students प्राण ko sirf ‘saas’ bata kar ruk jaate hain. Better: आयु का आधार + शरीर की प्रतिष्ठा + क्रियाशक्ति — fuller textual answer.",
+      "memory_trick": "A-P-K: आयुः — प्रतिष्ठा — क्रियाशून्य (bina praan). Teen words = प्राणो ब्रह्म.",
+      "gesture_action": "Deep inhale-exhale (प्राणायाम), phir body freeze karke ‘क्रियाशून्य’ dikhao jab breath rukta hai.",
+      "real_life_examples": [
+        "Sports/PT mein breathing control se stamina badhta hai — प्राणशक्ति का विकास",
+        "Anxiety mein slow breathing — modern science bhi प्राण-रक्षण जैसे लाभ मानती है"
+      ],
+      "worked_example": {
+        "problem": "‘प्राणेन विना शरीरं क्रियाशून्यं भवति’ — अर्थ लिखकर बताइए कि इससे क्या निष्कर्ष निकलता है।",
+        "steps": [
+          "अर्थ: प्राण के बिना शरीर निष्क्रिय/क्रियाशून्य हो जाता है",
+          "जोड़ो: प्राण = आयुः और जीवनम्",
+          "निष्कर्ष: अतः प्राणो वै ब्रह्म; प्राण रक्षणीय और प्राणायाम कर्तव्य"
+        ],
+        "answer": "बिना प्राण के शरीर में क्रिया नहीं रहती; इसलिए प्राण जीवन का ज्येष्ठ-श्रेष्ठ तत्त्व है — प्राणो वै ब्रह्म — और प्रतिदिन प्राणायाम करना चाहिए।"
+      },
+      "practice": {
+        "easy": [
+          "प्राणमयकोश का सूत्र वाक्य लिखिए।"
+        ],
+        "medium": [
+          "पाठ में दिए श्लोक ‘यावद् वायुः स्थितो देहे…’ का भावार्थ दो वाक्यों में लिखिए।"
+        ],
+        "hard": [
+          "अन्न और प्राण में सम्बन्ध समझाइए — बिना अन्नमय विकास के प्राणमय विकास कठिन क्यों है?"
+        ]
+      },
+      "summary": "दूसरा कोश प्राणमय है: प्राण आयु, प्रतिष्ठा और क्रियाशक्ति है; इसलिए प्राणरक्षण और नियमित प्राणायाम आवश्यक है।",
+      "revision_point": "प्राणो वै ब्रह्म = आयुः + प्रतिष्ठितम् + क्रियाशून्यं भवति; duty = प्राणायामः कर्तव्यः.",
+      "exam_tip": "प्राण वाले 3-mark में श्लोक-पंक्ति ‘यावद् वायुः…’ का आधा भाग याद रखो — quotation se marks upar jaate hain.",
+      "source_text_hint": "प्राणो वै ब्रह्म इति"
+    },
+    {
+      "concept": "मनोमयकोश — मनो वै ब्रह्म",
+      "say": "Teesra discovery after longer तपश्चर्या: मनो वै ब्रह्म इति. Varuna: कथं मनो वै ब्रह्म? Bhrigu’s experience-based answer: अस्माकं मन एव सर्वकर्मणः प्रवर्तकम् — मन ही सब कर्मों का प्रवर्तक (starter/driver) है; समस्तानि इन्द्रियाणि अपि मनसा सञ्चाल्यन्ते — सारी इन्द्रियाँ मन से चलती हैं; मानवः मनसा एव सर्वं कार्यं सम्पादयति — मनुष्य मन से ही कार्य पूरा करता है; मनसः सङ्कल्पाः, भावाः, विचाराश्च जायन्ते — संकल्प, भाव, विचार मन से उठते हैं; अतः मनो वै ब्रह्म. Upanishadic support (path quote): कामः सङ्कल्पो विचिकित्सा श्रद्धाऽश्रद्धा धृतिरधृतिर्ह्रीर्धीर्भीः इत्येतत् सर्वं मन एव — desire, resolve, doubt, faith/unfaith, courage/lack, modesty, intellect, fear — yeh sab मन ही है. Word bank (शब्दार्थ): कामः = इच्छा/Desire; सङ्कल्पः = प्रतिज्ञा/resolve; विचिकित्सा = सन्देह/Doubt; धृतिः = धैर्य/Courage; धीः = बुद्धि/Intelligence; ह्रीः = लज्जा/Modesty; श्रद्धा = निष्ठा/Faith. Varuna’s training tip: चिन्तनशक्ति, मननशक्ति, दृढसङ्कल्पशक्ति se human सब लब्धुं शक्नोति; इसलिए मनः सदा सत्कर्मणा साधनीयम्; शोकादिरहितम् उत्साहयुक्तं शान्तं च करणीयम्; आहारशुद्धिश्च करणीया. English: Mind is the control room — purify food and actions to steady the mind. Grammar: साधनीयम् (√साध् + अनीयर्) — should be cultivated. Link chain: healthy food + strong breath → clearer mind. Common classroom line: ‘ मन खराब तो काम खराब’ — path isi ko Sanskrit mein systematize karta hai.",
+      "example": "कामः सङ्कल्पो विचिकित्सा… इत्येतत् सर्वं मन एव — Desire, resolve, doubt… all this is the mind alone.",
+      "board_lines": [
+        "मनोमयकोश: मनो वै ब्रह्म",
+        "मन = कर्मप्रवर्तक · इन्द्रिय-संचालक · विचार-स्रोत",
+        "साधना: सत्कर्म · शान्त/उत्साह · आहारशुद्धि"
+      ],
+      "common_mistake": "Students मन को केवल ‘सोच’ मान लेते हैं। पाठ में मन = काम, संकल्प, श्रद्धा, धृति, भी आदि — भावना और निर्णय दोनों।",
+      "memory_trick": "K-S-V-D: काम–संकल्प–विचिकित्सा–धृति — चार words se मनोमय याद.",
+      "gesture_action": "Temple par ungli (mind), phir steering wheel gesture — ‘मन इन्द्रियों को चलाता है’.",
+      "real_life_examples": [
+        "Exam se pehle panic (भी/विचिकित्सा) performance bigaadta hai — मनःशान्ति जरूरी",
+        "Goal ke liye दृढसङ्कल्प — daily study timetable — मनोमय विकास"
+      ],
+      "worked_example": {
+        "problem": "‘समस्तानि इन्द्रियाणि अपि मनसा सञ्चाल्यन्ते’ — अन्वय/अर्थ दीजिए और एक उदाहरण से समझाइए।",
+        "steps": [
+          "अन्वय भाव: सभी इन्द्रियाँ मन के द्वारा संचालित होती हैं",
+          "उदाहरण: आँख देखती है पर ‘कहाँ देखना है’ मन तय करता है",
+          "निष्कर्ष: इसलिए मन सर्वकर्मप्रवर्तक है — मनो वै ब्रह्म"
+        ],
+        "answer": "सारी इन्द्रियाँ मन से चलती हैं; जैसे ध्यान बिखरा हो तो पढ़ते हुए भी अर्थ नहीं सूझता — अतः मन ही ब्रह्म (मनोमय स्तर) कहा गया।"
+      },
+      "practice": {
+        "easy": [
+          "धृतिः और ह्रीः का अर्थ लिखिए।"
+        ],
+        "medium": [
+          "मन को साधने के लिए वरुण ने कौन-से उपाय बताए? कोई तीन लिखिए।"
+        ],
+        "hard": [
+          "‘इत्येतत् सर्वं मन एव’ सूची में से किन्हीं पाँच वृत्तियों के नाम लिखकर बताइए कि मनःसाधना क्यों आवश्यक है।"
+        ]
+      },
+      "summary": "तीसरा कोश मनोमय है: मन कर्मों और इन्द्रियों का चालक है; सत्कर्म, शान्ति, उत्साह और आहारशुद्धि से मन साधनीय है।",
+      "revision_point": "मनो वै ब्रह्म; list: काम, संकल्प, विचिकित्सा, श्रद्धा/अश्रद्धा, धृति/अधृति, ह्री, धी, भी.",
+      "exam_tip": "मनोमय वाले प्रश्न में ‘प्रवर्तकम् / सञ्चाल्यन्ते / साधनीयम्’ — ये तीन क्रियापद जरूर लाओ.",
+      "source_text_hint": "मनो वै ब्रह्म इति ज्ञातम्"
+    },
+    {
+      "concept": "विज्ञानमयकोश — विज्ञानं वै ब्रह्म",
+      "say": "Fourth stage: Bhrigu सूक्ष्मज्ञानेन realizes — विज्ञानं वै ब्रह्म इति. Varuna: किं नाम विज्ञानम्? Answer: बुद्धितत्त्वमेव विज्ञानम् — intellect-principle itself is विज्ञान. Why is it Brahman at this sheath? बुद्धितत्त्वं विना अस्माकं बोधशक्तेः, तर्कशक्तेः, विवेकशक्तेः, निर्णयशक्तेः, स्मृतिशक्तेश्च विकासो न भवति — without buddhi, powers of understanding, logic, discrimination, decision, and memory don’t develop. Next key metaphor: बुद्धिरेव सारथिरूपेण अस्मान् कर्मणि प्रवर्तयति — buddhi is like the charioteer driving us into action; समग्रज्ञानं बुद्धौ एव विद्यते — complete knowledge resides in intellect. Therefore विज्ञानं वै ब्रह्म. Varuna’s practice prescription: बौद्धिकविकासाय विज्ञानमयकोशस्य विकासः कर्त्तव्यः; तदर्थं प्रतिदिनं ध्यानं योगासनं च कर्तव्यम्. Board words from path: विवेकः, तर्कः, निश्चयः, स्मृतिः, बोधः, अनुभवः — yeh science-of-inner-intelligence ke pillars hain. English: Food and breath energize, mind desires, but intellect discriminates right from wrong — that discriminative wisdom is the vijnanamaya sheath. Link upward: mind without buddhi = impulses; buddhi guides मन and इन्द्रियाँ. Grammar note: कर्त्तव्यः/कर्तव्यम् — तव्यत् duty; सूक्ष्मज्ञानम् — subtle knowing after tapas. Classroom tip: Gita ke ‘सारथि’ image se compare kar sakte ho for memory, but exam answer textual reasons pe focused rakho — बोध, तर्क, विवेक, निर्णय, स्मृति. Extra classroom drill: board par paanch shaktiyan likho aur students se ek-ek example mangao — bodh (samajhna), tark (kyun), vivek (sahi-galat), nirnay (faisla), smriti (yaad). Yeh active recall se विज्ञानमयकोश exam-proof ban jaata hai.",
+      "example": "बुद्धिरेव सारथिरूपेण अस्मान् कर्मणि प्रवर्तयति — Intellect alone, as charioteer, sets us to action.",
+      "board_lines": [
+        "विज्ञानमयकोश: विज्ञानं वै ब्रह्म = बुद्धितत्त्वम्",
+        "शक्तियाँ: बोध · तर्क · विवेक · निर्णय · स्मृति",
+        "साधना: ध्यानम् · योगासनम् (प्रतिदिनम्)"
+      ],
+      "common_mistake": "Students विज्ञान को आधुनिक ‘Science subject’ samajh lete hain. Yahan विज्ञानम् = बुद्धितत्त्व / discriminative intellect (कोश).",
+      "memory_trick": "B-T-V-N-S: बोध–तर्क–विवेक–निर्णय–स्मृति — paanch shaktiyan = विज्ञानमय.",
+      "gesture_action": "Sarathi banakar reins pakdo — buddhi horses (indriyas/mind) ko control karti hai.",
+      "real_life_examples": [
+        "Phone distraction aaye toh विवेक से ‘ab padhai’ decide karna — विज्ञानमय प्रयोग",
+        "Rumour pe react karne se pehle तर्क–विवेक — buddhi as सारथि"
+      ],
+      "worked_example": {
+        "problem": "विज्ञानमयकोश किसे कहते हैं? भृगु के अनुसार उसके विकास के दो उपाय लिखिए।",
+        "steps": [
+          "परिभाषा: विज्ञानम् = बुद्धितत्त्वम्",
+          "महत्त्व: बोध/तर्क/विवेक/निर्णय/स्मृति का आधार",
+          "उपाय: प्रतिदिन ध्यान और योगासन"
+        ],
+        "answer": "विज्ञानमयकोश बुद्धितत्त्व है जिससे बोध, तर्क, विवेक आदि विकसित होते हैं; इसके विकास हेतु प्रतिदिन ध्यान और योगासन कर्तव्य हैं।"
+      },
+      "practice": {
+        "easy": [
+          "‘विज्ञानं वै ब्रह्म’ में विज्ञान का पाठगत अर्थ क्या है?"
+        ],
+        "medium": [
+          "बुद्धि को ‘सारथि’ क्यों कहा गया है? एक उदाहरण सहित लिखिए।"
+        ],
+        "hard": [
+          "मनोमय और विज्ञानमय में भेद स्पष्ट कीजिए — मन क्या करता है और बुद्धि क्या सुधारती है?"
+        ]
+      },
+      "summary": "चौथा कोश विज्ञानमय है: बुद्धितत्त्व बोध–तर्क–विवेक–निर्णय–स्मृति का आधार और कर्मों का सारथि है; ध्यान व योगासन से इसका विकास होता है।",
+      "revision_point": "विज्ञानम् = बुद्धितत्त्वम्; सारथि metaphor; daily ध्यान + योगासन.",
+      "exam_tip": "‘विज्ञान’ को Science mat translate karna exam Hindi/Sanskrit medium mein — लिखो बुद्धितत्त्व/विवेकबुद्धि.",
+      "source_text_hint": "विज्ञानं वै ब्रह्म इति"
+    },
+    {
+      "concept": "आनन्दमयकोश — आनन्दो वै ब्रह्म",
+      "say": "Final reported realization in the graded journey: अत्यन्तं सूक्ष्मचिन्तनेन तपसा च — आनन्दो वै ब्रह्म इति. Varuna: कथम् आनन्दो वै ब्रह्म? Bhrigu’s deep answer: अस्माकं सर्वकर्माणि आनन्दाय भवन्ति — हमारे सब कर्म आनन्द के लिए होते हैं; अस्माकं कर्मणो लक्ष्यम् आनन्दप्राप्तिरेव — कर्म का लक्ष्य आनन्द-प्राप्ति ही है; आनन्देन एव प्राणिनो जीवन्ति — प्राणी आनन्द से ही जीते हैं; आनन्देन रहितं जीवनं मृत्युरूपम् — बिना आनन्द का जीवन मृत्यु-रूप; तस्मात् आनन्दो वै ब्रह्म. Yeh philosophical but practical hai: grades, jobs, even food — ultimately sukh/anand ke liye. Varuna’s ethical program for आनन्दप्राप्ति: प्रतिदिनं ध्यानं योगासनं च कर्तव्यम्; प्राणिषु दया कर्तव्या; परोपकारः कर्तव्यः; रागः, द्वेषः, ईर्ष्या, क्रोधः, लोभः, मोहश्च हातव्याः — these six toxins should be abandoned (हातव्याः = √हा + तव्यत्, should be given up); सर्वदा ईश्वरं सेवतां मोदतां च — always serve the Divine and rejoice. Bhrigu accepts: अस्तु श्रीमन्! तथैव आचरामि — I shall act accordingly. English: Bliss is not escape from duty; it is the inner fulfilment that duty aims at, reached by compassion, service, and dropping negative emotions. Contrast with earlier sheaths: annamaya body comfort, pranamaya vitality, manomaya emotional weather, vijnanamaya wise choice — anandamaya is the taste of wholeness. Exam writing: ‘आनन्दो वै ब्रह्म’ ke saath लक्ष्यम् आनन्दप्राप्ति + हातव्याः list thodi yaad rakhni chahiye.",
+      "example": "आनन्देन रहितं जीवनं मृत्युरूपम् — A life without joy is like death.",
+      "board_lines": [
+        "आनन्दमयकोश: आनन्दो वै ब्रह्म",
+        "लक्ष्य: सर्वकर्माणि आनन्दाय · आनन्दप्राप्तिः",
+        "पथ: दया · परोपकार · रागद्वेषादि हातव्याः · ध्यान/योग"
+      ],
+      "common_mistake": "Students आनन्द को केवल ‘मज़ा/entertainment’ likhte hain. Path का आनन्द = गहरी तृप्ति/ब्रह्मानन्द-दिशा, paired with दया and त्याग of क्रोध-लोभ.",
+      "memory_trick": "D-P-H: दया — परोपकार — हातव्याः (रागद्वेष…). Teen keys to आनन्द.",
+      "gesture_action": "Smile with open hands (आनन्द/परोपकार), phir negative emotions ko ‘throw away’ gesture — हातव्याः.",
+      "real_life_examples": [
+        " kisi ki help karke jo shanti milti hai — वह आनन्द entertainment से गहरा होता है",
+        "Anger (क्रोध) se friendship/tootna — ‘हातव्याः’ practical reason"
+      ],
+      "worked_example": {
+        "problem": "आनन्द को ब्रह्म क्यों कहा गया? वरुण के अनुसार आनन्दप्राप्ति के चार उपाय लिखिए।",
+        "steps": [
+          "कारण: कर्मों का लक्ष्य आनन्द; आनन्द से जीवन; बिना आनन्द मृत्यु-रूप",
+          "उपाय चुनो: ध्यान, योगासन, दया, परोपकार, ईश्वर-सेवा",
+          "त्याग: राग-द्वेष-ईर्ष्या-क्रोध-लोभ-मोह हातव्याः"
+        ],
+        "answer": "क्योंकि समस्त कर्म आनन्द के लिए हैं और आनन्दहीन जीवन मृत्युरूप है — अतः आनन्दो वै ब्रह्म। उपाय: ध्यान-योगासन, प्राणियों पर दया, परोपकार, रागद्वेषादि का त्याग तथा ईश्वर-सेवा।"
+      },
+      "practice": {
+        "easy": [
+          "‘आनन्दो वै ब्रह्म’ का सरल अर्थ लिखिए।"
+        ],
+        "medium": [
+          "हातव्याः भाव वाले कोई चार दोषों के नाम पाठ से लिखिए।"
+        ],
+        "hard": [
+          "‘आनन्देन रहितं जीवनं मृत्युरूपम्’ — इस कथन की व्याख्या जीवन के उदाहरण से कीजिए।"
+        ]
+      },
+      "summary": "पाँचवाँ कोश आनन्दमय है: कर्मों का लक्ष्य आनन्द है; दया, परोपकार, दोष-त्याग, ध्यान-योग और ईश्वर-सेवा से आनन्दपुष्टि होती है।",
+      "revision_point": "आनन्दो वै ब्रह्म; हातव्याः = राग, द्वेष, ईर्ष्या, क्रोध, लोभ, मोह; आचार = दया + परोपकार.",
+      "exam_tip": "आनन्द वाले उत्तर को ‘केवल सुख’ mat likho — textual line ‘कर्मणो लक्ष्यम् आनन्दप्राप्तिरेव’ zaroor add karo.",
+      "source_text_hint": "आनन्दो वै ब्रह्म इति"
+    },
+    {
+      "concept": "पञ्चकोश क्रम और जीवन-संदेश",
+      "say": "Ab poora map jodo — yahi path ka exam-hotspot hai. Varuna summarize karte hain: तपसा सूक्ष्मविज्ञानेन च अन्नस्य, प्राणस्य, मनसः, विज्ञानस्य, आनन्दस्य च महत्त्वं ज्ञातवान्। एतैः पञ्चभिरेव अस्माकं पूर्णविकासो भवति, अतः एते ब्रह्मपदेन व्यवह्रियन्ते — in five se पूर्ण विकास, isliye inhe Brahma-pada se व्यवहार किया जाता है. Important caution: ब्रह्मणः स्वरूपं तु ततोऽपि परे अस्ति — Brahman’s absolute nature is still beyond; एतानि ब्रह्मज्ञानाय द्वाराणि सन्ति — these are gateways/doors to Brahma-jñāna. Sequential rule from ‘अत्र इदम् अवधेयम्’: मानवः क्रमशः शरीरेण, प्राणेन, मनसा, बुद्ध्या, आध्यात्मशक्त्या च पूर्णविकासं लभते. Names to memorize in order: (१) अन्नमयकोशः (२) प्राणमयकोशः (३) मनोमयकोशः (४) विज्ञानमयकोशः (५) आनन्दमयकोशः. Dependency: अन्नमय बिना प्राणमय नहीं; अन्न+प्राण बिना मनोमय नहीं — एवं क्रमेण. Closing mantra-line of path: आहारशुद्धौ सत्त्वशुद्धिः सत्त्वशुद्धौ ध्रुवा स्मृतिः। स्मृतिलम्भे सर्वग्रन्थीनां विप्रमोक्षः — shuddha aahar → sattva shuddhi → stable memory/self-awareness → knots/doubts open → विप्रमोक्ष (final liberation). Word focus: विप्रमोक्षः = अत्यन्त मोक्ष; स्मृतिलम्भे = ध्रुवस्मृति/आत्मज्ञान प्राप्ति पर; सर्वग्रन्थीनाम् = सब गाँठों/संदेहों के. English takeaway: Holistic growth is layered — body, breath, mind, intellect, bliss — and purity of food begins the chain. Moral for rural Smart Board class: respect food, practice breathing, clean thoughts, use buddhi, serve with joy — step by step, not overnight magic.",
+      "example": "आहारशुद्धौ सत्त्वशुद्धिः… सर्वग्रन्थीनां विप्रमोक्षः — From pure food to pure being to freedom from all inner knots.",
+      "board_lines": [
+        "क्रम: अन्न → प्राण → मन → विज्ञान → आनन्द",
+        "पञ्च = पूर्णविकास के द्वार (ब्रह्मज्ञानाय द्वाराणि)",
+        "सूत्र: आहारशुद्धि → सत्त्व → स्मृति → विप्रमोक्ष"
+      ],
+      "common_mistake": "Students paanch kosha ke naam toh likh dete hain lekin क्रम उलट देते हैं (आनन्द को पहले). Fixed order याद रखो: अन्न से शुरू।",
+      "memory_trick": "A-P-M-V-A: अन्न–प्राण–मन–विज्ञान–आनन्द — ‘APMVA’ jaise phone password!",
+      "gesture_action": "Paanch ungliyon par step-by-step: thumb अन्न, index प्राण, middle मन, ring विज्ञान, little आनन्द — phir fists milaakar पूर्णविकास.",
+      "real_life_examples": [
+        "Healthy tiffin (अन्न) → PT breathing (प्राण) → focus class (मन) → wise choices (विज्ञान) → contentment (आनन्द)",
+        "Garden: pehle mitti-paani, phir shoot, leaves, flower, fruit — layered growth like पञ्चकोश"
+      ],
+      "worked_example": {
+        "problem": "पञ्चकोशों के नाम क्रम से लिखिए तथा बताइए कि इन्हें ब्रह्म क्यों कहा गया, फिर भी ब्रह्म का वास्तविक स्वरूप इनसे परे कैसे है?",
+        "steps": [
+          "क्रम सूची: अन्नमय, प्राणमय, मनोमय, विज्ञानमय, आनन्दमय",
+          "कारण: इन पाँचों से पूर्णविकास — अतः ब्रह्मपद से व्यवहार",
+          "सीमा: ये द्वाराणि हैं; ब्रह्मणः स्वरूपं ततोऽपि परे"
+        ],
+        "answer": "अन्नमय–प्राणमय–मनोमय–विज्ञानमय–आनन्दमय — इनसे पूर्ण विकास होता है इसलिए इन्हें ब्रह्म कहा/व्यवहार किया जाता है; पर ब्रह्म का परम स्वरूप इनसे भी परे है — ये ब्रह्मज्ञान के द्वार हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पञ्चकोशों के नाम सही क्रम में लिखिए।"
+        ],
+        "medium": [
+          "‘एतानि ब्रह्मज्ञानाय द्वाराणि सन्ति’ — इस पंक्ति का तात्पर्य स्पष्ट कीजिए।"
+        ],
+        "hard": [
+          "आहारशुद्धौ…विप्रमोक्षः — शृंखला को अपने शब्दों में पाँच चरणों में समझाइए और जीवन से जोड़िए।"
+        ]
+      },
+      "summary": "पाठ का निष्कर्ष: पाँच कोश क्रमिक द्वार हैं जिनसे पूर्णविकास होता है; आहारशुद्धि से शुरू श्रृंखला सत्त्व, स्मृति और विप्रमोक्ष तक जाती है।",
+      "revision_point": "Order APMVA; द्वाराणि not final Absolute; chain आहारशुद्धि→सत्त्वशुद्धि→ध्रुवा स्मृति→विप्रमोक्ष.",
+      "exam_tip": "दीर्घ उत्तर में (a) कथा संक्षेप (b) पञ्चकोश क्रम (c) एक नीति-सूत्र — तीन ब्लॉक लिखो, marks safe रहेंगे.",
+      "source_text_hint": "एतै: पञ्चभिरेव असमाकं पूर्णविकासो भवति"
+    }
+  ]
+}
