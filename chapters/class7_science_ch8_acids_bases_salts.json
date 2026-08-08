@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 481,
+    "chapter_name": "अम्ल, क्षारक और लवण",
+    "chapter_number": 8,
+    "book_name": "Class 7 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 7",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 7 Science ke Chapter 8 — अम्ल, क्षारक और लवण — padhenge. Is chapter mein hum seekhenge ki khatte padarthon mein अम्ल (acids) hote hain aur kadwe, sabun-jaise padarth क्षारक (bases) hote hain; लिटमस, हल्दी aur गुड़हल jaise प्राकृतिक सूचक se unki pehchan kaise hoti hai; उदासीन विलयन kya hote hain; aur अम्ल + क्षारक → लवण + जल + ऊष्मा wali उदासीनीकरण abhikriya — saath hi अम्ल वर्षा ke bare mein bhi jaanenge.",
+    "welcome": "Namaste bacchon! Smart Board par aaj ek bahut mazaane wala chapter shuru karte hain — अम्ल, क्षारक और लवण. Socho: नींबू, दही, सिरका — sab khatte; खाने का सोडा kadwa aur haath mein ragarne par sabun jaisa. Aaj hum inke peeche science samjhenge, bina kisi ko anjaan chiz chakhе! Ready? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "अम्लीय aur क्षारकीय padarthon ko swaad, sparsh aur prakriti ke aadhaar par pehchanna (safety rules ke saath)",
+      "प्राकृतिक अम्ल (citric, lactic, acetic आदि) aur सामान्य क्षारक (chune ka pani, soap, milk of magnesia) ke udaharan yaad rakhna",
+      "लिटमस, हल्दी aur गुड़हल jaise प्राकृतिक सूचकों se अम्लीय, क्षारकीय aur उदासीन vilayanon ka parikshan karna",
+      "उदासीनीकरण abhikriya define karna: अम्ल + क्षारक → लवण + जल (+ ऊष्मा), aur अम्ल वर्षा ka karan-prabhav samajhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अम्ल और क्षारक – स्वाद से पहचान"
+      },
+      {
+        "number": 2,
+        "name": "प्राकृतिक अम्ल और क्षारक – क्या आप जानते हैं?"
+      },
+      {
+        "number": 3,
+        "name": "प्राकृतिक सूचक और लिटमस"
+      },
+      {
+        "number": 4,
+        "name": "लिटमस परीक्षण और उदासीन विलयन"
+      },
+      {
+        "number": 5,
+        "name": "हल्दी एक प्राकृतिक सूचक"
+      },
+      {
+        "number": 6,
+        "name": "गुड़हल के पुष्प का सूचक"
+      },
+      {
+        "number": 7,
+        "name": "उदासीनीकरण – फिनॉल्फथेलिन से समझ"
+      },
+      {
+        "number": 8,
+        "name": "अम्ल वर्षा और उदासीनीकरण का समीकरण"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अम्ल और क्षारक – स्वाद से पहचान",
+      "say": "Bacchon, humare daily life mein hum नींबू, इमली, नमक, शक्कर aur सिरका jaise kai padarth use karte hain. Kya in sabka swaad ek jaisa hota hai? Bilkul nahi! NCERT Table 4.1 mein food items hain — नींबू का रस, संतरे का रस, सिरका, दही, इमली, शक्कर, नमक, आँवला, खाने का सोडा, अंगूर, कच्चा आम, खीरा. Dahi, neembu ka ras, santare ka ras aur sirke ka swaad khatta hota hai. Yeh khatte isliye hote hain kyunki inmein अम्ल (acid) hote hain. Aise padarthon ki chemical nature अम्लीय kehlati hai. Acid shabd Latin word 'acere' se aaya hai, jiska matlab hai khatta. Yeh acids प्रकृति में पाए जाने वाले प्राकृतिक अम्ल hote hain. Ab baking soda — खाने का सोडा — socho. Kya iska swaad bhi khatta hai? Nahi! Iska swaad kadwa (bitter) hota hai. Agar iske solution ko ungliyon ke beech ragdo, to yeh sabun jaisa chikna (soapy) lagta hai. Generally aise padarth jinka swaad kadwa ho aur sparsh par sabun-jaise lagen, वे क्षारक (bases) kehlate hain; inki nature क्षारकीय hoti hai. Bahut zaroori चेतावनी: Kya hum har padarth chakh sakte hain? Nahi! Anjaan padarthon ko kabhi mat chakhna — yeh humein nuksan pahuncha sakte hain. Jab tak teacher na kahein, kisi vastu ko na chakhо, na sparsh karo. Kuch padarth khatte, kuch kadwe, kuch meethe, kuch namkeen hote hain — lekin pehchan ke liye hamesha safe methods use karenge.",
+      "example": "नींबू का रस aur सिरका khatte hain → अम्लीय; खाने का सोडा kadwa aur sabun-jaisa → क्षारकीय.",
+      "board_lines": [
+        "खट्टा स्वाद → अम्ल (acid) → अम्लीय प्रकृति",
+        "कड़वा + साबुन जैसा स्पर्श → क्षारक (base) → क्षारकीय प्रकृति",
+        "चेतावनी: अज्ञात पदार्थ कभी न चखें, न छुएँ!"
+      ],
+      "common_mistake": "Students sochte hain har padarth chakh kar acid/base pehchan sakte hain — galat aur dangerous! Lab/unknown chemicals kabhi nahi chakhte.",
+      "memory_trick": "K-A / K-K: Khatta = Acid; Kadwa + Khilta sabun-feel = क्षारक (Base).",
+      "gesture_action": "Ek haath se khatta face (neembu), doosre haath se bitter face + ungliyon se soapy-rub gesture — acid vs base contrast",
+      "real_life_examples": [
+        "Kitchen mein दही, नींबू, सिरका — natural acids ke examples",
+        "Baking soda se cake/pakode — base jaisa padarth ghar mein"
+      ],
+      "worked_example": {
+        "problem": "नीचे diye gaye padarthon ko अम्लीय ya क्षारकीय mein classify karo aur reason do: (a) सिरका (b) खाने का सोडा",
+        "steps": [
+          "सिरका ka swaad khatta hota hai → ismein acetic acid hota hai → अम्लीय",
+          "खाने का सोडा ka swaad kadwa hota hai aur solution sabun-jaisa feel hota hai → क्षारकीय",
+          "Conclude: taste + soapy touch se nature pehchano, lekin unknown cheez mat chakhо"
+        ],
+        "answer": "(a) सिरका — अम्लीय (khatta); (b) खाने का सोडा — क्षारकीय (kadwa + sabun-jaisa sparsh)."
+      },
+      "practice": {
+        "easy": [
+          "Acid shabd kis language ke kis word se aaya hai aur uska matlab kya hai?"
+        ],
+        "medium": [
+          "दही aur खाने का सोडा ki chemical nature likho aur ek-ek identifying property batao."
+        ],
+        "hard": [
+          "'Kya main sab padarth chakh kar unki nature jaan sakta hoon?' — NCERT चेतावनी ke aadhaar par 3–4 lines mein jawab do."
+        ]
+      },
+      "summary": "Khatte padarth अम्लीय hote hain aur kadwe-sabun-jaise padarth क्षारकीय; lekin unknown substances ko kabhi chakhna ya chhuna nahi chahiye.",
+      "revision_point": "Acid = khatta (acere); Base = kadwa + soapy feel; Safety first.",
+      "exam_tip": "1-mark mein definition + ek example dono likho — sirf 'khatta = acid' se poore marks nahi milte; 'प्राकृतिक अम्ल' word use karo jab food acids ki baat ho.",
+      "source_text_hint": "दही, नींबू का रस, संतरे का रस और सिरके का स्वाद खट्टा होता है"
+    },
+    {
+      "concept": "प्राकृतिक अम्ल और क्षारक – क्या आप जानते हैं?",
+      "say": "Bacchon, NCERT mein ek bahut useful box hai — 'क्या आप जानते हैं?' Ismein natural acids aur bases ke naam aur unke sources diye gaye hain. Yaad karo: ऐसीटिक अम्ल सिरका mein hota hai; चींटी के डंक mein फॉर्मिक अम्ल hota hai — isliye ant bite jalan deti hai; नींबू-संतरा jaise citrus fruits mein साइट्रिक अम्ल; दही mein लैक्टिक अम्ल; पालक mein ऑक्सेलिक अम्ल; आँवला aur citrus fruits mein एस्कॉर्बिक अम्ल yani Vitamin C; aur इमली, अंगूर, कच्चे आम mein टार्टरिक अम्ल. Yeh sab प्रकृति में पाए जाने वाले अम्ल hain. Ab bases: कैल्सियम हाइड्रॉक्साइड चूने का पानी mein; अमोनियम हाइड्रॉक्साइड window glass saaf karne wale cleaners mein; सोडियम हाइड्रॉक्साइड aur पोटैशियम हाइड्रॉक्साइड साबुन mein; मैग्नीशियम हाइड्रॉक्साइड दूधिया मैग्नीशियम (Milk of Magnesia) mein. Exam mein aksar matching table aata hai — acid ka naam aur kahan milta hai. Memory tip: citrus → citric; dahi → lactic; sirka → acetic; aamla → ascorbic (Vitamin C). Bases mein chuna-pani = Ca(OH)₂, soap = NaOH/KOH, milk of magnesia = Mg(OH)₂. Yeh list ratto nahi — daily life se jodo: kitchen, bathroom cleaner, soap, ant bite. Question aata hai: agar hum padarth chakh nahi sakte, to nature kaise jaanein? Uske liye agle concept mein indicators aayenge.",
+      "example": "Cheenti kaatne par jalan — formic acid; doodh se bana dahi — lactic acid; soap — sodium/potassium hydroxide.",
+      "board_lines": [
+        "Acetic→सिरका; Formic→चींटी; Citric→नींबू/संतरा; Lactic→दही",
+        "Oxalic→पालक; Ascorbic(Vit C)→आँवला; Tartaric→इमली/अंगूर/कच्चा आम",
+        "Ca(OH)₂ चूने का पानी; NaOH/KOH साबुन; Mg(OH)₂ Milk of Magnesia"
+      ],
+      "common_mistake": "Students Vitamin C ko ascorbic acid se alag samajhte hain — actually एस्कॉर्बिक अम्ल hi Vitamin C hai (aamla/citrus).",
+      "memory_trick": "C-FLAT-O: Citric, Formic, Lactic, Acetic, Tartaric, Oxalic, ascorbic — natural acid family; soap-chuna-magnesia = bases.",
+      "gesture_action": "Board par do columns banao — अम्ल | स्रोत aur क्षारक | स्रोत — students se matching cards chipkao",
+      "real_life_examples": [
+        "Window cleaner mein ammonia smell — ammonium hydroxide",
+        "Pet/bacche ko ant bite — formic acid ki wajah se jalan"
+      ],
+      "worked_example": {
+        "problem": "Match karo: (1) टार्टरिक अम्ल (2) मैग्नीशियम हाइड्रॉक्साइड — inke sahi sources likho.",
+        "steps": [
+          "NCERT table yaad karo: tartaric acid → imli, angoor, kaccha aam",
+          "Magnesium hydroxide → doodhiya magnesium / Milk of Magnesia",
+          "Write matched pairs clearly"
+        ],
+        "answer": "(1) टार्टरिक अम्ल — इमली, अंगूर, कच्चे आम आदि; (2) मैग्नीशियम हाइड्रॉक्साइड — दूधिया मैग्नीशियम (Milk of Magnesia)."
+      },
+      "practice": {
+        "easy": [
+          "सिरका mein kaunsa acid hota hai?"
+        ],
+        "medium": [
+          "पालक, दही aur आँवला — har ek mein kaunsa natural acid milta hai?"
+        ],
+        "hard": [
+          "Teen bases ke naam likho jo daily life ke products (chune ka pani, soap, milk of magnesia) se jude hain, aur unke chemical names bhi do."
+        ]
+      },
+      "summary": "NCERT 'क्या आप जानते हैं?' box natural acids (acetic, formic, citric, lactic, oxalic, ascorbic, tartaric) aur common bases (Ca/Na/K/Mg/NH₄ hydroxides) ke sources batata hai — yeh matching questions ke liye goldmine hai.",
+      "revision_point": "Citrus→citric; dahi→lactic; sirka→acetic; ant→formic; soap→NaOH/KOH; chuna-pani→Ca(OH)₂.",
+      "exam_tip": "Matching / 'kismein paya jata hai' type 1-mark ke liye exact source likho — 'fruit' mat likho, 'नींबू कुल के सिट्रस फल' jaisa specific answer better marks lata hai.",
+      "source_text_hint": "ऐसीटिक अम्ल सिरका ... लैक्टिक अम्ल दही ... कैल्सियम हाइड्रॉक्साइड चूने का पानी"
+    },
+    {
+      "concept": "प्राकृतिक सूचक और लिटमस",
+      "say": "Ab sawal aata hai — agar hum kisi padarth ko chakh nahi sakte, to uski nature kaise jaanein? Acidic hai ya basic? Iske liye special padarth use hote hain jinhe सूचक (indicators) kehte hain. Jab inhe acidic ya basic solution mein milate hain, to inka रंग बदल जाता है. हल्दी, लिटमस, गुड़हल की पंखुड़ियाँ — yeh kuch प्राकृतिक सूचक hain. Sabse common natural indicator है लिटमस. Litmus को लाइकेनों (शैवाल/lichens) se निकालते हैं — NCERT चित्र 4.1. आसुत जल (distilled water) mein iska rang मौव (नीलशोण / mauve) hota hai. Jab ise अम्लीय विलयन mein milaya jata hai to ये लाल हो जाता है; क्षारीय विलयन mein ये नीला हो जाता है. Litmus solution ke roop mein ya कागज़ की पट्टियों — लिटमस पत्र — ke roop mein milta hai. Generally red aur blue litmus paper available hote hain. Yaad rakhne ka simple rule: Acid → Blue litmus को Red; Base → Red litmus को Blue. Mauve colour sirf distilled water / neutral-ish starting colour hai extraction ke baad. Indicators taste ki jagah safe testing dete hain — yahi science lab ka tareeka hai. Agle concept mein hum Activity 4.1 se actual testing aur उदासीन विलयन seekhenge.",
+      "example": "Blue litmus paper par neembu ke ras ki boond — paper लाल ho jayega, matlab solution अम्लीय hai.",
+      "board_lines": [
+        "सूचक = रंग बदलने वाले पदार्थ (acid/base test)",
+        "लिटमस ← लाइकेन; आसुत जल में मौव रंग",
+        "अम्ल → लाल; क्षारक → नीला (लिटमस)"
+      ],
+      "common_mistake": "Students confuse kar dete hain — sochte hain acid litmus ko blue karta hai. Sahi: Acid turns blue litmus red; base turns red litmus blue.",
+      "memory_trick": "AB-RB: Acid → Blue becomes Red; Base → Red becomes Blue. (A-B / R-B pattern)",
+      "gesture_action": "Do coloured paper dikhao — blue paper ko 'acid spray' se red, red paper ko 'base spray' se blue act out karo",
+      "real_life_examples": [
+        "School lab mein red/blue litmus strips se vinegar aur soap solution test",
+        "Garden lichen rocks par — litmus ka natural source yaad dilata hai"
+      ],
+      "worked_example": {
+        "problem": "Ek solution ne blue litmus ko red kar diya. Solution ki nature kya hai? Agar red litmus par koi change na ho to kya matlab?",
+        "steps": [
+          "Blue litmus → red means solution is अम्लीय",
+          "Acidic solution red litmus ko change nahi karta (red hi rehta hai)",
+          "Conclude nature: अम्लीय"
+        ],
+        "answer": "Solution अम्लीय है। Red litmus पर कोई रंग परिवर्तन नहीं होगा (लाल ही रहेगा)।"
+      },
+      "practice": {
+        "easy": [
+          "Litmus kis natural source se nikalta hai?"
+        ],
+        "medium": [
+          "Distilled water mein litmus ka rang kya hota hai? Acid aur base mein kya-kya ho jata hai?"
+        ],
+        "hard": [
+          "'सूचक kya hote hain?' Define karo aur teen प्राकृतिक सूचक ke naam likho jo NCERT mein diye hain."
+        ]
+      },
+      "summary": "Indicators colour change se acid/base batate hain; litmus lichen se milta hai — acid mein red, base mein blue.",
+      "revision_point": "Litmus: mauve in distilled water; acid→red; base→blue; natural indicators = litmus, turmeric, china rose.",
+      "exam_tip": "Definition mein 'rang badalne wale padarth' zaroor likho; sirf litmus example se definition complete nahi hoti.",
+      "source_text_hint": "सबसे सामान्य रूप से उपयोग किया जाने वाला प्राकृतिक सूचक लिटमस है"
+    },
+    {
+      "concept": "लिटमस परीक्षण और उदासीन विलयन",
+      "say": "Chalo Activity 4.1 samajhte hain — jaise classroom lab mein hota hai. Plastic cup ya test tube mein नींबू का रस lo, thoda pani milaо. Dropper se ek boond red litmus paper par daalo — observe. Phir blue litmus se bhi test karo. Chune ka pani banane ke liye bottle mein chuna pani mein gholо, hilao, thodi der rakhо, upar ka clear liquid nithar lo — yahi चूने का पानी hai. Isi tarah test karo: नल का पानी, detergent solution, soft drinks (वातित पेय), soap solution, shampoo, namak solution, shakkar solution, sirka, baking soda solution, milk of magnesia, washing soda solution, chune ka pani — preferably distilled water mein solutions banaо. Observations Table 4.2 mein likho: red litmus par prabhav, blue litmus par prabhav, nishkarsh. Ab important idea: Kya kuch aise solutions hain jinka litmus paper par koi asar nahi hota? Haan! Aise vilayan jo na red litmus ka rang badalte hain na blue ka, वे उदासीन विलयन (neutral solutions) kehlate hain. Yeh na acidic hote hain na basic — jaise generally shakkar ya namak ka solution. Ek aur practical tip NCERT mein hai: jab main dry litmus paper par khane ke sode ke solid particles rakhta hoon, sahi result nahi milta — kyun? Kyunki testing ke liye solution banana zaroori hai; solid se colour change sahi nahi dikhta. Lab acids/bases corrosive hote hain — skin jalan — isliye bahut savdhani!",
+      "example": "शक्कर का विलयन aur नमक का विलयन — aksar litmus ka rang nahi badalte → उदासीन.",
+      "board_lines": [
+        "अम्ल: नीला लिटमस → लाल",
+        "क्षारक: लाल लिटमस → नीला",
+        "उदासीन: लाल/नीला लिटमस — कोई परिवर्तन नहीं"
+      ],
+      "common_mistake": "Solid baking soda ko dry litmus par rakh kar test karna — solution banao tabhi sahi result milta hai.",
+      "memory_trick": "N-N-N: Neutral = No change on Red, No change on Blue.",
+      "gesture_action": "Teen cups dikhao — acid cup, base cup, sugar-water cup — litmus strips se live colour-change / no-change demo",
+      "real_life_examples": [
+        "Soft drink / lemonade blue litmus ko red kar sakte hain (acidic)",
+        "Soap/detergent solution red litmus ko blue karte hain (basic)"
+      ],
+      "worked_example": {
+        "problem": "Ek solution ne na red litmus badla na blue litmus. Us solution ki nature kya hai? Ek possible example do.",
+        "steps": [
+          "Rule: no effect on red or blue litmus → उदासीन विलयन",
+          "Neutral means na acidic na basic",
+          "Example from daily testing list: shakkar solution / namak solution"
+        ],
+        "answer": "Nature: उदासीन विलयन। Example: शक्कर का विलयन या सामान्य नमक का विलयन।"
+      },
+      "practice": {
+        "easy": [
+          "उदासीन विलयन kise kehte hain?"
+        ],
+        "medium": [
+          "चूने का पानी litmus par kaisa prabhav dalega? Reason ke saath likho."
+        ],
+        "hard": [
+          "Dry litmus + solid baking soda se galat result kyun milta hai? Sahi tarika kya hai? Activity logic se explain karo."
+        ]
+      },
+      "summary": "Litmus se acid/base/neutral alag karte hain; jahan dono litmus par koi rang badlav na ho, wahan solution उदासीन hota hai — aur hamesha solution bana kar test karo.",
+      "revision_point": "Acid: blue→red; Base: red→blue; Neutral: no change; test solutions, not dry solids.",
+      "exam_tip": "Table-based questions mein teen columns yaad rakho — red effect, blue effect, conclusion — incomplete table marks katwati hai.",
+      "source_text_hint": "ऐसे विलयन, जो लाल अथवा नीले लिटमस पत्र के रंग को परिवर्तित नहीं करते, उदासीन विलयन कहलाते हैं"
+    },
+    {
+      "concept": "हल्दी एक प्राकृतिक सूचक",
+      "say": "Bacchon, हल्दी sirf rason mein nahi — yeh ek natural indicator bhi hai! Activity 4.2: ek chammach हल्दी पाउडर lo, thoda jal mila kar paste banaо. Blotting paper ya filter paper par haldi paste lagaо, sukhaо, patli strips kaato — yeh tumhara हल्दी पत्र ban gaya. Ab is strip par soap solution ki ek boond daalo. Kya hota hai? Rang badalta hai! Soap solution क्षारकीय hota hai, isliye haldi ka peela rang reddish-brown / red-sa ho jata hai. Isi tarah Table 4.3 ke solutions test karo: neembu ras, santara ras, sirka, milk of magnesia, khane ka soda, chune ka pani, shakkar, namak — observations likho. Acids generally turmeric ka colour nahi badalte (peela rehta hai), bases badalte hain. Ab ek cute real-life moment NCERT mein hai: 'Ab main samajh gaya ki meri white kameez par pada haldi ka daag soap se dhone par red kyun ho jata hai — kyunki soap solution क्षारकीय hota hai!' Birthday card idea bhi hai: white paper par haldi paste lagaо, sukhaо, cotton se chune ke pani se sundar phool banaо — peela paper base par beautiful design! Yeh activity ghar par safely try ho sakti hai. Yaad rakho: turmeric indicator mainly bases ko reveal karta hai colour change se.",
+      "example": "White shirt par haldi daag + soap washing → daag red-sa — soap is basic.",
+      "board_lines": [
+        "हल्दी पत्र = हल्दी पेस्ट + फिल्टर/ब्लॉटिंग पेपर",
+        "क्षारकीय विलयन → हल्दी का रंग बदलता है (लाल/लाल-भूरा)",
+        "साबुन क्षारकीय → हल्दी दाग साबुन से लाल"
+      ],
+      "common_mistake": "Students sochte hain har indicator acid aur base dono mein same tarah colour badlega — turmeric mainly basic solutions mein clearly change dikhata hai.",
+      "memory_trick": "HALDI-SOAP-RED: Haldi + Soap (base) → Reddish stain — ghar ki living proof!",
+      "gesture_action": "Haldi strip par soap drop demo; pehle peela, baad mein red-brown — students chorus 'Base!'",
+      "real_life_examples": [
+        "Kitchen mein clothes par turmeric stain soap se dark/reddish hona",
+        "Greeting card: turmeric paper + lime water flower painting"
+      ],
+      "worked_example": {
+        "problem": "Ek white cloth par turmeric ka peela daag tha. Soap se dhone par woh reddish ho gaya. Isse soap solution ki nature ke bare mein kya pata chalta hai?",
+        "steps": [
+          "Turmeric natural indicator hai",
+          "Colour change to reddish with soap means soap solution basic/alkaline hai",
+          "NCERT explicitly: soap solution क्षारकीय hota hai"
+        ],
+        "answer": "Soap solution क्षारकीय (basic) है — isliye हल्दी का दाग लाल/लाल-सा हो जाता है।"
+      },
+      "practice": {
+        "easy": [
+          "हल्दी पत्र kaise banate hain? Teen steps likho."
+        ],
+        "medium": [
+          "Soap solution turmeric paper par kya karta hai aur kyun?"
+        ],
+        "hard": [
+          "Table 4.3 jaisa socho: नींबू का रस aur चूने का पानी — turmeric par expected observations compare karke likho."
+        ]
+      },
+      "summary": "Haldi ek natural indicator hai; basic solutions (jaise soap, chune ka pani) iska rang badal dete hain — yahi white cloth par red stain wala ghar-ka-mystery solve karta hai.",
+      "revision_point": "Turmeric + base → colour change (reddish); acids generally turmeric ko peela hi rehne dete hain.",
+      "exam_tip": "Reasoning question mein hamesha 'soap solution क्षारकीय होता है' line likho — observation ke saath reason compulsory hai.",
+      "source_text_hint": "अब मैं समझ गया कि मेरी सफ़ेद कमीज़ पर पड़ा हल्दी का दाग साबुन से धोने पर लाल क्यों हो जाता है"
+    },
+    {
+      "concept": "गुड़हल के पुष्प का सूचक",
+      "say": "Agli natural indicator — गुड़हल के पुष्प (china rose / hibiscus)! Activity 4.3: गुड़हल ki kuch petals ikattha karo, beaker mein rakho, thoda garam jal milaо. Mixture tab tak rakho jab tak pani rangin na ho jaye. Yeh coloured water ab tumhara indicator hai. Is indicator ki 5-5 boonden Table 4.4 ke har solution mein milaо: shampoo (tanu), neembu ras, soda water, sodium hydrogen carbonate solution, sirka, shakkar solution, namak solution — initial colour aur final colour note karo. NCERT clearly batata hai: गुड़हल का सूचक अम्लीय विलयनों को गहरा गुलाबी (मेजेंटा) aur क्षारकीय विलयनों को हरा kar deta hai — चित्र 4.3. Neutral solutions mein aisa dramatic acid-pink / base-green change nahi hota. Yeh bahut exam-friendly fact hai kyunki colour pair unique hai: magenta vs green. Tum ghar/school garden se petals le kar (teacher permission se) yeh extract bana sakte ho. Teen natural indicators ab clear hain — Litmus (red/blue), Turmeric (base pe colour change), China rose (acid→magenta, base→green). Paheli bhi NCERT mein hai: coffee brown aur kadwi — acid ya base? Taste se anjaan mat bano, bina test knowledge nahi — indicators use karo!",
+      "example": "China rose extract + lemon juice → deep pink/magenta; extract + soap/base → green.",
+      "board_lines": [
+        "गुड़हल सूचक: गरम जल + पंखुड़ियाँ → रंगीन निष्कर्ष",
+        "अम्लीय → गहरा गुलाबी (मेजेंटा)",
+        "क्षारकीय → हरा"
+      ],
+      "common_mistake": "Students china rose colours litmus se mix kar dete hain — yaad rakho: china rose acid mein magenta, base mein green (blue nahi).",
+      "memory_trick": "G-M / G-G: गुड़हल — अम्ल में Magenta, क्षार में Green.",
+      "gesture_action": "Pink ribbon dikhao for acid, green leaf for base — china rose indicator colours chorus",
+      "real_life_examples": [
+        "School garden ke लाल गुड़हल se indicator extract banana",
+        "Shampoo dilute solution ka china rose se basic/acidic nature check (brand ke hisaab se)"
+      ],
+      "worked_example": {
+        "problem": "China rose indicator kisi solution ko green kar deta hai. Solution ki nature kya hai? Agar dusra solution magenta ho jaye to?",
+        "steps": [
+          "NCERT rule: china rose makes basic solutions green",
+          "China rose makes acidic solutions deep pink/magenta",
+          "Assign natures accordingly"
+        ],
+        "answer": "Green → क्षारकीय विलयन; Magenta/deep pink → अम्लीय विलयन।"
+      },
+      "practice": {
+        "easy": [
+          "गुड़हल indicator acidic solution ko kaunsa colour deta hai?"
+        ],
+        "medium": [
+          "China rose indicator kaise banate hain? Steps likho."
+        ],
+        "hard": [
+          "Litmus, turmeric aur china rose — teenon ke acid/base colour changes ek comparison table mein likho."
+        ]
+      },
+      "summary": "China rose (गुड़हल) extract natural indicator hai jo acids ko magenta aur bases ko green kar deta hai — Activity 4.3 ka core result.",
+      "revision_point": "China rose: acid → deep pink/magenta; base → green.",
+      "exam_tip": "Colour names exact likho — 'गुलाबी' ke saath '(मेजेंटा)' bracket mein likhne se NCERT language match hoti hai aur marks safe rehte hain.",
+      "source_text_hint": "गुड़हल के पुष्प का सूचक अम्लीय विलयनों को गहरा गुलाबी (मेजेंटा) और क्षारकीय विलयनों को हरा कर देता है"
+    },
+    {
+      "concept": "उदासीनीकरण – फिनॉल्फथेलिन से समझ",
+      "say": "Ab section 4.3 — उदासीनीकरण. Humne padha: acids blue litmus ko red, bases red litmus ko blue. Jab acid ko base mein milate hain to kya hota hai? Iske liye naya indicator — फिनॉल्फथेलिन (phenolphthalein). Activity 4.5 teacher demonstrate karein (corrosive chemicals!). Test tube ka 1/4 hissa dilute HCl se bharо. Acid colourless hota hai; phenolphthalein bhi colourless. 2–3 drops indicator acid mein — koi rang badlav nahi, colourless hi rehta hai. Ab dropper se NaOH ki boond-boond dalte raho, dheere hilate raho, jab tak halka गुलाबी colour na aa jaye. Matlab ab solution क्षारकीय ho chuka. Phir se dilute HCl ki ek boond — solution phir colourless. NaOH dobara — pink wapas. Clear rule: phenolphthalein क्षारकीय mein गुलाबी, अम्लीय mein रंगहीन. Jab acidic solution mein basic solution milate hain, dono ek-doosre ke prabhav ko उदासीन kar dete hain. Sahi matra mein milane par solution na acidic rehta hai na basic — dono ki nature lupta. Abhi test tube sparsh karo — garam feel hota hai! उदासीनीकरण mein hamesha ऊष्मा निकलती है, mixture ka taap badhta hai. Naya padarth bhi banta hai — लवण (salt). Salt acidic, basic ya neutral nature ka ho sakta hai. Definition: अम्ल aur क्षारक ke beech hone wali abhikriya उदासीनीकरण kehlati hai; is prakrama mein ऊष्मा ke saath-saath लवण aur जल bante hain. चेतावनी: lab acids/bases संक्षारक hote hain — skin jalan/nuksan — bahut savdhani!",
+      "example": "HCl (colourless + phenolphthalein colourless) + NaOH drops → pink; extra HCl → colourless again — neutralization swinging both ways.",
+      "board_lines": [
+        "फिनॉल्फथेलिन: अम्ल में रंगहीन; क्षारक में गुलाबी",
+        "अम्ल + क्षारक → लवण + जल + ऊष्मा",
+        "उदासीनीकरण = अम्ल और क्षारक की अभिक्रिया"
+      ],
+      "common_mistake": "Students sochte hain neutralization mein hamesha sirf paani banta hai — actually लवण + जल bante hain, aur ऊष्मा bhi nikal ti hai.",
+      "memory_trick": "P-P: Phenolphthalein Pink in base; Colourless in acid. N-S-W-H: Neutralization → Salt + Water + Heat.",
+      "gesture_action": "Drop-by-drop gesture: colourless → pink → colourless — students bolen 'base' / 'acid' har colour pe",
+      "real_life_examples": [
+        "Lab titration-style demo: acid-base with phenolphthalein end point pink",
+        "Test tube warm after mixing acid+base — heat release feel"
+      ],
+      "worked_example": {
+        "problem": "Boojho ne chune ke pani mein dilute sulphuric acid milaya. Reaction mixture garam hoga ya thanda? Kyun?",
+        "steps": [
+          "Chune ka pani = calcium hydroxide = base; dilute H₂SO₄ = acid",
+          "Acid + base = neutralization",
+          "Neutralization mein hamesha heat release hoti hai → mixture garam"
+        ],
+        "answer": "मिश्रण गर्म होगा — क्योंकि उदासीनीकरण अभिक्रिया में ऊष्मा निर्मुक्त होती है।"
+      },
+      "practice": {
+        "easy": [
+          "Phenolphthalein acidic solution mein kaunsa rang deta hai?"
+        ],
+        "medium": [
+          "उदासीनीकरण define karo aur batao ismein kaun-kaun se products bante hain."
+        ],
+        "hard": [
+          "Phenolphthalein wali Activity 4.5 ke steps apne shabdon mein likho aur explain karo pink colour kab aata/jaata hai."
+        ]
+      },
+      "summary": "Phenolphthalein se dikhta hai ki acid+base ek-doosre ko neutralize karte hain; products salt + water hote hain aur heat nikal ti hai — yahi उदासीनीकरण hai.",
+      "revision_point": "Neutralization: acid + base → salt + water + heat; phenolphthalein pink only in basic medium.",
+      "exam_tip": "Definition mein teen cheezein compulsory: (1) acid+base reaction (2) salt+water (3) heat released — ek bhi chhoota to marks katte hain.",
+      "source_text_hint": "किसी अम्ल और किसी क्षारक के बीच होने वाली अभिक्रिया उदासीनीकरण कहलाती है"
+    },
+    {
+      "concept": "अम्ल वर्षा और उदासीनीकरण का समीकरण",
+      "say": "Neutralization ko equation se likhte hain: अम्ल + क्षारक → लवण + जल (ऊष्मा निर्मुक्त होती है). Example: हाइड्रोक्लोरिक अम्ल (HCl) + सोडियम हाइड्रॉक्साइड (NaOH) → सोडियम क्लोराइड (NaCl) + जल (H₂O) + ऊष्मा. Yahan NaCl common salt hai. Ab environment topic — क्या आप अम्ल वर्षा शब्द से परिचित हैं? Jab varsha jal mein acid ki matra atyadhik hoti hai, use अम्ल वर्षा (acid rain) kehte hain. Yeh acids kahan se aate hain? Carbon dioxide, sulphur dioxide aur nitrogen dioxide jaise gases — jo air mein pollutants ke roop mein nikalte hain — varsha jal mein ghol kar क्रमशः कार्बोनिक अम्ल, सल्फ्यूरिक अम्ल aur नाइट्रिक अम्ल banate hain. Acid rain buildings, historical monuments, plants aur animals ko nuksan pahuncha sakti hai. Isliye pollution control zaroori hai. Daily life mein neutralization ke examples NCERT section 4.4 mein shuru hote hain — jaise अपच (indigestion) se related antacid ideas — lekin pehle yeh foundation pakki karo: equation likhna, heat release, aur acid rain ka pollutant→acid link. Activity 4.4 mein lab acids (HCl, H₂SO₄, HNO₃, acetic) aur bases (NaOH, NH₄OH, Ca(OH)₂) ko litmus, turmeric, china rose se compare karte hain — Table 4.5. Hamesha चेतावनी yaad: corrosive chemicals carefully handle. Revision triad: identify (indicators) → neutralize (salt+water+heat) → protect (acid rain awareness).",
+      "example": "HCl + NaOH → NaCl + H₂O + heat — school lab ka classic neutralization equation.",
+      "board_lines": [
+        "अम्ल + क्षारक → लवण + जल (+ ऊष्मा)",
+        "HCl + NaOH → NaCl + H₂O + ऊष्मा",
+        "अम्ल वर्षा: CO₂/SO₂/NO₂ → अम्ल; इमारतें/पेड़-जंतु क्षति"
+      ],
+      "common_mistake": "Students acid rain ko 'sirf sulfuric acid ki baat' samajhte hain — actually carbonic, sulfuric aur nitric teeno acids ban sakte hain pollutants se.",
+      "memory_trick": "C-S-N gases → C-S-N acids: CO₂→carbonic, SO₂→sulfuric, NO₂→nitric — Acid Rain Trio.",
+      "gesture_action": "Board par factory smoke (gases) se baadal, phir barsaat drops par 'acid' likho — monuments pe crack gesture",
+      "real_life_examples": [
+        "Taj Mahal / purani imaraton par acid rain ka nuksan — news/social studies se juda",
+        "Common salt (NaCl) acid-base neutralization ka product example"
+      ],
+      "worked_example": {
+        "problem": "Acid rain mein acids kaise bante hain? Teen pollutant gases aur unse bane acids ke naam likho. Ek harm bhi likho.",
+        "steps": [
+          "List pollutants: CO₂, SO₂, NO₂",
+          "Link products: carbonic acid, sulfuric acid, nitric acid",
+          "Mention damage: buildings, historical monuments, plants, animals"
+        ],
+        "answer": "CO₂→कार्बोनिक अम्ल; SO₂→सल्फ्यूरिक अम्ल; NO₂→नाइट्रिक अम्ल। ये अम्ल वर्षा भवनों, ऐतिहासिक इमारतों, पौधों और जंतुओं को क्षति पहुँचा सकती है।"
+      },
+      "practice": {
+        "easy": [
+          "HCl + NaOH ki neutralization equation products ke naam likho."
+        ],
+        "medium": [
+          "Acid rain define karo aur do pollutants ke naam do jo ise cause karte hain."
+        ],
+        "hard": [
+          "'उदासीनीकरण mein hamesha heat nikal ti hai' — is statement ko HCl+NaOH example aur Boojho wale chune-ka-pani+H₂SO₄ sawal se justify karo."
+        ]
+      },
+      "summary": "Neutralization equation: acid+base→salt+water+heat (HCl+NaOH→NaCl+H₂O+heat); acid rain pollutants (CO₂, SO₂, NO₂) se banti hai aur monuments/living things ko nuksan karti hai.",
+      "revision_point": "Equation + heat; Acid rain = CO₂/SO₂/NO₂ → carbonic/sulfuric/nitric acids in rain.",
+      "exam_tip": "Acid rain answers mein gases aur corresponding acids dono columns mein likho — sirf 'pollution' likhne se full marks nahi milte.",
+      "source_text_hint": "अम्ल + क्षारक → लवण + जल (ऊष्मा निर्मुक्त होती है)"
+    }
+  ]
+}
