@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 275,
+    "chapter_name": "मानव नेत्र एवं रंगबिरंगा संसार",
+    "chapter_number": 10,
+    "book_name": "Class 10 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 10",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 10 Science ke Chapter 10 — मानव नेत्र एवं रंगबिरंगा संसार — ko padhenge. Is chapter mein pehle human eye ki structure, retina par image formation, aur power of accommodation (near point 25 cm, far point infinity) clear hogi; phir myopia, hypermetropia aur presbyopia ke defects aur unka lens se correction; saath hi eye donation ke important facts; aur end mein prism se refraction, angle of deviation, aur white light ka dispersion — jaise rainbow ke colours — board-exam level par samjhenge.",
+    "welcome": "Namaste bacchon! Aaj Smart Board par hum ek bahut sundar aur exam-mein-bahut-zyada-important chapter shuru karenge — मानव नेत्र एवं रंगबिरंगा संसार. Socho, aankhein band karke tum gandh, swaad, awaaz ya touch se kuch pehchan sakte ho — lekin rang? Rang pehchanna sirf aankhon se hi mumkin hai! Isliye human eye sabse valuable sense organ hai. Aaj hum dekhenge eye camera jaisa kaise kaam karta hai, chashme defects kaise theek karte hain, aur sunlight ke white light se rainbow ke colours kaise nikalte hain. Ready? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "Human eye ke mukhya parts (cornea, iris, pupil, crystalline lens, retina, ciliary muscles, optic nerve) ke functions explain karna",
+      "Power of accommodation, near point (≈25 cm) aur far point (infinity) ko clearly define karna",
+      "Myopia, hypermetropia aur presbyopia ke causes, symptoms aur corrective lenses (concave/convex/bifocal) bataana",
+      "Prism se light ke refraction, angle of deviation aur white light ke dispersion (spectrum of colours) ko NCERT activity ke aadhaar par samajhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "मानव नेत्र – संरचना एवं कार्य"
+      },
+      {
+        "number": 2,
+        "name": "समंजन क्षमता, निकट बिंदु एवं दूर बिंदु"
+      },
+      {
+        "number": 3,
+        "name": "निकट-दृष्टि दोष (मायोपिया) एवं संशोधन"
+      },
+      {
+        "number": 4,
+        "name": "दीर्घ-दृष्टि दोष (हाइपरमेट्रोपिया) एवं संशोधन"
+      },
+      {
+        "number": 5,
+        "name": "जरा-दूरदृष्टिता एवं द्विफोकसी लेंस"
+      },
+      {
+        "number": 6,
+        "name": "नेत्रदान – जागरूकता एवं महत्वपूर्ण तथ्य"
+      },
+      {
+        "number": 7,
+        "name": "प्रिज़म से प्रकाश का अपवर्तन एवं विचलन कोण"
+      },
+      {
+        "number": 8,
+        "name": "श्वेत प्रकाश का विक्षेपण एवं वर्णपट्टी"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "मानव नेत्र – संरचना एवं कार्य",
+      "say": "Bacchon, pehle chapter mein humne lenses dwara light ke refraction aur images padhe the. Aaj wahi knowledge human eye samajhne mein help karegi. Human eye ek atyant mulya vaan aur sugrahi gyanendriya hai — yeh humein adbhut sansaar aur chaaron or ke rang dikhati hai. Aankhein band karke gandh, swaad, dhvani ya sparsh se kuch pehchan sakte ho, lekin colours pehchanna almost impossible hai — isliye gyanendriyon mein eye sabse important hai. Human eye camera jaisa hai. Iska lens-system ek light-sensitive screen — retina ya दृष्टिपटल — par image banata hai. Light ek patli jhilli se enter karti hai — cornea ya स्वच्छ मंडल. Yeh eye ball ke aage transparent bulge banati hai. Eye ball almost spherical hai, diameter lagbhag 2.3 cm. Important: entering rays ka adhikansh refraction cornea ke bahri surface par hota hai. Crystalline lens alag distances ki objects ko retina par focus karne ke liye focus distance mein sukshm adjustment karta hai. Cornea ke peeche iris hoti hai — dark muscular diaphragm jo pupil ke size control karti hai. Pupil entering light ki matra control karti hai. Eye lens retina par object ka ulta aur vaastavik (real and inverted) image banata hai. Retina soft membrane hai jismein bahut light-sensitive cells hain. Light padne par yeh cells electrical signals banati hain, jo optic nerve se dimaag tak jaati hain. Brain interpret karta hai — hum object ko jaisa hai waisa dekhte hain. Yaad rakho: cornea major refraction, lens fine focusing, pupil light control, retina image aur signals.",
+      "example": "Bright sunlight mein bahar nikalte hi pupil chhoti ho jaati hai, aur dark room mein badi — yeh iris-pupil system light ki matra control kar raha hai.",
+      "board_lines": [
+        "Eye ≈ camera; retina = light-sensitive screen",
+        "Diameter ≈ 2.3 cm; most refraction at cornea",
+        "Lens → real, inverted image on retina → optic nerve → brain"
+      ],
+      "common_mistake": "Students sochte hain ki saara refraction sirf eye lens karta hai — actually most refraction cornea ke outer surface par hota hai; lens mainly fine adjustment karta hai.",
+      "memory_trick": "C-I-P-L-R: Cornea (enter+refract), Iris (controls), Pupil (amount), Lens (focus), Retina (image+signal).",
+      "gesture_action": "Ek haath se round eye ball dikhao, doosre haath se aage bulge (cornea), beech mein chhota circle (pupil), peeche screen (retina) — parts act out karo",
+      "real_life_examples": [
+        "Camera aperture jaisi pupil — zyada light / kam light adjust karti hai",
+        "Doctor eye check mein torch se pupil reaction dekhta hai — iris-pupil control ka live test"
+      ],
+      "worked_example": {
+        "problem": "Human eye mein light ka adhikansh refraction kahan hota hai? Eye lens ka mukhya karya kya hai? Short answer mein likho.",
+        "steps": [
+          "NCERT fact yaad karo: entering rays ka most refraction cornea ke bahri surface par hota hai",
+          "Crystalline lens mainly different distances ki objects ko retina par focus karne ke liye focus distance adjust karta hai",
+          "Conclude: cornea = major refraction; lens = fine focusing/accommodation"
+        ],
+        "answer": "Adhikansh refraction cornea (स्वच्छ मंडल) ke outer surface par hota hai; eye lens mainly focus distance mein sukshm samayojan karke alag-alag doori ki vastuon ko retina par focus karta hai."
+      },
+      "practice": {
+        "easy": [
+          "Human eye ball ka approximate diameter kitna hota hai?"
+        ],
+        "medium": [
+          "Iris aur pupil ke functions alag-alag likho."
+        ],
+        "hard": [
+          "'Human eye camera jaisa hai' — cornea, lens, retina aur optic nerve ko camera ke parts se compare karke explain karo."
+        ]
+      },
+      "summary": "Human eye camera-like system hai jahaan cornea major refraction karti hai, lens fine focus karta hai, pupil light control karti hai, aur retina par bana real inverted image optic nerve se brain tak signal bhejta hai.",
+      "revision_point": "Most refraction at cornea; lens = fine focus; retina → electrical signals → optic nerve → brain.",
+      "exam_tip": "1-mark mein aksar poochha jaata hai — 'most refraction where?' Answer bilkul cornea likho, sirf lens mat likhna.",
+      "source_text_hint": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन कॉर्निया के बाहरी पृष्ठ पर होताा है"
+    },
+    {
+      "concept": "समंजन क्षमता, निकट बिंदु एवं दूर बिंदु",
+      "say": "Ab section 10.1.1 — समंजन क्षमता. Eye lens fibrous jelly-like material se bana hota hai. Iski curvature ciliary muscles (पक्ष्माभी पेशियाँ) dwara seema tak badli ja sakti hai. Curvature badalne se focus distance bhi badalti hai. Jab muscles relax hoti hain, lens patla ho jaata hai — focus distance badhti hai — door ki objects clearly dikhti hain. Jab near objects dekhte ho, ciliary muscles contract karti hain — lens mota hota hai — focus distance ghat ti hai — near objects clear dikhti hain. Eye lens ki yeh ability ki woh apni focus distance adjust kar le — isi ko power of accommodation ya समंजन कहते हैं. Lekin focus distance ek nishchit minimum se kam nahi hoti. Printed page ko aankh ke bilkul paas rakhkar padho — image dhundhli lagegi ya strain hoga. Bina strain ke clear dekhne ke liye object kam se kam 25 cm door rakhna hota hai. Yeh minimum distance — least distance of distinct vision ya सुस्पष्ट दर्शन की अल्पतम दूरी — near point bhi kehlati hai. Normal young adult ke liye near point lagbhag 25 cm. Far point woh farthest point hai jahaan eye clearly dekh sake — normal eye ke liye infinity. Isliye normal eye 25 cm se infinity tak clearly dekh sakti hai. Kabhi zyada umar mein crystalline lens doodhiya aur dhundhla ho jaata hai — cataract (मोतियाबिंद). Isse vision kam ya khatam ho sakti hai; surgery ke baad vision wapas aa sakti hai. Yaad rakho: near 25 cm, far infinity.",
+      "example": "Mobile phone ko bilkul aankh ke paas rakhkar padhne ki koshish karo — letters blur dikhenge; thoda peeche 25 cm ke aaspaas lao — clear ho jaayenge.",
+      "board_lines": [
+        "Accommodation = ability to change focal length of eye lens",
+        "Near point (normal young adult) ≈ 25 cm; Far point = infinity",
+        "Relax → thin lens → distant; Contract → thick lens → near"
+      ],
+      "common_mistake": "Students sochte hain near point hamesha 25 cm hi hota hai har age mein — yeh normal young adult ke liye hai; umar badhne par near point door hat sakta hai (presbyopia).",
+      "memory_trick": "R-T-D / C-T-N: Relax→Thin→Distant; Contract→Thick→Near. Near Point = 25 cm (young adult).",
+      "gesture_action": "Door ki wall dekhte hue haath failao (relax, thin lens); phir book paas laakar aankhein thodi mehnat se dikhao (contract, thick lens)",
+      "real_life_examples": [
+        "Blackboard door se padhna aur textbook paas se padhna — dono accommodation ki wajah se possible",
+        "Buzurg log newspaper door rakhkar padhte hain — accommodation kam hone ka sign"
+      ],
+      "worked_example": {
+        "problem": "Normal vision wale tarun vyakti ke liye near point aur far point kitni doori par hote hain? Accommodation ki definition ek line mein likho.",
+        "steps": [
+          "Near point = least distance of distinct vision ≈ 25 cm for normal young adult",
+          "Far point for normal eye = infinity",
+          "Accommodation = eye lens ki apni focus distance adjust karne ki ability"
+        ],
+        "answer": "Near point ≈ 25 cm; far point = infinity. Accommodation: eye lens ki woh kshamata jiske kaaran woh apni focus distance ko samayojit kar leta hai."
+      },
+      "practice": {
+        "easy": [
+          "सुस्पष्ट दर्शन की अल्पतम दूरी ko dusre kis naam se jaante hain?"
+        ],
+        "medium": [
+          "Jab hum door ki vastu dekhte hain tab ciliary muscles aur eye lens ki condition kya hoti hai?"
+        ],
+        "hard": [
+          "Cataract kya hai? Iske lakshan aur treatment ke baare mein NCERT ke anusar short note likho."
+        ]
+      },
+      "summary": "Accommodation eye lens ki focus distance badalne ki ability hai; normal young eye 25 cm (near point) se infinity (far point) tak clearly dekhti hai; cataract mein lens opaque ho jaata hai.",
+      "revision_point": "Near point ≈ 25 cm; far point = ∞; thick lens for near, thin for distant; cataract = cloudy lens.",
+      "exam_tip": "Question 'normal eye ke near aur far point' almost guaranteed — answer 25 cm aur infinity bilkul clear likho.",
+      "source_text_hint": "किसी सामान्य दृष्टि के तरुण वयस्क के लिए निकट बिंदु की आँख से दूरी लगभग 25 cm होती है"
+    },
+    {
+      "concept": "निकट-दृष्टि दोष (मायोपिया) एवं संशोधन",
+      "say": "Ab section 10.2 — दृष्टि दोष तथा उनका संशोधन. Kabhi-kabhi eye dheere-dheere apni accommodation capacity kho deti hai, aur refraction defects se vision dhundhli ho jaati hai. Teen common defects: (i) निकट-दृष्टि दोष Myopia, (ii) दीर्घ-दृष्टि दोष Hypermetropia, (iii) जरा-दूरदृष्टिता Presbyopia. Pehle Myopia. Myopia ko near-sightedness bhi kehte hain. Myopic person near objects clearly dekh sakta hai, lekin door ki objects clear nahi dekh paata. Iska far point infinity par nahi hota — aankh ke paas aa jaata hai; kuch metre door tak hi clear dikhta hai. Myopic eye mein door ki object ka image retina par nahi, retina ke saamne banta hai. Causes do hain: (i) eye lens ki curvature atyadhik hona, ya (ii) eye ball ka lamba ho jaana. Correction: suitable power ka concave lens (diverging lens / अपसारी लेंस). Concave lens rays ko thoda diverge karke image ko wapas retina par laata hai — defect correct ho jaata hai. Board tip: Myopia = image in front of retina = concave correction. Classroom example: last row wala student blackboard nahi padh paata — classic myopia symptom. Yaad rakho power negative hoti hai concave lens ki — jaise −1.2 D — exam numericals mein use hota hai.",
+      "example": "Last bench par baitha student blackboard ke letters blur dekhta hai, lekin apni copy paas se clearly padh leta hai — yeh myopia ka typical case hai.",
+      "board_lines": [
+        "Myopia (near-sightedness): near clear, distant blurred",
+        "Image of distant object forms in front of retina",
+        "Causes: excessive lens curvature / elongated eyeball → Correct with concave (−) lens"
+      ],
+      "common_mistake": "Students myopia mein convex lens likh dete hain — galat! Myopia = concave (diverging); hypermetropia = convex (converging).",
+      "memory_trick": "MYO-CON: MYOpia → image aage → CONcave. 'Near-sighted needs diverging'.",
+      "gesture_action": "Door ki object ka image retina se pehle 'ruk' gaya dikhao (haath aage), phir concave lens se rays failakar image retina par lao",
+      "real_life_examples": [
+        "School mein pichhli pankti ka student blackboard nahi padh paana — myopia",
+        "Minus power wala chashma (−1.5 D, −2 D) — concave lens for myopia"
+      ],
+      "worked_example": {
+        "problem": "Ek vyakti 1.2 m se zyada doori ki vastuon ko clearly nahi dekh sakta. Yeh kaunsa defect hai aur corrective lens kis prakaar ka hona chahiye?",
+        "steps": [
+          "Door ki vastu clear nahi → far point infinity se aage nahi, paas aa gaya → Myopia",
+          "Myopia mein image retina ke saamne banta hai",
+          "Correction: suitable power ka concave (diverging) lens"
+        ],
+        "answer": "Yeh निकट-दृष्टि दोष (Myopia) hai; iske liye अवतल / अपसारी (concave) lens chahiye."
+      },
+      "practice": {
+        "easy": [
+          "Myopia ko English mein kya kehte hain — near-sightedness ya far-sightedness?"
+        ],
+        "medium": [
+          "Myopia ke do possible causes likho."
+        ],
+        "hard": [
+          "Antim pankti mein baitha student blackboard padhne mein mushkil feel karta hai. Defect identify karo aur correction with reason explain karo."
+        ]
+      },
+      "summary": "Myopia mein door ki vastu ka image retina ke saamne banta hai (lens bahut curved ya eyeball lamba); correction suitable concave diverging lens se hoti hai.",
+      "revision_point": "Myopia: distant blur; image in front of retina; concave lens correction.",
+      "exam_tip": "Diagram questions mein teen parts yaad rakho: (a) far point of myopic eye, (b) image in front of retina, (c) correction with concave lens — labels clear likho.",
+      "source_text_hint": "इस दोष को किसी उपयुक्त क्षमता के अवतल लेंस (अपसारी लेंस) के उपयोग द्वारा संशोधित किया जा सकता है"
+    },
+    {
+      "concept": "दीर्घ-दृष्टि दोष (हाइपरमेट्रोपिया) एवं संशोधन",
+      "say": "Ab dusra important defect — दीर्घ-दृष्टि दोष ya Hypermetropia, jise far-sightedness bhi kehte hain. Hypermetropic person door ki objects clearly dekh sakta hai, lekin near objects ko clearly nahi dekh paata. Iska near point normal near point 25 cm se door hat jaata hai. Aise person ko aaram se clear padhne ke liye reading material ko aankh se 25 cm se kaafi zyada door rakhna padta hai. Reason: paas ki vastu se aane wali light rays retina ke peeche focus hoti hain — jaise NCERT figure 10.3(b) mein dikhaya gaya hai. Causes: (i) eye lens ki focus distance atyadhik ho jaana (lens kam converging), ya (ii) eye ball ka chhota ho jaana. Correction: suitable power ka converging lens — उत्तल लेंस (convex lens / अभिसारी लेंस). Convex lens wale chashme retina par image focus karne ke liye zaroori extra converging power dete hain. Board contrast yaad rakho: Myopia = image in front = concave; Hypermetropia = image behind = convex. Symbols bhi: N = hypermetropic eye ka near point (jo door hai), N' = normal near point (25 cm). Exam mein aksar cause + correction + diagram teeno poochhe jaate hain — incomplete answer se marks kat te hain.",
+      "example": "Dadi newspaper ko haath seedha karke door rakhkar padhti hain — unka near point 25 cm se door hat chuka hai; aise cases mein aksar convex reading glasses chahiye (hypermetropia/presbyopia se related).",
+      "board_lines": [
+        "Hypermetropia (far-sightedness): distant clear, near blurred",
+        "Near image focuses behind the retina",
+        "Causes: large focal length of lens / short eyeball → Correct with convex (+) lens"
+      ],
+      "common_mistake": "Students hypermetropia aur myopia ke lenses ulta likh dete hain. Rule: image behind retina → needs more converging power → convex.",
+      "memory_trick": "HYPER-BEHIND-CONVEX: Hyper → image Behind retina → Convex (extra power). 'Far-sighted needs converging'.",
+      "gesture_action": "Paas ki book ka focus retina ke peeche dikhao (haath peeche), phir convex lens se rays jodkar image retina par lao",
+      "real_life_examples": [
+        "Reading glasses with plus power (+1.5 D, +2 D) — convex for near vision difficulty",
+        "Person jo book ko bahut door rakhkar hi padh paata hai — near point shifted away"
+      ],
+      "worked_example": {
+        "problem": "Hypermetropia mein near object ka image kahan banta hai? Iske do causes aur corrective lens type likho.",
+        "steps": [
+          "Near object se rays retina ke peeche focus hoti hain",
+          "Causes: (i) eye lens ki focal length atyadhik, (ii) eyeball chhota",
+          "Correction: suitable power ka convex (converging / अभिसारी) lens"
+        ],
+        "answer": "Image retina ke peeche banta hai; causes — excessive focal length of eye lens ya short eyeball; correction — उत्तल / अभिसारी (convex) lens."
+      },
+      "practice": {
+        "easy": [
+          "Hypermetropia ko far-sightedness kyun kehte hain?"
+        ],
+        "medium": [
+          "Myopia aur hypermetropia mein image formation (retina ke relative) compare karo."
+        ],
+        "hard": [
+          "Ek vyakti ka near point 1 m hai. Yeh kaunsa defect indicate karta hai aur kyun convex lens use hota hai? Reason with physics."
+        ]
+      },
+      "summary": "Hypermetropia mein near objects ka image retina ke peeche banta hai (lens ki focal length zyada ya eyeball chhota); correction suitable convex converging lens se hoti hai.",
+      "revision_point": "Hypermetropia: near blur; image behind retina; convex lens; near point > 25 cm.",
+      "exam_tip": "Table banao: Defect | Symptom | Image position | Cause | Lens — examiners comparison questions bahut poochhte hain.",
+      "source_text_hint": "इस दोष को उपयुक्त क्षमता के अभिसारी लेंस (उत्तल लेंस) का उपयोग करके संशोधित किया जा सकता है"
+    },
+    {
+      "concept": "जरा-दूरदृष्टिता एवं द्विफोकसी लेंस",
+      "say": "Teesra defect — जरा-दूरदृष्टिता ya Presbyopia. Age badhne ke saath human eye ki accommodation capacity ghat jaati hai. Aksar logon ka near point door hat jaata hai. Corrective spectacles ke bina unhein paas ki objects aaram se clearly dekhne mein mushkil hoti hai. Yeh defect ciliary muscles ke dheere-dheere kamzor hone aur crystalline lens ke flexibility (लचीलापन) mein kami aane ke kaaran hota hai. Kabhi-kabhi ek hi person mein dono defects — myopia aur hypermetropia — ho sakte hain. Aise logon ko clearly dekhne ke liye aksar bifocal lenses (द्विफोकसी लेंस) chahiye. Simple bifocal mein concave aur convex dono hote hain: upper part concave lens — door ki objects clearly dekhne mein help; lower part convex lens — paas ki objects (reading) ke liye. Aajkal contact lenses (संस्पर्श लेंस) ya surgical intervention se bhi vision defects correct kiye ja sakte hain. Exam tip: Presbyopia ko sirf 'old age hypermetropia' mat samajhna — NCERT specifically ciliary muscle weakening + lens flexibility loss batata hai; aur bifocal structure (upper concave, lower convex) yaad rakhna marks late hain. Age-related near vision difficulty = classic 2-mark topic.",
+      "example": "School ke principal sir ko door se blackboard clear dikhta hai, lekin register padhne ke liye chashme ka neeche wala hissa use karte hain — bifocal ka daily use.",
+      "board_lines": [
+        "Presbyopia: age-related decrease in accommodation",
+        "Causes: weak ciliary muscles + less flexible crystalline lens",
+        "Bifocal: upper = concave (distant); lower = convex (near)"
+      ],
+      "common_mistake": "Students presbyopia ko sirf hypermetropia bol dete hain. Presbyopia age-related accommodation loss hai; kabhi myopia+hypermetropia dono saath ho sakte hain — isliye bifocal.",
+      "memory_trick": "PRE-BI: PREsbyopia → Bifocal. Upper for Far (concave), Lower for Near (convex) — 'Up Far, Down Near'.",
+      "gesture_action": "Chashme ke imaginary frame par ungli se upar hissa (door dekhna) aur neeche hissa (padhna) alag-alag point karke dikhao",
+      "real_life_examples": [
+        "Parents ke bifocal/progressive glasses — door driving + near reading dono",
+        "Contact lens users — spectacles ke bina correction possible"
+      ],
+      "worked_example": {
+        "problem": "Presbyopia ke do causes likho. Bifocal lens ke upper aur lower parts kaunse lenses hote hain aur kyun?",
+        "steps": [
+          "Causes: ciliary muscles weaken; crystalline lens flexibility kam",
+          "Agar person mein distant aur near dono defects hon → bifocal needed",
+          "Upper concave for distant vision; lower convex for near vision"
+        ],
+        "answer": "Causes — पक्ष्माभी पेशियों का दुर्बल होना तथा क्रिस्टलीय लेंस के लचीलेपन में कमी. Bifocal: ऊपरी भाग अवतल (दूर), निचला भाग उत्तल (पास)."
+      },
+      "practice": {
+        "easy": [
+          "Presbyopia kis age-related change se juda hai — accommodation badhna ya ghatna?"
+        ],
+        "medium": [
+          "Bifocal lens mein upper part concave kyun hota hai?"
+        ],
+        "hard": [
+          "Ek 55-year-old person door aur paas dono clearly nahi dekh paata. Likely defects aur lens solution NCERT ke anusar explain karo."
+        ]
+      },
+      "summary": "Presbyopia age ke saath accommodation kam hone se hota hai (weak ciliary muscles, less flexible lens); combined defects ke liye bifocal — upper concave, lower convex — use hota hai.",
+      "revision_point": "Presbyopia = ↓ accommodation with age; bifocal = upper concave + lower convex; also contact lens/surgery possible.",
+      "exam_tip": "Bifocal ke parts ka order mat ulta likhna — upper distant (concave), lower near (convex) — yeh common trap hai.",
+      "source_text_hint": "सामान्य प्रकार के द्विफोकसी लेंसों में अवतल तथा उत्तल दोनों लेंस होते हैं। ऊपरी भाग अवतल लेंस होता है"
+    },
+    {
+      "concept": "नेत्रदान – जागरूकता एवं महत्वपूर्ण तथ्य",
+      "say": "Bacchon, NCERT mein ek bahut important box hai — नेत्रदान. Kya tum jaante ho ki hamari aankhein mrityu ke baad bhi kuch samay tak usable rehti hain? Eye donation karke hum kisi नेत्रहीन person ke jeevan ko light de sakte hain. Developing countries mein lagbhag 3.5 crore people दृष्टिहीन hain, aur unmein se adhikansh ki दृष्टि theek ki ja sakti hai. Corneal blindness se peedit lagbhag 45 lakh people ko donated cornea transplant se theek kiya ja sakta hai — aur in 45 lakh mein 60% bachche 12 saal se kam umar ke hain! Eye donor kisi bhi age ya gender ka ho sakta hai; chashma pehnne wale ya cataract operation karwa chuke log bhi donate kar sakte hain. Diabetes, high BP, asthma patients — agar infectious disease nahi — bhi donate kar sakte hain. Mrityu ke baad 4–6 hours ke andar eyes nikaal lene chahiye — nearest eye bank ko turant soochit karo. Eye bank team ghar ya hospital mein aakar nikaalti hai; process sirf 10–15 minutes, simple, koi disfigurement nahi. AIDS, Hepatitis B/C, Rabies, Acute leukaemia, Tetanus, cholera, Meningitis ya Encephalitis se infected/dead persons donate nahi kar sakte. Eye bank donated eyes collect, evaluate aur distribute karta hai; donor aur receiver dono ki identity gupt rakhi jaati hai. Ek jodi aankhein corneal blindness se peedit chaar persons tak ko दृष्टि de sakti hain. Yeh science ke saath-saath human values ka topic bhi hai — exam mein short notes aate hain.",
+      "example": "Agar kisi ke ghar mein sadma/mrityu ho, family eye bank ko 4–6 ghante ke andar call kare — delay se donation chance khatam ho sakta hai.",
+      "board_lines": [
+        "~3.5 crore visually impaired (developing countries); ~45 lakh corneal blindness treatable by transplant",
+        "Donate within 4–6 hours after death; process 10–15 min, no disfigurement",
+        "One pair of eyes can give sight to up to 4 corneal-blind persons"
+      ],
+      "common_mistake": "Students sochte hain chashma pehnne wale ya cataract operated log eye donate nahi kar sakte — NCERT clearly kehta hai woh bhi donate kar sakte hain.",
+      "memory_trick": "4-6-4: 4–6 hours mein donate karo; ek jodi se 4 logon ko दृष्टि. Age/gender bar nahi.",
+      "gesture_action": "Class se pledge-style moment: haath uthakar 'Eye donation awareness' — 4–6 hours rule board par circle karo",
+      "real_life_examples": [
+        "Local eye bank / hospital helpline number family mein save rakhna",
+        "School awareness rally — 'Ek jodi aankhein, chaar jeevan roshan'"
+      ],
+      "worked_example": {
+        "problem": "Eye donation ke baare mein teen points likho: (i) time limit after death, (ii) kaun donate kar sakta hai, (iii) ek pair kitne people ko help kar sakta hai.",
+        "steps": [
+          "Time: mrityu ke 4–6 hours ke andar eyes nikaalne chahiye",
+          "Who: any age/gender; spectacles/cataract operated also OK (with listed disease exclusions)",
+          "Impact: one pair can give sight to up to four corneal-blind persons"
+        ],
+        "answer": "(i) 4–6 hours ke andar; (ii) kisi bhi age/gender — chashma/cataract operated bhi (infectious exceptions ke bina); (iii) ek jodi se 4 persons tak."
+      },
+      "practice": {
+        "easy": [
+          "Eye donation ke baad eyes kitne hours ke andar nikaalne chahiye?"
+        ],
+        "medium": [
+          "Kaunse rog/conditions mein eye donation nahi kiya ja sakta? Kam se kam chaar naam likho."
+        ],
+        "hard": [
+          "'Developing countries mein corneal blindness ke kai cases treatable hain' — NCERT ke facts (3.5 crore, 45 lakh, 60% children) use karke awareness paragraph likho."
+        ]
+      },
+      "summary": "Eye donation mrityu ke 4–6 hours ke andar possible hai; kai log donate kar sakte hain; ek pair aankhein 4 corneal-blind persons tak को दृष्टि de sakti hain — science + social responsibility.",
+      "revision_point": "Donate in 4–6 h; ~45 lakh corneal cases treatable; 1 pair → up to 4 people; identity confidential.",
+      "exam_tip": "Value-based / short note question aata hai — numbers (3.5 crore, 45 lakh, 60%, 4–6 hours, 10–15 min, 4 persons) accurately yaad rakho.",
+      "source_text_hint": "मृत्यु के पश्चात 4–6 घंटे के भीतर नेत्र निकाल लिए जाने चाहिए। अतः समीप के नेत्र बैंक को तुरंत सूचित करें"
+    },
+    {
+      "concept": "प्रिज़म से प्रकाश का अपवर्तन एवं विचलन कोण",
+      "say": "Ab optics ka naya hissa — section 10.3 प्रिज़म से प्रकाश का अपवर्तन. Tum padh chuke ho ki rectangular glass slab se light guzarne par refracted ray incident ray ke parallel hoti hai, bas sideways thoda shift. Prism alag hai. Glass triangular prism ke do triangular bases aur teen rectangular side faces hote hain; faces ek doosre par jhuke hote hain. Do side faces ke beech ka angle — prism angle (प्रिज़म कोण) A. Activity 10.1: drawing board par white sheet, prism rakhkar outline; face AB par inclined line PE; pins P, Q; face AC se images dekhkar pins R, S ek line mein; pins/prism hatao; PE se E, RS se F; E–F jodo; normals banao; mark ∠i (incidence), ∠r (refraction), ∠e (emergence), ∠A (prism angle), ∠D (deviation). PE = incident ray, EF = refracted ray, FS = emergent ray. Pehle face AB par light air se glass mein — normal ki taraf mudti hai. Doosre face AC par glass se air — normal se door mudti hai. Prism ki special shape ke kaaran emergent ray, incident ray ki direction se ek angle banati hai — isi ko angle of deviation (विचलन कोण) ∠D kehte hain. Glass slab mein parallel shift hota hai, deviation angle waisa nahi; prism mein direction permanently turn ho jaati hai. Exam mein ray diagram with all five angles label karna zaroori hai.",
+      "example": "Torch ki light ko triangular glass prism se guzaaro — bahar nikalte hue beam seedhi line se tipak kar side mein mud jaati hai; wahi deviation.",
+      "board_lines": [
+        "Prism angle A = angle between two refracting faces",
+        "At AB (air→glass): towards normal; at AC (glass→air): away from normal",
+        "∠D = angle of deviation between emergent and incident directions"
+      ],
+      "common_mistake": "Students prism ko glass slab jaisa treat karke kehte hain emergent ray parallel rahegi — galat; prism mein emergent ray deviate hoti hai (∠D).",
+      "memory_trick": "SLAB-SHIFT, PRISM-TURN: slab → parallel shift; prism → turn by ∠D. Remember i, r, e, A, D.",
+      "gesture_action": "Do haathon se triangular prism shape banao; ungli se ray pehle andar (normal ki taraf), phir bahar (normal se door) mudte dikhao",
+      "real_life_examples": [
+        "Bicycle reflector / some optical toys mein prism-like turning of light path",
+        "Lab practical: pins method se i, e, D measure karna — Class 10 optics experiment"
+      ],
+      "worked_example": {
+        "problem": "Glass prism mein incident ray PE, refracted EF, emergent FS hain. Air→glass aur glass→air faces par ray kis taraf mudti hai? Angle of deviation kya hai?",
+        "steps": [
+          "Face AB (air→glass): denser medium → ray towards normal",
+          "Face AC (glass→air): rarer medium → ray away from normal",
+          "Emergent direction incident direction se jo angle banati hai = ∠D (deviation)"
+        ],
+        "answer": "AB par normal ki taraf; AC par normal se door. Incident aur emergent directions ke beech ka angle = विचलन कोण ∠D."
+      },
+      "practice": {
+        "easy": [
+          "प्रिज़म कोण kise kehte hain?"
+        ],
+        "medium": [
+          "Glass slab aur triangular prism se refraction mein emergent ray ke behaviour ka antar likho."
+        ],
+        "hard": [
+          "Activity 10.1 ke steps summarize karke batao angle i, r, e, A aur D kaise mark kiye jaate hain."
+        ]
+      },
+      "summary": "Triangular prism ke do faces par refraction hone se emergent ray incident direction se deviate hoti hai; yeh angle of deviation ∠D kehlata hai — slab jaisa sirf parallel shift nahi.",
+      "revision_point": "Prism: air→glass towards normal, glass→air away; mark i, r, e, A, D; D = deviation angle.",
+      "exam_tip": "Ray diagram mein normals aur teeno rays (incident, refracted, emergent) zaroor banao — sirf arrows se marks nahi milte, labels chahiye.",
+      "source_text_hint": "प्रिज़म की विशेष आकृति के कारण निर्गत किरण, आपतित किरण की दिशा से एक कोण बनाती है। इस कोण को विचलन कोण कहते हैं"
+    },
+    {
+      "concept": "श्वेत प्रकाश का विक्षेपण एवं वर्णपट्टी",
+      "say": "Last concept for aaj — section 10.4 काँच के प्रिज़म द्वारा श्वेत प्रकाश का विक्षेपण. Tumne rainbow mein sundar colours dekhe honge. Socho — sooraj ke white light se yeh alag-alag colours kaise milte hain? Pehle prism refraction yaad karo. Activity 10.2: moti cardboard sheet mein chhota hole ya slit banao; slit par sunlight — white light ka patla beam; glass prism ke face par daalo; prism dheere ghumao taaki bahar nikalta light screen par dikhe. Kya dikhta hai? Colours ki ek aakarshak patti — spectrum! White light ek hi colour nahi, kai colours ka mixture hai. Prism ke through guzarte waqt alag-alag colours alag-alag matra mein deviate hote hain — is splitting ko dispersion (विक्षेपण) kehte hain. NCERT aage is chapter mein indigo/rainbow discussion bhi karta hai; source text yahin tak clearly activity se spectrum dikhata hai. Board exam mein yaad rakho: white sunlight → prism → band of colours (VIBGYOR sequence aage revise karna). Reason intuition: different colours ka glass mein different refractive index / speed — isliye deviation alag. Classroom hook: 'White light hidden rainbow hai — prism usse bahar nikaal deta hai.' Yeh optics ka sabse beautiful demonstration hai — Smart Board par agar prism video/diagram dikhao toh students kabhi nahi bhoolte.",
+      "example": "Baarish ke baad sooraj nikalne par aasmaan mein rainbow — nature ka bada prism-effect jahaan water droplets white light ko colours mein baantte hain.",
+      "board_lines": [
+        "White light → glass prism → band of colours (spectrum)",
+        "Dispersion = splitting of white light into its constituent colours",
+        "Activity 10.2: slit + sunlight + prism + screen → colourful band"
+      ],
+      "common_mistake": "Students sochte hain prism colours 'banaata' hai — actually prism colours create nahi karta; white light mein pehle se maujood colours ko alag (disperse) karta hai.",
+      "memory_trick": "DISPERSE = 'DIFFERENT SPEEDS SEPARATE': alag colours alag deviate → spectrum. Prism reveals, does not create colours.",
+      "gesture_action": "Ek white chalk line se 'white light' dikhao, phir haath failakar rainbow colours ki patti screen par 'spread' karo",
+      "real_life_examples": [
+        "Rainbow after rain — natural dispersion by water droplets",
+        "CD/DVD surface par colourful pattern — light spreading into colours (related everyday observation)"
+      ],
+      "worked_example": {
+        "problem": "Activity 10.2 mein white sunlight prism se guzarne par screen par kya dikhta hai? Is phenomenon ko kya kehte hain aur simple definition likho.",
+        "steps": [
+          "Observation: attractive band/strip of colours on screen",
+          "Name: dispersion of white light (श्वेत प्रकाश का विक्षेपण)",
+          "Definition idea: white light apne constituent colours mein split ho jaata hai"
+        ],
+        "answer": "Screen par वर्णों की आकर्षक पट्टी (spectrum) dikhti hai; phenomenon = विक्षेपण (dispersion) — white light ka apne constituent colours mein vibhajit hona."
+      },
+      "practice": {
+        "easy": [
+          "Prism se white light guzarne par milne wali colours ki patti ko kya kehte hain?"
+        ],
+        "medium": [
+          "Dispersion ki simple definition likho — 'prism colours banata hai' wala misconception clear karte hue."
+        ],
+        "hard": [
+          "Glass slab se white light guzarne par spectrum clearly kyun nahi dikhta, jabki prism mein dikhta hai? Shape/deviation se reason do."
+        ]
+      },
+      "summary": "White sunlight prism se guzarne par constituent colours mein split ho jaata hai — yeh dispersion hai; Activity 10.2 screen par colourful spectrum dikhati hai; prism colours create nahi, reveal karta hai.",
+      "revision_point": "Dispersion = white light → constituent colours via prism; spectrum on screen; rainbow = nature's related spectacle.",
+      "exam_tip": "Definition precise likho: 'splitting of white light into its constituent colours on passing through a prism' — vague 'colours dikhte hain' se full marks nahi.",
+      "source_text_hint": "आप वर्णों की एक आकर्षक पट्टी देखेंगे। ऐसा क्यों होता है?"
+    }
+  ]
+}
