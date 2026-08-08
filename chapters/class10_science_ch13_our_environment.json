@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 278,
+    "chapter_name": "हमारा पर्यावरण",
+    "chapter_number": 13,
+    "book_name": "Class 10 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 10",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 10 Science ke Chapter 13 — हमारा पर्यावरण — ko padhenge. Is chapter mein pehle पारितंत्र ke जैव aur अजैव संघटक, उत्पादक-उपभोक्ता-अपघटक, aur aquarium jaise human-made ecosystem clear honge; phir आहार श्रृंखला, पोषी स्तर, 10% ऊर्जा नियम, आहार जाल aur जैव-आवर्धन; aur end mein ओजोन परत का अपक्षय aur कचरा प्रबंधन (जैव/अजैव निम्नीकरणीय पदार्थ) — sab board-exam level par, NCERT ke hisaab se.",
+    "welcome": "Namaste bacchon! Aaj Smart Board par ek bahut zaroori aur exam-mein-aksar-aane-wala chapter shuru karenge — हमारा पर्यावरण. TV, newspaper, aur budhe log aksar kehte hain — 'ab woh environment nahi raha jo pehle tha.' Aaj hum samjhenge ki प्रकृति mein जीव aur अजैव कारक kaise interact karte hain, hum environment par kya asar daalte hain, aur ozone se lekar plastic tak — board ke liye kaun-si baatein pakki yaad honi chahiye. Ready? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "पारितंत्र ki definition dena aur जैव/अजैव संघटक, प्राकृतिक/कृत्रिम पारितंत्र ke examples batana",
+      "उत्पादक, उपभोक्ता (शाकाहारी/मांसाहारी/सर्वाहारी/परजीवी) aur अपघटक ki भूमिका explain karna",
+      "आहार श्रृंखला, पोषी स्तर, एकदिशिक ऊर्जा प्रवाह, 10% नियम aur आहार जाल ko diagrams ke saath likhna",
+      "जैव-आवर्धन, ओजोन परत अपक्षय (CFCs, UNEP) aur जैव/अजैव निम्नीकरणीय कचरा — board-style questions solve karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "पारितंत्र—जैव एवं अजैव संघटक"
+      },
+      {
+        "number": 2,
+        "name": "उत्पादक, उपभोक्ता एवं अपघटक"
+      },
+      {
+        "number": 3,
+        "name": "जल जीवशाला—मानव-निर्मित पारितंत्र"
+      },
+      {
+        "number": 4,
+        "name": "आहार श्रृंखला एवं पोषी स्तर"
+      },
+      {
+        "number": 5,
+        "name": "ऊर्जा प्रवाह एवं 10% नियम"
+      },
+      {
+        "number": 6,
+        "name": "आहार जाल एवं जैव-आवर्धन"
+      },
+      {
+        "number": 7,
+        "name": "ओजोन परत तथा इसका अपक्षय"
+      },
+      {
+        "number": 8,
+        "name": "कचरा प्रबंधन—जैव एवं अजैव निम्नीकरणीय पदार्थ"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "पारितंत्र—जैव एवं अजैव संघटक",
+      "say": "Bacchon, pehle ek simple baat — hum 'पर्यावरण' shabd se bahut familiar hain. TV, newspaper, aur ghar ke budhe log aksar kehte hain ki ab environment pehle jaisa nahi raha, aur humein healthy environment mein kaam karna chahiye. Developed aur developing countries ke global summits bhi environmental problems par baithte rehte hain. Is chapter mein hum dekhenge ki alag-alag factors environment mein kaise interact karte hain, aur hum us par kya prabhav daalte hain. Ab section 13.1 — पारितंत्र—इसके संघटक क्या हैं? Sabhi जीव — पौधे, जंतु, सूक्ष्मजीव, मानव — aur भौतिक कारक milkar nature mein संतुलन banaye rakhte hain. Kisi क्षेत्र ke sabhi जीव aur वातावरण ke अजैव कारक milkar पारितंत्र (ecosystem) banate hain. Toh ecosystem mein do hisse hote hain — जैव घटक (biotic) aur अजैव घटक (abiotic). भौतिक कारक jaise ताप, वर्षा, वायु, मृदा aur खनिज — yeh अजैव घटक hain. Example: garden mein jaao — घास, वृक्ष, गुलाब, चमेली, सूर्यमुखी, मेंढक, कीट, पक्षी — sab sajeev ek-doosre se interact karte hain, aur unki वृद्धि, जनन abiotic factors se affect hote hain. Isliye बगीचा ek ecosystem hai. वन, तालाब, झील — natural ecosystems hain; बगीचा aur खेत — human-made ya कृत्रिम पारितंत्र hain. Yaad rakho: living + non-living interacting in an area = ecosystem.",
+      "example": "School ka bageecha — plants, insects, birds (biotic) + sunlight, soil, water, air (abiotic) milkar ek artificial ecosystem banate hain.",
+      "board_lines": [
+        "पारितंत्र = सभी जीव + अजैव कारक (किसी क्षेत्र में)",
+        "जैव: पौधे, जंतु, सूक्ष्मजीव, मानव | अजैव: ताप, वर्षा, वायु, मृदा, खनिज",
+        "प्राकृतिक: वन, तालाब, झील | कृत्रिम: बगीचा, खेत"
+      ],
+      "common_mistake": "Students sochte hain ecosystem mein sirf living things hote hain — galat! Abiotic factors (temp, rain, soil, air, minerals) bhi zaroori hain, warna balance nahi banta.",
+      "memory_trick": "E = L + N: Ecosystem = Living (जैव) + Non-living (अजैव) interacting together.",
+      "gesture_action": "Ek haath se living things (plants/animals) dikhao, doosre haath se sun/rain/soil — phir dono haath jodkar 'ecosystem' bolo",
+      "real_life_examples": [
+        "Gaon ka talaab — machhliyan, tadpoles, algae + pani, dhoop, mitti",
+        "Khet — faslein, keede, chidiya + barish, mitti, khaad — human-made ecosystem"
+      ],
+      "worked_example": {
+        "problem": "बगीचा aur वन — dono ecosystems hain. Unmein antar kya hai? Biotic aur abiotic components ke do-do examples bhi likho.",
+        "steps": [
+          "Yaad karo: forest natural hai, garden human-made (artificial) hai",
+          "Biotic examples: plants, animals/insects; Abiotic: temperature, soil/rain",
+          "Conclude with clear classification"
+        ],
+        "answer": "वन प्राकृतिक पारितंत्र है, बगीचा मानव-निर्मित (कृत्रिम) पारितंत्र है। जैव: पौधे, जंतु; अजैव: ताप/वर्षा, मृदा।"
+      },
+      "practice": {
+        "easy": [
+          "पारितंत्र की परिभाषा लिखिए।"
+        ],
+        "medium": [
+          "अजैव घटकों के चार उदाहरण दीजिए तथा बताइए कि बगीचा पारितंत्र क्यों है।"
+        ],
+        "hard": [
+          "प्राकृतिक एवं कृत्रिम पारितंत्र में अंतर स्पष्ट कीजिए तथा प्रत्येक के दो-दो उदाहरण दीजिए।"
+        ]
+      },
+      "summary": "पारितंत्र kisi क्षेत्र ke sabhi जीव aur अजैव कारक ka combination hai; garden artificial hai, forest/pond/lake natural hain.",
+      "revision_point": "Ecosystem = biotic + abiotic; natural vs artificial — exam favourite.",
+      "exam_tip": "1-mark mein aksar poochha jaata hai — 'garden natural hai ya artificial?' Seedha likho: मानव-निर्मित/कृत्रिम पारितंत्र.",
+      "source_text_hint": "किसी क्षेत्र के सभी जीव तथा वातावरण के अजैव कारक संयुक्त रूप से पारितंत्र बनाते हैं"
+    },
+    {
+      "concept": "उत्पादक, उपभोक्ता एवं अपघटक",
+      "say": "Bacchon, previous class mein humne padha tha ki jeevan nirvah ke aadhaar par जीवों ko तीन वर्गों mein baanta jaata hai — उत्पादक, उपभोक्ता aur अपघटक. Recall karo: कौन से जीव सूर्य के प्रकाश aur क्लोरोफिल ki upasthiti mein अकार्बनिक पदार्थों se कार्बनिक पदार्थ jaise शर्करा aur मंड bana sakte hain? Answer — sabhi हरे पौधे aur नील-हरित शैवाल jinke paas प्रकाश संश्लेषण ki capacity hai. Yeh उत्पादक ya स्वपोषी (producers/autotrophs) kehlate hain. Ab consumers: sabhi जीव प्रत्यक्ष ya परोक्ष रूप se apne nirvah ke liye producers par depend karte hain. Jo जीव producers ke food par depend karte hain, woh उपभोक्ता (consumers/heterotrophs) hain. Consumers ko mainly बाँटा gaya hai — शाकाहारी (herbivores), मांसाहारी (carnivores), सर्वाहारी (omnivores) aur परजीवी (parasites). Example socho: गाय शाकाहारी, शेर मांसाहारी, मनुष्य सर्वाहारी, जूं परजीवी. Ab bahut important — अपघटक! Socho aquarium saaf nahi kiya, kuch machhliyan aur plants mar gaye. Jab koi जीव मरता है, जीवाणु aur कवक jaise सूक्ष्मजीव मृत जैव अवशेषों ka अपमार्जन karte hain. Yeh अपमार्जक/अपघटक (decomposers) hain kyunki woh जटिल कार्बनिक पदार्थों ko सरल अकार्बनिक पदार्थों mein badal dete hain, jo mitti mein chale jaate hain aur plants dubara use karte hain. Unki अनुपस्थिति mein dead plants/animals accumulate ho jaayenge aur मिट्टी की प्राकृतिक पुनःपूर्ति nahi hogi. Board tip: decomposers = recyclers of nature.",
+      "example": "Jungle mein murda patta — bacteria aur fungi usko todkar nutrients mitti mein wapas daalte hain, jisse naye plants ugte hain.",
+      "board_lines": [
+        "उत्पादक (स्वपोषी): हरे पौधे, नील-हरित शैवाल — प्रकाश संश्लेषण",
+        "उपभोक्ता: शाकाहारी, मांसाहारी, सर्वाहारी, परजीवी",
+        "अपघटक: जीवाणु, कवक — जटिल कार्बनिक → सरल अकार्बनिक"
+      ],
+      "common_mistake": "Students fungi ko producer maan lete hain kyunki woh 'plants' jaise lagte hain — galat! Fungi decomposers hain; producers mein chlorophyll hona zaroori hai.",
+      "memory_trick": "P-C-D: Producers Make, Consumers Take, Decomposers Break — बनाओ, खाओ, तोड़ो!",
+      "gesture_action": "Teen steps act out karo: haath upar (sun→plant = producer), haath muh ki taraf (eating = consumer), haath neeche mitti ki taraf (breaking down = decomposer)",
+      "real_life_examples": [
+        "Kitchen ke sabzi ke chhilke compost mein sadaan — decomposers kaam kar rahe hain",
+        "Gai ghaas khaati hai (herbivore), billi chuha khaati hai (carnivore), hum dono (omnivore)"
+      ],
+      "worked_example": {
+        "problem": "पारितंत्र में अपमार्जकों की क्या भूमिका है? Agar decomposers na hon toh kya hoga?",
+        "steps": [
+          "Role likho: complex organic → simple inorganic substances",
+          "Yeh inorganic materials mitti mein jaate hain aur plants reuse karte hain",
+          "Absence: dead matter accumulate; natural replenishment of soil ruk jaati hai"
+        ],
+        "answer": "अपमार्जक जटिल कार्बनिक पदार्थों को सरल अकार्बनिक पदार्थों में बदलते हैं जो मिट्टी में जाकर पौधों द्वारा पुनः उपयोग होते हैं। इनके न होने पर मृत अवशेष जमा रहेंगे और र्ृदा की प्राकृतिक पुनःपूर्ति नहीं होगी।"
+      },
+      "practice": {
+        "easy": [
+          "उत्पादक किसे कहते हैं? दो उदाहरण दीजिए।"
+        ],
+        "medium": [
+          "उपभोक्ताओं के चार प्रकार लिखकर प्रत्येक का एक उदाहरण दीजिए।"
+        ],
+        "hard": [
+          "यदि अपघटक न हों तो पारितंत्र एवं मृदा पर क्या प्रभाव पड़ेगा? विस्तार से लिखिए।"
+        ]
+      },
+      "summary": "Producers photosynthesis se food banate hain, consumers unpar depend karte hain, decomposers dead matter ko inorganic nutrients mein recycle karte hain.",
+      "revision_point": "Decomposers = bacteria + fungi; role = recycling nutrients to soil — NCERT exercise question.",
+      "exam_tip": "NCERT प्रश्न: 'पारितंत्र में अपमार्जकों की क्या भूमिका है?' — complex→simple inorganic + soil replenishment, dono points likho.",
+      "source_text_hint": "जीवाणु और कवक जैसे सूक्ष्मजीव मृतजैव अवशेषों का अपमार्जन करते हैं"
+    },
+    {
+      "concept": "जल जीवशाला—मानव-निर्मित पारितंत्र",
+      "say": "Bacchon, shayad tumne aquarium — जल जीवशाला — dekhi hogi. Chalo sochte hain ise kaise banate hain. Aquarium banate time kya dhyan rakhna hoga? Machhliyon ko tairne ke liye पर्याप्त स्थान (bada jar bhi le sakte ho), जल, ऑक्सीजन aur भोजन. Hum air pump (वातित्र) se oxygen pump kar sakte hain, aur fish food market mein milta hai. Agar hum ismein kuch पौधे laga dein, toh yeh ek स्वनिर्वाह तंत्र (self-sustaining system) ban sakta hai — plants oxygen aur food mein madad karte hain, fishes aur microbes cycle complete karte hain. Aquarium मानव-निर्मित पारितंत्र ka example hai. Ab sawaal: kya aquarium bana ke aise hi chhod sakte hain? Kabhi-kabhi safai kyun zaroori hai? Pond aur lakes ki hum isi tarah safai kyun nahi karte? Kyunki natural ecosystems mein decomposers aur balance naturally kaam karte hain; aquarium chhota aur artificial hai, isliye human care chahiye. Activity tip: aise जलीय जीव mat rakho jo doosron ko kha jaayein — warna food chain toot jaayegi aur system collapse ho sakta hai. Groups mein discuss karo — organisms ek-doosre par kaise depend karte hain. Jaliya जीवों ke naam usi क्रम mein likho jismein ek doosre ko khata hai — कम से कम तीन चरण ki श्रृंखला banao: ____ → ____ → ____. Kya kisi ek group ko sabse zyada important maante ho? Producers ke bina chain shuru hi nahi hoti — socho!",
+      "example": "Ghar ka aquarium — jar + water + air pump + fish food + aquatic plants = chhota human-made self-sustaining attempt.",
+      "board_lines": [
+        "Aquarium = मानव-निर्मित पारितंत्र",
+        "ज़रूरत: स्थान, जल, O₂ (air pump), भोजन, पौधे → स्वनिर्वाह",
+        "शिकारी जीव साथ न रखें; कभी-कभी सफ़ाई आवश्यक"
+      ],
+      "common_mistake": "Students sochte hain aquarium bilkul pond jaisa self-cleaning hai — nahi; chhote artificial system mein cleaning aur oxygen supply often human care se hoti hai.",
+      "memory_trick": "A-W-O-F-P: Area, Water, Oxygen, Food, Plants — aquarium checklist.",
+      "gesture_action": "Haathon se glass jar shape banao, phir fish swimming, phir plant growing, phir pump se bubbles — aquarium steps act out",
+      "real_life_examples": [
+        "Pet shop ka aquarium — air stone se bubbles = oxygen supply",
+        "School science lab mein jar aquarium activity — human-made ecosystem demo"
+      ],
+      "worked_example": {
+        "problem": "जल जीवशाला मानव-निर्मित पारितंत्र क्यों है? Agar ismein aquatic plants laga dein toh स्वनिर्वाह तंत्र kaise ban sakta hai?",
+        "steps": [
+          "Human deliberately set up karta hai — jar, water, oxygen, food — hence artificial",
+          "Plants photosynthesis se O₂ aur organic food contribute karte hain",
+          "Organisms interact + abiotic factors = working ecosystem; with plants it approaches self-sustaining"
+        ],
+        "answer": "क्योंकि मनुष्य इसे जानबूझकर बनाता/नियंत्रित करता है। पौधे O₂ एवं भोजन में सहयोग देकर इसे स्वनिर्वाह तंत्र की ओर ले जाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "जल जीवशाला बनाने के लिए किन चार बातों का ध्यान रखना चाहिए?"
+        ],
+        "medium": [
+          "क्या हम aquarium को हमेशा के लिए बिना सफ़ाई के छोड़ सकते हैं? कारण सहित उत्तर दीजिए।"
+        ],
+        "hard": [
+          "तालाब की सफ़ाई हमें aquarium जैसी क्यों नहीं करनी पड़ती? पारितंत्र के संघटकों के आधार पर समझाइए।"
+        ]
+      },
+      "summary": "Aquarium human-made ecosystem hai jismein space, water, oxygen, food aur plants se self-sustaining system banaya ja sakta hai; care zaroori rehti hai.",
+      "revision_point": "Aquarium = artificial ecosystem example — NCERT activities 13.1–13.2 se linked.",
+      "exam_tip": "Example poochhe toh 'जल जीवशाला / बगीचा / खेत' likho for artificial; 'वन / तालाब / झील' for natural.",
+      "source_text_hint": "एक जल जीवशाला मानव-निर्मित पारितंत्र का उदाहरण है"
+    },
+    {
+      "concept": "आहार श्रृंखला एवं पोषी स्तर",
+      "say": "Ab section 13.1.1 — आहार श्रृंखला एवं जाल. Activity mein humne जीवों ki ek श्रृंखला banayi thi jo ek-doosre ka aahar karte hain. Vibhinna जैविक स्तरों par bhag lene wale जीवों ki yeh श्रृंखला आहार श्रृंखला (food chain) banati hai — forest, grassland, pond mein alag-alag chains dikhti hain. Food chain ka प्रत्येक चरण ya कड़ी ek पोषी स्तर (trophic level) banata hai. स्वपोषी ya उत्पादक — प्रथम पोषी स्तर — solar energy ko fix karke heterotrophs ke liye available karte hain. शाकाहारी ya प्राथमिक उपभोक्ता — द्वितीय पोषी स्तर. छोटे मांसाहारी ya द्वितीय उपभोक्ता — तीसरा पोषी स्तर. बड़े मांसाहारी ya तृतीय उपभोक्ता — चौथा पोषी स्तर. Board par yaad se likho: Producer → Primary consumer → Secondary consumer → Tertiary consumer. Example (pond): शैवाल → कीट के लार्वा → मछली → बगुला. Forest: घास/पत्ते → हिरण → शेर. Grassland: घास → टिड्डा → मेंढक → साँप → बाज (agar longer chain). Important: har trophic level energy ka source previous level se leta hai. NCERT question practice: 'पोषी स्तर क्या हैं? एक आहार श्रृंखला का उदाहरण दीजिए तथा इसमें विभिन्न पोषी स्तर बताइए.' Answer mein definition + numbered levels dono chahiye. Yaad rakho — chain hamesha producer se shuru!",
+      "example": "घास → हिरण → शेर: घास = उत्पादक (I), हिरण = प्राथमिक उपभोक्ता (II), शेर = द्वितीय/तृतीय उपभोक्ता (higher level).",
+      "board_lines": [
+        "आहार श्रृंखला: एक जीव दूसरे को खाता है — कड़ियों की श्रृंखला",
+        "पोषी स्तर: प्रत्येक चरण = एक trophic level",
+        "I उत्पादक → II प्राथमिक उपभोक्ता → III द्वितीय → IV तृतीय"
+      ],
+      "common_mistake": "Students food chain lion se shuru kar dete hain ya producer skip kar dete hain — galat! Chain hamesha स्वपोषी/उत्पादक se start hoti hai.",
+      "memory_trick": "P-P-S-T: Producer, Primary, Secondary, Tertiary — 'Pehle Paudha, Phir Primary, Sabse upar Top carnivore'.",
+      "gesture_action": "Students ko line mein khada karo: pehla plant, doosra deer, teesra tiger — har step par 'trophic level 1, 2, 3' bolo",
+      "real_life_examples": [
+        "Village pond: algae → insect larva → small fish → crane",
+        "Crop field: crop plants → insects → frogs → snakes"
+      ],
+      "worked_example": {
+        "problem": "पोषी स्तर क्या हैं? आहार श्रृंखला घास → टिड्डा → मेंढक → साँप mein har organism ka trophic level batao.",
+        "steps": [
+          "Definition: food chain ka har step/link = trophic level",
+          "Assign: घास = I (producer), टिड्डा = II (primary), मेंढक = III (secondary), साँप = IV (tertiary)",
+          "Write complete answer for exam format"
+        ],
+        "answer": "पोषी स्तर आहार श्रृंखला के प्रत्येक चरण/कड़ी हैं। घास—प्रथम (उत्पादक), टिड्डा—द्वितीय (प्राथमिक उपभोक्ता), मेंढक—तृतीय (द्वितीय उपभोक्ता), साँप—चतुर्थ (तृतीय उपभोक्ता)।"
+      },
+      "practice": {
+        "easy": [
+          "आहार श्रृंखला की परिभाषा लिखिए।"
+        ],
+        "medium": [
+          "एक तालाब की आहार श्रृंखला लिखकर उसमें पोषी स्तर चिह्नित कीजिए।"
+        ],
+        "hard": [
+          "उत्पादक प्रथम पोषी स्तर क्यों कहलाते हैं? सौर ऊर्जा से जोड़कर समझाइए।"
+        ]
+      },
+      "summary": "Food chain living links ki series hai; har link ek trophic level hai — producer se leke tertiary consumer tak.",
+      "revision_point": "Trophic levels order: Producer → Herbivore → Small carnivore → Large carnivore.",
+      "exam_tip": "Chain example mein arrows clearly → likho aur har organism ke saamne level number/name zaroor likho — half marks yahin se milte hain.",
+      "source_text_hint": "आहार श्रृंखला का प्रत्येक चरण अथवा कड़ी एक पोषी स्तर बनाते हैं"
+    },
+    {
+      "concept": "ऊर्जा प्रवाह एवं 10% नियम",
+      "say": "Bacchon, jo भोजन hum khate hain woh energy source hai. Environment ke components ke beech energy ka flow hota hai. स्वपोषी solar light ki energy ko chemical energy mein badalte hain — yeh poore जैव समुदाय ki base energy hai. Energy स्वपोषी se विषमपोषी aur अपघटकों tak jaati hai. Jab energy form badalti hai, kuch अनुपयोगी ऊर्जा (heat) ke रूप mein lose hoti hai. Ecosystem energy flow ke detailed study se yeh points mile: (1) स्थलीय पारितंत्र mein हरे पौधे ki पत्तियाँ roughly 1% solar energy ko food energy mein convert karti hain. (2) Jab plants primary consumers khate hain, bahut energy heat ke रूप mein lose hoti hai; kuch digestion, growth, reproduction mein use hoti hai; खाए हुए भोजन ka roughly 10% hi जैव मात्रा (biomass) mein badalta hai aur next level ko available hota hai. (3) Har level par available organic matter ka average 10% hi next consumer level tak pahunchta hai — yeh famous 10% law hai. (4) Isliye food chains generally 3 ya 4 steps ki hoti hain — 4th trophic level ke baad useful energy bahut kam reh jaati hai. (5) Generally lower trophic levels par जीवों ki संख्या zyada hoti hai — producers par sabse zyada. Energy flow diagram se do baatein clear: energy प्रवाह एकदिशिक (unidirectional) hai — producers se li energy wapas solar nahi banti, aur herbivores se energy wapas producers ko nahi milti. Doosri — har level par successive energy loss hoti hai.",
+      "example": "1000 J plant energy available ho, toh roughly 100 J herbivore, 10 J small carnivore, 1 J top carnivore — har step ~10%.",
+      "board_lines": [
+        "पत्तियाँ ≈ 1% सौर ऊर्जा → खाद्य ऊर्जा",
+        "10% नियम: प्रत्येक स्तर पर ≈ 10% अगले स्तर तक",
+        "ऊर्जा प्रवाह एकदिशिक; श्रृंखला आमतौर पर 3–4 चरण"
+      ],
+      "common_mistake": "Students sochte hain 10% law ka matlab 10% energy waste hoti hai — actually ~10% next level ko milti hai, baaki mostly heat/life processes mein lose.",
+      "memory_trick": "1% catch, 10% pass: Plants catch ~1% sun; each consumer passes ~10% up the chain.",
+      "gesture_action": "Badi mutthi (1000) se shuru karke har step par mutthi 10 guna chhoti karte jaao — energy loss dikhao",
+      "real_life_examples": [
+        "Field mein ghaas bahut, hiran kam, sher aur kam — numbers pyramid energy loss se judi",
+        "School mid-day meal energy ultimately plants/crops se aati hai — chain short rakhna efficient"
+      ],
+      "worked_example": {
+        "problem": "Ek grassland mein producers ke paas 10000 kJ energy hai. 10% rule ke anusar primary aur secondary consumers tak roughly kitni energy pahunchegi? Food chain 4 steps se zyada kyun rare hai?",
+        "steps": [
+          "Primary consumers ≈ 10% of 10000 = 1000 kJ",
+          "Secondary consumers ≈ 10% of 1000 = 100 kJ",
+          "Har step par heavy loss → 4th level ke baad useful energy bahut kam → chains usually 3–4 steps"
+        ],
+        "answer": "प्राथमिक ≈ 1000 kJ, द्वितीय ≈ 100 kJ। ऊर्जा ह्रास अधिक होने से चौथे स्तर के बाद उपयोगी ऊर्जा बहुत कम रह जाती है, इसलिए श्रृंखला सामान्यतः 3–4 चरण की होती है।"
+      },
+      "practice": {
+        "easy": [
+          "ऊर्जा प्रवाह एकदिशिक क्यों कहलाता है?"
+        ],
+        "medium": [
+          "10% नियम समझाइए तथा बताइए कि आहार श्रृंखलाएँ प्रायः तीन या चार चरण की क्यों होती हैं।"
+        ],
+        "hard": [
+          "यदि उत्पादक स्तर पर 5000 J ऊर्जा है तो तृतीय उपभोक्ता तक लगभग कितनी ऊर्जा पहुँचेगी? गणना एवं तर्क लिखिए।"
+        ]
+      },
+      "summary": "~1% sun→plant food energy; ~10% har trophic level se next tak; energy flow unidirectional with successive loss — chains short.",
+      "revision_point": "10% law + unidirectional flow + chains of 3–4 steps — teen board favourites ek saath.",
+      "exam_tip": "Numerical mein har step ×0.1 karo; theory mein 'ऊष्मा के रूप में ह्रास' zaroor mention karo.",
+      "source_text_hint": "प्रत्येक स्तर पर उपलब्ध कार्बनिक पदार्थों की मात्रा का औसतन 10% ही उपभोक्ता के अगले स्तर तक पहुँचता है"
+    },
+    {
+      "concept": "आहार जाल एवं जैव-आवर्धन",
+      "say": "Bacchon, food chains ki length aur complexity alag-alag hoti hai. Usually har जीव do ya zyada प्रकार ke जीवों dwara khaya jaata hai, aur woh khud kai जीवों ka food bante hain. Isliye seedhi chain ke bajay food relations शाखान्वित hote hain — in branched chains ka jāl आहार जाल (food web) kehlata hai. Ab food chain ka ek serious doosra आयाम — humari jaankari ke bina kuch हानिकारक रसायन food chain se hote hue humare शरीर mein ghus jaate hain. Reason: crops ko disease aur pests se bachane ke liye पीडकनाशक रसायनों ka अति प्रयोग. Yeh chemicals bahein mitti ya water sources mein chale jaate hain. Soil se plants inhe water aur minerals ke saath absorb karte hain; water bodies se aquatic plants aur animals mein enter karte hain. Yeh अजैव निम्नीकृत (non-biodegradable) hote hain, isliye har trophic level par उतरोत्तर संग्रहित hote jaate hain. Kyunki humans food chain mein अक्सर शीर्षस्थ hain, humare शरीर mein yeh chemicals सर्वाधिक मात्रा mein जमा hote hain — ise जैव-आवर्धन (biological magnification / biomagnification) kehte hain. Isliye wheat, rice, vegetables, fruits, meat mein pesticide residues alag-alag मात्रा mein mil sakte hain — dhone se completely alag nahi hote. Discuss: kuch states ne ready food mein chemical limits par rok lagayi — iska औचित्य kya hai? Sources kya hain? Body mein inki मात्रा kaise kam karein — organic farming, less pesticides, varied diet, proper washing where useful. Board keyword: biomagnification = increase along trophic levels.",
+      "example": "DDT jaise chemical: pani → शैवाल → छोटी मछली → बड़ी मछली → मनुष्य — har step par concentration badhta jaata hai.",
+      "board_lines": [
+        "आहार जाल = शाखान्वित आहार संबंधों का जाल",
+        "अजैव निम्नीकृत रसायन श्रृंखला में प्रवेश → प्रत्येक स्तर पर संचय",
+        "जैव-आवर्धन: शीर्ष (मनुष्य) में सर्वाधिक संचयन"
+      ],
+      "common_mistake": "Students sochte hain biomagnification ka matlab sirf pollution hai — specifically non-biodegradable toxins ka concentration trophic levels ke saath badhna hai.",
+      "memory_trick": "WEB = Many chains linked; BIO-MAG = Bigger Animal, More Accumulated Garbage-chemicals.",
+      "gesture_action": "Ungliyon se seedhi line (chain) banao, phir ungliyan failakar jāl (web); phir haath upar uthate hue 'concentration badhti hai' dikhao",
+      "real_life_examples": [
+        "Newspaper reports on pesticide residues in fruits/vegetables",
+        "Fish-eating birds/humans at top of aquatic chains — higher risk of accumulated toxins"
+      ],
+      "worked_example": {
+        "problem": "जैव-आवर्धन क्या है? पीडकनाशक आहार श्रृंखला में कैसे प्रवेश करते हैं और मनुष्य में सर्वाधिक क्यों जमा होते हैं?",
+        "steps": [
+          "Define: harmful chemicals ka successive accumulation at each trophic level",
+          "Entry: pesticides → soil/water → plants/aquatic life → chain",
+          "Humans often top consumers + chemicals non-biodegradable → maximum body load"
+        ],
+        "answer": "जैव-आवर्धन वह प्रक्रिया है जिसमें हानिकारक अजैव निम्नीकृत रसायन प्रत्येक पोषी स्तर पर बढ़ती मात्रा में संचित होते हैं; मनुष्य प्रायः शीर्षस्थ होने से इनमें सर्वाधिक मात्रा पाई जाती है।"
+      },
+      "practice": {
+        "easy": [
+          "आहार जाल किसे कहते हैं?"
+        ],
+        "medium": [
+          "जैव-आवर्धन की परिभाषा लिखिए तथा एक उदाहरण दीजिए।"
+        ],
+        "hard": [
+          "क्या धोने से खाद्य पदार्थों से पीडकनाशी अवशेष पूरी तरह हट जाते हैं? जैव-आवर्धन से जोड़कर उत्तर दीजिए।"
+        ]
+      },
+      "summary": "Food web = interconnected food chains; biomagnification = non-biodegradable toxins concentrating up to top consumers, often humans.",
+      "revision_point": "Biomagnification + non-biodegradable pesticides + top consumer = maximum accumulation — definition must be crystal clear.",
+      "exam_tip": "Definition mein teen words pakke: अजैव निम्नीकृत, उतरोत्तर संचय, शीर्षस्थ उपभोक्ता/मनुष्य.",
+      "source_text_hint": "इसे 'जैव-आवर्धन कहते हैं"
+    },
+    {
+      "concept": "ओजोन परत तथा इसका अपक्षय",
+      "say": "Ab section 13.2 — हमारे क्रियाकलाप पर्यावरण को कैसे प्रभावित करते हैं? Hum environment ka integrated part hain. Do problems detail mein: ओजोन परत का अपक्षय aur अपशिष्ट निपटान. Pehle ozone. ओजोन O₃ — teen oxygen atoms; normal oxygen O₂ — do atoms. O₂ वायवीय जीवों ke liye zaroori hai, lekin ozone ek घातक विष hai — haan, ground level par dangerous. Lekin वायुमंडल ke ऊपरी स्तर mein ozone ek zaroori kaam karti hai — सूर्य se aane wali पराबैंगनी (UV) विकिरण se पृथ्वी ko सुरक्षा deti hai. UV जीवों ke liye अत्यंत हानिकारक hai — humans mein त्वचा कैंसर produce kar sakti hai. Higher atmosphere mein UV ke प्रभाव se O₂ se ozone banti hai: high-energy UV O₂ ko तोड़कर free O atoms banata hai; free O + O₂ → O₃ (ozone). 1980 se atmosphere mein ozone ki मात्रा tez girne lagi. मुख्य कारक — chlorofluorocarbons (CFCs) jaise human-synthesised chemicals, jo refrigerators (शीतलन) aur fire extinguishers mein use hote the. 1987 mein UNEP (United Nations Environment Programme) mein सहमति bani ki CFC production ko 1986 ke स्तर par limit rakha jaaye. Ab duniya bhar ki manufacturing companies ke liye CFC-free refrigerators banana अनिवार्य hai. Activity: kaunse chemicals ozone depletion ke liye जिम्मेदार? Regulations kitni successful? Ozone hole ke size mein changes? Board facts: O₃ protects from UV; CFCs deplete; UNEP 1987 agreement.",
+      "example": "Purane fridge mein CFC refrigerants — atmosphere mein jake ozone todte the; aaj CFC-free fridge rule hai.",
+      "board_lines": [
+        "O₃ = 3 ऑक्सीजन परमाणु; ऊपरी वायुमंडल में UV से रक्षा",
+        "UV: O₂ → O + O; O + O₂ → O₃ | UV → त्वचा कैंसर",
+        "CFCs (रेफ्रिजरेटर/अग्निशमन) → अपक्षय; UNEP 1987 → CFC सीमित"
+      ],
+      "common_mistake": "Students sochte hain ozone hamesha beneficial hai — upper atmosphere mein protective hai, lekin ozone itself toxic poison bhi hai; context matter karta hai.",
+      "memory_trick": "O₃ = Ozone umbrella against UV; CFC = Fridge chemicals that Cut the umbrella.",
+      "gesture_action": "Dono haath se umbrella (ozone layer) banakar sir par rakho; phir 'CFC' bolte hue umbrella mein hole dikhao — UV se bachao tootna",
+      "real_life_examples": [
+        "Summer mein sunscreen — UV se skin bachane ka personal step; ozone layer planetary sunscreen hai",
+        "Naye refrigerators par CFC-free / eco labels"
+      ],
+      "worked_example": {
+        "problem": "ओजोन परत क्यों महत्वपूर्ण है? यह कैसे बनती है तथा CFCs इसे कैसे प्रभावित करते हैं? UNEP समझौते का एक बिंदु लिखो।",
+        "steps": [
+          "Importance: blocks harmful UV → reduces skin cancer risk etc.",
+          "Formation: UV splits O₂ → free O; O + O₂ → O₃",
+          "CFCs main human cause of depletion; UNEP 1987: freeze CFC production at 1986 level; CFC-free fridges mandatory"
+        ],
+        "answer": "ओजोन ऊपरी वायुमंडल में हानिकारक UV से पृथ्वी की रक्षा करती है; UV से O₂ टूटकर O₃ बनाती है। CFCs अपक्षय का मुख्य कारण बने; UNEP 1987 में CFC उत्पादन 1986 स्तर पर सीमित रखने की सहमति हुई।"
+      },
+      "practice": {
+        "easy": [
+          "ओजोन का अणु सूत्र क्या है? सामान्य ऑक्सीजन से अंतर लिखिए।"
+        ],
+        "medium": [
+          "ओजोन परत के अपक्षय के मुख्य कारक तथा UNEP की भूमिका संक्षेप में लिखिए।"
+        ],
+        "hard": [
+          "'ओजोन घातक विष है पर आवश्यक भी है' — इस कथन की पुष्टि ऊपरी वायुमंडल के संदर्भ में कीजिए।"
+        ]
+      },
+      "summary": "Upper-atmosphere O₃ shields Earth from UV; formed by UV acting on O₂; CFCs caused sharp decline from 1980s; UNEP 1987 limited CFCs.",
+      "revision_point": "O₃ formula + UV protection + CFC + UNEP 1987 — चार points ek saath revise karo.",
+      "exam_tip": "Reaction steps (O₂ → O; O + O₂ → O₃) likhne se 2–3 marks secure; CFC use places (fridge, fire extinguisher) mat bhoolna.",
+      "source_text_hint": "यह सूर्य से आने वाले पराबैंगनी विकिरण से पृथ्वी को सुरक्षा प्रदान करती है"
+    },
+    {
+      "concept": "कचरा प्रबंधन—जैव एवं अजैव निम्नीकरणीय पदार्थ",
+      "say": "Last big topic — कचरा प्रबंधन / अपशिष्ट निपटान. Daily activities mein hum bahut substances produce karte hain jo fenkne padte hain. Bio processes chapter se yaad karo — enzymes specific hote hain; ek enzyme saare foods digest nahi karta. Isliye coal khaane se energy nahi milti! Similarly, bahut human-made substances jaise प्लास्टिक ka अपघटन bacteria ya other saprophytes nahi kar paate. Unpar heat/pressure jaise physical processes asar kar sakte hain, lekin normal conditions mein woh lambе time tak environment mein bane rehte hain. Jo पदार्थ जैविक प्रक्रम se अपघटित ho jaate hain — जैव निम्नीकरणीय (biodegradable). Jo is process se nahi tootते — अजैव निम्नीकरणीय (non-biodegradable); aksar inert, long-lasting, ya environment ke members ko harm pahunchate hain. Activity: ghar ka kachra ekatro karo — kitchen waste, used tea leaves, milk pouches, paper, medicine strips, bubble packs, torn clothes, broken shoes — garden pit ya bucket mein mitti se dhakkar 15 days observe karo. Kaunse unchanged rehte hain? Kaunse change hote hain? Kaun jaldi? Biodegradable plastic ke baare mein bhi socho — kya woh bilkul harm-free hain? Towns mein kachre ke dheer, tourist spots par food pouches — lifestyle + disposable packaging se non-biodegradable waste badha hai. Local bodies se alag-alag collection, composting, sewage treatment, industry waste rules — yeh sab discuss ke points hain. Attitude change + less disposable use = real solution. Board: biodegradable vs non-biodegradable effects — NCERT ke teen questions yaad rakho.",
+      "example": "सब्जी के छिलके 15 दिनों में सड़ने लगते हैं (biodegradable); पॉलिथीन थैली महीनों/वर्षों तक वैसी ही रहती है (non-biodegradable).",
+      "board_lines": [
+        "जैव निम्नीकरणीय: जैविक प्रक्रम से अपघटित (छिलके, कागज़…)",
+        "अजैव निम्नीकरणीय: नहीं अपघटित / लंबे समय तक (प्लास्टिक…)",
+        "डिस्पोज़ेबल पैकेजिंग ↑ → अजैव कचरा ↑; अलग करके निपटान जरूरी"
+      ],
+      "common_mistake": "Students sochte hain biodegradable cheezein environment ko kabhi affect nahi karti — galat; galat dumping se smell, methane, water pollution ho sakta hai. Non-biodegradable alag tarah se harm karte hain (persist, choke drains, enter food chains).",
+      "memory_trick": "Bio = Bacteria break it; Non-bio = No break, long stay — B break, N never.",
+      "gesture_action": "Ek haath mein imaginary peels (crumble/break), doosre mein plastic bag (freeze/no change) — class ko dikhao difference",
+      "real_life_examples": [
+        "Blue/green dustbins — dry (often non-bio) vs wet (bio) segregation at home",
+        "Tourist spot par empty chips packets — packaging waste crisis"
+      ],
+      "worked_example": {
+        "problem": "(a) कुछ पदार्थ जैव निम्नीकरणीय क्यों होते हैं और कुछ अजैव? (b) प्रत्येक के पर्यावरण पर दो-दो प्रभाव सुझाइए।",
+        "steps": [
+          "Reason: microorganisms/enzymes specific — can break some organics, not plastics etc.",
+          "Biodegradable effects: recycle nutrients OR if mismanaged — foul smell, water pollution, greenhouse gases",
+          "Non-biodegradable effects: persist for long; harm organisms; may biomagnify; clog drains/soil"
+        ],
+        "answer": "(a) एंजाइम विशिष्ट होते हैं—कुछ पदार्थों का जैविक अपघटन संभव, प्लास्टिक आदि का नहीं। (b) जैव: पोषक पुनश्चक्रण / गलत निपटान पर प्रदूषण; अजैव: लंबे समय रहना, जीवों/श्रृंखला को हानि।"
+      },
+      "practice": {
+        "easy": [
+          "जैव निम्नीकरणीय एवं अजैव निम्नीकरणीय पदार्थों की परिभाषा लिखिए।"
+        ],
+        "medium": [
+          "अजैव निम्नीकरणीय पदार्थों के दो पर्यावरणीय प्रभाव लिखिए।"
+        ],
+        "hard": [
+          "जीवन शैली एवं पैकेजिंग में बदलाव से अजैव निम्नीकरणीय कचरा कैसे बढ़ा है? समाधान के तीन उपाय सुझाइए।"
+        ]
+      },
+      "summary": "Biodegradable substances break by biological processes; non-biodegradable persist and often harm; waste segregation and less disposable use are key.",
+      "revision_point": "NCERT के तीन प्रश्न: why bio vs non-bio; two ways each affects environment — answers ready rakho.",
+      "exam_tip": "Examples table banao: bio — peels, paper, cotton; non-bio — plastic, glass, metal strips. Effects alag-alag bullets mein likho.",
+      "source_text_hint": "वे पदार्थ जो जैविक प्रक्रम द्वारा अपघटित हो जाते हैं, 'जैव निम्नीकरणीय' कहलाते हैं"
+    }
+  ]
+}
