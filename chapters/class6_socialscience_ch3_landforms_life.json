@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 428,
+    "chapter_name": "स्थलरूप एवं जीवन",
+    "chapter_number": 3,
+    "book_name": "Class 6 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum seekhenge ki पृथ्वी की सतह par landforms — स्थलरूप — kaise banate hain aur unka जीवन तथा संस्कृति se kya sambandh hai. Atharvaveda ke भूमि सूक्त se shuru karke, hum teen pramukh sthaloop — पर्वत, पठार और मैदान — samjhenge, aur is hisse mein specially पर्वतों ki pehchaan, हिम-वर्षण, pramukh पर्वत श्रृंखलाएँ, पर्वतीय वन-जीव, terrace farming, पर्यटन aur mountain life ki challenges seekhenge.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 6 Social Science ka bahut sundar chapter — स्थलरूप एवं जीवन. Socho, agar tum Jharkhand ke Chota Nagpur se road se Prayagraj jaao, phir Uttarakhand ke Almora tak pahucho — raaste mein landscape kitna badal jaata hai! Aaj hum un teen landforms ko pehchanenge jo humari zindagi aur culture ko shape dete hain. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "स्थलरूप ki definition batakar unhe पर्वत, पठार और मैदान teen shreniyon mein baantna",
+      "पर्वत aur पहाड़ी mein fark samajhna aur तुंगता, हिम तथा वर्षण ko jodna",
+      "Vishwa ke pramukh पर्वत श्रृंखलाओं aur unki ऊँचाइयों ko identify karna; युवा vs पुराने पर्वत explain karna",
+      "पर्वतीय जीवन ke opportunities (terrace farming, tourism) aur challenges (landslide, avalanche) ko source text ke hisaab se likhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "स्थलरूप क्या हैं? तीन प्रमुख प्रकार"
+      },
+      {
+        "number": 2,
+        "name": "पर्वत की पहचान और विशेषताएँ"
+      },
+      {
+        "number": 3,
+        "name": "हिम, वर्षण और तुंगता"
+      },
+      {
+        "number": 4,
+        "name": "विश्व के प्रमुख पर्वत और पर्वत श्रृंखलाएँ"
+      },
+      {
+        "number": 5,
+        "name": "युवा और पुराने पर्वत – उन्नयन व अपरदन"
+      },
+      {
+        "number": 6,
+        "name": "पर्वतीय परिवेश – वन, पौधे और जीव-जंतु"
+      },
+      {
+        "number": 7,
+        "name": "पर्वतीय जीवन – कृषि, पशुपालन और पर्यटन"
+      },
+      {
+        "number": 8,
+        "name": "पर्वतीय जीवन की चुनौतियाँ और प्रेरणा"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "स्थलरूप क्या हैं? तीन प्रमुख प्रकार",
+      "say": "Bacchon, pehle ek sundar soch suno — Atharvaveda ke भूमि सूक्त mein kaha gaya hai: पृथ्वी meri माता hai aur main uski संतान. Yeh chapter bhi isi respect se shuru hota hai. Ab sawaal: पृथ्वी par hum kyun alag-alag jagah alag scenes dekhte hain? NCERT kehta hai — मनुष्य bhi any स्तनधारी जीवों ki tarah पृथ्वी par niwas karta hai, aur भूमि ke anek रूप aur विशेषताएँ hain. Ek क्षेत्र se doosre क्षेत्र mein uska स्वरूप bahut बदल जाता है. Socho journey: Jharkhand ke छोटा नागपुर क्षेत्र se sadak dwara उत्तर प्रदेश ke प्रयागराज, phir उत्तराखंड mein अल्मोड़ा tak. Is raaste mein teen alag दृश्यभूमि (landscape) dikhengi — aur yeh teen प्रकार के स्थलरूप (landforms) hain. Definition yaad rakho: स्थलरूप, पृथ्वी की सतह ka ek भौतिक स्वरूप hai. Yeh लाखों वर्षों mein aakaar lete hain aur पर्यावरण तथा जीवन ke saath inka महत्त्वपूर्ण संबंध hai. Inhe व्यापक रूप se teen श्रेणियों mein baanta ja sakta hai — पर्वत, पठार और मैदान. Har landform par अलग climate, पेड़-पौधे aur जीव-जंतु milte hain. मानव ne sab landforms ke anusar khud ko ढाला hai, lekin alag landforms par logon ki संख्या विश्व-भर mein भिन्न-भिन्न hoti hai. Class tip: jab bhi 'landform' aaye, pehle teen naam bolo — mountain, plateau, plain.",
+      "example": "Chota Nagpur se Prayagraj hote hue Almora ki journey — ek hi raaste mein teen alag landforms/landscape dikh sakte hain.",
+      "board_lines": [
+        "स्थलरूप (Landform) = पृथ्वी की सतह का भौतिक स्वरूप",
+        "Teen shreniyan: पर्वत · पठार · मैदान",
+        "Banane mein लाखों वर्ष; जीवन और पर्यावरण se juda"
+      ],
+      "common_mistake": "Students landscape aur landform ko bilkul same samajh lete hain — landscape poora दृश्यभूमि hai; landform uske andar ka ek physical form (jaise mountain) hai.",
+      "memory_trick": "P-P-M: पर्वत–पठार–मैदान. Teen landforms yaad rakhne ka PPM formula!",
+      "gesture_action": "Haath se teen shapes banao — ungliyan tip (पर्वत), flat palm upar (पठार), flat palm neeche failaya (मैदान).",
+      "real_life_examples": [
+        "School ke aas-paas ka मैदान vs door ke पहाड़ी इलाके — landscape badalna",
+        "TV/news mein Himalaya (पर्वत) aur Ganga ka मैदान alag-alag dikhte hain"
+      ],
+      "worked_example": {
+        "problem": "NCERT ke anusar स्थलरूप kya hai? Unhe kaunsi teen श्रेणियों mein baanta jaata hai?",
+        "steps": [
+          "Definition yaad karo: पृथ्वी की सतह ka भौतिक स्वरूप",
+          "Source text ke hisaab se teen shreniyan list karo",
+          "Answer mein dono parts — definition + teen naam — likho"
+        ],
+        "answer": "स्थलरूप पृथ्वी की सतह का एक भौतिक स्वरूप है। इन्हें पर्वत, पठार और मैदान में बाँटा जाता है।"
+      },
+      "practice": {
+        "easy": [
+          "स्थलरूप की परिभाषा एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "छोटा नागपुर से प्रयागराज होते हुए अल्मोड़ा तक यात्रा में क्या देखने को मिलेगा? NCERT उदाहरण से समझाओ।"
+        ],
+        "hard": [
+          "क्यों अलग-अलग स्थलरूपों पर रहने वाले लोगों की संख्या विश्व में भिन्न होती है? दो कारण सोचकर लिखो।"
+        ]
+      },
+      "summary": "स्थलरूप पृथ्वी की सतह के भौतिक स्वरूप हैं जो लाखों वर्षों में बनते हैं; मुख्य तीन प्रकार हैं — पर्वत, पठार और मैदान।",
+      "revision_point": "Landform = physical form of Earth's surface → Mountains, Plateaus, Plains (PPM).",
+      "exam_tip": "परिभाषा के साथ हमेशा तीन श्रेणियाँ लिखो और एक यात्रा उदाहरण (छोटा नागपुर–प्रयागराज–अल्मोड़ा) जोड़ दो।",
+      "source_text_hint": "स्थलरूप, पृथ्वी की सततह का एक भौतिक स्वरूप है"
+    },
+    {
+      "concept": "पर्वत की पहचान और विशेषताएँ",
+      "say": "Ab pehla landform detail mein — पर्वत! NCERT clearly kehta hai: पर्वत वे स्थलरूप हैं जो आस-पास की भूमि se kuch अधिक ऊँचे होते हैं. Unhe teen features se pehchano — चौड़ा आधार (broad base), खड़ी ढलान यानी चढ़ाई (steep slopes), aur सँकरा शिखर यानी चोटियाँ (narrow peaks). Picture 3.1 mein bhi background mein mountains dikhaye gaye hain — do हिमाच्छादित, bayein taraf पठार, aage मैदान jahan पर्वतों se aati नदी dikhai gayi hai. Important difference yaad rakho: कम ऊँचाई वाले अन्य ऊँचे स्थान jahan कम खड़ी चढ़ाइयाँ aur गोल आकार ke शीर्ष hon, unhe पहाड़ी (hills / छोटे पहाड़) kehte hain. Toh mountain = ऊँचा + खड़ी ढलान + नुकीला/सँकरा शिखर; hill = थोड़ा ऊँचा + नर्म ढलान + गोल top. Kuch पर्वत अपनी अधिक ऊँचाई ke कारण हिम se ढँके होते हैं. ग्रीष्म ऋतु mein कम तुंगता (altitude) par हिम पिघलकर जल banakar नदियों mein पहुँचती hai; बहुत अधिक ऊँचाइयों par हिम कभी नहीं पिघलती — wahan पर्वत स्थायी रूप se snow-covered rehte hain. Bacchon, board par yeh trio likho: base–slope–peak. Agar koi pooche 'पर्वत कैसे पहचानें?' toh yahi teen points bolo. Hills ko mountains mat bol dena — exam mein yeh common trap hai. Class activity tip: imaginary mountain draw karo aur teen labels lagao!",
+      "example": "Himalaya ki nukiili chotiyan = पर्वत; chhote gol tops wale hill stations ke aas-paas ke ऊँचे स्थान aksar पहाड़ियाँ कहलाते हैं।",
+      "board_lines": [
+        "पर्वत = आस-पास से अधिक ऊँचा स्थलरूप",
+        "Pehchaan: चौड़ा आधार + खड़ी ढलान + सँकरा शिखर",
+        "पहाड़ी = कम ऊँचाई, कम खड़ी चढ़ाई, गोल शीर्ष"
+      ],
+      "common_mistake": "Har ऊँची जगह ko पर्वत bol dena — NCERT kehta hai hills alag hain (कम ऊँचाई, कम खड़ी ढलान, गोल top).",
+      "memory_trick": "B-S-P: Base broad, Slope steep, Peak pointed — पर्वत की pehchaan!",
+      "gesture_action": "Dono haathon se triangle banao — neeche chaurai (base), upar tip (peak) — mountain shape.",
+      "real_life_examples": [
+        "Map/atlas mein Himalaya peaks pointed dikhte hain; Aravalli ke kai hisse zyada gol/rounded dikhte hain",
+        "School drawing mein mountain hamesha tip wala triangle banaya jaata hai — steep + peak idea"
+      ],
+      "worked_example": {
+        "problem": "Ek ऊँचा स्थान kam steep slopes aur gol shikhar wala hai. Kya ise पर्वत kahenge? Kyun?",
+        "steps": [
+          "पर्वत ki teen pehchaan: broad base, steep slope, narrow peak",
+          "Yahan slopes कम खड़ी hain aur top गोल hai",
+          "Isliye yeh पहाड़ी (hill) hai, typical पर्वत nahi"
+        ],
+        "answer": "नहीं, इसे पहाड़ी कहेंगे क्योंकि यहाँ कम खड़ी चढ़ाइयाँ और गोल शीर्ष हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पर्वत की तीन मुख्य पहचान लिखो।"
+        ],
+        "medium": [
+          "पर्वत और पहाड़ी में दो अंतर लिखो।"
+        ],
+        "hard": [
+          "क्यों कुछ पर्वत स्थायी रूप से हिम से ढँके रहते हैं? तुंगता से जोड़कर समझाओ।"
+        ]
+      },
+      "summary": "पर्वत आस-पास की भूमि से ऊँचे स्थलरूप हैं — चौड़े आधार, खड़ी ढलान और सँकरे शिखर वाले; कम ऊँचे गोल tops पहाड़ियाँ कहलाते हैं।",
+      "revision_point": "Mountain = BSP (Broad base, Steep slope, Pointed/narrow peak); Hill = lower + gentler + rounded.",
+      "exam_tip": "Definition के बाद हमेशा 'आधार–ढलान–शिखर' तीन शब्द लिखो; पहाड़ी का अंतर अलग बिंदु बनाकर दो।",
+      "source_text_hint": "पर्वत वे स्‍थलरूप हैं जो आस-पास की भूमि से कुछ अधिक ऊँचे होतते हैं"
+    },
+    {
+      "concept": "हिम, वर्षण और तुंगता",
+      "say": "Bacchon, ab teen keywords clear karte hain jo mountains padhte waqt bar-bar aayenge. Pehla — तुंगता (altitude): समुद्र तल se किसी वस्तु/लक्ष्य ki ऊँचाई. Example — पर्वत ki ऊँचाई, उड़ती चिड़िया, airplane, ya उपग्रह. Doosra — वर्षण (precipitation): वायुमंडल se भूमि par किसी भी रूप mein जल ka गिरना — वर्षा, हिमपात aur ओले. Teesra — हिम (snow). NCERT poochhta hai: हिम क्या है? Agar tum Himalayan क्षेत्र jaise कश्मीर, लद्दाख, हिमाचल, उत्तराखंड, सिक्किम, अरुणाचल mein nahi rehte, toh shayad snow nahi dekhi hogi! शेष भारत mein अधिकतर वर्षण वर्षा aur ओले ke रूप mein hota hai. Bahut ऊँचे स्थानों par agar काफी ठंडक hai, toh हिम गिरेगी aur soft white आवरण ban jaayega. Important science link: हिम aur ओले ka गिरना वास्तव mein जल ka ठोस रूप mein गिरना hai. Mountains par: कम तुंगता par गर्मियों mein snow पिघलकर नदियों mein jaati hai; बहुत अधिक तुंगता par snow कभी नहीं पिघलती. Toh river water ka ek बड़ा स्रोत upper slopes ki melting snow bhi hai. Class mein yaad rakho — altitude badhe, temperature generally गिरता है, isliye snow possible hoti hai. Precipitation sirf बारिश nahi — rain + snow + hail sab uske forms hain.",
+      "example": "Himalaya mein ऊँचाई par soft white हिम गिरती है; मैदानों में वही जल अधिकतर वर्षा के रूप में आता है।",
+      "board_lines": [
+        "तुंगता (Altitude) = समुद्र तल से ऊँचाई",
+        "वर्षण = वर्षा + हिमपात + ओले",
+        "हिम = जल का ठोस रूप; ऊँचाई + ठंडक पर गिरती है"
+      ],
+      "common_mistake": "Students सोचते हैं वर्षण मतलब सिर्फ बारिश — NCERT में हिमपात और ओले भी वर्षण के रूप हैं।",
+      "memory_trick": "A-P-S: Altitude decide karta hai Precipitation ka Solid form — Snow!",
+      "gesture_action": "Ek haath se samundar level dikhao, doosra haath upar le jaao (altitude), phir ungliyon se soft snow girne ka action.",
+      "real_life_examples": [
+        "Winters mein hill stations par snow report — वही जल ठोस रूप में",
+        "Ganga jaise rivers ka pani summer mein melting snow se bhi badhta hai"
+      ],
+      "worked_example": {
+        "problem": "तुंगता की परिभाषा लिखो और एक उदाहरण दो। वर्षण के तीन सामान्य रूप कौन-से हैं?",
+        "steps": [
+          "तुंगता = समुद्र तल से ऊँचाई; उदाहरण: पर्वत/हवाई जहाज की ऊँचाई",
+          "वर्षण = वायुमंडल से भूमि पर जल का गिरना",
+          "तीन रूप: वर्षा, हिमपात, ओले"
+        ],
+        "answer": "तुंगता समुद्र तल से किसी वस्तु की ऊँचाई है (जैसे पर्वत)। वर्षण के सामान्य रूप — वर्षा, हिमपात और ओले।"
+      },
+      "practice": {
+        "easy": [
+          "वर्षण किसे कहते हैं?"
+        ],
+        "medium": [
+          "हिम और ओले वास्तव में जल का कौन-सा रूप हैं? शेष भारत में वर्षण अधिकतर किन रूपों में होता है?"
+        ],
+        "hard": [
+          "क्यों कम तुंगता पर गर्मी में हिम पिघल जाती है, पर बहुत अधिक तुंगता पर नहीं? अपने शब्दों में समझाओ।"
+        ]
+      },
+      "summary": "तुंगता समुद्र तल से ऊँचाई है; वर्षण वर्षा-हिम-ओले के रूप में जल का गिरना है; हिम जल का ठोस रूप है जो ठंडे ऊँचे स्थानों पर गिरती है।",
+      "revision_point": "Altitude → colder → snow possible; Precipitation = rain + snow + hail.",
+      "exam_tip": "परिभाषा लिखते समय तुंगता में 'समुद्र तल से' शब्द जरूर लिखो — बिना इसके marks कट सकते हैं।",
+      "source_text_hint": "तुंगता (एल्‍ टीट्यूड) समुद्र ततल से किसी वस्‍तु/लक्ष‍य की ऊँचाई"
+    },
+    {
+      "concept": "विश्व के प्रमुख पर्वत और पर्वत श्रृंखलाएँ",
+      "say": "Ab duniya ke famous mountains! NCERT kehta hai — विश्व के अधिकांश पर्वतों ko पर्वत श्रृंखलाओं (mountain ranges) ke रूप mein वर्गीकृत kiya gaya hai. Examples: एशिया mein हिमालय, यूरोप mein आल्प्स, दक्षिणी अमेरिका mein एंडीज. Kuch श्रृंखलाएँ हजारों किलोमीटर tak faili hain — ek lambi wall of mountains socho! Picture 3.2 mein chhe पर्वतों ke चित्र hain, aur Picture 3.3 unki सापेक्ष ऊँचाई ek saath dikhata hai taaki comparison clear ho. Sabse important facts carefully likho: एवरेस्ट गिरिशृंग (नेपाल तथा तिब्बत ke बीच) aur कंचनजुंगा (भारत के सिक्किम राज्य और नेपाल ke बीच) — हिमालय पर्वत श्रृंखला की दो सबसे ऊँची चोटियाँ (शिखर). एंडीज पर्वत श्रृंखला ki सबसे ऊँची चोटी — अकोंकागुआ गिरिशृंग. पूर्वी अफ्रीका mein किलिमंजारो गिरिशृंग एक पृथक पर्वत hai — किसी श्रृंखला se संबंधित नहीं, yeh alag baat yaad rakhna. पश्चिमी यूरोप mein ब्लांक गिरिशृंग — आल्प्स ka सबसे ऊँचा पर्वत शिखर. अनाईमुडी (केरल mein ise 'अनाई शिखर' bhi kehte hain) — दक्षिण भारत ka सबसे ऊँचा गिरिशृंग. Relative height chart mein 1000 se 9000 मीटर tak scale hai — Everest sabse upar. Board tip: naam ke saath hamesha स्थान (देश/महाद्वीप) likho!",
+      "example": "Kanchenjunga भारत–नेपाल सीमा पर है; Everest नेपाल–तिब्बत के बीच — दोनों हिमालय श्रृंखला की ऊँची चोटियाँ।",
+      "board_lines": [
+        "श्रृंखलाएँ: हिमालय (एशिया), आल्प्स (यूरोप), एंडीज (द. अमेरिका)",
+        "Everest & कंचनजुंगा = हिमालय की ऊँची चोटियाँ",
+        "अनाईमुडी = दक्षिण भारत का सर्वोच्च; किलिमंजारो = पृथक पर्वत"
+      ],
+      "common_mistake": "Students सोचते हैं किलिमंजारो भी किसी बड़ी श्रृंखला का हिस्सा है — NCERT साफ कहता है यह पृथक पर्वत है।",
+      "memory_trick": "H-A-A: Himalaya–Alps–Andes. Teen badi श्रृंखलाएँ; Anaimudi = 'A' for Anaimudi = South India ka top!",
+      "gesture_action": "Ungliyon se height ladder banao — Anaimudi neeche, Alps/Blanc beech, Everest sabse upar.",
+      "real_life_examples": [
+        "Atlas/map mein Himalaya ek lambi chain dikhti hai, Kilimanjaro ek alag peak jaisa",
+        "News mein 'Mount Everest expedition' — duniya ki sabse ऊँची चोटी"
+      ],
+      "worked_example": {
+        "problem": "Match / identify: (a) दक्षिण भारत का सबसे ऊँचा गिरिशृंग (b) आल्प्स का सबसे ऊँचा शिखर (c) हिमालय की सबसे ऊँची चोटी जो नेपाल–तिब्बत के बीच है।",
+        "steps": [
+          "(a) अनाईमुडी (केरल / अनाई शिखर)",
+          "(b) ब्लांक गिरिशृंग",
+          "(c) एवरेस्ट गिरिशृंग"
+        ],
+        "answer": "(a) अनाईमुडी (b) ब्लांक (c) एवरेस्ट"
+      },
+      "practice": {
+        "easy": [
+          "एशिया, यूरोप और दक्षिणी अमेरिका की एक-एक प्रमुख पर्वत श्रृंखला के नाम लिखो।"
+        ],
+        "medium": [
+          "कंचनजुंगा कहाँ स्थित है? एवरेस्ट से इसका स्थान कैसे अलग है?"
+        ],
+        "hard": [
+          "किलिमंजारो को 'पृथक पर्वत' क्यों कहा गया है? श्रृंखला वाले पर्वतों से एक अंतर लिखो।"
+        ]
+      },
+      "summary": "अधिकांश पर्वत श्रृंखलाओं में मिलते हैं — हिमालय, आल्प्स, एंडीज; एवरेस्ट व कंचनजुंगा हिमालय की ऊँची चोटियाँ हैं, अनाईमुडी दक्षिण भारत का सर्वोच्च, किलिमंजारो पृथक पर्वत है।",
+      "revision_point": "Ranges: Himalaya/Alps/Andes; Peaks: Everest, Kanchenjunga, Aconcagua, Blanc, Anaimudi; Standalone: Kilimanjaro.",
+      "exam_tip": "स्थान (देश/राज्य/महाद्वीप) के साथ चोटी का नाम लिखो — सिर्फ नाम से पूरे अंक नहीं मिलते।",
+      "source_text_hint": "विश्व के अधिकांश पर्वतों को पर्वत ćृंखलाओं के रूप में वर्गीकृत किया गया है"
+    },
+    {
+      "concept": "युवा और पुराने पर्वत – उन्नयन व अपरदन",
+      "say": "Bacchon, mountains bhi 'उम्र' rakhte hain! NCERT kehta hai — हिमालय jaise ऊँचे aur नुकीली चोटियों वाले पर्वत अपेक्षतया नवीन hain, matlab पृथ्वी ke इतिहास mein ये हाल ही mein निर्मित (युवा) पर्वत hain — lekin phir bhi inhe बने हुए लाखों वर्ष हो चुके हैं! Yeh sunke surprise mat hona — geology ki 'young' umar human years se alag hoti hai. Contrast dekho: कुछ छोटे aur अधिक गोलाकार पर्वत aur पहाड़ियाँ, jaise अरावली श्रृंखला, काफी पुरानी hain aur अपरदन (erosion) ke कारण गोल आकार ki ho gayi hain. Do processes ab bhi chal rahi hain — उन्नयन (uplift) aur अपरदन (erosion), jaise हिमालय ke saath hua. NCERT tip deta hai: in processes aur unke कारणों ko tum विज्ञान mein aur अधिक पढ़ोगे; yahan itna kaafi hai ki विश्व ke कुछ पर्वतों, jaise हिमालय, ki ऊँचाई आज भी बढ़ रही है! Toh young mountains = ऊँचे, नुकीले, still rising; old mountains = घिसे हुए, गोल tops, erosion ne shape badal diya. Classroom image: naya pencil tip (Himalaya) vs bahut use hua pencil round tip (Aravalli). Exam mein Aravalli ko young mountain mat likh dena — common mistake!",
+      "example": "हिमालय नुकीली चोटियों वाला युवा पर्वत है जिसकी ऊँचाई अभी भी बढ़ रही है; अरावली अपरदन से गोल हुई पुरानी श्रृंखला है।",
+      "board_lines": [
+        "युवा पर्वत: ऊँचे, नुकीले (जैसे हिमालय) — ऊँचाई आज भी बढ़ सकती है",
+        "पुराने पर्वत: अपरदन से गोल (जैसे अरावली)",
+        "दो प्रक्रियाएँ: उन्नयन + अपरदन — आज भी जारी"
+      ],
+      "common_mistake": "Students 'नवीन/युवा' का मतलब कुछ हज़ार साल समझ लेते हैं — NCERT कहता है फिर भी इन्हें बने लाखों वर्ष हो चुके हैं।",
+      "memory_trick": "Yuva = नुकीला tip (Himalaya); Purana = गोल tip (Aravalli). Pencil tip trick!",
+      "gesture_action": "Ek ungli tip se nukiila mountain dikhao, phir ungli gol karke Aravalli jaisa rounded mountain.",
+      "real_life_examples": [
+        "Map par Himalaya sharp peaks; Aravalli zyada rounded/low hills jaisi dikhti hai",
+        "Science link: earth processes ab bhi mountains ko uplift/erode karte hain"
+      ],
+      "worked_example": {
+        "problem": "अरावली को पुरानी पर्वत श्रृंखला क्यों कहा जाता है? हिमालय से एक अंतर लिखो।",
+        "steps": [
+          "अरावली काफी पुरानी है और अपरदन से गोलाकार हो गई है",
+          "हिमालय अपेक्षाकृत नवीन है — ऊँचा और नुकीली चोटियों वाला",
+          "अंतर: आकार (गोल vs नुकीला) और आयु/प्रक्रिया"
+        ],
+        "answer": "अरावली पुरानी है क्योंकि अपरदन ने उसे गोल बना दिया; हिमालय युवा, ऊँचा और नुकीला है जिसकी ऊँचाई अभी भी बढ़ रही है।"
+      },
+      "practice": {
+        "easy": [
+          "युवा पर्वत का एक उदाहरण और पुरानी श्रृंखला का एक उदाहरण लिखो।"
+        ],
+        "medium": [
+          "उन्नयन और अपरदन क्या हैं? हिमालय के संदर्भ में एक वाक्य लिखो।"
+        ],
+        "hard": [
+          "'हिमालय नवीन है' और 'उसे बने लाखों वर्ष हो गए' — क्या ये दोनों बातें एक साथ सही हो सकती हैं? कैसे?"
+        ]
+      },
+      "summary": "हिमालय जैसे नुकीले पर्वत अपेक्षाकृत युवा हैं; अरावली जैसी गोल श्रृंखलाएँ अपरदन से पुरानी हो चुकी हैं — उन्नयन और अपरदन आज भी चल रहे हैं।",
+      "revision_point": "Young = high + pointed + still rising (Himalaya); Old = rounded by erosion (Aravalli).",
+      "exam_tip": "Comparative answer में हमेशा 'नुकीला/ऊँचा vs गोल/अपरदित' words use करो — examiner यही ढूँढता है।",
+      "source_text_hint": "हिमालय जैसे ऊँचे और नुकीली चोटियों वाले पर्वत अपेक्ाकृत नवीन हैं"
+    },
+    {
+      "concept": "पर्वतीय परिवेश – वन, पौधे और जीव-जंतु",
+      "say": "Ab mountain environment! ढलानों par प्रायः एक प्रकार का वन hota hai — पर्वतीय वन. Yahan शंकुधारी वृक्ष jaise पाइन (चीड़), फर, स्प्रूस, देवदार सामान्य रूप se पाए जाते हैं. In पेड़ों ki ऊँचाई अधिक hoti hai, ये शंकु के आकार ke hote hain, aur पत्तियाँ पतली, नोंकदार hoti hain. अधिक ऊँचाई par पेड़ों ki जगह घास, मॉस (काई) aur लाइकेन उग जाते हैं. Definitions: मॉस — फूलों aur वास्तविक जड़ों se रहित छोटा हरा पौधा jo अक्सर मखमली आवरण ki tarah failta hai. लाइकेन — पौधे के समान जीव jo सामान्यतः चट्टानों, दीवारों ya पेड़ों se चिपके होते हैं. Wildlife bhi rich hai — घने वन, नदियाँ, झीलें, घास के मैदान aur कंदराएँ अनेक जीवों ko आश्रय dete hain: गोल्डन ईगल, पेरेग्रिन फाल्कन, कैनेडियन लिंक्स, हिम तेंदुआ, आइबेक्स, हिमालयन तहर, पर्वतीय खरगोश, याक, ग्रे फॉक्स, भालू aur bahut से अन्य. Cultural gem: कवि कालिदास ke कुमारसंभव mein हिमालय ki स्तुति — 'पर्वतों का राजा' jo पश्चिमी se पूर्वी समुद्र tak faila hai; गंगा ke झरनों, देवदार, शीतल वायु ka वर्णन. ध्यान रखें: हिमालय se निकलने वाली भारतीय नदियों mein गंगा विशालतम hai (~2500 कि.मी.), सहायक — यमुना, घाघरा; कुछ jaise सोन विंध्याचल se nikalte hain. Mountains = water towers of life!",
+      "example": "ऊँचाई बढ़ने पर चीड़-देवदार वाले शंकुधारी वन कम होकर घास, मॉस और लाइकेन रह जाते हैं — यही ऊँचाई के अनुसार वनस्पति बदलना है।",
+      "board_lines": [
+        "पर्वतीय वन: पाइन, फर, स्प्रूस, देवदार (शंकुधारी)",
+        "ऊँचाई ↑ → पेड़ ↓ → घास, मॉस, लाइकेन",
+        "जीव: हिम तेंदुआ, याक, तहर, ईगल…; गंगा ≈ 2500 कि.मी."
+      ],
+      "common_mistake": "Students मॉस और लाइकेन को साधारण फूल वाले पौधे समझ लेते हैं — मॉस में फूल/वास्तविक जड़ें नहीं; लाइकेन चट्टानों आदि से चिपका रहता है।",
+      "memory_trick": "C-F-S-D: चीड़–फर–स्प्रूस–देवदार. Conifer family of mountain forests!",
+      "gesture_action": "Haathon se cone (शंकु) shape banao for pine trees; phir ungliyon se soft moss carpet failao.",
+      "real_life_examples": [
+        "Hill station trips par चीड़/देवदार ke pointed trees clearly dikhte hain",
+        "Ganga river system — Yamuna/Ghaghara Himalaya se; Son Vindhyachal se"
+      ],
+      "worked_example": {
+        "problem": "पर्वतीय वनों में कौन-से वृक्ष सामान्य हैं? अधिक ऊँचाई पर वनस्पति कैसे बदलती है?",
+        "steps": [
+          "शंकुधारी वृक्ष लिखो: पाइन, फर, स्प्रूस, देवदार",
+          "विशेषता: ऊँचे, शंकु आकार, पतली नोंकदार पत्तियाँ",
+          "अधिक ऊँचाई: घास, मॉस, लाइकेन"
+        ],
+        "answer": "पाइन, फर, स्प्रूस, देवदार सामान्य हैं; अधिक ऊँचाई पर पेड़ों की जगह घास, मॉस और लाइकेन ले लेते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "मॉस और लाइकेन की एक-एक विशेषता लिखो।"
+        ],
+        "medium": [
+          "कालिदास हिमालय को 'पर्वतों का राजा' क्यों कहते हैं? पाठ के संकेत से उत्तर दो।"
+        ],
+        "hard": [
+          "गंगा की सहायक नदियों में से दो हिमालय से और एक विंध्याचल से निकलने वाली नदी के नाम लिखो।"
+        ]
+      },
+      "summary": "पर्वतीय वनों में शंकुधारी वृक्ष होते हैं; ऊँचाई पर मॉस-लाइकेन बढते हैं; घने वन-नदियाँ अनेक जीवों और गंगा जैसी नदियों को आधार देते हैं।",
+      "revision_point": "Conifers on slopes → grass/moss/lichen higher up; rich wildlife; Ganga largest Himalayan river (~2500 km).",
+      "exam_tip": "वनस्पति वाले प्रश्न में हमेशा 'ऊँचाई के साथ बदलाव' लिखो — सिर्फ पेड़ों के नाम पर्याप्त नहीं।",
+      "source_text_hint": "पर्वतों की ढलानों पर प्राय: एक प्रकार का वन होता है जिसे पर्वतीय वन कहते हैं"
+    },
+    {
+      "concept": "पर्वतीय जीवन – कृषि, पशुपालन और पर्यटन",
+      "say": "Ab log mountains par kaise जीते हैं? पर्वतीय भूभाग सामान्यतः खड़े ढलानों ke saath ऊबड़-खाबड़ होता है, isliye कुछ ही घाटियों mein नियमित कृषि हो पाती है. Solution: वेदिका कृषि / सीढ़ीदार कृषि (terrace farming) — ढलान ki भूमि ko काटकर सीढ़ीनुमा स्थान par खेती. Picture 3.5 उत्तरी भारत mein yeh dikhata hai. विश्व-भर ke अनेक पर्वतीय क्षेत्रों mein कृषि ki जगह पशुपालन ko अधिक महत्व diya jaata hai. Tourism ek बड़ा आय स्रोत hai — स्वच्छ हवा aur मनोरम प्राकृतिक दृश्य पर्यटकों ko खींचते हैं. कुछ लोग साहसिक खेलों ke liye aate hain: स्कीइंग, हाइकिंग, पर्वतारोहण, पैरा ग्लाइडिंग. अनेक शताब्दियों se लोग पवित्र स्थलों ki तीर्थयात्रा ke liye bhi पर्वतों ki यात्रा करते रहे हैं. Lekin ध्यान: बहुत सारे पर्यटकों ke एक साथ आने se पर्यावरण par दबाव पड़ता है — सही संतुलन कठिन हो जाता है. Definitions: भूभाग = भौतिक आकृतियों ki दृष्टि se भूमि ka एक खंड; घाटी = पहाड़ों ke बीच ka निचला क्षेत्र jismein प्रायः नदी/जलधारा बहती है. Class message: mountain life = tough slopes + smart farming (terraces) + animals + tourism + pilgrimage — lekin nature ka balance zaroori hai.",
+      "example": "उत्तरी भारत की पहाड़ियों पर सीढ़ीनुमा खेत — वेदिका कृषि — ढलान पर खेती का व्यवहारिक तरीका है।",
+      "board_lines": [
+        "वेदिका/सीढ़ीदार कृषि = ढलान काटकर सीढ़ियों पर खेती",
+        "आय: पशुपालन + पर्यटन + तीर्थयात्रा",
+        "साहसिक खेल: स्कीइंग, हाइकिंग, पर्वतारोहण, पैरा ग्लाइडिंग"
+      ],
+      "common_mistake": "Students सोचते हैं पहाड़ों पर खेती असंभव है — वास्तव में घाटियों और वेदिका कृषि से सीमित खेती होती है।",
+      "memory_trick": "T-A-T: Terrace farming – Animal rearing – Tourism. Mountain livelihood ka TAT formula!",
+      "gesture_action": "Haathon se sidhiyan (steps) banao — terrace fields; phir binoculars jaisa tourism gesture.",
+      "real_life_examples": [
+        "Hill stations par hotel/tour guides — local आय का स्रोत",
+        "चार धाम / हिमालय तीर्थ यात्राएँ — सदियों पुरानी परंपरा"
+      ],
+      "worked_example": {
+        "problem": "पर्वतीय क्षेत्रों में नियमित कृषि कठिन क्यों है? लोग खेती कैसे करते हैं?",
+        "steps": [
+          "खड़े ढलान + ऊबड़-खाबड़ भूभाग → कम समतल भूमि",
+          "कुछ घाटियों में नियमित कृषि संभव",
+          "ढलानों पर वेदिका/सीढ़ीदार कृषि प्रचलित"
+        ],
+        "answer": "खड़े ढलानों के कारण कृषि कठिन है; घाटियों में और वेदिका (सीढ़ीदार) कृषि द्वारा खेती की जाती है।"
+      },
+      "practice": {
+        "easy": [
+          "वेदिका कृषि किसे कहते हैं?"
+        ],
+        "medium": [
+          "पर्वतीय लोगों के लिए पर्यटन क्यों महत्वपूर्ण है? दो कारण लिखो।"
+        ],
+        "hard": [
+          "अनियंत्रित पर्यटन पर्वतों के पर्यावरण पर कैसे दबाव डालता है? एक सुझाव भी दो।"
+        ]
+      },
+      "summary": "पहाड़ी जीवन में सीमित घाटी-कृषि, वेदिका खेती, पशुपालन और पर्यटन-तीर्थ प्रमुख हैं; पर्यटकों का दबाव पर्यावरण संतुलन बिगाड़ सकता है।",
+      "revision_point": "Steep land → terrace farming + herding; income from tourism/pilgrimage; balance needed.",
+      "exam_tip": "कृषि वाले उत्तर में 'खड़े ढलान' कारण और 'वेदिका कृषि' समाधान — दोनों लिखना जरूरी है।",
+      "source_text_hint": "ढलानों पर वेदिका कृषि अर्थात ढलान की भूमि को काटकर सीढीनुमा स्‍थान पर कृषि करना"
+    },
+    {
+      "concept": "पर्वतीय जीवन की चुनौतियाँ और प्रेरणा",
+      "say": "Mountains sundar hain, lekin आसान nahi! Picture 3.6 चुनौतियाँ दिखाता है — प्राकृतिक aur मानव-निर्मित दोनों. Key terms: भूस्खलन — पर्वतीय भूखंड/चट्टान ka अकस्मात टूटकर गिरना. आकस्मिक बाढ़ — स्थान विशेष mein अचानक बाढ़, बहुधा बादल फटने se. बादल फटना — अचानक प्रचंड तूफान सहित वर्षा. हिमस्खलन (avalanche) — पर्वत se अकस्मात हिम/चट्टानें गिरना, प्रायः जब हिम पिघलना शुरू होती है. Aur challenges: भारी हिमपात, ठंडा मौसम, पर्यटकों ka अनियंत्रित आ जाना. Positive side bhi hai — शुद्ध वायु, मनोरम दृश्य — isliye लोग रहते हैं. Inspiration stories: बछेंद्री पाल ने कम आयु se पर्वतारोहण शुरू kiya, महिलाओं ke अभियानों ka नेतृत्व kiya, 1984 mein एवरेस्ट पर चढ़ने वाली प्रथम भारतीय महिला bani — पद्मश्री (1984) aur पद्मभूषण (2019). अरुणिमा सिन्हा 22 वर्ष ki उम्र mein दुर्घटना mein एक पैर गवाँ बैठीं; बछेंद्री पाल ke प्रोत्साहन se 2013 mein Everest चढ़ाई; baad mein सभी महाद्वीपों ki सबसे ऊँची चोटियाँ including अंटार्कटिका ka विंसन — 2015 mein पद्मश्री. NCERT ka soft question: इतनी चुनौतियाँ hone par bhi लोग क्यों रहते हैं? — घर, संस्कृति, आजीविका, प्रेम for mountains, पर्यटन opportunities. Class message: challenges samjho, courage se seekho, प्रकृति का सम्मान करो.",
+      "example": "बादल फटने से अचानक बाढ़ आ सकती है; वसंत में हिम पिघलने पर हिमस्खलन का खतरा बढ़ता है।",
+      "board_lines": [
+        "चुनौतियाँ: भूस्खलन, हिमस्खलन, बादल फटना, आकस्मिक बाढ़, ठंड, uncontrolled tourism",
+        "बछेंद्री पाल: 1984 — प्रथम भारतीय महिला एवरेस्ट पर",
+        "अरुणिमा सिन्हा: 2013 Everest; सातों महाद्वीपों की ऊँची चोटियाँ"
+      ],
+      "common_mistake": "Students हिमस्खलन और भूस्खलन मिला देते हैं — हिमस्खलन मुख्यतः हिम का अचानक गिरना; भूस्खलन चट्टान/भूखंड का टूटना।",
+      "memory_trick": "B-H-B-A: भूस्खलन–हिमस्खलन–बादल फटना–आकस्मिक बाढ़. Mountain danger code BHBA!",
+      "gesture_action": "Dono haathon se suddenly neeche girne ka action — landslide/avalanche; phir victory pose for Bachendri/Arunima.",
+      "real_life_examples": [
+        "News mein Himalayan landslide/cloudburst reports — real mountain hazards",
+        "Bachendri Pal aur Arunima Sinha ki stories — courage beyond disability/difficulty"
+      ],
+      "worked_example": {
+        "problem": "हिमस्खलन किसे कहते हैं? बछेंद्री पाल की एक उपलब्धि और सम्मान लिखो।",
+        "steps": [
+          "परिभाषा: पर्वत से अकस्मात हिम/चट्टानों का गिरना, प्रायः पिघलने शुरू होने पर",
+          "उपलब्धि: 1984 में एवरेस्ट चढ़ने वाली प्रथम भारतीय महिला",
+          "सम्मान: पद्मश्री (1984), पद्मभूषण (2019)"
+        ],
+        "answer": "हिमस्खलन पर्वत से अचानक हिम/चट्टान गिरना है। बछेंद्री पाल 1984 में एवरेस्ट चढ़ने वाली प्रथम भारतीय महिला रहीं; पद्मश्री व पद्मभूषण से सम्मानित।"
+      },
+      "practice": {
+        "easy": [
+          "भूस्खलन की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "चित्र 3.6 जैसी कोई चार पर्वतीय चुनौतियाँ सूचीबद्ध करो — दो प्राकृतिक, दो मानव-संबंधी।"
+        ],
+        "hard": [
+          "पर्वतों पर इतनी चुनौतियाँ होने पर भी लोग वहाँ क्यों रहते हैं? अरुणिमा सिन्हा की कहानी से एक सीख भी जोड़ो।"
+        ]
+      },
+      "summary": "पर्वतीय जीवन में भूस्खलन, हिमस्खलन, बादल फटना जैसी चुनौतियाँ हैं; फिर भी लोग रहते हैं — और बछेंद्री पाल व अरुणिमा सिन्हा जैसी प्रेरणाएँ साहस सिखाती हैं।",
+      "revision_point": "Hazards: landslide, avalanche, cloudburst, flash flood + tourism pressure; Heroes: Bachendri Pal (1984), Arunima Sinha (2013).",
+      "exam_tip": "परिभाषा वाले शब्दों (भूस्खलन/हिमस्खलन/बादल फटना) को अलग-अलग लिखो; प्रेरणा प्रश्नों में वर्ष और पुरस्कार मत भूलना।",
+      "source_text_hint": "भूस्खलन पर्वतीय भूखंड के एक बड़े भाग या एक चट््टान का अकस्‍मात टूटकर गिरना"
+    }
+  ]
+}
