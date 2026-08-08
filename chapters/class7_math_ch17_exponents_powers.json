@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 736,
+    "chapter_name": "घातांक और घात",
+    "chapter_number": 17,
+    "book_name": "Class 7 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 7",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 7 Mathematics ke Chapter 17 — घातांक और घात — ko padhenge. Bahut badi numbers jaise पृथ्वी का द्रव्यमान ya ग्रह-दूरी ko padhna-compare karna mushkil hota hai; isliye hum exponents (घातांक) use karte hain. Is chapter mein base-exponent, घातांकीय रूप, expanded form, negative bases, prime-factor powers, aur same-base multiplication rule seekhenge.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Mathematics ka ek powerful chapter shuru karte hain — घातांक और घात. Socho: पृथ्वी का द्रव्यमान itna bada number hai ki padhte-padhte saans phool jaaye! Teacher aaj physically nahi hain, lekin main tumhare saath bilkul classroom jaisa, step-by-step, Hinglish mein padhaunga. Ready ho? Copy-pencil nikaalo, chalo shuru karte hain!",
+    "learning_outcomes": [
+      "बहुत बड़ी संख्याओं को घातांकीय रूप (exponential form) में लिखना और पढ़ना",
+      "आधार (base) और घातांक (exponent) की पहचान करना; वर्ग व घन समझना",
+      "संख्याओं को अभाज्य गुणनखंडों की घातों के गुणनफल के रूप में व्यक्त करना",
+      "ऋणात्मक आधार वाली घातें, 1 व –1 की घातें, तथा एक ही आधार वाली घातों का गुणन नियम लागू करना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "भूमिका – बहुत बड़ी संख्याएँ और घातांकों की आवश्यकता"
+      },
+      {
+        "number": 2,
+        "name": "घातांक और आधार – परिभाषा व घातांकीय रूप"
+      },
+      {
+        "number": 3,
+        "name": "विस्तारित रूप में संख्याएँ लिखना"
+      },
+      {
+        "number": 4,
+        "name": "कोई भी आधार, वर्ग और घन"
+      },
+      {
+        "number": 5,
+        "name": "ऋणात्मक आधार वाली घातें"
+      },
+      {
+        "number": 6,
+        "name": "घातों की तुलना और बीजीय रूप aⁿbᵐ"
+      },
+      {
+        "number": 7,
+        "name": "अभाज्य गुणनखंडों की घातों के गुणनफल"
+      },
+      {
+        "number": 8,
+        "name": "विशेष घातें (1, –1) और एक ही आधार का गुणन नियम"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भूमिका – बहुत बड़ी संख्याएँ और घातांकों की आवश्यकता",
+      "say": "Bacchon, pehle ek interesting sawaal — क्या आप जानते हैं कि पृथ्वी का द्रव्यमान क्या है? NCERT kehti hai: 5,970,000,000,000,000,000,000,000 kg! Kya tum is number ko aasaani se padh sakte ho? Ab Uranus ग्रह का द्रव्यमान dekho — 86,800,000,000,000,000,000,000,000 kg. Sawal: किसका द्रव्यमान अधिक है — पृथ्वी या यूरेनस? Clearly Uranus zyada bhaari hai, lekin zeros ginna mushkil hai. Ek aur example: सूर्य और शनि के बीच की दूरी 1,433,500,000,000 km hai, aur शनि और यूरेनस के बीच 1,439,000,000,000 km. Kaunsi दूरी kam hai? Almost same dikhte hain, lekin carefully compare karna padta hai. Book clearly kehti hai — ऐसी बहुत बड़ी संख्याओं का पढ़ना, समझना और तुलना करना कठिन होता है. Isliye hum घातांकों, yani exponents, ka इस्तेमाल karte hain taaki numbers short form mein likh saken, jaldi padh saken, aur compare kar saken. Yeh chapter isi skill ke liye hai — कैसे बड़ी संख्याओं को घातांकों से आसान बनाएँ. Classroom tip: jab bhi bahut se zeros dikhen, socho — शायद इसे 10 की घात से छोटा लिखा जा सकता है. Aaj se hum isi journey par hain. Toh yaad rakho: बड़ी संख्या = कठिन पढ़ना; घातांक = आसान तरीका.",
+      "example": "पृथ्वी का द्रव्यमान 5,970,000,000,000,000,000,000,000 kg — zeros itne zyada ki bina exponent ke padhna-compare karna tough hai.",
+      "board_lines": [
+        "बड़ी संख्याएँ पढ़ना/तुलना करना कठिन होता है",
+        "उदाहरण: पृथ्वी व यूरेनस का द्रव्यमान; सूर्य–शनि व शनि–यूरेनस दूरी",
+        "समाधान: घातांकों (exponents) का प्रयोग"
+      ],
+      "common_mistake": "Students zeros गिनने में गलती करके compare galat kar dete hain — pehle zeros/place value carefully check karo ya exponential form use karo.",
+      "memory_trick": "B-E-C: Big numbers → Exponents → Compare easily.",
+      "gesture_action": "Dono haathon se bahut lambi imaginary number line dikhao, phir fingers se 'fold' karke short exponent form dikhao",
+      "real_life_examples": [
+        "Science book mein planets ke mass aur distances — zeros ki lambi line",
+        "Population of world ya national debt jaise huge figures news mein"
+      ],
+      "worked_example": {
+        "problem": "सूर्य–शनि दूरी 1,433,500,000,000 km aur शनि–यूरेनस दूरी 1,439,000,000,000 km. कौन-सी दूरी कम है?",
+        "steps": [
+          "Dono numbers ko side-by-side likho — digits almost same length",
+          "Compare: 1,433,500,000,000 vs 1,439,000,000,000 → 1433.5 billion < 1439 billion",
+          "Conclude: सूर्य और शनि के बीच की दूरी कम है"
+        ],
+        "answer": "सूर्य और शनि के बीच की दूरी (1,433,500,000,000 km) कम है।"
+      },
+      "practice": {
+        "easy": [
+          "पृथ्वी और यूरेनस में किसका द्रव्यमान अधिक है?"
+        ],
+        "medium": [
+          "बताओ क्यों बहुत बड़ी संख्याओं को घातांकों से लिखना आसान होता है — एक उदाहरण सहित।"
+        ],
+        "hard": [
+          "सूर्य–शनि और शनि–यूरेनस दूरियों की तुलना करके लिखो कौन कम है, और zeros गिनने की जगह तुम कौन-सा तरीका prefer करोगे?"
+        ]
+      },
+      "summary": "बहुत बड़ी संख्याओं को पढ़ना-समझना-तुलना करना कठिन है; इसलिए हम घातांकों का प्रयोग करते हैं।",
+      "revision_point": "बड़ी संख्या + कई शून्य → घातांक से छोटा व स्पष्ट रूप।",
+      "exam_tip": "Introduction से 1-mark: 'घातांक क्यों?' — पढ़ना, समझना, तुलना आसान — ये तीन शब्द लिखो।",
+      "source_text_hint": "ऐसी बहुत बड़ी संख्याओं का पढ़ना, समझना और इनकी तुलना करना कठिन होता है"
+    },
+    {
+      "concept": "घातांक और आधार – परिभाषा व घातांकीय रूप",
+      "say": "Ab core idea — घातांक क्या है? Book kehti hai: हम बड़ी संख्याओं को घातांकों का प्रयोग करके संक्षिप्त रूप में लिख सकते हैं. Dekho: 10,000 = 10 × 10 × 10 × 10 = 10⁴. Yahan संक्षिप्त संकेतन 10⁴, गुणनफल 10×10×10×10 ko व्यक्त करता है. Important words: '10' आधार (base) hai, aur '4' घातांक (exponent) hai. 10⁴ को पढ़ते हैं — 10 के ऊपर घात 4, या 10 की चौथी घात. Aur 10⁴ को 10000 का घातांकीय रूप (exponential form) कहा जाता है. Same tarah: 1000 = 10 × 10 × 10 = 10³; 1,00,000 = 10 × 10 × 10 × 10 × 10 = 10⁵. Dono mein आधार 10 hai; 10³ में घातांक 3, 10⁵ में घातांक 5. Classroom tip: exponent batata hai base kitni baar multiply hua. Agar 10⁵ hai, toh 10 ko 5 baar multiply karo. Mat confuse hona — 10⁴ मतलब 10+10+10+10 nahi! Addition nahi, बार-बार गुणन. Smart Board par hum hamesha likhenge: Base neeche, Exponent upar-right. Jab bhi exponential form dikhe, pehle base identify karo, phir exponent. Yeh foundation saaf hogi toh aage square, cube, negative bases sab easy lagenge. Practice: 10,000 ko 10⁴, 1000 ko 10³ — roz bolke yaad rakho.",
+      "example": "10,000 = 10 × 10 × 10 × 10 = 10⁴ — यहाँ 10 आधार है और 4 घातांक है।",
+      "board_lines": [
+        "10,000 = 10 × 10 × 10 × 10 = 10⁴",
+        "आधार (base) = 10; घातांक (exponent) = 4",
+        "10⁴ = 10000 का घातांकीय रूप; पढ़ो: 10 की चौथी घात"
+      ],
+      "common_mistake": "Students 10⁴ को 10×4=40 समझ लेते हैं — गलत! 10⁴ = 10×10×10×10 = 10,000।",
+      "memory_trick": "B-E: Base नीचे रहता है, Exponent ऊपर गिनता है — 'कितनी बार गुणा?'",
+      "gesture_action": "Ek haath se base (बड़ा अंक) dikhao, doosre haath ki 4 ungliyan upar karke '4 baar multiply' count karo",
+      "real_life_examples": [
+        "Mobile storage: 10⁹ bytes ≈ 1 GB — powers of 10 se short writing",
+        "Scientific calculators par 1.5E8 jaisi exponential notation"
+      ],
+      "worked_example": {
+        "problem": "1,00,000 को 10 की घात के रूप में लिखो और आधार व घातांक पहचानो।",
+        "steps": [
+          "1,00,000 = 10 × 10 × 10 × 10 × 10",
+          "पाँच बार 10 का गुणन → 10⁵",
+          "आधार = 10, घातांक = 5"
+        ],
+        "answer": "1,00,000 = 10⁵; आधार 10, घातांक 5।"
+      },
+      "practice": {
+        "easy": [
+          "10⁴ में आधार और घातांक क्या हैं?"
+        ],
+        "medium": [
+          "1000 और 10,000 को घातांकीय रूप में लिखो।"
+        ],
+        "hard": [
+          "समझाओ: 10⁵ का अर्थ 10×5 क्यों नहीं है? सही गुणनफल लिखकर बताओ।"
+        ]
+      },
+      "summary": "घातांक बताता है आधार को कितनी बार गुणा किया गया; जैसे 10⁴ = 10×10×10×10।",
+      "revision_point": "आधार × आधार × … (घातांक बार) = घातांकीय रूप।",
+      "exam_tip": "परिभाषा वाले प्रश्न में हमेशा लिखो: आधार, घातांक, और पढ़ने का तरीका (जैसे 10 की चौथी घात)।",
+      "source_text_hint": "यहाँ, '10' आधार और '4' घातांक कहलाता है"
+    },
+    {
+      "concept": "विस्तारित रूप में संख्याएँ लिखना",
+      "say": "Bacchon, tum pehle bhi place value se संख्याओं को विस्तारित या प्रसारित रूप (expanded form) में लिख चुके हो — 10, 100, 1000 इत्यादि use karke. Example NCERT ka: 47561 = 4 × 10000 + 7 × 1000 + 5 × 100 + 6 × 10 + 1. Ab isi ko powers of 10 se likh sakte hain: 4 × 10⁴ + 7 × 10³ + 5 × 10² + 6 × 10 + 1. Dekho kitna neat! 10000 = 10⁴, 1000 = 10³, 100 = 10², aur 10 = 10¹ (ya sirf 10). Book tumse try karwati hai: 172, 5642, 6374 ko isi tarah likho. Method simple hai — har digit ko uski place value ki power of 10 se multiply karo, phir add. Example: 172 = 1 × 100 + 7 × 10 + 2 = 1 × 10² + 7 × 10 + 2. Classroom tip: units place par sirf digit, tens par ×10, hundreds ×10², thousands ×10³, ten-thousands ×10⁴. Yeh skill aage scientific notation aur large-number writing mein kaam aayegi. Common exam style: 'निम्नलिखित को विस्तारित रूप में लिखिए' — answer mein powers of 10 clearly dikhao. Yaad rakho expanded form addition use karti hai, exponential short form multiplication of same base. Dono alag tools hain — confuse mat hona!",
+      "example": "47561 = 4 × 10⁴ + 7 × 10³ + 5 × 10² + 6 × 10 + 1",
+      "board_lines": [
+        "Expanded form: place value × digit, then add",
+        "47561 = 4×10⁴ + 7×10³ + 5×10² + 6×10 + 1",
+        "Try: 172, 5642, 6374"
+      ],
+      "common_mistake": "Students 4 × 10⁴ को 4⁴ लिख देते हैं — नहीं! Digit अलग, power of 10 अलग; 4 × 10⁴ सही है।",
+      "memory_trick": "Place → Power: हजार = 10³, सौ = 10², दस = 10 — 'जगह देखो, घात लिखो।'",
+      "gesture_action": "Board par number ke har digit ke neeche place (हजार/सौ/दस) point karte hue power of 10 bolkar expand karo",
+      "real_life_examples": [
+        "Cheque ya bank slip par amount words ke saath place-value breakdown",
+        "Class mein attendance total ko hundreds-tens-ones में तोड़ना"
+      ],
+      "worked_example": {
+        "problem": "172 को विस्तारित रूप में powers of 10 से लिखो।",
+        "steps": [
+          "172 = 1 × 100 + 7 × 10 + 2",
+          "100 = 10² लिखो",
+          "अतः 172 = 1 × 10² + 7 × 10 + 2"
+        ],
+        "answer": "172 = 1 × 10² + 7 × 10 + 2"
+      },
+      "practice": {
+        "easy": [
+          "5642 को साधारण विस्तारित रूप में लिखो (1000, 100, 10 उपयोग करके)।"
+        ],
+        "medium": [
+          "6374 = ? × 10³ + ? × 10² + ? × 10 + ? — रिक्त स्थान भरो।"
+        ],
+        "hard": [
+          "47561 के विस्तारित रूप में प्रत्येक पद का आधार और घातांक पहचानो (जहाँ घात हो)।"
+        ]
+      },
+      "summary": "संख्याओं को 10 की घातों का उपयोग करके विस्तारित रूप में लिखा जा सकता है।",
+      "revision_point": "Digit × (उसकी place की 10 की घात) + … = expanded form।",
+      "exam_tip": "Expanded form में + चिह्न मत भूलना; सिर्फ गुणन लिखने से अधूरा उत्तर माना जाता है।",
+      "source_text_hint": "47561 = 4 × 10000 + 7 × 1000 + 5 × 100 + 6 × 10 + 1"
+    },
+    {
+      "concept": "कोई भी आधार, वर्ग और घन",
+      "say": "Ab tak आधार ज्यादातर 10 था। Book kehti hai — परंतु आधार कोई भी संख्या हो सकती है। Example: 81 = 3 × 3 × 3 × 3 = 3⁴. Yahan आधार 3, घातांक 4. कुछ घातों के विशिष्ट नाम हैं: 10² को 10 का वर्ग (10 squared) भी पढ़ते हैं; 10³ को 10 का घन (10 cubed). Sawaal: 5³ (5 के घन) का क्या अर्थ है? 5³ = 5 × 5 × 5 = 125. अतः 125 संख्या 5 की तीसरी घात है. 5³ में आधार 5, घातांक 3. Similarly 2⁵ = 2×2×2×2×2 = 32 — 2 की पाँचवीं घात; आधार 2, घातांक 5. Book aur examples: 243 = 3⁵, 64 = 2⁶, 625 = 5⁴. Algebraic general form bhi yaad rakho: a × a = a² (a का वर्ग); a × a × a = a³ (a का घन); a×a×a×a = a⁴; a seven times = a⁷. Aur mixed: a×a×a×b×b = a³b² — पढ़ो 'a का घन गुणा b का वर्ग'. a×a×b×b×b×b = a²b⁴. Try (प्रयास कीजिए): पाँच और उदाहरण दो जहाँ संख्या को घातांकीय रूप में लिखा जाए; आधार व घातांक पहचानो. Classroom tip: वर्ग मतलब 2 बार, घन मतलब 3 बार — language strong rakho. Exam mein 'express as power' aata hai — repeatedly factor same number.",
+      "example": "81 = 3 × 3 × 3 × 3 = 3⁴ — आधार 3, घातांक 4; और 5³ = 125 (5 का घन)।",
+      "board_lines": [
+        "आधार कोई भी संख्या हो सकती है: 81 = 3⁴",
+        "a² = वर्ग (square); a³ = घन (cube)",
+        "5³ = 5×5×5 = 125; 2⁵ = 32; 243 = 3⁵; 64 = 2⁶; 625 = 5⁴"
+      ],
+      "common_mistake": "Students 5³ को 5×3=15 लिख देते हैं — गलत! घन मतलब तीन बार गुणा: 5×5×5=125।",
+      "memory_trick": "Square-2, Cube-3: वर्ग = 2 बार, घन = 3 बार — ungliyon se count!",
+      "gesture_action": "Do ungliyan dikha kar 'वर्ग', teen ungliyan dikha kar 'घन' — phir multiply action",
+      "real_life_examples": [
+        "वर्ग सेंटीमीटर (cm²) — area में square का use",
+        "घन सेंटीमीटर (cm³) — volume में cube का use"
+      ],
+      "worked_example": {
+        "problem": "256 को 2 की घात के रूप में व्यक्त कीजिए। (उदाहरण 1)",
+        "steps": [
+          "256 को बार-बार 2 से गुणनखंडित करो: 256 = 2×2×2×2×2×2×2×2",
+          "2 आठ बार आया",
+          "अतः 256 = 2⁸"
+        ],
+        "answer": "256 = 2⁸"
+      },
+      "practice": {
+        "easy": [
+          "5³ में आधार और घातांक क्या हैं? 5³ का मान भी लिखो।"
+        ],
+        "medium": [
+          "Express: (i) 729 as power of 3 (ii) 128 as power of 2 (iii) 343 as power of 7 — NCERT प्रयास कीजिए।"
+        ],
+        "hard": [
+          "a×a×b×b×b×b को घातांकीय रूप में लिखो और हिंदी में पढ़ो।"
+        ]
+      },
+      "summary": "आधार 10 के अलावा कोई भी हो सकता है; a² वर्ग और a³ घन कहलाते हैं।",
+      "revision_point": "घातांक = बार-बार गुणन की गिनती; वर्ग=2, घन=3।",
+      "exam_tip": "'घातांकीय रूप में लिखो' में बार-बार एक ही संख्या का गुणन दिखाकर घात लिखो — shortcut अनुमान मत लगाओ।",
+      "source_text_hint": "परंतु आधार कोई भी संख्या हो सकती है"
+    },
+    {
+      "concept": "ऋणात्मक आधार वाली घातें",
+      "say": "Bahut important topic — जब आधार एक ऋणात्मक पूर्णांक हो. Book poochti hai: (–2)³ का क्या अर्थ है? Matlab (–2) ko teen baar multiply karo: (–2)³ = (–2)×(–2)×(–2). Step-by-step: pehle (–2)×(–2) = +4, phir +4×(–2) = –8. अतः (–2)³ = –8. Ab check karo: क्या (–2)⁴ = 16 है? Haan — (–2)×(–2)×(–2)×(–2). Pair-wise: (+4)×(+4) = +16. Classroom rule clear rakho: negative base aur odd exponent → उत्तर ऋणात्मक; negative base aur even exponent → उत्तर धनात्मक. Kyunki negatives pairs mein plus banate hain; agar odd bache toh overall minus reh jaata hai. Bracket bahut zaroori hai! NCERT (–2)⁴ bracket ke saath likhti hai — matlab poora –2 hi base hai. Example 6 mein bhi yahi: (–10)³ = (–10)×(–10)×(–10) = 100×(–10) = –1000; aur (–5)⁴ = (–5)×(–5)×(–5)×(–5) = 25×25 = 625. Exercise 11.1 mein (–4)³, (–3)×(–2)³, (–3)²×(–5)² jaise sawaal aate hain — har step pe sign check karo. Smart Board tip: pehle brackets expand, phir multiply, phir final sign. Mat jaldi final answer likho. Yaad rakho — sign rule pe bahut marks toot-te hain, isliye odd-even pehle identify karo, phir calculate. Practice roz do negative-base questions taaki habit ban jaaye.",
+      "example": "(–2)³ = (–2)×(–2)×(–2) = –8; और (–2)⁴ = +16।",
+      "board_lines": [
+        "(–2)³ = (–2)×(–2)×(–2) = –8",
+        "(–2)⁴ = +16 (सम घात → धनात्मक)",
+        "Rule: (–ve)^odd = –ve; (–ve)^even = +ve"
+      ],
+      "common_mistake": "Students अक्सर (–2)⁴ को –16 लिख देते हैं; सम घात पर चिह्न + होता है, उत्तर 16।",
+      "memory_trick": "Odd-Out (minus bahar), Even-Enter (plus andar) — विषम घात पर ऋणात्मक, सम पर धनात्मक।",
+      "gesture_action": "Odd number of claps → sad/minus face; even claps → smile/plus — sign rule act out",
+      "real_life_examples": [
+        "Bank debit-credit pairing: opposite signs combine stepwise",
+        "Game scores: penalty rounds odd/even times — final sign intuition"
+      ],
+      "worked_example": {
+        "problem": "(–5)⁴ का मान ज्ञात कीजिए।",
+        "steps": [
+          "(–5)⁴ = (–5)×(–5)×(–5)×(–5)",
+          "(–5)×(–5)=25 और फिर 25×25=625",
+          "घातांक सम है → उत्तर धनात्मक 625"
+        ],
+        "answer": "(–5)⁴ = 625"
+      },
+      "practice": {
+        "easy": [
+          "(–2)³ का मान क्या है?"
+        ],
+        "medium": [
+          "जाँच कीजिए: क्या (–2)⁴ = 16 है? चरण लिखो।"
+        ],
+        "hard": [
+          "(–4)³ और (–3)²×(–5)² के मान ज्ञात करो (Exercise शैली)।"
+        ]
+      },
+      "summary": "ऋणात्मक आधार की विषम घात ऋणात्मक और सम घात धनात्मक होती है; ब्रैकेट के साथ गणना करो।",
+      "revision_point": "(–a)^odd = ऋणात्मक; (–a)^even = धनात्मक।",
+      "exam_tip": "ऋणात्मक आधार वाले प्रश्न में हर गुणन के बाद चिह्न लिखो — अंतिम उत्तर पर ही मत सोचो।",
+      "source_text_hint": "(–2)³ का क्या अर्थ है?"
+    },
+    {
+      "concept": "घातों की तुलना और बीजीय रूप aⁿbᵐ",
+      "say": "Ab comparison aur algebraic products. उदाहरण 2: 2³ और 3² में कौन बड़ा? 2³ = 2×2×2 = 8, 3² = 3×3 = 9; चूँकि 9 > 8, इसलिए 3² > 2³. उदाहरण 3: 8² और 2⁸ — 8² = 64, 2⁸ = 256, स्पष्टतः 2⁸ > 8². Lesson: बड़ों-सा अंक देखकर मत decide करो — values calculate करो! उदाहरण 4: a³b², a²b³, b²a³, aur b³a² ko प्रसारित रूप में likho — क्या ये सभी बराबर हैं? a³b² = (a×a×a)×(b×b) = a×a×a×b×b; a²b³ = a×a×b×b×b. Yahan a aur b ki घातें भिन्न हैं, इसलिए a³b² और a²b³ भिन्न हैं. Lekin a³b² और b²a³ बराबर हैं — क्योंकि इनमें a और b की घातें एक ही हैं; गुणनखंडों के क्रम से कोई प्रभाव नहीं पड़ता. Book likhti hai: a³b² = a³×b² = b²×a³ = b²a³. Same tarah a²b³ = b³a². प्रयास कीजिए: 729 को 3 की घात, 128 को 2 की घात, 343 को 7 की घात. Classroom tip: compare karte waqt dono ko ordinary number mein laao, phir > ya < lagao. Variables mein equal tabhi jab har base ki power same ho. Exercise 11.1: 4³ या 3⁴, 5³ या 3⁵, 2⁸ या 8² — pehle calculate. Yaad: base aur exponent swap karne se value badal jaati hai!",
+      "example": "2³ = 8 और 3² = 9, इसलिए 3² बड़ा है; 2⁸ = 256 > 8² = 64।",
+      "board_lines": [
+        "2³=8 < 3²=9; 2⁸=256 > 8²=64",
+        "a³b² = a×a×a×b×b; a²b³ ≠ a³b² (घातें भिन्न)",
+        "a³b² = b²a³ (क्रम से फ़र्क नहीं)"
+      ],
+      "common_mistake": "Students सोचते हैं 2⁸ और 8² बराबर होंगे क्योंकि अंक 2 और 8 हैं — गलत; मान 256 ≠ 64।",
+      "memory_trick": "C-C-C: Calculate → Compare → Conclude. अनुमान मत, गणना करो!",
+      "gesture_action": "Do palms par do powers likho, calculate karke kaunsa haath upar (badi value) uthao",
+      "real_life_examples": [
+        "Offers compare: '2³ gifts' vs '3² gifts' — numbers calculate karke decide",
+        "Computer memory powers of 2 vs ordinary squares — values बहुत अलग"
+      ],
+      "worked_example": {
+        "problem": "8² और 2⁸ में कौन बड़ा है?",
+        "steps": [
+          "8² = 8×8 = 64",
+          "2⁸ = 2×2×2×2×2×2×2×2 = 256",
+          "256 > 64 ⇒ 2⁸ बड़ा है"
+        ],
+        "answer": "2⁸ > 8² (256 > 64)"
+      },
+      "practice": {
+        "easy": [
+          "2³ और 3² में कौन बड़ा है?"
+        ],
+        "medium": [
+          "a³b² और a²b³ क्या बराबर हैं? प्रसारित रूप से समझाओ।"
+        ],
+        "hard": [
+          "4³ या 3⁴ — बड़ी संख्या पहचानो; चरण सहित।"
+        ]
+      },
+      "summary": "घातों की तुलना मान निकालकर करो; a³b² = b²a³ परंतु a³b² ≠ a²b³।",
+      "revision_point": "क्रम बदल सकता है, घातांक नहीं — equal तभी जब प्रत्येक आधार की घात समान हो।",
+      "exam_tip": "तुलना वाले MCQ में दोनों मान अलग-अलग निकालो; आधार-घातांक अदला-बदली से बराबरी मत मानना।",
+      "source_text_hint": "23 और 32 में कौन बड़ा है?"
+    },
+    {
+      "concept": "अभाज्य गुणनखंडों की घातों के गुणनफल",
+      "say": "Ab bahut exam-useful skill — संख्याओं को अभाज्य गुणनखंडों की घातों के गुणनफल के रूप में लिखना. उदाहरण 5: (i) 72 — factor tree se: 72 = 2×36 = 2×2×18 = 2×2×2×9 = 2×2×2×3×3 = 2³ × 3². Yeh desired form hai — सिर्फ अभाज्य और उनकी घातें. (ii) 432 = 2×216 = 2×2×108 = 2×2×2×54 = 2×2×2×2×27 = 2×2×2×2×3×3×3, yani 2⁴ × 3³. (iii) 1000 = 2×500 = 2×2×250 = 2×2×2×125 = 2×2×2×5×5×5 = 2³ × 5³. Atul isi ko aise karta hai: 1000 = 10×10×10 = (2×5)×(2×5)×(2×5) = 2³×5³ — book poochti hai: क्या अतुल की विधि सही है? Haan, bilkul sahi hai! (iv) 16000 = 16×1000 = (2×2×2×2)×(2×2×2×5×5×5) = 2⁷ × 5³. Method simple: baar-baar smallest prime 2, phir 3, 5… se divide karo; jitni baar same prime aaye, utni uski घात. Exercise 11.1 Q5 mein 648, 405, 540, 3600 isi style se karo. Classroom tip: final answer mein sirf primes hon; 1 mat likho kyunki 1 अभाज्य नहीं. Apna check: exponents ke hisaab se multiply karke original number wapas aana chahiye. Yeh form baad mein LCM-HCF aur laws of exponents mein bahut kaam aayega, isliye abhi strong banao.",
+      "example": "72 = 2×2×2×3×3 = 2³ × 3² — अभाज्य गुणनखंडों की घातों का गुणनफल।",
+      "board_lines": [
+        "72 = 2³ × 3²",
+        "432 = 2⁴ × 3³; 1000 = 2³ × 5³; 16000 = 2⁷ × 5³",
+        "विधि: बार-बार अभाज्य से भाग → समान अभाज्य गिनकर घात"
+      ],
+      "common_mistake": "Students अधूरे factors छोड़ देते हैं जैसे 72 = 2×36 लिखकर रुक जाते हैं — पूरी तरह अभाज्य होने तक तोड़ो।",
+      "memory_trick": "P-C-P: Prime → Count → Power. अभाज्य चुनो, गिनो, घात लगाओ।",
+      "gesture_action": "Factor tree ki tarah haathon se branch karte hue divide actions — last mein primes ki ungli count se exponent bolo",
+      "real_life_examples": [
+        "पैकिंग: 72 sweets को 2 और 3 के group bundles में बाँटना",
+        "Class rows: students को equal prime-sized teams में arrange करना"
+      ],
+      "worked_example": {
+        "problem": "1000 को अभाज्य गुणनखंडों की घातों के गुणनफल के रूप में लिखो। क्या Atul की 10×10×10 विधि सही है?",
+        "steps": [
+          "1000 = 2×500 = 2×2×250 = 2×2×2×125 = 2×2×2×5×5×5",
+          "अतः 1000 = 2³ × 5³",
+          "Atul: 10×10×10 = (2×5)(2×5)(2×5) = 2³×5³ — विधि सही है"
+        ],
+        "answer": "1000 = 2³ × 5³; हाँ, अतुल की विधि सही है।"
+      },
+      "practice": {
+        "easy": [
+          "72 = 2³ × 3² को प्रसारित गुणन रूप में लिखो।"
+        ],
+        "medium": [
+          "432 को अभाज्य गुणनखंडों की घातों के गुणनफल के रूप में लिखो।"
+        ],
+        "hard": [
+          "16000 = 16 × 1000 का उपयोग करके 2ᵃ × 5ᵇ रूप में लिखो; a और b बताओ।"
+        ]
+      },
+      "summary": "किसी संख्या को 2ᵃ × 3ᵇ × 5ᶜ … रूप में लिखना अभाज्य-घात गुणनफल कहलाता है।",
+      "revision_point": "पूरी तरह अभाज्य करो, फिर समान अभाज्य की गिनती = घातांक।",
+      "exam_tip": "उत्तर को 2³×3² जैसी compact form में लिखो; factor tree rough work में रखो।",
+      "source_text_hint": "निम्नलिखित संख्याओं को अभाज्य गुणनखंडों की घातों के गुणनफल के रूप में व्यक्त कीजिए"
+    },
+    {
+      "concept": "विशेष घातें (1, –1) और एक ही आधार का गुणन नियम",
+      "say": "Last block — special powers aur pehla law of exponents. उदाहरण 6: (1)⁵ = 1×1×1×1×1 = 1; वास्तव में 1 की कोई भी घात 1 के बराबर होती है. (–1)³ = (–1)×(–1)×(–1) = –1; (–1)⁴ = (–1)×(–1)×(–1)×(–1) = +1. Book ka rule: (–1) की कोई भी विषम घात = –1; कोई भी सम घात = +1. Aur (–10)³ = –1000; (–5)⁴ = 625. Ab Exercise 11.1 practice area: 2⁶, 9³, 11², 5⁴ ke मान; products ko exponential form; pairs mein badi number; simplify 2×10³, 7²×2², 0×10²; negative products; compare 2.7×10¹² और 1.5×10⁸. Section 11.3 — घातांकों के नियम. 11.3.1 एक ही आधार वाली घातों का गुणन: 2² × 2³ = (2×2)×(2×2×2) = 2×2×2×2×2 = 2⁵ = 2²⁺³. ध्यान दो — 2² और 2³ में आधार एक ही है, इसलिए घातांकों का योग होता है: 2+3=5. General rule: aᵐ × aⁿ = aᵐ⁺ⁿ, jab base same ho. Agar base alag hon, yeh rule seedha apply nahi hota. Classroom tip: multiply same base → add exponents. Pehle expand karke verify karo, phir shortcut use karo. Yeh pehla law aage ke rules ki foundation hai. Revision checklist: 1 ki koi bhi ghaat 1; (–1)^odd = –1; (–1)^even = +1; same base multiply → add exponents.",
+      "example": "2² × 2³ = 2⁵ = 2²⁺³; और (–1)³ = –1, (–1)⁴ = +1।",
+      "board_lines": [
+        "1 की कोई भी घात = 1",
+        "(–1)^विषम = –1; (–1)^सम = +1",
+        "एक ही आधार: 2² × 2³ = 2²⁺³ = 2⁵"
+      ],
+      "common_mistake": "Students 2² × 2³ को 2⁶ (घातांक गुणा) या 4⁵ लिख देते हैं — सही है घातांक जोड़ना: 2⁵।",
+      "memory_trick": "Same Base? Add the pace! एक आधार → घातांक जोड़ो।",
+      "gesture_action": "Do stacks of blocks (2² और 2³) मिलाकर एक लंबी stack 2⁵ — exponents add hone ka drama",
+      "real_life_examples": [
+        "Paper folding stages combine: repeated doubling counts add like exponents",
+        "Two growth phases at same doubling rate — total generations add (simplified idea)"
+      ],
+      "worked_example": {
+        "problem": "2² × 2³ परिकलित करो और दिखाओ कि यह 2²⁺³ के बराबर है।",
+        "steps": [
+          "2² × 2³ = (2×2) × (2×2×2) = 2×2×2×2×2 = 2⁵",
+          "घातांक जोड़ो: 2+3=5",
+          "अतः 2² × 2³ = 2²⁺³ = 2⁵"
+        ],
+        "answer": "2² × 2³ = 2⁵ = 2²⁺³"
+      },
+      "practice": {
+        "easy": [
+          "(1)⁵ और (–1)⁴ के मान लिखो।"
+        ],
+        "medium": [
+          "2² × 2³ को नियम से सरल करो।"
+        ],
+        "hard": [
+          "2.7 × 10¹² और 1.5 × 10⁸ की तुलना करो — कौन बड़ा? (प्रश्नावली 11.1 शैली)"
+        ]
+      },
+      "summary": "1 की घात सदैव 1; (–1) की सम/विषम घात +1/–1; एक ही आधार की घातों का गुणन = घातांकों का योग।",
+      "revision_point": "aᵐ × aⁿ = aᵐ⁺ⁿ (केवल समान आधार पर)।",
+      "exam_tip": "नियम लिखते समय शर्त अवश्य लिखो — 'एक ही आधार होने पर'; बिना शर्त अधूरे अंक मिल सकते हैं।",
+      "source_text_hint": "एक ही आधार वाली घातों का गुणन"
+    }
+  ]
+}
