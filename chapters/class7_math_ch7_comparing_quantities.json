@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 732,
+    "chapter_name": "राशियों की तुलना",
+    "chapter_number": 7,
+    "book_name": "Class 7 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 7",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 7 Mathematics ke Chapter 7 — राशियों की तुलना (Comparing Quantities) — ka pehla bada hissa padhenge: प्रतिशतता (percentage). Report card mein Anita aur Rita ke marks se shuru karke samjhenge ki sirf प्राप्तांक nahi, प्रतिशत se comparison sahi hota hai. Phir प्रतिशत ka अर्थ, jab total 100 na ho tab percent nikalna, भिन्न aur दशमलव ko percent mein badalna, aur daily life mein percent se संख्या ज्ञात करना seekhenge.",
+    "welcome": "Good morning, bachchon! Smart Board par aaj ek bahut useful chapter — राशियों की तुलना. Socho: Anita kehti hai maine 320 marks liye, Rita ne sirf 300 — toh mera result better! Par report card mein percent dekho — Rita ke 83.3% aur Anita ke 80%. Kaun sahi? Aaj bilkul classroom Hinglish mein yeh puzzle clear karenge. Ready ho? Chalo shuru!",
+    "learning_outcomes": [
+      "प्रतिशतता se राशियों की तुलना karna aur samajhna ki sirf प्राप्तांक se comparison galat ho sakta hai",
+      "प्रतिशत ka अर्थ (प्रति एक सौ) aur 1% = 1/100 = 0.01 likhna-padhna",
+      "Jab कुल योग 100 na ho, tab भिन्न ko 100-denominator wali तुल्य भिन्न mein badalkar प्रतिशत ज्ञात करना (Asha/Anwar methods)",
+      "भिन्न aur दशमलव ko प्रतिशत mein, aur प्रतिशत ko भिन्न/दशमलव mein convert karke daily-life problems (संख्या, छूट, भाग) solve karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "प्रतिशतता – राशियों की तुलना की एक विधि"
+      },
+      {
+        "number": 2,
+        "name": "प्रतिशतता के अर्थ – प्रति एक सौ"
+      },
+      {
+        "number": 3,
+        "name": "प्रतिशतता जब योग 100 न हो"
+      },
+      {
+        "number": 4,
+        "name": "आशा और अनवर की विधियाँ – कौन उपयुक्त?"
+      },
+      {
+        "number": 5,
+        "name": "भिन्न संख्याओं को प्रतिशत में बदलना"
+      },
+      {
+        "number": 6,
+        "name": "दशमलव भिन्न को प्रतिशत में बदलना"
+      },
+      {
+        "number": 7,
+        "name": "प्रतिशत को भिन्न या दशमलव में बदलना"
+      },
+      {
+        "number": 8,
+        "name": "अनुमान और प्रतिशतता के उपयोग"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "प्रतिशतता – राशियों की तुलना की एक विधि",
+      "say": "Bacchon, aaj naya अध्याय — राशियों की तुलना, English mein Comparing Quantities. Pehle ek real-life puzzle bilkul NCERT jaisa. Anita ki report: प्राप्तांक 320 out of 400, प्रतिशत 80. Rita ki report: प्राप्तांक 300 out of 360, प्रतिशत 83.3. Anita kehti hai mera परीक्षाफल अधिक अच्छा hai kyunki maine 320 marks liye, Rita ne sirf 300. Kya tum usse सहमत हो? Socho carefully — zyada marks hamesha better result nahi hote. Manshi bolti hai — sirf प्राप्तांक compare karke yeh nahi kah sakte, kyunki अधिकतम अंक jismein se dono ko marks mile, equal nahi hain — ek ke 400, doosre ke 360. Woh kehti hai report card mein दिए गए प्रतिशत अंक देखो — Anita 80%, Rita 83.3%. Isse पता चलता है Rita ka result बेहतर hai. Kya tum इससे सहमत हो? Percentage un भिन्नों का अंश होता है जिनका हर 100 होता है, aur yahin परीक्षाफलों की तुलना mein use hua. Yaad rakho: jab totals alag hon, raw marks misleading ho sakte hain — percent same scale (out of 100) deta hai. Class tip: hamesha पूछो — out of kitne? Notebook mein dono reports likho, percent circle karo, aur friend se discuss karo. Teacher is subject ke liye available nahi — Smart Board pe yeh idea crystal clear rakho, kyunki aage poora chapter isi foundation par chalega.",
+      "example": "Anita 320/400 = 80%, Rita 300/360 ≈ 83.3% — zyada marks hone par bhi Anita ka percent kam hai.",
+      "board_lines": [
+        "Anita: 320/400 → 80%   |   Rita: 300/360 → 83.3%",
+        "सिर्फ प्राप्तांक ≠ बेहतर परिणाम (अधिकतम अंक समान नहीं)",
+        "प्रतिशत = भिन्न जिसका हर 100 हो → तुलना आसान"
+      ],
+      "common_mistake": "Students sochte hain jiske marks zyada, uska result better — total marks alag ho to yeh galat hai.",
+      "memory_trick": "C-P-C: Compare Percent, not Crude scores. Comparison ke liye Percent Common scale!",
+      "gesture_action": "Do haath dikhao — ek ‘320’ (bada), ek ‘300’ (chhota); phir dono ko ‘out of 100’ scale par laakar Rita ka haath upar uthao.",
+      "real_life_examples": [
+        "Do schools ke exam: 45/50 vs 80/100 — percent se hi fair comparison",
+        "Cricket: 40 runs in 20 balls vs 55 in 40 — strike rate (jaise percent) se compare"
+      ],
+      "worked_example": {
+        "problem": "Ravi ne 210/300 aur Priya ne 180/200 marks liye. Kiska परीक्षाफल प्रतिशत के अनुसार बेहतर है?",
+        "steps": [
+          "Ravi का प्रतिशत = (210/300) × 100 = 70%",
+          "Priya का प्रतिशत = (180/200) × 100 = 90%",
+          "90% > 70% ⇒ Priya का परीक्षाफल बेहतर है"
+        ],
+        "answer": "Priya — 90% (Ravi 70%)"
+      },
+      "practice": {
+        "easy": [
+          "Anita के 80% और Rita के 83.3% में किसका परीक्षाफल बेहतर है? क्यों?"
+        ],
+        "medium": [
+          "दो विद्यार्थियों के अंक 45/60 और 70/100 हैं। प्रतिशत निकालकर बताइए किसका परिणाम बेहतर है।"
+        ],
+        "hard": [
+          "Manshi कहती है केवल प्राप्तांक से तुलना गलत है। अपने शब्दों में उदाहरण देकर समझाइए कि प्रतिशत क्यों ज़रूरी है।"
+        ]
+      },
+      "summary": "जब अधिकतम अंक समान न हों, तुलना प्रतिशत से करो — Anita–Rita वाली कहानी यही सिखाती है।",
+      "revision_point": "Different totals → use % (out of 100), not raw marks.",
+      "exam_tip": "Exam में ‘किसका परीक्षाफल अच्छा’ type में हमेशा दोनों का % निकालो, सिर्फ marks मत देखो।",
+      "source_text_hint": "अनीता कहती है कि उसका परीक्षापफल अध्कि अच्छा है"
+    },
+    {
+      "concept": "प्रतिशतता के अर्थ – प्रति एक सौ",
+      "say": "Ab प्रतिशतता के अर्थ clearly samajhte hain. प्रतिशत — English mein percent — Latin शब्द ‘per centum’ se aaya hai, jiska अर्थ है ‘प्रति एक सौ’ yani out of one hundred. Percent ko चिह्न % se दिखाते हैं, jiska अर्थ है सौवाँ। Yani 1% = 1/100 = 0.01। Padho: ‘एक प्रतिशत’ matlab सौ में से एक। Reena ek table के ऊपरी भाग (top) ke liye 100 अलग-अलग रंगों वाली टाइलें use karti hai. Usne पीली, हरी, लाल, नीली tiles गिनी। पीली 14 → भिन्न 14/100 → 14% (14 प्रतिशत)। हरी 26 → 26/100 → 26%। लाल 35 → 35/100 → 35%। नीली 25 → 25/100 → 25%। योग 100 — perfect! Jab total already 100 ho, संख्या ही प्रतिशत होती है. Aise hi बच्चों की ऊँचाई (110 cm: 22, 120: 25, 128: 32, 130: 21 — योग 100) aur दुकान में जूते (size 2:20, 3:30, 4:28, 5:14, 6:8 — योग 100) — har case mein table: संख्या | भिन्न | प्रतिशत. Class tip: % देखो तो दिमाग में ‘/100’ flash karo. Notebook mein Reena wali table पूरा करो — लाल aur नीली rows fill karna practice hai.",
+      "example": "Reena: पीली टाइलें 14 out of 100 → 14/100 = 14% = 0.14।",
+      "board_lines": [
+        "प्रतिशत (percent) ← Latin per centum = प्रति एक सौ",
+        "1% = 1/100 = 0.01",
+        "जब योग = 100 → संख्या = प्रतिशत (जैसे 26 हरी → 26%)"
+      ],
+      "common_mistake": "Students 14% ko 14/10 ya 1.4 likh dete hain — hamesha हर 100 yaad rakho: 14% = 14/100 = 0.14।",
+      "memory_trick": "PER-CENT = PER 100. % sign mein ‘/100’ chhupa hai — Cent = 100!",
+      "gesture_action": "100 ungliyan/dots imagine karke 1 ungli uthao — ‘yeh 1%!’ — phir board par 1/100 = 0.01 likho.",
+      "real_life_examples": [
+        "Class mein 100 students, 22 spectacles pehnte hain → 22% spectacles",
+        "₹100 mein ₹5 GST → 5% tax — seedha percent"
+      ],
+      "worked_example": {
+        "problem": "100 टाइलों में लाल 35 और नीली 25 हैं। दोनों का प्रतिशत लिखिए। क्या योग 100% आना चाहिए अगर चारों रंग लिखें?",
+        "steps": [
+          "लाल: 35/100 = 35%; नीली: 25/100 = 25%",
+          "पीली 14% + हरी 26% + लाल 35% + नीली 25% = 100%",
+          "हाँ — सभी भाग मिलकर पूर्ण = 100%"
+        ],
+        "answer": "लाल 35%, नीली 25%; चारों का योग 100%"
+      },
+      "practice": {
+        "easy": [
+          "1% को भिन्न और दशमलव में लिखिए।"
+        ],
+        "medium": [
+          "ऊँचाई 128 cm वाले 32 बच्चों का प्रतिशत ज्ञात कीजिए (कुल बच्चे 100)।"
+        ],
+        "hard": [
+          "जूतों की जोड़ी: माप 2→20, 3→30, 4→28, 5→14, 6→8। तालिका बनाकर प्रत्येक माप का प्रतिशत लिखिए।"
+        ]
+      },
+      "summary": "प्रतिशत का अर्थ प्रति एक सौ है; 1% = 1/100 = 0.01; जब कुल 100 हो तो गिनती ही प्रतिशत बन जाती है।",
+      "revision_point": "% = out of 100; 1% = 1/100 = 0.01.",
+      "exam_tip": "Definition लिखते समय ‘Latin per centum / प्रति एक सौ’ और चिह्न % दोनों mention करो।",
+      "source_text_hint": "प्रतिशतता के अर्थ"
+    },
+    {
+      "concept": "प्रतिशतता जब योग 100 न हो",
+      "say": "Ab interesting sawaal — pehle saare examples mein total 100 tha: Reena ki 100 tiles, 100 बच्चे, 100 जूते। Agar वस्तुओं की कुल संख्या 100 न हो, तो प्रतिशत कैसे assess करें? Tab humein प्रत्येक भिन्न को ऐसी तुल्य भिन्न में बदलना पड़ेगा जिसका हर 100 हो। NCERT ka example: गले की माला mein दो रंगों के बीस मनके (beads) पिरोए गए हैं। लाल 8, नीले 12, योग 20। लाल: भिन्न 8/20। Ab 8/20 ko 100-denominator wali तुल्य भिन्न mein badalte hain: (8/20) × (100/100) = 40/100 = 40%। नीले: (12/20) × (100/100) = 60/100 = 60%। Dekho carefully — भिन्न का मान नहीं बदलता kyunki hum 100/100 se multiply kar rahe hain (yani 1 se), sirf हर 100 ban jata hai taaki percent padh saken। Formula yaad rakho forever: प्रतिशत = (भाग / कुल) × 100। Table columns likho: रंग | मनकों की संख्या | भिन्न | 100 हर वाली तुल्य भिन्न | प्रतिशत। Class tip: pehle fraction clearly likho, phir ×100 — steps skip mat karo, warna silly mistakes aati hain. Yehi method बाकी chapter mein baar-baar aayega — beads, bangles, class girls, voting — same idea. Practice table ghar pe banao aur Smart Board pe dubara check karo.",
+      "example": "माला: लाल 8/20 → (8/20)×100 = 40%; नीले 12/20 → 60%; योग 100%。",
+      "board_lines": [
+        "कुल ≠ 100 ⇒ भिन्न को हर = 100 वाली तुल्य भिन्न में बदलो",
+        "(भाग/कुल) × 100 = प्रतिशत",
+        "लाल: 8/20 × 100/100 = 40/100 = 40%"
+      ],
+      "common_mistake": "Students 8 ko hi 8% likh dete hain bina total 20 dekhe — hamesha भाग÷कुल×100 करो।",
+      "memory_trick": "P-O-T: Part Over Total × 100. Part/Total × 100 = Percent!",
+      "gesture_action": "20 fingers/dots mein se 8 red circle karo, phir ‘scale up to 100’ gesture se 40 dikhao.",
+      "real_life_examples": [
+        "40 students mein 10 prefects → (10/40)×100 = 25%",
+        "50 laddoos mein 15 खराब → 30% खराब"
+      ],
+      "worked_example": {
+        "problem": "माला के पास 20 सोने और 10 चाँदी की चूड़ियाँ हैं। प्रत्येक का प्रतिशत ज्ञात कीजिए।",
+        "steps": [
+          "कुल चूड़ियाँ = 20 + 10 = 30",
+          "सोने का % = (20/30) × 100 = 200/3 ≈ 66⅔%",
+          "चाँदी का % = (10/30) × 100 = 100/3 ≈ 33⅓%"
+        ],
+        "answer": "सोना ≈ 66⅔%, चाँदी ≈ 33⅓%"
+      },
+      "practice": {
+        "easy": [
+          "20 मनकों में 8 लाल हैं। लाल मनकों का प्रतिशत लिखिए।"
+        ],
+        "medium": [
+          "तालिका बनाकर दिखाओ: नीले मनके 12/20 को 100 हर वाली तुल्य भिन्न और प्रतिशत में।"
+        ],
+        "hard": [
+          "10 टुकड़ों में हरा 3, नीला 4, लाल 3 हैं। तालिका पूरी करके प्रत्येक रंग का प्रतिशत ज्ञात कीजिए।"
+        ]
+      },
+      "summary": "जब कुल 100 न हो, भाग/कुल को ×100 करके प्रतिशत निकालो — तुल्य भिन्न का हर 100 बनाओ।",
+      "revision_point": "(भाग/कुल) × 100 = % जब योग ≠ 100।",
+      "exam_tip": "Steps में पहले भिन्न, फिर ×100, फिर % — examiner method clear देखना चाहता है।",
+      "source_text_hint": "प्रतिशतता ज्ञात करना जब योग सौ न हो"
+    },
+    {
+      "concept": "आशा और अनवर की विधियाँ – कौन उपयुक्त?",
+      "say": "Same beads problem — do students, do methods. Asha लाल मनकों का प्रतिशत ऐसे निकालती है: 8/20 = (8×5)/(20×5) = 40/100 = 40%। Yani हर mein 100 लाने के लिए उसे 5/5 se गुणा किया — kyunki 20×5=100। Anwar ऐकिक विधि (unitary method) use karta hai: 20 मनकों में लाल 8, अतः 100 में लाल = (8/20)×100 = 40, yani 40%। Jo विधि उपयुक्त लगे use karo — apni method bhi soch sakte ho! Anwar ki विधि सभी अनुपातों के लिए चलेगी। Par Asha ki विधि? Anwar kehta hai — Asha ki विधि सिर्फ un भिन्नों mein chalegi jinke हर ko किसी प्राकृत संख्या se गुणा karke 100 mile। 20 ke liye 5 se multiply → 100 OK. Agar हर 6 होता, toh 6×? =100 — कोई प्राकृत संख्या se 100 nahi milta, isliye Asha-style ‘multiply denominator to 100’ tab kaam nahi karegi। Atmosphere example: 1 kg हवा mein 78 g नाइट्रोजन → 78%, 21 g ऑक्सीजन → 21%, 1 g अन्य → 1% — yahan total already ‘per 100’ feel। कमीज़ का कपड़ा: 3/5 सूती = 60% सूती, 2/5 polyester = 40%。 Think-discuss: har case mein kaunsi विधि बेहतर — jab denominator 100 banaye naturally (Asha), warna unitary/×100 (Anwar)।",
+      "example": "Asha: 8/20 = 40/100 = 40%. Anwar: (8×100)/20 = 40%. हर = 6 हो तो Asha की multiply-to-100 विधि नहीं चलेगी।",
+      "board_lines": [
+        "आशा: 8/20 = (8×5)/(20×5) = 40/100 = 40%",
+        "अनवर (ऐकिक): 20 में 8 ⇒ 100 में (8/20)×100 = 40%",
+        "आशा विधि: तभी जब हर × प्राकृतिक संख्या = 100 संभव हो"
+      ],
+      "common_mistake": "Students har denominator ko ‘× kuch’ se 100 banane ki koshish karte hain even jab possible na ho (jaise 6, 7, 9) — tab Anwar/×100 use karo.",
+      "memory_trick": "Asha = Adjust denominator to 100. Anwar = Always works (unitary ×100).",
+      "gesture_action": "Left hand ‘Asha — ×5/×5 balance’, right hand ‘Anwar — scale to 100’; jab 6 dikhao toh left hand shake ‘no’, right hand thumbs up.",
+      "real_life_examples": [
+        "3/5 कपड़ा सूती → ×20/×20 → 60/100 = 60% (Asha-style)",
+        "7 में से 2 खराब — 7×?≠100 naturally → Anwar: (2/7)×100"
+      ],
+      "worked_example": {
+        "problem": "कमीज़ में सूती भाग 3/5 है। प्रतिशत में लिखिए। क्या आशा की विधि यहाँ चल सकती है?",
+        "steps": [
+          "3/5 — हर 5 है; 5×20 = 100, अतः (3×20)/(5×20) = 60/100",
+          "60/100 = 60% सूती",
+          "हाँ, आशा विधि उपयुक्त है क्योंकि 5 को 20 से गुणा कर 100 मिलता है"
+        ],
+        "answer": "60% सूती; हाँ, आशा विधि चल सकती है"
+      },
+      "practice": {
+        "easy": [
+          "अनवर की विधि से 12/20 नीले मनकों का प्रतिशत निकालिए।"
+        ],
+        "medium": [
+          "क्या आशा की विधि हर = 6 वाली भिन्न पर लागू होती है? कारण सहित उत्तर दीजिए।"
+        ],
+        "hard": [
+          "1 kg वायु: 78 g N₂, 21 g O₂, 1 g अन्य। प्रतिशत लिखिए और बताइए कौन-सी विधि सबसे आसान लगी।"
+        ]
+      },
+      "summary": "आशा हर को 100 बनाती है (जब संभव हो); अनवर की ऐकिक विधि हर अनुपात पर चलती है।",
+      "revision_point": "Asha: denom×n=100; Anwar unitary always OK.",
+      "exam_tip": "Method चुनने वाले प्रश्न में लिखो: ‘यदि हर को प्राकृतिक संख्या से 100 बना सकें तो आशा, वरना अनवर’।",
+      "source_text_hint": "आशा, लाल मनकों का प्रतिशत"
+    },
+    {
+      "concept": "भिन्न संख्याओं को प्रतिशत में बदलना",
+      "say": "Section 7.1.2 — भिन्न संख्याओं को प्रतिशत में बदलना। भिन्नों के हर अलग-अलग हो सकते हैं। तुलना के लिए हर समान करने पड़ते हैं — aur agar हर 100 हो तो comparison बहुत आसान। Yani hum भिन्नों को प्रतिशत में बदल रहे हैं। Method: भिन्न × 100%। उदाहरण 1: 1/3 को प्रतिशत में लिखो। हल: (1/3) × 100% = 100/3 % = 33⅓%। उदाहरण 2: 25 बच्चों की कक्षा में 15 लड़कियाँ। लड़कियों का % = (15/25)×100 = 60% — कक्षा में 60% लड़कियाँ। उदाहरण 3: 5/4 को प्रतिशत में — (5/4)×100 = 125%। Important observation: उचित भिन्न (proper fraction, value < 1) ko percent mein badalne par 100% se kam milta hai; मिश्र भिन्न / improper (jaise 5/4 > 1) se 100% se अधिक प्रतिशत milta hai। Think & discuss NCERT: क्या तुम केक का 50% खा सकते हो? 100%? 150%? — cake ek hi hai, 150% खाना मतलब डेढ़ केक! Par वस्तु का मूल्य 50%, 100%, 150% बढ़ सकता है — haan, price increase 100% se zyada ho sakti hai। Class tip: fraction → ×100 → %; improper fraction → answer > 100% normal hai!",
+      "example": "1/3 = 33⅓%; 15/25 = 60%; 5/4 = 125% (100% से अधिक)।",
+      "board_lines": [
+        "भिन्न → प्रतिशत: भिन्न × 100%",
+        "1/3 × 100% = 33⅓%;   15/25 × 100 = 60%",
+        "उचित भिन्न → <100%;  मिश्र/अयुक्त → >100% संभव"
+      ],
+      "common_mistake": "Students sochte hain प्रतिशत कभी 100 से अधिक नहीं हो सकता — 5/4 = 125% बिलकुल सही है।",
+      "memory_trick": "F×C = P: Fraction × Century (100) = Percent. Proper < 100, Improper can > 100!",
+      "gesture_action": "Ek poora circle = 100%; usse chhota slice = proper; circle ke bahar extra slice dikhao = 125% price/amount.",
+      "real_life_examples": [
+        "Class 30 mein 18 present → (18/30)×100 = 60% attendance",
+        "Phone price ₹8000 se ₹10000 — new = 125% of old (increase alag concept)"
+      ],
+      "worked_example": {
+        "problem": "3/40 को प्रतिशत रूप में लिखिए।",
+        "steps": [
+          "3/40 × 100% = (3 × 100)/40 %",
+          "300/40 = 7.5",
+          "अतः 3/40 = 7.5%"
+        ],
+        "answer": "7.5%"
+      },
+      "practice": {
+        "easy": [
+          "1/8 को प्रतिशत में बदलिए।"
+        ],
+        "medium": [
+          "25 बच्चों में 15 लड़कियाँ हैं। लड़कियों का प्रतिशत ज्ञात कीजिए।"
+        ],
+        "hard": [
+          "क्या केक का 150% खाया जा सकता है? क्या वस्तु का मूल्य 150% बढ़ सकता है? अंतर समझाइए।"
+        ]
+      },
+      "summary": "भिन्न × 100% से प्रतिशत मिलता है; उचित भिन्न <100%, और 5/4 जैसी भिन्न >100% दे सकती है।",
+      "revision_point": "fraction × 100 = %; >1 fraction ⇒ >100%.",
+      "exam_tip": "1/3 = 33⅓% (33.3% नहीं छोड़ो — मिश्र रूप या सही भिन्न रूप लिखो)।",
+      "source_text_hint": "भिन्न संख्याओं को प्रतिशत में बदलना"
+    },
+    {
+      "concept": "दशमलव भिन्न को प्रतिशत में बदलना",
+      "say": "Ab 7.1.3 — दशमलव भिन्न को प्रतिशत में बदलना। Humne साधारण भिन्न ko percent banana seekha; ab dekhen decimal ko bhi kaise badalte hain। Simple golden rule: दशमलव × 100% (yani decimal point को दो स्थान दाईं ओर खिसकाओ)। उदाहरण 4 NCERT se: (a) 0.75 = 0.75 × 100% = 75%। Ya pehle fraction: 0.75 = 75/100 → 75%। (b) 0.09 = 9/100 = 9% — yahan students aksar 90% likh dete hain, careful! (c) 0.2 = 2/10; (2/10)×100% = 20%। प्रयास कीजिए practice: 12/16, 3.5, 49/50, 2/2, 0.05 — sabko % mein badalo। Word problems bhi important: (i) 32 विद्यार्थियों में 8 अनुपस्थित — % अनुपस्थित = (8/32)×100 = 25%। (ii) 25 रेडियो सैट में 16 खराब — (16/25)×100 = 64%। (iii) दुकान में 500 पुर्जे, 5 बेकार — (5/500)×100 = 1%। (iv) 120 मतदाताओं में से 90 ने ‘हाँ’ में मत दिया — (90/120)×100 = 75%। Class tip: decimal mein ×100; fraction word-problem mein (भाग/कुल)×100 — same family, different clothes! 3.5 jaise number jo 1 se bada hai, percent mein 350% deta hai — ghabraao mat, calculation dubara check karo aur notebook mein steps clearly likho.",
+      "example": "0.75 → 75%; 0.09 → 9%; 0.2 → 20%; 0.05 → 5%。",
+      "board_lines": [
+        "दशमलव × 100% = प्रतिशत (बिंदु 2 स्थान दाएँ)",
+        "0.75 → 75%;  0.09 → 9%;  0.2 → 20%",
+        "Word: (भाग/कुल)×100 — जैसे 8/32 = 25% अनुपस्थित"
+      ],
+      "common_mistake": "0.09 ko 90% likh dena — 0.09 × 100 = 9%, 0.9 × 100 = 90%. Decimal place carefully!",
+      "memory_trick": "D×100: Decimal × 100. Point jumps two steps right — 0.75 → 75%.",
+      "gesture_action": "Board par decimal point finger se do jumps right karo — ‘jump jump percent!’",
+      "real_life_examples": [
+        "Battery 0.45 charged → 45% battery",
+        "Discount sticker 0.15 off → 15% छूट"
+      ],
+      "worked_example": {
+        "problem": "25 रेडियो सैट में 16 खराब हैं। खराब रेडियो का प्रतिशत क्या है?",
+        "steps": [
+          "भिन्न = 16/25",
+          "प्रतिशत = (16/25) × 100 = 64",
+          "अतः 64% रेडियो खराब हैं"
+        ],
+        "answer": "64%"
+      },
+      "practice": {
+        "easy": [
+          "0.65 और 0.02 को प्रतिशत में बदलिए।"
+        ],
+        "medium": [
+          "32 विद्यार्थियों में 8 अनुपस्थित हैं। अनुपस्थित प्रतिशत ज्ञात कीजिए।"
+        ],
+        "hard": [
+          "120 मतदाताओं में से 90 ने ‘हाँ’ में मत दिया। कितने प्रतिशत ने ‘हाँ’ कहा? Steps लिखिए।"
+        ]
+      },
+      "summary": "दशमलव को ×100% से प्रतिशत बनाओ; word problems में हमेशा (भाग/कुल)×100।",
+      "revision_point": "decimal × 100 = %; watch the decimal places (0.09 → 9%).",
+      "exam_tip": "0.09 vs 0.9 — सबसे common trap; गणना से पहले दशमलव स्थान गिनो।",
+      "source_text_hint": "दशमलव भिन्न को प्रतिशत में बदलना"
+    },
+    {
+      "concept": "प्रतिशत को भिन्न या दशमलव में बदलना",
+      "say": "Ab उलटा काम — 7.1.4: प्रतिशत को साधारण भिन्न या दशमलव में बदलना। Percent diya ho to fraction = प्रतिशत/100, decimal = प्रतिशत÷100। Table पूरा करो: 1% = 1/100 = 0.01; 10% = 10/100 = 1/10 = 0.10; 25% = 25/100 = 1/4 = 0.25; 50% = 1/2 = 0.5; 90% = 9/10 = 0.9; 125% = 5/4 = 1.25; 250% = 5/2 = 2.5। Important idea: किसी वस्तु के सभी भाग मिलकर सदैव एक संपूर्ण बनाते हैं। रंगीन टाइलें, बच्चों की ऊँचाइयाँ, वातावरण की गैसें — प्रतिशतों का योग 100%। Parts that make a whole add to 1 or 100%. Isliye agar एक भाग पता हो, दूसरा निकाल सकते हो। Example: विद्यार्थियों में 30% लड़के ⇒ लड़कियाँ = 100% − 30% = 70%। Practice: 35% + ___ = 100%; 64% + 20% + ___ = 100%; 45% = 100% − ___; 70% = ___% − 30%。 Class mein 65% के पास साइकिल ⇒ बिना साइकिल = 35%। टोकरी: 50% सेब + 30% संतरे ⇒ आम = 20%। परिधान व्यय: कढ़ाई 20%, कपड़ा 50%, सिलाई 30% — योग 100%。 Yaad: whole = 100%, missing part = 100% − given parts।",
+      "example": "25% = 25/100 = 1/4 = 0.25; कक्षा में 30% लड़के ⇒ 70% लड़कियाँ।",
+      "board_lines": [
+        "p% = p/100 (भिन्न) = p÷100 (दशमलव)",
+        "1%=0.01; 25%=1/4; 50%=1/2; 125%=5/4=1.25",
+        "सभी भागों का योग = 100% ⇒ अज्ञात भाग = 100% − ज्ञात भाग"
+      ],
+      "common_mistake": "25% ko 25/10 ya 2.5 likh dena — सही है 25/100 = 0.25। Simplify करना मत भूलो।",
+      "memory_trick": "Percent → ‘per’ cent → divide by 100. Drop % and slide point two left: 25% → 0.25.",
+      "gesture_action": "Poora class = 100% pie; 30% boys slice alag, baaki 70% girls — haath se pie cut dikhao.",
+      "real_life_examples": [
+        "Exam: 40% theory + 60% practical = 100% assessment",
+        "Pocket money: 50% snacks + 30% bus ⇒ 20% बचाओ"
+      ],
+      "worked_example": {
+        "problem": "टोकरी में 50% सेब और 30% संतरे हैं। आमों का प्रतिशत कितना है?",
+        "steps": [
+          "सेब + संतरे = 50% + 30% = 80%",
+          "शेष भाग आम = 100% − 80% = 20%",
+          "अतः आम 20% हैं"
+        ],
+        "answer": "20%"
+      },
+      "practice": {
+        "easy": [
+          "25% और 5% को साधारण भिन्न (सरलतम) और दशमलव में बदलिए।"
+        ],
+        "medium": [
+          "कक्षा में 65% के पास साइकिलें हैं। कितने प्रतिशत के पास साइकिल नहीं हैं?"
+        ],
+        "hard": [
+          "एक नगर में 30% महिलाएँ, 40% पुरुष तथा शेष बच्चे हैं। बच्चों का प्रतिशत ज्ञात कीजिए।"
+        ]
+      },
+      "summary": "p% = p/100; पूर्ण वस्तु के भागों का योग 100% होता है, इसलिए अज्ञात भाग = 100% − ज्ञात।",
+      "revision_point": "% → ÷100; missing part = 100% − sum of known parts.",
+      "exam_tip": "भिन्न सरलतम रूप में लिखो — 25/100 = 1/4; 150% = 3/2 = 1.5।",
+      "source_text_hint": "प्रतिशत को साधरण भिन्न या दशमलव में बदलना"
+    },
+    {
+      "concept": "अनुमान और प्रतिशतता के उपयोग",
+      "say": "Last big chunk — 7.1.5 अनुमान के साथ मनोरंजन, phir 7.2 प्रतिशतता के उपयोग। Percent area estimate mein help karta hai। उदाहरण 5: आकृति में छायांकित भाग पूर्ण का कितने %? Pehle dekho पूर्ण का कितना भाग छायांकित — half dikhta hai → 1/2 × 100% = 50% छायांकित। Tum diagrams banao aur classmates se estimate करवाओ। अब 7.2.1 व्याख्या: ‘रवि अपनी आय का 5% बचत करता है’ → हर ₹100 में ₹5 बचाता है = 5/100। ‘रेखा को प्रत्येक पुस्तक पर 10% लाभ’ → हर ₹100 बिक्री पर ₹10 लाभ। ‘मीरा के 20% वस्त्र नीले’ → 100 कपड़ों में 20 नीले। 7.2.2 प्रतिशतता से संख्या: उदाहरण 6 — 40 बच्चों में 25% football पसंद। Arun: 100 में 25 ⇒ 40 में (25×40)/100 = 10। Meena: 40 का 25% = (25/40)×? Wait — Meena: 25×40/100 = 10। Same! उदाहरण 7: 25% छूट पर Rahul ने ₹200 बचाए — sweater का मूल मूल्य? Mohan/Abdul: 25% of P = 200 ⇒ P = 200×(100/25) = ₹800। Practice: 164 का 50%; 12 का 75%; 9 किस संख्या का 25% है? Exercise 7.1 style: fractions/decimals to %, find % of quantity, find whole from %, convert back, voting/cricket/salary problems. Formula twin: संख्या = (प्रतिशत/100)×कुल; कुल = संख्या×(100/प्रतिशत)।",
+      "example": "40 का 25% = 10 बच्चे; 25% छूट = ₹200 बचत ⇒ मूल मूल्य ₹800।",
+      "board_lines": [
+        "छायांकित: 1/2 → 50%",
+        "संख्या = (p/100) × कुल;   कुल = संख्या × (100/p)",
+        "5% बचत ⇒ हर ₹100 पर ₹5;  25% of P = 200 ⇒ P = 800"
+      ],
+      "common_mistake": "‘25% छूट पर ₹200 बचत’ mein students 200 ko hi original price maan lete hain — 200 is only the 25% part, whole = 800।",
+      "memory_trick": "OF means multiply: ‘25% OF 40’ = (25/100)×40. Whole from part: Part × (100/p%).",
+      "gesture_action": "Wallet se ‘₹200 save’ gesture, phir 4 equal parts mein full price ₹800 spread karke dikhao (each part ₹200 = 25%).",
+      "real_life_examples": [
+        "Shop: 20% off on ₹500 shirt → save ₹100, pay ₹400",
+        "Survey: class ke 25% football — 40 mein 10 kids"
+      ],
+      "worked_example": {
+        "problem": "मीता अपने वेतन में से ₹4000 बचाती है। यदि यह उसके वेतन का 10% है, तब उसका वेतन कितना है?",
+        "steps": [
+          "वेतन का 10% = ₹4000",
+          "पूरा वेतन = 4000 × (100/10) = 4000 × 10",
+          "वेतन = ₹40000"
+        ],
+        "answer": "₹40000"
+      },
+      "practice": {
+        "easy": [
+          "164 का 50% और 12 का 75% ज्ञात कीजिए।"
+        ],
+        "medium": [
+          "स्थानीय क्रिकेट टीम ने 20 मैच खेले जिनमें 25% जीते। जीते गए मैचों की संख्या कितनी थी?"
+        ],
+        "hard": [
+          "जब 25% छूट मिली तब राहुल ने ₹200 बचाए। छूट से पहले स्वेटर का मूल्य क्या था? दो विधियों से हल कीजिए।"
+        ]
+      },
+      "summary": "छायांकित भाग का अनुमान fraction→% से; daily life में % की व्याख्या करो और (p/100)×कुल या उलटा सूत्र से संख्या/मूल राशि ज्ञात करो।",
+      "revision_point": "number = (p/100)×whole; whole = number×(100/p); shaded fraction×100=%.",
+      "exam_tip": "Exercise 7.1 में ‘संपूर्ण राशि ज्ञात करो यदि इसका 5% = 600’ — उलटा सूत्र whole = 600×(100/5) याद रखो।",
+      "source_text_hint": "प्रतिशतता के उपयोग"
+    }
+  ]
+}
