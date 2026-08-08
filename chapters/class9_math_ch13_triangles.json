@@ -1,0 +1,317 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 691,
+    "chapter_name": "त्रिभुज",
+    "chapter_number": 13,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 13 — त्रिभुज — ko padhenge. Is hisse mein pehle triangle ki basic baatein refresh karenge, phir सर्वांगसमता (congruence) ki sankalpana daily-life examples se samjhenge. Uske baad triangles ki congruence, vertices ki sahi संगतता, CPCT, aur SAS, ASA, AAS jaise congruence rules seekhenge — bilkul NCERT ke sequence mein.",
+    "welcome": "Good morning, class! Aaj Smart Board par Geometry ka ek bahut important chapter shuru karte hain — त्रिभुज. Socho: ice tray ke saare khanche same size ke kyun hote hain? Pen ka refill galat size ka ho toh kyun nahi lagta? Aaj hum yahi samjhenge — सर्वांगसमता. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "Triangle ke three sides, three angles aur three vertices ko identify karke triangle ki definition clearly batana",
+      "Congruent figures ki sankalpana ko daily-life examples (photo copies, coins, ATM cards, ice tray, refill) se explain karna",
+      "Do triangles congruent hone par vertices ki sahi one-one correspondence likhna aur galat order se bachna",
+      "CPCT ka matlab samajhna aur congruent triangles ke corresponding parts equal likhna",
+      "SAS congruence rule (अभिगृहीत) apply karke triangles congruent prove karna",
+      "ASA theorem prove karne ka idea samajhna aur AAS rule ko angle-sum se justify karna",
+      "ASS/SSA rule kyun kaam nahi karta — yeh common trap identify karna"
+    ],
+    "concepts": [
+      {"number": 1, "name": "भूमिका – त्रिभुज क्या है?"},
+      {"number": 2, "name": "सर्वांगसम आकृतियाँ – दैनिक जीवन के उदाहरण"},
+      {"number": 3, "name": "त्रिभुजों की सर्वांगसमता और शीर्षों की संगतता"},
+      {"number": 4, "name": "CPCT – सर्वांगसम त्रिभुजों के संगत भाग"},
+      {"number": 5, "name": "सर्वांगसमता के लिए पर्याप्त समता – प्रारंभिक क्रियाकलाप"},
+      {"number": 6, "name": "SAS सर्वांगसमता नियम (अभिगृहीत)"},
+      {"number": 7, "name": "SAS के अनुप्रयोग – उदाहरण 1 और 2"},
+      {"number": 8, "name": "ASA प्रमेय और AAS सर्वांगसमता नियम"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भूमिका – त्रिभुज क्या है?",
+      "say": "Bacchon, aaj Class 9 Mathematics ka Chapter 13 — त्रिभुज — shuru karte hain. Pehli classes mein tum triangles aur unke properties padh chuke ho. Yaad hai? Teen intersecting lines se bani ek closed figure ko triangle kehte hain. ‘त्रि’ ka arth hai ‘तीन’. Ek triangle ki teen भुजाएँ, teen कोण aur teen शीर्ष hote hain. Figure 7.1 mein ∆ABC lo — iski teen sides AB, BC aur CA hain; teen angles ∠A, ∠B aur ∠C hain; aur teen vertices A, B aur C hain. Chapter 6 mein kuch properties aa chuki hain. Is chapter mein hum triangles ki सर्वांगसमता yani congruence, uske rules, kuch aur properties, aur triangles mein असमिकाएँ yani inequalities detail mein padhenge. Pehle kai baatein activities se check ki thi; ab kuch results ko prove bhi karenge. Smart Board tip: jab bhi triangle likho, sides–angles–vertices teen-teen yaad rakho. Geometry mein naming clear hona marks bachata hai. Ready? Pehle foundation strong, phir congruence! Aaj ka pehla target simple hai — definition crystal clear, taaki aage congruence rules mein confusion na ho. Blackboard par ∆ABC draw karke sides, angles, vertices alag-alag label karo — yeh habit poore chapter mein kaam aayegi.",
+      "example": "School ground par teen points A, B, C join karke chalk se closed figure banao — wahi ∆ABC: teen sides, teen angles, teen vertices.",
+      "board_lines": [
+        "त्रिभुज = तीन प्रतिच्छेदी रेखाओं से बनी बंद आकृति (‘त्रि’ = तीन)",
+        "∆ABC: भुजाएँ AB, BC, CA; कोण ∠A, ∠B, ∠C; शीर्ष A, B, C",
+        "इस अध्याय में: सर्वांगसमता, नियम, अन्य गुण, असमिकाएँ"
+      ],
+      "common_mistake": "Students kabhi three sides wale open path ko bhi triangle bol dete hain — triangle closed figure hona chahiye.",
+      "memory_trick": "3-3-3: Teen भुजाएँ, teen कोण, teen शीर्ष — triangle ka identity card.",
+      "gesture_action": "Teen ungliyon se air mein triangle banao — sides, phir teeno corners (vertices) touch karke dikhao",
+      "real_life_examples": [
+        "Warning road sign ka triangular board — teen sides, teen corners",
+        "Roof truss / tent frame — triangular rigid shape"
+      ],
+      "worked_example": {
+        "problem": "∆PQR mein sides, angles aur vertices ke naam likho. Agar figure open ho (sirf do lines milen), kya woh triangle hoga?",
+        "steps": [
+          "∆PQR: sides PQ, QR, RP; angles ∠P, ∠Q, ∠R; vertices P, Q, R",
+          "Triangle definition: three intersecting lines se bani closed figure",
+          "Open figure closed nahi → triangle nahi"
+        ],
+        "answer": "Sides PQ, QR, RP; angles ∠P, ∠Q, ∠R; vertices P, Q, R. Open figure triangle nahi hota."
+      },
+      "practice": {
+        "easy": ["‘त्रि’ का अर्थ क्या है? त्रिभुज की तीन मूल बातें लिखो।"],
+        "medium": ["∆XYZ के लिए भुजाएँ, कोण और शीर्ष अलग-अलग लिखो।"],
+        "hard": ["इस अध्याय में सर्वांगसमता और असमिकाएँ क्यों पढ़ेंगे? भूमिका के अनुसार दो वाक्य लिखो।"]
+      },
+      "summary": "Triangle teen intersecting lines se bani closed figure hai — teen sides, teen angles, teen vertices; is chapter mein congruence aur inequalities aayenge.",
+      "revision_point": "Triangle = closed 3-sided figure; chapter focus = congruence + more properties + inequalities.",
+      "exam_tip": "Definition likhte waqt ‘बंद आकृति’ zaroor likho — sirf ‘teen bhujayein’ incomplete answer maana ja sakta hai.",
+      "source_text_hint": "तीन प्रतिच्छेदी रेखाओं द्वारा बनाई गई एक बंद आवृफति"
+    },
+    {
+      "concept": "सर्वांगसम आकृतियाँ – दैनिक जीवन के उदाहरण",
+      "say": "Ab section 7.2 — त्रिभुजों की सर्वांगसमता. Pehle samajhte hain सर्वांगसमता kya hai. Tumhari photo ki same size ki do copies identical hoti hain. Same measure ki do chudiyan, same bank ke do ATM cards bhi identical hote hain. Same year ke do one-rupee coins — ek ko doosre par rakho toh poori tarah dhak lete hain. Aisi figures ko सर्वांगसम आकृतियाँ kehte hain. ‘सर्वांगसम’ ka arth hai ‘सभी प्रकार से बराबर’ — same shape aur same size. Same radius ke do circles ek doosre par rakho — poori tarah cover — congruent circles. Same side wale do squares, equal sides wale do equilateral triangles — same activity — woh bhi congruent. Kyun padh rahe hain congruence? Refrigerator ki ice tray socho — saare khanche congruent hote hain; molds ki depths bhi congruent. Jab identical objects banane hote hain, molds ke liye congruence use hoti hai. Pen ka refill galat size ka ho toh nahi lagta — purana aur naya refill congruent hone chahiye. Figure 7.3 mein bade squares original square ke congruent nahi; same size wala square congruent hai. Class question: aur examples soch sakte ho? Yaad rakho — congruent means same shape plus same size; cover karke check karo. Daily life mein congruence har jagah chhupi hai!",
+      "example": "Do same-size school ID cards — ek ko doosre par rakho; edges match → congruent rectangles.",
+      "board_lines": [
+        "सर्वांगसम = सभी प्रकार से बराबर (same shape + same size)",
+        "उदाहरण: photo copies, ATM cards, सिक्के, वर्ग, समबाहु त्रिभुज, congruent circles",
+        "Use: ice-tray molds, pen refill — identical objects ke liye"
+      ],
+      "common_mistake": "Students same shape lekin alag size (jaise bada square aur chhota square) ko bhi congruent bol dete hain — woh similar ho sakte hain, congruent nahi.",
+      "memory_trick": "COVER test: Congruent figures Completely Overlay — same shape AND same size.",
+      "gesture_action": "Do identical notebook pages ko ek ke upar rakho aur ‘poori tarah dhak liya’ gesture dikhao; phir ek bada page laakar mismatch dikhao",
+      "real_life_examples": [
+        "Ice tray ke saare khanche same — har ice cube same shape-size",
+        "Pen refill tabhi fit hota hai jab naya refill purane jaisa congruent ho"
+      ],
+      "worked_example": {
+        "problem": "Figure 7.3 jaisi situation: ek square side 2 cm, doosra side 4 cm, teesra side 2 cm. Kaun-kaun original 2 cm square ke congruent hain?",
+        "steps": [
+          "Congruent = same shape + same size",
+          "4 cm square bada hai → congruent nahi",
+          "2 cm square same size → congruent hai"
+        ],
+        "answer": "Sirf 2 cm side wala square congruent hai; 4 cm wala congruent nahi."
+      },
+      "practice": {
+        "easy": ["‘सर्वांगसम’ शब्द का अर्थ लिखो।"],
+        "medium": ["Ice tray और pen refill से सर्वांगसमता का उपयोग दो वाक्यों में समझाओ।"],
+        "hard": ["दो वृत्त congruent कब होंगे? दो वर्ग कब नहीं होंगे? Reason के साथ लिखो।"]
+      },
+      "summary": "Congruent figures same shape aur same size ki hoti hain — coins, cards, ice-tray molds, refill jaise daily examples se yeh clear hota hai.",
+      "revision_point": "सर्वांगसम = same shape + same size; cover/overlay se check.",
+      "exam_tip": "Definition mein ‘समान आकार और समान माप’ dono likho — sirf shape incomplete hai.",
+      "source_text_hint": "‘सर्वांगसम’ का अर्थ है ‘सभी प्रकार से बराबर’"
+    },
+    {
+      "concept": "त्रिभुजों की सर्वांगसमता और शीर्षों की संगतता",
+      "say": "Ab triangles ki congruence. Tum pehle se jaante ho: do triangles congruent hote hain agar ek ki sides aur angles doosre ki corresponding sides aur angles ke equal hon. Figure 7.4 mein ∆ABC ke saath kai triangles diye hain. Activity: cut karke flip karke ∆ABC par rakho. Figures 7.4 (ii), (iii), (iv) ke triangles ∆ABC ke congruent hain; 7.4 (v) ka ∆XYZ congruent nahi. Agar ∆DEF ≅ ∆ABC, toh writing order bahut important hai. Side DE side AB ko cover karti hai, EF → BC, FD → CA; angle D → A, E → B, F → C. Vertices ki one-one correspondence: D ↔ A, E ↔ B, F ↔ C. Is correspondence ke under ∆DEF ≅ ∆ABC sahi hai; lekin ∆EFD ≅ ∆ABC likhna galat hoga — order galat. Similarly figure 7.4 (iii) mein PQ ↔ AB, QR ↔ BC, RP ↔ CA aur P ↔ A, Q ↔ B, R ↔ C — isliye ∆PQR ≅ ∆ABC sahi, ∆QRP ≅ ∆ABC galat. Figure 7.4 (iv) ke liye bhi correspondence khud likho. Rule: congruence symbolically likhne ke liye vertices ki correspondence sahi honi chahiye. Smart Board par hamesha matching vertices same order mein likho — warna marks katein! Congruence ka symbol ≅ hai, lekin order uska dil hai.",
+      "example": "∆ABC ≅ ∆PQR likha hai → A↔P, B↔Q, C↔R; AB=PQ, BC=QR, CA=RP aur ∠A=∠P, ∠B=∠Q, ∠C=∠R.",
+      "board_lines": [
+        "∆DEF ≅ ∆ABC ⇒ D↔A, E↔B, F↔C",
+        "संगत भुजाएँ: DE↔AB, EF↔BC, FD↔CA",
+        "गलत लेखन: ∆EFD ≅ ∆ABC (order गलत)"
+      ],
+      "common_mistake": "Students triangles congruent dekh kar koi bhi order mein ≅ likh dete hain — corresponding vertices ka order galat hone par statement galat maani jaati hai.",
+      "memory_trick": "NAME ORDER = MATCH ORDER. Jo letter jahan likha, wahi corresponding vertex.",
+      "gesture_action": "Do paper triangles cut karke vertices pe A-B-C aur D-E-F labels chipkao; matching corners ko ek ke upar rakhkar correspondence dikhao",
+      "real_life_examples": [
+        "Do identical triangular namkeen packets — edges match tabhi ‘same packing’",
+        "Template se cut do triangular badges — vertices align karke check"
+      ],
+      "worked_example": {
+        "problem": "Agar ∆ABC ≅ ∆XYZ hai, toh corresponding sides aur angles likho. Kya ∆BCA ≅ ∆XYZ sahi hai?",
+        "steps": [
+          "Correspondence: A↔X, B↔Y, C↔Z",
+          "Sides: AB=XY, BC=YZ, CA=ZX; angles: ∠A=∠X, ∠B=∠Y, ∠C=∠Z",
+          "∆BCA ≅ ∆XYZ ⇒ B↔X, C↔Y, A↔Z — yeh di gayi correspondence nahi → galat"
+        ],
+        "answer": "AB=XY, BC=YZ, CA=ZX; ∠A=∠X, ∠B=∠Y, ∠C=∠Z. ∆BCA ≅ ∆XYZ galat hai (order mismatch)."
+      },
+      "practice": {
+        "easy": ["∆DEF ≅ ∆ABC में D किसके संगत है?"],
+        "medium": ["∆PQR ≅ ∆ABC सही है तो ∆QRP ≅ ∆ABC क्यों गलत है?"],
+        "hard": ["दो congruent triangles के लिए तीन sides और तीन angles की correspondence table बनाओ।"]
+      },
+      "summary": "Triangles congruent hone par corresponding sides-angles equal hote hain; ≅ likhte waqt vertices ka order bilkul sahi hona chahiye.",
+      "revision_point": "Congruence writing = correct vertex correspondence; galat order = galat statement.",
+      "exam_tip": "Proof mein pehle correspondence clearly likho (A↔D etc.) — examiner ko clarity pasand aati hai.",
+      "source_text_hint": "परन्तु इसे ∆फत्च् ≅ ∆ ।ठब् लिखना गलत होगा"
+    },
+    {
+      "concept": "CPCT – सर्वांगसम त्रिभुजों के संगत भाग",
+      "say": "Bahut important short form aata hai — CPCT. NCERT kehti hai: सर्वांगसम त्रिभुजों में संगत भाग बराबर होते हैं. ‘सर्वांगसम त्रिभुजों के संगत भागों के लिए’ hum short mein CPCT likhte hain — Corresponding Parts of Congruent Triangles. Matlab: jab tum prove kar chuke ki ∆ABC ≅ ∆DEF, toh unke corresponding sides aur corresponding angles automatically equal ho jaate hain. Exam mein aksar pehle congruence rule se triangles congruent karte ho, phir CPCT se chahiye wala side ya angle equal nikaalte ho. Dhyan: CPCT tabhi use karo jab congruence pehle establish ho chuki ho — pehle CPCT, baad mein congruence — yeh galat order hai. Corresponding parts ka matlab random parts nahi — jo vertices correspondence se match hote hain wahi. Jaise ∆ABC ≅ ∆DEF ho toh AB=DE, BC=EF, CA=FD, ∠A=∠D, ∠B=∠E, ∠C=∠F — yahi CPCT. Class tip: proof ke last step mein aksar likhte hain ‘By CPCT’. Yeh chhota tool bahut powerful hai — almost har congruence exercise mein kaam aata hai. Smart Board par CPCT ko alag colour se highlight karo taaki habit ban jaaye. Short form yaad rakhna easy hai, lekin uska sahi time pe use karna hi asli skill hai.",
+      "example": "Agar ∆ABC ≅ ∆PQR (SAS se), toh CPCT se AC = PR aur ∠B = ∠Q turant likh sakte ho.",
+      "board_lines": [
+        "CPCT = Corresponding Parts of Congruent Triangles",
+        "सर्वांगसम त्रिभुजों के संगत भाग बराबर होते हैं",
+        "Order: pehle ≅ prove karo → phir CPCT se equal parts"
+      ],
+      "common_mistake": "Students bina congruence prove kiye seedha CPCT likh dete hain — examiner marks kaat deta hai.",
+      "memory_trick": "C-P-C-T: Congruent hone Par Corresponding parts Total equal.",
+      "gesture_action": "Pehle dono haath se ‘triangles match’ (congruence), phir fingers se matching sides/angles point karke ‘equal’ bolaao — CPCT",
+      "real_life_examples": [
+        "Do identical door keys — corresponding teeth equal (jaise CPCT)",
+        "Two congruent triangular tiles — matching edges equal length"
+      ],
+      "worked_example": {
+        "problem": "∆ABC ≅ ∆XYZ diya hai. CPCT se BC aur ∠A ke corresponding parts likho.",
+        "steps": [
+          "Correspondence: A↔X, B↔Y, C↔Z",
+          "Side BC ↔ side YZ",
+          "Angle ∠A ↔ angle ∠X"
+        ],
+        "answer": "BC = YZ aur ∠A = ∠X (by CPCT)."
+      },
+      "practice": {
+        "easy": ["CPCT का पूरा रूप लिखो।"],
+        "medium": ["∆ABC ≅ ∆DEF हो तो CPCT से तीन भुजाओं की equality लिखो।"],
+        "hard": ["एक proof में CPCT कब use करते हैं? गलत order का एक उदाहरण दो।"]
+      },
+      "summary": "CPCT ka matlab congruent triangles ke corresponding parts equal hote hain — pehle congruence, phir CPCT.",
+      "revision_point": "CPCT only after ≅ is proved; corresponding ≠ any random part.",
+      "exam_tip": "Har proof step mein reason bracket mein likho: (SAS) ya (CPCT) — stepwise marking milti hai.",
+      "source_text_hint": "सर्वांगसम त्रिभुजों के संगत भागों के लिए’ हम संक्षेप में"
+    },
+    {
+      "concept": "सर्वांगसमता के लिए पर्याप्त समता – प्रारंभिक क्रियाकलाप",
+      "say": "Section 7.3 — कसौटियाँ yani criteria. Pehli classes mein char criteria padhe the; ab review. Activity 1: ek side 3 cm lekar do triangles banao (Fig 7.5). Kya congruent? Nahi — sirf ek side equal se triangles congruent nahi hote. Activity 2: do triangles jinke ek side 4 cm aur ek angle 50° ho (Fig 7.6). Congruent? Nahi. Aur pairs try karo — same result. Conclusion: sides ke ek pair ki equality, ya ek side plus ek angle ki equality, congruence ke liye पर्याप्त नहीं. Ab socho: equal angles ki sides ka doosra pair bhi equal ho jaaye toh? Figure 7.7 mein BC = EF, ∠B = ∠E, aur AB = DE. Ab ∆ABC aur ∆DEF ke baare mein kya? Previous classes se: is case mein congruent. Cut-paste se verify karo. Doosre pairs se repeat — dikhega ki two sides aur included angle ki equality पर्याप्त है. Yeh pehli criterion hai — aage SAS. Class warning: equal parts ‘kahin bhi’ nahi — unka position matter karta hai. Sirf ‘kuch equal hai’ se congruence prove nahi hoti; kaafi aur sahi jagah ki equality chahiye. Geometry mein ‘पर्याप्त’ shabd yaad rakho — enough conditions!",
+      "example": "Do triangles mein sirf AB = DE = 5 cm — baaki free — shapes alag ban sakte hain, isliye congruent nahi.",
+      "board_lines": [
+        "केवल एक भुजा बराबर ⇒ सर्वांगसमता पर्याप्त नहीं",
+        "एक भुजा + एक कोण बराबर ⇒ अभी भी पर्याप्त नहीं",
+        "दो भुजाएँ + अंतर्गत कोण बराबर ⇒ पर्याप्त (आगे SAS)"
+      ],
+      "common_mistake": "Students sochte hain koi bhi do equal parts se triangles congruent ho jaate hain — NCERT clearly activities se dikhati hai ki nahi.",
+      "memory_trick": "NOT ENOUGH: 1 side OR 1 side+1 angle. ENOUGH start: 2 sides + included angle.",
+      "gesture_action": "Pehle ek stick (ek side) se do alag triangles dikhao; phir do sticks + beech ka angle fix karke ‘ab lock’ gesture",
+      "real_life_examples": [
+        "Sirf ek rod same length ki do frames — shape alag ban sakti hai",
+        "Do rods + beech ka fixed angle (hinge lock) — shape lock ho jaati hai"
+      ],
+      "worked_example": {
+        "problem": "∆ABC aur ∆PQR mein AB = PQ aur ∠A = ∠P. Kya triangles zaroor congruent hain? Kyun?",
+        "steps": [
+          "NCERT activity: ek side + ek angle ki equality पर्याप्त नहीं",
+          "Included angle ya doosri needed conditions missing ho sakti hain",
+          "Conclude: zaroor congruent nahi — aur data chahiye"
+        ],
+        "answer": "Nahi, zaroor congruent nahi. Sirf ek side aur ek angle ki equality congruence ke liye पर्याप्त नहीं।"
+      },
+      "practice": {
+        "easy": ["क्या केवल एक भुजा बराबर होने से दो त्रिभुज सर्वांगसम होते हैं?"],
+        "medium": ["Figure 7.6 जैसी स्थिति में त्रिभुज सर्वांगसम क्यों नहीं होते?"],
+        "hard": ["‘पर्याप्त समता’ का मतलब क्या है? एक भुजा+कोण और दो भुजा+अंतर्गत कोण की तुलना करो।"]
+      },
+      "summary": "Ek side ya ek side+ek angle se congruence guarantee nahi; two sides with included angle पर्याप्त hai — yahi SAS ki shuruaat.",
+      "revision_point": "Insufficient: single side / side+angle; enough for next step: two sides + included angle.",
+      "exam_tip": "‘Is data se congruent?’ type MCQ mein pehle poochho: included angle hai kya? Position matter karta hai.",
+      "source_text_hint": "भुजाओं के एक युग्म की समता अथवा भुजाओं के एक युग्म और कोणों के एक युग्म की समता हमें सर्वांगसम त्रिभुज देने के लिए पर्याप्त नहीं है"
+    },
+    {
+      "concept": "SAS सर्वांगसमता नियम (अभिगृहीत)",
+      "say": "Yeh triangles ki congruence ki pehli कसौटी hai. अभिगृहीत 7.1 — SAS सर्वांगसमता नियम: Do triangles congruent hote hain agar ek triangle ki do bhujayein aur unka अंतर्गत कोण doosre triangle ki corresponding do bhujayon aur unke included angle ke equal hon. SAS = Side-Angle-Side, aur Angle beech mein hona chahiye — included angle. Yeh result pehle se known results se prove nahi kiya ja sakta, isliye ise अभिगृहीत maana gaya hai — true accept karte hain. Important trap: agar angle included nahi hai — matlab ASS ya SSA — toh rule fail. NCERT Fig 7.10: sides 4 cm, 5 cm aur 50° angle jo equal sides ke beech included nahi — triangles congruent nahi. Activities se clear: SAS true, lekin ASS/SSA true nahi. Board par hamesha likho: Side–Included Angle–Side. Exam language: ‘by SAS congruence rule’ ya ‘by SAS congruence axiom’. Jab bhi proof mein two sides aur beech ka angle equal dikhe — SAS apply. Class mantra: Angle beech mein pakdo, tabhi SAS! Agar angle corner par ho aur sides uske adjacent included na hon, toh SAS mat likhna.",
+      "example": "∆ABC aur ∆DEF mein AB=DE, ∠B=∠E (included), BC=EF → ∆ABC ≅ ∆DEF by SAS.",
+      "board_lines": [
+        "अभिगृहीत 7.1 (SAS): दो भुजाएँ + उनका अंतर्गत कोण बराबर ⇒ ≅",
+        "SAS = Side–Angle–Side (angle MUST be included)",
+        "ASS / SSA नियम सत्य नहीं है"
+      ],
+      "common_mistake": "Students non-included angle ke saath bhi SAS likh dete hain — woh ASS/SSA ho jaata hai jo generally true nahi.",
+      "memory_trick": "SAS = Sandwich: Angle bread ke beech mein (two sides ke between) hona chahiye.",
+      "gesture_action": "Do fingers (sides) ke beech thumb se angle dikhao — ‘included angle’; phir angle bahar karke ‘SAS nahi’ bolaao",
+      "real_life_examples": [
+        "Gate ke do bars aur beech ka fixed hinge angle — frame lock (SAS idea)",
+        "Set-square se do sides + included angle measure karke same triangle dobara banana"
+      ],
+      "worked_example": {
+        "problem": "∆ABC aur ∆PQR mein AB=PQ=5 cm, AC=PR=6 cm, ∠A=∠P=40°. Kya SAS lagega? ∆ABC ≅ ∆PQR?",
+        "steps": [
+          "Equal sides AB, AC aur unka included angle ∠A",
+          "Corresponding: PQ, PR with included ∠P",
+          "Conditions SAS satisfy → triangles congruent"
+        ],
+        "answer": "Haan, SAS lagega. ∆ABC ≅ ∆PQR (by SAS)."
+      },
+      "practice": {
+        "easy": ["SAS में A का मतलब कौन-सा कोण है — अंतर्गत या कोई भी?"],
+        "medium": ["ASS नियम क्यों नहीं चलता? एक वाक्य में NCERT activity का निष्कर्ष लिखो।"],
+        "hard": ["∆ABC में AB=DE, BC=EF, ∠A=∠D। क्या SAS apply होगा? Reason दो।"]
+      },
+      "summary": "SAS axiom: two sides aur unka included angle equal ⇒ triangles congruent; ASS/SSA generally false.",
+      "revision_point": "SAS mein Angle = included angle; axiom hai, theorem nahi.",
+      "exam_tip": "Proof mein clearly likho kaunsi do sides aur kaun-sa included angle — ‘included’ word marks secure karta hai.",
+      "source_text_hint": "दो त्रिभुज सर्वांगसम होते हैं, यदि एक त्रिभुज की दो भुजाएँ और उनका अंतर्गत कोण"
+    },
+    {
+      "concept": "SAS के अनुप्रयोग – उदाहरण 1 और 2",
+      "say": "Ab NCERT ke do classic examples — SAS practice. उदाहरण 1 (Fig 7.8): OA = OB aur OP = OC. Darshao (i) ∆AOP ≅ ∆BOC aur (ii) AP ∥ BC. Hal (i): ∆AOP aur ∆BOC mein OA=OB (given), OP=OC (given), aur ∠AOP = ∠BOC kyunki yeh vertically opposite angles hain. Isliye ∆AOP ≅ ∆BOC by SAS. (ii) Congruent triangles mein other corresponding parts equal — ∠OAP = ∠OBC. Yeh AP aur BC ke liye alternate angles ka pair banate hain, isliye AP ∥ BC. उदाहरण 2: AB ek line segment hai aur line l uska perpendicular bisector hai. l par koi point P ho toh dikhao P, A aur B se समदूरस्थ hai — PA = PB. Hal: l ⊥ AB aur midpoint M se guzarti hai. ∆PMA aur ∆PMB mein: AM=BM (M midpoint), ∠PMA=∠PMB=90° (given), PM=PM (common). Hence ∆PMA ≅ ∆PMB by SAS. Therefore PA=PB by CPCT. Yaad: vertically opposite angles, common side, midpoint — yeh teeno tools baar-baar aate hain. Smart Board tip: figure pe equal marks aur right-angle marks zaroor banao. In dono examples ko baar-baar practice karo — exams mein isi pattern ke sawal aate hain.",
+      "example": "Perpendicular bisector par koi bhi point endpoints se equal distance par hota hai — yeh Example 2 ka result hai.",
+      "board_lines": [
+        "Ex1: OA=OB, OP=OC, ∠AOP=∠BOC (vert. opp.) ⇒ ∆AOP ≅ ∆BOC (SAS) ⇒ AP∥BC",
+        "Ex2: AM=BM, ∠PMA=∠PMB=90°, PM common ⇒ ∆PMA ≅ ∆PMB (SAS)",
+        "CPCT ⇒ PA = PB (P समदूरस्थ from A,B)"
+      ],
+      "common_mistake": "Example 1 mein students ∠AOP = ∠BOC ko given maan lete hain — actually vertically opposite angles se equal prove karna hota hai.",
+      "memory_trick": "V-O-C for Ex1: Vertically Opposite → Congruent; for Ex2: Perp Bisector → Point Equidistant.",
+      "gesture_action": "Board par crossing lines se vertically opposite angles point karo; phir midpoint se 90° dono taraf dikhakar ‘equidistant’ arms failao",
+      "real_life_examples": [
+        "See-saw / balance: midpoint support par dono arms equal feel (bisector idea)",
+        "Kite frame ke crossing sticks — opposite angles equal (vertically opposite)"
+      ],
+      "worked_example": {
+        "problem": "AB ka midpoint M hai, PM ⊥ AB. Agar AM = 3 cm, PM = 4 cm, toh PA aur PB mein relation kya hai? Kaunsa rule?",
+        "steps": [
+          "AM=BM=3 cm, ∠PMA=∠PMB=90°, PM common",
+          "∆PMA ≅ ∆PMB by SAS",
+          "CPCT ⇒ PA = PB"
+        ],
+        "answer": "PA = PB (P is equidistant from A and B) by SAS + CPCT."
+      },
+      "practice": {
+        "easy": ["उदाहरण 1 में ∠AOP = ∠BOC क्यों है?"],
+        "medium": ["Perpendicular bisector पर बिंदु P के लिए PA = PB का SAS proof तीन steps में लिखो।"],
+        "hard": ["उदाहरण 1 में congruence के बाद AP ∥ BC कैसे मिला? Alternate angles का तर्क लिखो।"]
+      },
+      "summary": "SAS se ∆AOP ≅ ∆BOC (vert. opp. angles) aur perp-bisector point equidistant (PA=PB) — dono standard applications.",
+      "revision_point": "Vertically opposite + SAS; Midpoint + 90° + common side + SAS → equidistant.",
+      "exam_tip": "Parallel prove karte waqt CPCT ke baad alternate/corresponding angles clearly name karo — ‘hence parallel’.",
+      "source_text_hint": "दर्शाइए कि च् बिंदुओं । और ठ से समदूरस्थ है"
+    },
+    {
+      "concept": "ASA प्रमेय और AAS सर्वांगसमता नियम",
+      "say": "Ab ASA. Activity: do triangles jinke two angles 60° aur 45° hon aur in angles ki अंतर्गत भुजा 4 cm ho (Fig 7.11). Cut karke overlay — ek doosre ko poori tarah dhakta hai — congruent. Doosre pairs se repeat — two angles + included side पर्याप्त. Yeh Angle-Side-Angle criterion hai — ASA. Kyunki prove ho sakta hai, ise प्रमेय kehte hain. प्रमेय 7.1 (ASA): Do triangles congruent hote hain agar ek ke two angles aur unki included side doosre ke two angles aur included side ke equal hon. Proof idea (SAS use karke): ∆ABC aur ∆DEF mein ∠B=∠E, ∠C=∠F, BC=EF. Teen cases: (i) AB=DE → seedha SAS se ≅. (ii) Agar AB > DE, AB par point P lo jisse PB=DE; phir ∆PBC ≅ ∆DEF by SAS; corresponding angles se ∠PCB=∠DFE, lekin ∠ACB=∠DFE given → ∠ACB=∠PCB, jo tabhi possible jab P coincides with A → AB=DE → SAS se ≅. (iii) AB < DE similar argument. Ab AAS: agar two pairs of angles equal aur corresponding sides ka ek pair equal ho, lekin woh side included na ho — phir bhi congruent. Kyun? Triangle angle sum 180° → do angles equal hone par teesra bhi equal → phir ASA type situation. Isliye AAS bhi valid. Class tip: ASA theorem, SAS axiom — farak yaad rakho! Board par ASA aur AAS dono likh kar examples solve karo.",
+      "example": "∆ABC, ∆XYZ mein ∠B=∠Y=50°, ∠C=∠Z=60°, BC=YZ=5 cm → included side → ∆ABC ≅ ∆XYZ by ASA.",
+      "board_lines": [
+        "प्रमेय 7.1 (ASA): दो कोण + अंतर्गत भुजा बराबर ⇒ ≅",
+        "Proof SAS axiom se (तीन स्थितियाँ: side equal / greater / smaller)",
+        "AAS: दो कोण + संगत भुजा ⇒ ≅ (third angle = 180° − sum)"
+      ],
+      "common_mistake": "Students ASA aur AAS ko mix kar dete hain; aur SAS ko bhi theorem bol dete hain — NCERT mein SAS अभिगृहीत hai, ASA प्रमेय.",
+      "memory_trick": "ASA = Angles Side Angles (side beech mein); AAS = do angles pehle, side baad — teesra angle 180° se milta hai.",
+      "gesture_action": "Teen ungliyan: angle–side–angle order dikhao (ASA); phir do angles dikhakar teesri ungli se ‘180 minus’ karke AAS samjhao",
+      "real_life_examples": [
+        "Survey / map work: do angles aur beech distance measure karke triangle fix (ASA idea)",
+        "Ramp design: do angles pata hon toh teesra fixed — shape determine"
+      ],
+      "worked_example": {
+        "problem": "∆ABC aur ∆PQR mein ∠A=∠P=40°, ∠B=∠Q=70°, AB=PQ. Kya congruent hain? Kaunsa rule?",
+        "steps": [
+          "Do angles equal ⇒ third angles bhi equal: ∠C=∠R=180°−110°=70°",
+          "Ab two angles aur corresponding side — AAS",
+          "Hence triangles congruent"
+        ],
+        "answer": "Haan, ∆ABC ≅ ∆PQR by AAS (third angles equal from angle sum)."
+      },
+      "practice": {
+        "easy": ["ASA में side कहाँ होनी चाहिए — दो बराबर कोणों के बीच?"],
+        "medium": ["AAS क्यों सत्य है? कोण-योग 180° से तीन steps में समझाओ।"],
+        "hard": ["ASA proof की स्थिति (ii) में point P लेते हैं। ∠ACB = ∠PCB से P ≡ A कैसे निष्कर्ष निकलता है?"]
+      },
+      "summary": "ASA theorem: two angles + included side ⇒ congruent (proved via SAS). AAS bhi valid kyunki third angle angle-sum se equal ho jaata hai.",
+      "revision_point": "SAS = axiom; ASA = theorem; AAS follows from 180° angle sum.",
+      "exam_tip": "Exam mein AAS use karte waqt ek line likho: ‘third angles equal (angle sum property)’ — warna examiner AAS doubt kar sakta hai.",
+      "source_text_hint": "दो त्रिभुज सर्वांगसम होते हैं, यदि एक त्रिभुज के दो कोण और उनकी अंतर्गत भुजा"
+    }
+  ]
+}
