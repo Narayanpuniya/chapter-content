@@ -1,0 +1,296 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 747,
+    "chapter_name": "एषा सा कृतकबुद्धिः मानवबुद्धेः सहकरी",
+    "chapter_number": 5,
+    "book_name": "Class 9 Sanskrit",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Sanskrit"
+  },
+  "concept_map": {
+    "chapter_overview": "पञ्चमः पाठः ‘एषा सा कृतकबुद्धिः मानवबुद्धेः सहकरी’ एक कक्षा-वार्तालाप है जिसमें अध्यापक और छात्र कृतकबुद्धि (Artificial Intelligence) का स्वरूप, प्रकार, लाभ, सीमाएँ और नैतिक पक्ष समझते हैं. पाठ बताता है कि AI शिक्षक का विकल्प नहीं, गुरुमित्र/सहयोगी है — अगर विवेक और नैतिकता से इस्तेमाल हो तो जीवन सुगम और सुरक्षित बनेगा. Bilingual classroom mein hum अन्वय, शब्दार्थ, dialogue flow aur moral message seekhenge.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Sanskrit — पञ्चमः पाठः: एषा सा कृतकबुद्धिः मानवबुद्धेः सहकरी. Socho: ChatGPT, Alexa, Google Maps — yeh sab Sanskrit class mein kyun aa gaye? Kyunki aaj ka पाठ modern science को संस्कृत संवाद में लाता है. Ready? Chalo कक्षा में घुसते हैं — शुभप्रभातं, गुरुवर्य!",
+    "learning_outcomes": [
+      "पाठ का शीर्षक, वार्तालाप-स्वरूप और केंद्रीय संदेश ‘कृतकबुद्धिः मानवबुद्धेः सहकरी’ स्पष्ट करना",
+      "कृतकबुद्धिः की परिभाषा, प्रमुख उदाहरण (ChatGPT, Siri, Alexa आदि) और तीन प्रकार समझना",
+      "डेटासेट्, यन्त्राधिगमः/गहनाधिगमः, पूर्वाग्रहः जैसी तकनीकी-व्याकरणिक शब्दावली का अर्थ और अन्वय बताना",
+      "शिक्षा-चिकित्सा-कृषि आदि उपयोग, डीप्-फेक् का खतरा, और ‘गुरुमित्रम् न गुरुविकल्पः’ वाला नैतिक निष्कर्ष परीक्षा-शैली में लिखना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "पाठ परिचय — वार्तालाप और शीर्षक"
+      },
+      {
+        "number": 2,
+        "name": "कृतकबुद्धिः — अर्थ, उदाहरण और परिभाषा"
+      },
+      {
+        "number": 3,
+        "name": "कृतकबुद्धेः प्रकाराः — सङ्कुचित, सामान्य, अत्युत्कृष्ट"
+      },
+      {
+        "number": 4,
+        "name": "प्रशिक्षण, डेटासेट् और पूर्वाग्रहः"
+      },
+      {
+        "number": 5,
+        "name": "उपयोगक्षेत्राणि — शिक्षा से कृषि तक"
+      },
+      {
+        "number": 6,
+        "name": "गुरुमित्रम्, नैतिकता और पाठ का संदेश"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "पाठ परिचय — वार्तालाप और शीर्षक",
+      "say": "Bacchon, aaj ka पाठ NCERT Class 9 Sanskrit ka पञ्चमः पाठः hai — title: एषा सा कृतकबुद्धिः मानवबुद्धेः सहकरी. Seedha Hindi-English mein bolo toh — This is that Artificial Intelligence which is a helper-colleague of human intelligence. Scene क्लास रूम का है: अध्यापकः कक्षायां प्रविशति — teacher enters, और सभी छात्र बोलते हैं शुभप्रभातं, गुरुवर्य! Teacher replies: शुभप्रभातं, प्रियछात्राः। यशिका बताती है कि उसने चालकरहितं पटु-कारयानम् — driverless smart car — देखा और आश्चर्यचकित हो गई: किम् एतत् संभवम्? Teacher kehte hain अवश्यं यशिके — एतत् कृतकबुद्ध्या संभवति. Is dialogue-style पाठ में अध्यापक और छात्र मिलकर कृतकबुद्धि का स्वरूप, उपयोगक्षेत्र, लाभ और सीमाएँ चर्चा करते हैं. Introduction में लिखा है: आधुनिके विज्ञानयुगे मानवजीवनं द्रुतगत्या परिवर्तनशीलम् अस्ति — modern science age में life बहुत तेज़ी से बदल रही है, और कृतकबुद्धि प्रभावशाली साधनरूपेण समुपस्थिता है. Important line for exam: एषः पाठः न केवलं सूचनां प्रयच्छति अपि तु चिन्तन-शक्तिं विवेकं च जागरयति — yeh lesson sirf facts nahi deta, thinking aur viveka/discernment jagata hai. Title mein सहकरी का अर्थ है सहयोगिनी / helper — competitor nahi. Classroom tip: jab bhi शीर्षक-सार्थकता aaye, ‘सहकरी = गुरुमित्र/सहायिका, प्रतिस्पर्धिनी नहीं’ zaroor likho. Aaj hum story nahi, smart classroom conversation padhenge — Sanskrit words + AI ideas saath-saath. Board par pehle title, phir ‘वार्तालाप-शैली’, phir central message — teen lines se chapter open ho jaata hai.",
+      "example": "शीर्षक वाक्य: ‘कृतकबुद्धिः मानवबुद्धेः सहकरी’ = Artificial Intelligence is a co-worker/helper of human intelligence — rival nahi.",
+      "board_lines": [
+        "पञ्चमः पाठः — एषा सा कृतकबुद्धिः मानवबुद्धेः सहकरी",
+        "शैली: कक्षा-वार्तालाप (अध्यापकः + छात्राः)",
+        "सहकरी = सहयोगिनी / Helper — प्रतिस्पर्धिनी नहीं"
+      ],
+      "common_mistake": "Students शीर्षक में ‘सहकरी’ को मालिक/स्वामी या प्रतिद्वंद्वी समझ लेते हैं. सही अर्थ: सहयोगिनी — AI human intellect की सहकारी है, उसकी जगह लेने वाली नहीं.",
+      "memory_trick": "S-H-S: सहकरी = Helper, not Super-boss. Title yaad: AI = Sidekick of Human Sense.",
+      "gesture_action": "Do students side-by-side handshake — ek ‘मानवबुद्धि’, ek ‘कृतकबुद्धि’ — bolo ‘सहकरी!’, phir ek ko hatao mat.",
+      "real_life_examples": [
+        "Smart Board / computer teacher की मदद करता है, teacher की कुर्सी नहीं छीनता — यही सहकरी भाव है",
+        "Phone का GPS रास्ता बताता है, तय करना तुम्हें है — helper, not master"
+      ],
+      "worked_example": {
+        "problem": "पाठ का शीर्षक ‘एषा सा कृतकबुद्धिः मानवबुद्धेः सहकरी’ की सार्थकता एक अनुच्छेद में स्पष्ट कीजिए।",
+        "steps": [
+          "शीर्षक का शब्दार्थ लिखो: कृतकबुद्धि = Artificial Intelligence; सहकरी = सहयोगिनी",
+          "पाठ से जोड़ो: अध्यापक बार-बार कहता है AI सहायिका है, प्रतिस्पर्धिनी नहीं; गुरुमित्रम् अस्ति, गुरुविकल्पः नास्ति",
+          "निष्कर्ष: शीर्षक पूरे वार्तालाप का केंद्रीय संदेश संक्षेप में कहता है"
+        ],
+        "answer": "शीर्षक पूर्णतः सार्थक है क्योंकि पाठ में कृतकबुद्धि को मानवबुद्धि की सहयोगिनी बताया गया है। वह गुरुमित्र है, गुरुविकल्प नहीं — उपकरण है, प्रेरणा मनुष्य से ही आती है।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का पूरा शीर्षक संस्कृत में लिखिए।"
+        ],
+        "medium": [
+          "‘सहकरी’ शब्द का अर्थ लिखकर शीर्षक को एक वाक्य में हिन्दी में अनूदित कीजिए।"
+        ],
+        "hard": [
+          "पाठ की प्रस्तावना के आधार पर बताइए कि यह पाठ केवल सूचना क्यों नहीं, चिन्तन और विवेक भी जगाता है?"
+        ]
+      },
+      "summary": "पञ्चमः पाठः कक्षा-वार्तालाप है; शीर्षक कहता है कृतकबुद्धि मानवबुद्धि की सहकारी/helper है, rival नहीं।",
+      "revision_point": "Title + style: एषा सा कृतकबुद्धिः… सहकरी | वार्तालाप | सहकरी ≠ प्रतिस्पर्धिनी।",
+      "exam_tip": "शीर्षक-सार्थकता में ‘सहकरी/गुरुमित्रम्’ और ‘न प्रतिस्पर्धिनी/न गुरुविकल्पः’ दोनों antithesis points लिखो।",
+      "source_text_hint": "एषा सा कृतकबुद्धिः मानवबुद्धेः सहकरी"
+    },
+    {
+      "concept": "कृतकबुद्धिः — अर्थ, उदाहरण और परिभाषा",
+      "say": "Ab definition crystal clear karte hain — yeh foundation hai poore पाठ की. कात्यायनी कहती है: महोदय! केयं कृतकबुद्धिः, अद्य वयम् अस्याः विषये ज्ञातुमिच्छामः — aaj hum AI ke baare mein jaanna chahte hain. श्रेया उत्तर देती है: यदा यन्त्राणि मनुष्यवत् चिन्तयन्ति, निर्णयम् कुर्वन्ति, कार्यं च कुर्वन्ति, तदा तत्र कृतकबुद्धिः उपस्थिता अस्ति। अन्वय-अर्थ: जब यन्त्र मनुष्य की तरह सोचते, निर्णय लेते और काम करते हैं, तब वहाँ Artificial Intelligence मौजूद मानी जाती है. अध्यापक refine करते हैं: यया अचेतनयन्त्राणि मानवबुद्धिवत् कार्यं कुर्वन्ति, सा कृतकबुद्धिः इति वैज्ञानिकाः मन्यन्ते — जिससे अचेतन मशीनें मानव-बुद्धि जैसा काम करें, वैज्ञानिक उसे कृतकबुद्धि कहते हैं. शब्दकोश tip: कृतकबुद्धिः = कृतका बुद्धिः (कर्मधारय समास) — मनुष्य-बुद्धि जैसा यन्त्र का चिन्तन-कौशल; English: Artificial Intelligence. Classroom examples पाठ में ही हैं — अथर्व कहता है चैट-जीपीटी संवादोपकरणम् भी कृतकबुद्ध्या युक्तम् है; teacher list करते हैं Siri, Alexa, गूगल मानचित्तम्/Maps, Gemini, Meta AI, Perplexity — अनुप्रयुक्ततन्त्रविशेषाः कृतकबुद्धियुक्ताः सन्ति. यशिका ChatGPT से अनेकेषां प्रश्नानां यथेष्टम् उत्तराणि पाती है; अथर्व की माता Alexa से गीत गाती, विद्युद्दीपं ज्वालयति, दैनिकसंवादं वातावरणस्थितिं च सूचयति; पावनी की माता गूगल-सहायकेन सह वार्तां करोति. Grammar note: कृतकबुद्धिः स्त्रीलिङ्ग, प्रथमा एकवचन — exam में लिङ्ग/वचन मत उलझाओ. English wrap-up: AI means machines that think, decide and act like humans. Yah definition aage ke प्रकार, प्रशिक्षण और नैतिकता तीनों concepts ka base hai — pehle अर्थ pakdo, phir aage badho.",
+      "example": "‘यदा यन्त्राणि मनुष्यवत् चिन्तयन्ति… तदा कृतकबुद्धिः’ — When machines think like humans, AI is present. Example: Alexa lights on / weather report.",
+      "board_lines": [
+        "कृतकबुद्धिः = कृतका बुद्धिः — Artificial Intelligence",
+        "लक्षणम्: मनुष्यवत् चिन्तनं, निर्णयः, कार्यम्",
+        "उदाहरणानि: ChatGPT, Siri, Alexa, Gemini, Maps"
+      ],
+      "common_mistake": "Students हर computer/phone को कृतकबुद्धि बोल देते हैं. पाठ के अनुसार वही प्रणाली AI है जो मानवबुद्धिवत् चिन्तन-निर्णय-कार्य करे — साधारण calculator नहीं.",
+      "memory_trick": "C-D-A: चिन्तयन्ति — निर्णयम् — कार्यम्. Teen verbs = AI definition ka DNA.",
+      "gesture_action": "Temple par ungli (think), phir tick gesture (decide), phir haath se kaam (act) — bolo ‘कृतकबुद्धिः!’",
+      "real_life_examples": [
+        "YouTube recommendations — tumhari pasand dekhkar naye videos suggest karna",
+        "Phone unlock by face — machine ‘pehchaan’ karke decision leti hai"
+      ],
+      "worked_example": {
+        "problem": "‘कृतकबुद्धिः’ पदस्य विश्लेषणं कृत्वा पाठानुसारं परिभाषा लिखत।",
+        "steps": [
+          "समास/अर्थ: कृतका + बुद्धिः (कर्मधारयः), स्त्रीलिङ्ग प्रथमा एकवचन",
+          "पाठ-परिभाषा: अचेतनयन्त्राणि मानवबुद्धिवत् कार्यं कुर्वन्ति यया सा कृतकबुद्धिः",
+          "एक उदाहरण जोड़ो — ChatGPT/Alexa"
+        ],
+        "answer": "कृतकबुद्धिः (कर्मधारयः, स्त्री. प्र. ए.व.) = कृतका बुद्धिः / Artificial Intelligence। यया अचेतनयन्त्राणि मानवबुद्धिवत् चिन्तयन्ति निर्णयम् कुर्वन्ति कार्यं च कुर्वन्ति, सा कृतकबुद्धिः। यथा — चैट-जीपीटी।"
+      },
+      "practice": {
+        "easy": [
+          "कृतकबुद्धिः का हिन्दी और English अर्थ लिखिए।"
+        ],
+        "medium": [
+          "श्रेया द्वारा दी गई कृतकबुद्धि की परिभाषा अपने शब्दों में हिन्दी में लिखिए।"
+        ],
+        "hard": [
+          "‘अचेतनयन्त्राणि मानवबुद्धिवत् कार्यं कुर्वन्ति’ — अन्वयार्थ स्पष्ट करते हुए दो आधुनिक उदाहरण दीजिए।"
+        ]
+      },
+      "summary": "कृतकबुद्धि वह क्षमता है जिससे यन्त्र मनुष्यवत् सोचकर निर्णय और कार्य करते हैं — ChatGPT, Alexa जैसे उपकरण इसके उदाहरण हैं।",
+      "revision_point": "Definition verbs: चिन्तयन्ति + कुर्वन्ति (निर्णय/कार्य); कृतकबुद्धिः = AI (स्त्री.).",
+      "exam_tip": "परिभाषा लिखते समय तीन क्रियाएँ — चिन्तन, निर्णय, कार्य — ज़रूर रखो; केवल ‘robot’ मत लिखो।",
+      "source_text_hint": "यदा यन्त्राणि मनुष्यवत् चिन्तयन्ति"
+    },
+    {
+      "concept": "कृतकबुद्धेः प्रकाराः — सङ्कुचित, सामान्य, अत्युत्कृष्ट",
+      "say": "Teacher poochte hain: किं यूयं जानीथ कृतकबुद्धेः कतिपयाः प्रमुखाः प्रकाराः सन्ति? अक्षतः: के ते प्रकाराः मान्यवर! Teen types board par likho — yeh exam favourite short-note hai. (1) सङ्कुचितकृतकबुद्धिः — Narrow AI: जीपीटी, गूगल-मानचित्रम्, यू-ट्यूब्। Matlab ek limited/specific kaam mein expert — maps navigation, video recommend, chatbot answers. Aaj duniya mein jo AI hum daily use karte hain, mostly yahi Narrow AI hai. (2) सामान्यकृतकबुद्धिः — General AI: मानवसमाना बुद्धिमत्ता — human-level general intelligence across many tasks. पाठ साफ़ कहता है: एतत् लक्ष्यं भवति — this is the goal/aim, not fully achieved everyday reality abhi. (3) अत्युत्कृष्टकृतकबुद्धिः — Super AI: मानवात् अपि अधिका बुद्धिमती — human se bhi zyada intelligent; और अध्यापक कहते हैं एषा काल्पनिकी अस्ति — yeh imaginary/hypothetical hai for now. Sanskrit tip: सङ्कुचित = narrow/limited; सामान्य = general; अत्युत्कृष्ट = super/excellent beyond. Word-formation se meaning nikaalo — exam mein ‘प्रकाराणां नामानि उदाहरणैः सह’ aata hai. English summary for revision: Narrow AI = today; General AI = research goal; Super AI = sci-fi imagination for now. Class mein confusion mat rakho — ChatGPT powerful dikhta hai, lekin पाठ उसे सङ्कुचित उदाहरणों में रखता है; woh poori human mind ka complete replacement nahi. Jab bhi ‘काल्पनिकी’ word dikhe, Super AI yaad aa jaye. Classroom activity: teen columns — प्रकार | अर्थ | उदाहरण/स्थिति — table banao aur ratto nahi, samajh ke likho.",
+      "example": "Google Maps = सङ्कुचितकृतकबुद्धिः (sirf मार्ग/मानचित्र); Super AI = अभी काल्पनिक — jaise movies ke all-powerful robots.",
+      "board_lines": [
+        "१. सङ्कुचितकृतकबुद्धिः = Narrow AI (GPT, Maps, YouTube)",
+        "२. सामान्यकृतकबुद्धिः = General AI (लक्ष्यम् / human-like)",
+        "३. अत्युत्कृष्टकृतकबुद्धिः = Super AI (काल्पनिकी)"
+      ],
+      "common_mistake": "Students ChatGPT को Super AI लिख देते हैं. पाठ के अनुसार GPT सङ्कुचितकृतकबुद्धिः के उदाहरण में है; अत्युत्कृष्ट अभी काल्पनिक है.",
+      "memory_trick": "N-G-S ladder: Narrow (aaj) → General (lakshya) → Super (kalpana). Teen seedhiyan — aaj kis par khade ho?",
+      "gesture_action": "Haath neeche (Narrow), middle (General), upar (Super) — har step par type ka naam bolo.",
+      "real_life_examples": [
+        "ATM cash nikaalta hai — narrow/specific task AI-systems jaisa limited intelligence vibe",
+        "Sci-fi film jahaan robot har field mein insan se aage — Super AI imagination"
+      ],
+      "worked_example": {
+        "problem": "कृतकबुद्धेः त्रयः प्रमुखाः प्रकाराः उदाहरणैः सह लिखत।",
+        "steps": [
+          "तीनों संस्कृत नाम सही वर्तनी में लिखो",
+          "प्रत्येक का संक्षिप्त अर्थ (Narrow/General/Super) दो",
+          "पाठ वाले उदाहरण/स्थिति लगाओ — GPT-Maps; लक्ष्य; काल्पनिकी"
+        ],
+        "answer": "(१) सङ्कुचितकृतकबुद्धिः — Narrow AI, यथा GPT, गूगल-मानचित्रम्। (२) सामान्यकृतकबुद्धिः — मानवसमान बुद्धि, एतत् लक्ष्यम्। (३) अत्युत्कृष्टकृतकबुद्धिः — मानवात् अधिका, सा काल्पनिकी।"
+      },
+      "practice": {
+        "easy": [
+          "सङ्कुचितकृतकबुद्धिः के दो उदाहरण लिखिए।"
+        ],
+        "medium": [
+          "सामान्यकृतकबुद्धिः और अत्युत्कृष्टकृतकबुद्धिः में अन्तर एक-एक वाक्य में बताइए।"
+        ],
+        "hard": [
+          "क्या चैट-जीपीटी को अत्युत्कृष्टकृतकबुद्धिः कहा जा सकता है? पाठ के आधार पर तर्क दीजिए।"
+        ]
+      },
+      "summary": "AI के तीन प्रकार: सङ्कुचित (आज का वास्तविक), सामान्य (लक्ष्य), अत्युत्कृष्ट (काल्पनिक)।",
+      "revision_point": "Narrow = GPT/Maps/YouTube; General = goal; Super = imaginary.",
+      "exam_tip": "प्रकार लिखते समय English नाम (Narrow/General/Super) brackets में दो — examiner को clarity पसंद है।",
+      "source_text_hint": "सङ्कुचितकृतकबुद्धिः — जीपीटी, गूगल-मानचित्रं"
+    },
+    {
+      "concept": "प्रशिक्षण, डेटासेट् और पूर्वाग्रहः",
+      "say": "वेदः पूछता है गहरी बात: अस्माकं बुद्धिस्तु ईश्वरेण मस्तिष्के स्थापिता अस्ति, कथम् एषा बुद्धिः यन्त्रे स्थाप्यते? — हमारी बुद्धि मस्तिष्क में है, मशीन में बुद्धि कैसे लगती है? उत्तमः प्रश्नः! उत्तर: प्रौद्योगिकीविशारदाः यन्त्राधिगमः, गहनाधिगमः चेति विधिना एतानि यन्त्राणि प्रशिक्षयन्ति, अनुप्रयोगाय च सज्जीकुर्वन्ति — technology experts Machine Learning और Deep Learning विधियों से machines train करते हैं aur use ke liye ready करते हैं. आर्य हँसते हुए पूछता है: यन्त्राणामपि पाठशाला अस्ति वा? (सर्वे हसन्ति) अध्यापक मुस्कुराकर: अस्याः यन्त्रपाठशालायाः नाम ‘डेटासेट्’ इति! कृतकबुद्धिः यन्त्रं दत्तांशमाध्यामेन शिक्षणं करोति — AI data के माध्यम से सीखती है. शब्दार्थ याद रखो: दत्तांशः = data/आँकड़े; तन्त्रांशः = software; प्रशिक्षयन्ति = they train/coach; प्रौद्योगिकीविशारदाः = technology experts. Critical warning from यशिका: यदि अशुद्धदत्तांशः दीयते तर्हि कृतकबुद्धिः अपि त्रुटिं करोति — garbage in, garbage out. Teacher clarify करते हैं: यदा प्रशिक्षणदत्तांशः पक्षपातयुक्तः भवति, तदा निष्कर्षाः अपि पक्षपातयुक्ताः भवन्ति। एषः दोषः ‘पूर्वाग्रहः’ इति कथ्यते — Bias. English: biased training data leads to biased conclusions. इसलिए पाठ कहता है कृतकबुद्धिः अद्यापि विकासपदे अस्ति — still on the path of development — और मानवीयपरिचर्या-विवेकेन सह त्रुटिरहितरूपेण ग्रहीतुं शक्यते — human care plus viveka से ही safely अपनाई जा सकती है. Grammar/vocab focus for exam: पूर्वाग्रहः (पुं. प्र. ए.व.) = पूर्व स्थापित पक्षपातयुक्त मत / Bias. Yeh concept next moral section ka scientific base hai.",
+      "example": "‘यन्त्रपाठशालायाः नाम डेटासेट्’ — AI की पाठशाला = Dataset. अगर dataset पक्षपाती हो, तो AI का जवाब भी पूर्वाग्रहयुक्त होगा.",
+      "board_lines": [
+        "यन्त्राधिगमः = Machine Learning | गहनाधिगमः = Deep Learning",
+        "डेटासेट् = यन्त्रपाठशाला | दत्तांशः = Data",
+        "पूर्वाग्रहः = Bias ← अशुद्ध/पक्षपातयुक्त प्रशिक्षण"
+      ],
+      "common_mistake": "Students सोचते हैं AI कभी गलत नहीं हो सकती. पाठ स्पष्ट करता है — गलत/biased data मिले तो AI भी त्रुटि और पूर्वाग्रह पैदा करती है.",
+      "memory_trick": "D-T-B: Dataset → Training → Bias check. Pehle data, phir train, hamesha bias check!",
+      "gesture_action": "Kitab/data ka stack dikhao (dataset), dimaag mein daalne ka gesture (training), phir ‘warning’ hand for पूर्वाग्रहः.",
+      "real_life_examples": [
+        "Agar kisi app ko sirf ek shehar ke photos se train kiya, dusre gaon ke chehre galat identify ho sakte hain — bias",
+        "Exam mein galat guide se ratta — answers bhi galat; AI bhi apne ‘guide’ data se seekhti hai"
+      ],
+      "worked_example": {
+        "problem": "‘पूर्वाग्रहः’ इति दोषः कदा भवति? पाठानुसारं स्पष्टीकुरुत।",
+        "steps": [
+          "प्रशिक्षण और दत्तांश का सम्बन्ध याद करो",
+          "पक्षपातयुक्त डेटा → पक्षपातयुक्त निष्कर्ष — यह श्रृंखला लिखो",
+          "दोष का नाम ‘पूर्वाग्रहः / Bias’ बताओ"
+        ],
+        "answer": "यदा प्रशिक्षणदत्तांशः पक्षपातयुक्तः भवति तदा कृतकबुद्धेः निष्कर्षाः अपि पक्षपातयुक्ताः भवन्ति — एषः दोषः पूर्वाग्रहः कथ्यते।"
+      },
+      "practice": {
+        "easy": [
+          "यन्त्रपाठशाला का नाम पाठ में क्या बताया गया है?"
+        ],
+        "medium": [
+          "यन्त्राधिगमः और गहनाधिगमः के English नाम लिखिए।"
+        ],
+        "hard": [
+          "यदि अशुद्ध डेटा दिया जाए तो कृतकबुद्धि पर क्या प्रभाव पड़ता है? ‘पूर्वाग्रहः’ शब्द जोड़कर उत्तर लिखिए।"
+        ]
+      },
+      "summary": "AI Machine/Deep Learning से डेटासेट् पर प्रशिक्षित होती है; पक्षपाती डेटा से पूर्वाग्रहः (bias) आता है — इसलिए विवेक ज़रूरी है।",
+      "revision_point": "Dataset = पाठशाला; ML/DL = विधियाँ; Bias = पूर्वाग्रहः from bad data.",
+      "exam_tip": "‘पूर्वाग्रहः’ वाले उत्तर में cause (पक्षपातयुक्त दत्तांश) और effect (पक्षपातयुक्त निष्कर्ष) दोनों लिखना अनिवार्य है।",
+      "source_text_hint": "अस्याः यन्त्रपाठशालायाः नाम डेटासेट्"
+    },
+    {
+      "concept": "उपयोगक्षेत्राणि — शिक्षा से कृषि तक",
+      "say": "श्रेया पूछती है: गुरुवर! एषा बुद्धिः केषु स्थलेषु उपयुज्यते? अध्यापक: तव प्रश्नः अतीव महत्त्वपूर्णः — शिक्षायाम्, चिकित्सायाम्, कृषिक्षेत्रे, न्यायालये, सञ्चारे, वित्ते, कलासङ्गीतक्षेत्रे मनोरञ्जनादिषु च कृतकबुद्धिः भूरिशः उपयुज्यते. Education focus detail mein: दीक्षा, स्वयम् (SWAYAM), सर्वेषां कृते कृतकबुद्धिः (AI for All), पी.एम्.-ईविद्या, संशयनिराकरणार्थं चैटबॉट्, भाषानुवादोपकरणानि — एतानि कृतकबुद्ध्याधारितानि उपकरणानि सन्ति. इनसे छात्र शिक्षकाणाम् अनुपस्थितौ अपि स्वयम् अधयेतुं शक्नुवन्ति. शब्द: अधयेतुम् (अधि+√इ+तुमुन्) = अध्ययनं कर्तुम् / for studying. अथर्व डरता है — क्या AI शिक्षक की जगह ले लेगी? उत्तर अगले concept में है, पर यहाँ ध्यान दो कि शिक्षा-उपकरण सहायता देते हैं. Medicine: आम्! रोबोटिक्-सर्जरी, रोग-पूर्वज्ञानम्, रश्मिपरीक्षणविद्या (Radiology), चैट-कृतकबुद्धिः, औषधशुश्रूषा चेत्यादीनि चिकित्सोपकरणानि सन्ति. Agriculture: नूनम्! ड्रोनमाध्यमेन बीज-वपनं, कीटनिरीक्षणं, भूमिक्षमता-परीक्षणम् अपि यन्त्रैः भवन्ति. Crime control: अपराधशमनाय मुखपरिचयप्रणाली, पूर्वानुमेय-नियन्त्रणम् चेत्यादि-योजनासु प्रयोगः अस्ति. Creative twist: यशिका पूछती है किं कृतकबुद्धिः काव्यमपि रचयितुं समर्था? अध्यापक class से पूछते हैं — अत्र भवन्तः किं चिन्तयन्ति? वेद ChatGPT से श्लोक लाता है — विद्युत्प्रज्ञया यन्त्राणि नित्यं वदन्ति चेतनाः। अहोरात्रं न विश्रान्ताः मानवान् धारयन्ति ते॥ भावार्थ: बिजली-बुद्धि अर्थात् AI से युक्त यन्त्र सचेतनों की तरह बोलते हैं और दिन-रात बिना विश्राम मनुष्यों को धारण/सहायता करते हैं. English wrap: AI helps in education, health, farms, courts, finance and art — but students must list multiple fields with examples in exams. Board tip: चार-पाँच क्षेत्र और प्रत्येक का एक उदाहरण table में लिखो — marks jaldi milte hain.",
+      "example": "श्लोक भाव: ‘विद्युत्प्रज्ञया यन्त्राणि… मानवान् धारयन्ति ते’ — AI-machines tirelessly support humans day and night.",
+      "board_lines": [
+        "क्षेत्राणि: शिक्षा, चिकित्सा, कृषि, न्याय, वित्त, कला",
+        "शिक्षा: SWAYAM, AI for All, chatbot, अनुवाद",
+        "कृषि: ड्रोन — बीजवपनम्, कीटनिरीक्षणम्"
+      ],
+      "common_mistake": "Students केवल ‘robot surgery’ या केवल ChatGPT लिखते हैं. पूर्ण उत्तर में शिक्षा+चिकित्सा+कृषि जैसे विविध क्षेत्र और एक-एक उदाहरण चाहिए.",
+      "memory_trick": "E-M-A-C: Education — Medicine — Agriculture — Crime control. चार खम्भों पर AI उपयोग याद करो.",
+      "gesture_action": "Board ke char corners touch karo — शिक्षा, चिकित्सा, कृषि, न्याय — har corner par ek example bolo.",
+      "real_life_examples": [
+        "DIKSHA/SWAYAM app se ghar baithhe lesson dekhna — शिक्षा में AI/digital help",
+        "Kisan drone se fasal check — कृषि में कीटनिरीक्षण जैसा उपयोग"
+      ],
+      "worked_example": {
+        "problem": "कृतकबुद्धिः शिक्षायाम् कथं साहाय्यं करोति? पाठस्य आधारेण लिखत।",
+        "steps": [
+          "पाठ में आए शिक्षा-उपकरणों के नाम लिखो (SWAYAM, chatbot, अनुवाद आदि)",
+          "लाभ बताओ: शिक्षक अनुपस्थिति में भी स्वयं अध्ययन",
+          "एक वाक्य में सीमा का संकेत — फिर भी गुरु आवश्यक (अगले concept से link)"
+        ],
+        "answer": "दीक्षा, स्वयम्, AI for All, चैटबॉट्, भाषानुवादोपकरणैः छात्राः शिक्षकाणाम् अनुपस्थितौ अपि स्वयम् अधयेतुं शक्नुवन्ति — एवं कृतकबुद्धिः शिक्षायां साहाय्यं करोति।"
+      },
+      "practice": {
+        "easy": [
+          "कृतकबुद्धि के कोई तीन उपयोग-क्षेत्र लिखिए।"
+        ],
+        "medium": [
+          "चिकित्सा में कृतकबुद्धि के दो उपकरण/उपयोग पाठ से लिखिए।"
+        ],
+        "hard": [
+          "वेद द्वारा प्रस्तुत श्लोक का भावार्थ अपने शब्दों में हिन्दी में लिखिए।"
+        ]
+      },
+      "summary": "AI शिक्षा, चिकित्सा, कृषि, न्याय आदि में व्यापक उपयोगी है; शिक्षा में SWAYAM/chatbot से स्वयं अध्ययन संभव है।",
+      "revision_point": "Uses: education tools + robotic surgery/radiology + drones in farms + face recognition; AI shlokas too.",
+      "exam_tip": "उपयोग वाले 5-mark उत्तर में कम-से-कम चार क्षेत्र + प्रत्येक का एक उदाहरण table/points में लिखो।",
+      "source_text_hint": "शिक्षायाम्, चिकित्सायाम्, कृषिक्षेत्रे"
+    },
+    {
+      "concept": "गुरुमित्रम्, नैतिकता और पाठ का संदेश",
+      "say": "आकाश डरता है: हा धिक्! एतेषां कारणेन मानवशिक्षकः किं प्रयोजनरहितः भविष्यति? अध्यापक जोर से: न न! कृतकबुद्धिः गुरुमित्रम् अस्ति, गुरुविकल्पः नास्ति। अन्वय: AI teacher की मित्र/सहायक है, विकल्प/replacement नहीं. क्यों? शिक्षकाणां सान्निध्ये छात्रेषु व्यक्तित्वविकासः भवति — teacher की उपस्थिति में personality develop होती है; पुस्तकीयज्ञानेन सह मानवीयमूल्यबोधम् अपि जनयन्ति — किताबों के ज्ञान के साथ अनुशासनं, परोपकारं, करुणां, व्यवहारज्ञानं च सिखाते हैं. सूत्र वाक्य board पर: सदा स्मरणीयं यत् कृतकबुद्धिः उपकरणम् अस्ति, प्रेरणा तु मानवेभ्यः एव आगच्छति — AI is a tool; inspiration comes only from humans. वेद फिल्म वाली चिंता लाता है कि यन्त्राणि मानवेभ्यः संसारम् अधिगृह्णन्ति; यशिका पूछती है किं कृतकबुद्धिः मानवस्य स्थानं हर्तुं शक्नोति? उत्तर: एषा चिन्ता समाजे प्रगाढं जायमाना अस्ति, किन्तु बोधव्यं यत् कृतकबुद्धिः सहायिका अस्ति, मनुष्यस्य प्रतिस्पर्धिनी न। Risks: दुरुपयोगेन साइबर-अपराधाः; डीप्-फेक् — कृतकबुद्ध्या निर्मितं मिथ्याचित्रं, दृश्यं, ध्वनिः वा — fake media for उपहास or अपराध. निराकरण: कृतकबुद्धि-साक्षरता, नैतिकतापूरितं प्रशिक्षणम्, सर्वकारेण नियन्त्रणम्, आत्मनियन्त्रणम्. भास्कर का वाक्य दिल छूता है: कृतकबुद्धिः मित्रं भवेत्, न भवेत् स्वामी। Jobs पर: Skill India, Digital India, e-Skill India; वस्तुतः AI स्वतः वृत्ति न हरति — प्रशिक्षित जन अप्रशिक्षित की पारम्परिक वृत्ति हर सकता है. Final: यदि विवेकपूर्वकं प्रयुज्यते तर्हि जीवनम् अधिकं सुगमं सुरक्षितं श्रेयस्करं च। श्रेया: कृतकबुद्धिः मानवबुद्धेः सहकरी — इति वाक्यं स्पष्टं स्यात्। सर्वे: जागरूकाः नागराः भवाम, सुरक्षितं जालप्रवेशं करवाम, डिजिटल्-भारतं समृद्धं करवाम।",
+      "example": "‘कृतकबुद्धिः गुरुमित्रम् अस्ति, गुरुविकल्पः नास्ति’ + ‘मित्रं भवेत्, न भवेत् स्वामी’ — two golden lines for moral/message answers.",
+      "board_lines": [
+        "गुरुमित्रम् ≠ गुरुविकल्पः | सहायिका ≠ प्रतिस्पर्धिनी",
+        "डीप्-फेक् = AI-निर्मित मिथ्या चित्र/ध्वनि | उपाय: साक्षरता+नैतिकता",
+        "सूत्र: मित्रं भवेत्, न भवेत् स्वामी | सहकरी स्पष्टं स्यात्"
+      ],
+      "common_mistake": "Students लिखते हैं ‘AI शिक्षकों को खत्म कर देगी’ या ‘AI हमेशा खतरनाक है’. पाठ का सन्तुलित मत: उपकरण/सहकारी — विवेक और नैतिक नियंत्रण से लाभ; दुरुपयोग से भय.",
+      "memory_trick": "M-T-M: मित्र — Tool — Master-नहीं. AI = Mitra + Tool, Master Never.",
+      "gesture_action": "Ek haath friend-hug (गुरुमित्र), doosra ‘stop’ to crown/master — bolo ‘न भवेत् स्वामी!’",
+      "real_life_examples": [
+        "Deepfake video se kisi ka muh bolta dikhana — विश्वास से पहले verify करो (AI literacy)",
+        "Tuition app homework explain kare, lekin sanskaar/discipline teacher aur ghar se aate hain"
+      ],
+      "worked_example": {
+        "problem": "‘कृतकबुद्धिः गुरुमित्रम् अस्ति, गुरुविकल्पः नास्ति’ — पंक्ति की व्याख्या अपने शब्दों में कीजिए।",
+        "steps": [
+          "गुरुमित्रम् और गुरुविकल्पः का अर्थ भेद लिखो",
+          "पाठ से कारण दो: व्यक्तित्वविकास, मानवीय मूल्य, प्रेरणा मनुष्य से",
+          "निष्कर्ष में सहकरी/उपकरण जोड़ो"
+        ],
+        "answer": "कृतकबुद्धि शिक्षक की मित्र/सहायक है, उसका विकल्प नहीं। शिक्षक व्यक्तित्व और मानवीय मूल्य सिखाते हैं; प्रेरणा मनुष्यों से आती है। अतः AI उपकरण व सहकारी है, प्रतिस्पर्धी या स्वामी नहीं।"
+      },
+      "practice": {
+        "easy": [
+          "डीप्-फेक् किसे कहते हैं? एक वाक्य में लिखिए।"
+        ],
+        "medium": [
+          "‘कृतकबुद्धिः मित्रं भवेत्, न भवेत् स्वामी’ — भाव स्पष्ट कीजिए।"
+        ],
+        "hard": [
+          "पाठ के आधार पर कृतकबुद्धि के भय/दोष और उनके निराकरण के उपाय लिखिए।"
+        ]
+      },
+      "summary": "AI गुरुमित्र और सहकारी है, स्वामी या गुरुविकल्प नहीं; साक्षरता-नैतिकता-विवेक से भविष्य सुगम और सुरक्षित होगा।",
+      "revision_point": "Key lines: गुरुमित्रम्; सहायिका न प्रतिस्पर्धिनी; मित्रं न स्वामी; विवेकपूर्वकं प्रयोगः.",
+      "exam_tip": "संदेश/उपसंहार में तीन quote-points: गुरुमित्रम्, मित्रं-न-स्वामी, मानवबुद्धेः सहकरी — marks lock हो जाते हैं।",
+      "source_text_hint": "कृतकबुद्धिः गुरुमित्रम् अस्ति, गुरुविकल्पः नास्ति"
+    }
+  ]
+}
