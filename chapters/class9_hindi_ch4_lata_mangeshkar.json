@@ -1,0 +1,341 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 629,
+    "chapter_name": "ऐसी भी बातें होती हैं",
+    "chapter_number": 4,
+    "book_name": "Class 9 Hindi",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Hindi"
+  },
+  "concept_map": {
+    "chapter_overview": "यह पाठ यतींद्र मिश्र द्वारा भारत रत्न लता मंगेशकर से लिया गया आत्मीय साक्षात्कार है — कहानी नहीं, जीवंत संवाद। इसमें संगीत की महान यात्रा के साथ पिता के संस्कार, स्वाभिमान, पारिवारिक उत्तरदायित्व और संघर्ष में भी समर्पण उभरता है. Classroom mein hum author-subject, theme, style aur aaj ke jeevan se jude mulya bilingual tarike se samjhenge — source text ko ratuaye bina, sochne-mehsoos karne par zor dekar.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Hindi — Chapter 4: ऐसी भी बातें होती हैं. Socho: ek aisi awaaz jo India se lekar duniya tak pehchaan banaye — woh Lata Mangeshkar hain. Aaj hum unke saath Yatindra Mishra ke interview ke zariye milenge — music, family, struggle aur self-respect ki kahani. Dil se suno — yeh sirf celebrity-chat nahi, jeevan-path hai.",
+    "learning_outcomes": [
+      "यतींद्र मिश्र और लता मंगेशकर का संक्षिप्त परिचय व पाठ की विधा (साक्षात्कार) समझना",
+      "पाठ की पृष्ठभूमि, केंद्रीय विषय और शीर्षक की सार्थकता स्पष्ट करना",
+      "पिता-संस्कार, परिवार, संघर्ष और संगीत-यात्रा के प्रमुख प्रसंगों का विश्लेषण करना",
+      "शैली/भाषा, नैतिक संदेश और आज के विद्यार्थी-जीवन से जोड़कर उत्तर लिखना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "लेखक और साक्षात्कारदाता परिचय"
+      },
+      {
+        "number": 2,
+        "name": "पृष्ठभूमि और केंद्रीय विषय"
+      },
+      {
+        "number": 3,
+        "name": "पिताजी के संस्कार और पारिवारिक मूल्य"
+      },
+      {
+        "number": 4,
+        "name": "संघर्ष, संगीत-यात्रा और प्रमुख प्रसंग"
+      },
+      {
+        "number": 5,
+        "name": "साक्षात्कार शैली और भाषा-तकनीक"
+      },
+      {
+        "number": 6,
+        "name": "नैतिक संदेश और जीवन-मूल्य"
+      },
+      {
+        "number": 7,
+        "name": "आज के विद्यार्थियों के लिए प्रासंगिकता"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "लेखक और साक्षात्कारदाता परिचय",
+      "say": "Bacchon, pehle do logon ko clearly alag kar lo — warna exam mein mix-up ho jaata hai. Yeh path Class 9 Hindi ka Chapter 4 hai: ऐसी भी बातें होती हैं. Vidha hai साक्षात्कार — matlab interviewer sawaal poochta hai, subject jawab deti hain. Interviewer hain यतींद्र मिश्र — janm 1977, Ayodhya (Uttar Pradesh); Lucknow University se Hindi mein M.A. Unki ruchi kavita, sangeet aur lalit kalaon ke saath samaj-sanskriti mein bhi hai. Kavya-sangrah: यदा-कदा, अयोध्या तथा अन्य कविताएँ, ड्योढ़ी पर आलाप. Unhone classical gayika Girija Devi par pustak ‘गिरिजा’ likhi; Dwijddev granthavali ka saha-sampadan; Kunwar Narayan par pustaken; aajkal swatantra lekhan ke saath ardhavarshik patrika ‘सहित’ ka sampadan. Ab dusri taraf — saakshaatkaardata: भारत रत्न लता मंगेशकर. Indore, Madhya Pradesh mein janmi; paanch saal ki umar se pita se sangeet ki shiksha; jeevanbhar sangeet ke prati samarpit. Unki awaaz ne India hi nahi, vishwa mein pehchaan banayi — isliye path ke shuru mein unhe Indian music ki baat ka zaroori hissa kaha gaya hai. Classroom tip: author intro mein Yatindra Mishra (janm/place/works) + subject Lata Mangeshkar (Bharat Ratna, childhood music training, lifelong dedication) dono likho. English mein: this is not a short story; it is a guided conversation that opens a great singer’s life for millions of listeners. Aaj hum unke words se seekhenge — fame se pehle values. Yaad rakho: title guess ‘मेरी आवाज़ ही पहचान है’ galat hai; woh sirf pehchaan-line hai, chapter-name alag hai.",
+      "example": "Jaise school mein principal kisi achiever student se stage par baat karke class ko prerit karta hai, waise Yatindra Mishra Lata ji se baat karke humein unke jeevan-mulya tak pahunchate hain.",
+      "board_lines": [
+        "विधा: साक्षात्कार | पाठ: ऐसी भी बातें होती हैं",
+        "साक्षात्कारकर्ता: यतींद्र मिश्र (जन्म 1977, अयोध्या)",
+        "साक्षात्कारदाता: भारत रत्न लता मंगेशकर (इंदौर)"
+      ],
+      "common_mistake": "Kai students is path ko ‘मेरी आवाज़ ही पहचान है’ naam se yaad kar lete hain — woh sirf intro line hai. Asli title: ऐसी भी बातें होती हैं; lekhak/interviewer: यतींद्र मिश्र.",
+      "memory_trick": "Y-L-S: यतींद्र पूछते हैं → लता बताती हैं → साक्षात्कार पाठ — ‘YLS’ = Yatindra, Lata, Sakshatkar.",
+      "gesture_action": "Ek haath mic ki tarah aage (प्रश्न), doosra haath dil par (उत्तर) — ‘संवाद’ dikhao.",
+      "real_life_examples": [
+        "TV/YouTube par kisi champion se interview dekhna — sawaal-jawab se unki mehnat samajh aati hai",
+        "School magazine mein teacher kisi alumni se baatcheet chhapte hain — wahi format yahan pustak mein hai"
+      ],
+      "worked_example": {
+        "problem": "पाठ ‘ऐसी भी बातें होती हैं’ की विधा क्या है? साक्षात्कारकर्ता और साक्षात्कारदाता का संक्षिप्त परिचय दीजिए।",
+        "steps": [
+          "Vidha clearly likho: साक्षात्कार",
+          "Yatindra Mishra — janm 1977 Ayodhya, Hindi M.A., kavya/sangeet-ruchi, mukhya rachnayein",
+          "Lata Mangeshkar — Bharat Ratna, Indore, balya se sangeet-sadhana, vishwa-pehchaan"
+        ],
+        "answer": "यह पाठ साक्षात्कार विधा में है। साक्षात्कारकर्ता यतींद्र मिश्र (जन्म 1977, अयोध्या) कवि-लेखक हैं; साक्षात्कारदाता भारत रत्न लता मंगेशकर हैं जिनकी आवाज़ ने विश्व में पहचान बनाई।"
+      },
+      "practice": {
+        "easy": [
+          "इस पाठ के साक्षात्कारकर्ता का नाम लिखिए।"
+        ],
+        "medium": [
+          "यतींद्र मिश्र की दो काव्य-रचनाओं के नाम लिखकर बताइए कि उनकी रुचि किन क्षेत्रों में है।"
+        ],
+        "hard": [
+          "‘ऐसी भी बातें होती हैं’ को कहानी क्यों नहीं, साक्षात्कार क्यों कहा जाता है? दो तर्क दीजिए।"
+        ]
+      },
+      "summary": "पाठ यतींद्र मिश्र–लता मंगेशकर का साक्षात्कार है; लेखक-कवि मिश्र प्रश्न करते हैं, स्वर-साम्राज्ञी अपने जीवन-संगीत की बातें साझा करती हैं।",
+      "revision_point": "Title = ऐसी भी बातें होती हैं; Vidha = साक्षात्कार; Y = यतींद्र मिश्र; L = लता मंगेशकर।",
+      "exam_tip": "परिचय-प्रश्न में सिर्फ Lata ji mat likho — interviewer ka naam, janm-sthan aur vidha (साक्षात्कार) zaroor add karo।",
+      "source_text_hint": "यतींद्र मिश्र का जन्म सन् 1977 में"
+    },
+    {
+      "concept": "पृष्ठभूमि और केंद्रीय विषय",
+      "say": "Ab path ka core — background aur central theme. Yeh piece Lata Mangeshkar ke sangeet-jeevan ki ‘apratim yatra’ par ek warm, respectful dialogue hai. Opening context clear hai: unki awaaz ne pehchaan banayi, lekin path sirf fame celebrate nahi karta — woh poochhta hai ki utar-chadhav aur sangharsh ke baad bhi unhone sangeet aur parivar ke prati zimmedari kaise nibhai. Central theme teen layers mein socho: (1) संगीत-साधना — lifelong dedication from childhood training; (2) स्वाभिमान और संस्कार — pita-mata se mili values; (3) परिवार के प्रति उत्तरदायित्व — recording ki thakaan se zyada family needs dimaag mein. Title ‘ऐसी भी बातें होती हैं’ isliye meaningful hai — interview mein aisi-aisi yaadein, habits, choices aur tough days aate hain jo textbook ‘hero story’ se alag, human aur honest lagte hain. Setting literary nahi geographical drama hai: childhood Indore/family drama-company world, phir film-music recording studios, aur beech-beech mein ghar ki simple khushi. English mein: the chapter maps how greatness is built — not only by talent, but by discipline, self-respect, and care for family. Classroom hook: agar sirf awards yaad karo, theme miss ho jayegi; agar ‘kaise jeeyi’ yaad karo, theme pakad aa jayegi. Exam mein theme likhte waqt ‘साक्षात्कार के माध्यम से जीवन-दर्शन’ phrase useful hai.",
+      "example": "Koi student sports mein medal jeete, lekin ghar mein chhote bhai-behen ki padhai bhi sambhale — wahi balance Lata ji ke jeevan-theme mein dikhta hai: passion + responsibility.",
+      "board_lines": [
+        "रूप: लता मंगेशकर से आत्मीय साक्षात्कार",
+        "केंद्रीय विषय: संगीत-साधना + स्वाभिमान + पारिवारिक दायित्व",
+        "शीर्षक: जीवन की अनोखी/सच्ची बातें — ‘ऐसी भी बातें होती हैं’"
+      ],
+      "common_mistake": "Students theme ko sirf ‘Lata ji bahut achhi gayika thin’ likh dete hain. Asli point: talent ke saath values, struggle aur family duty ka sanyog.",
+      "memory_trick": "S-S-P: संगीत → स्वाभिमान → परिवार — teen pillars of the theme.",
+      "gesture_action": "Teen ungliyan uthao: pehli ‘संगीत’, doosri ‘स्वाभिमान’, teesri ‘परिवार’ — phir teeno milao ‘पूर्ण जीवन’.",
+      "real_life_examples": [
+        "Gaon ka koi student roz subah padhai + ghar ka kaam dono karta hai — passion aur duty saath-saath",
+        "Koi nurse night-shift ke baad bhi ghar sambhalti hai — thakaan se badi zimmedari hoti hai"
+      ],
+      "worked_example": {
+        "problem": "पाठ का केंद्रीय विषय स्पष्ट कीजिए। शीर्षक ‘ऐसी भी बातें होती हैं’ कहाँ तक सार्थक है?",
+        "steps": [
+          "Theme: sangeet-yatra ke through sanskar, swabhimaan, sangharsh aur parivar-dayitva",
+          "Title ko interview ke ‘alag-alag jeevan-prsangon’ se jodo — bachpan, pita, recording, choices",
+          "Conclude: title sarthak hai kyunki path aisi manaviya/anokhi baatein laata hai jo sirf fame-list nahi"
+        ],
+        "answer": "केंद्रीय विषय लता जी की संगीत-साधना के साथ स्वाभिमान, संघर्ष और पारिवारिक उत्तरदायित्व है। शीर्षक सार्थक है क्योंकि साक्षात्कार में जीवन की अनोखी-सच्ची बातें और संस्मरण उभरते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का केंद्रीय विषय एक वाक्य में लिखिए।"
+        ],
+        "medium": [
+          "शीर्षक ‘ऐसी भी बातें होती हैं’ की सार्थकता दो बिंदुओं में स्पष्ट कीजिए।"
+        ],
+        "hard": [
+          "क्या यह पाठ केवल संगीत की प्रशंसा है, या जीवन-दर्शन भी? तर्क सहित उत्तर दीजिए।"
+        ]
+      },
+      "summary": "पाठ का केंद्र संगीत की यात्रा नहीं अकेली, बल्कि स्वाभिमान, संघर्ष और परिवार-दायित्व के साथ जीना है; शीर्षक इन्हीं अनोखी बातों की ओर इशारा करता है।",
+      "revision_point": "Theme = संगीत + स्वाभिमान + परिवार; Title = जीवन की सच्ची/अनोखी बातें।",
+      "exam_tip": "केंद्रीय-विषय उत्तर में तीन keywords zaroor: साधना, स्वाभिमान, उत्तरदायित्व — sirf ‘गायिका’ se full marks nahi।",
+      "source_text_hint": "आइए पढ़ते हैं उनके साथ साक्षात्कार में"
+    },
+    {
+      "concept": "पिताजी के संस्कार और पारिवारिक मूल्य",
+      "say": "Is concept mein path ka emotional centre hai — Pandit Deenanath Mangeshkar. Lata ji unhe kaam aur sangeet mein dooba hua ‘kamal ka aadmi’ yaad karti hain. Drama company raat bhar chalti thi; musical drama ki parampara; ek raag mein sur badalkar naya rang laana; Karnataka aur Punjab ke sangeet ko Marathi rangmanch mein lana — yeh unki creative visheshata thi. Jab drama nahi hota tha, ghar mein classical baithak hoti thi; HMV records, Raag Jaijaivanti jaisi baatein unke classical side ko dikhati hain. Lekin sabse badi seekh sangeet se alag thi: स्वाभिमान se jeena, sahi baat par khade rehna, kisi ke aage haath na phailana. Maa ke sanskar bhi wahi the. Pita ke niddhan ke baad bure din aaye, phir bhi self-respect tootne nahi diya. Aaj naam-paise hone par bhi chhote-se ghar mein khushi aur shukr — yeh value-system ka result hai. Childhood discipline bhi soft tha: pita gussa shabdon se nahi, nazar se samjha dete the — children samajh jaate, phir khelne bhej diye jaate. English mein: love can be firm without shouting; values outlast wealth. Classroom link: parents/teachers ki silent discipline bhi character banati hai. Jab tumhe lage ki ghar sirf paise se chalta hai, yeh path yaad dilata hai — ghar sanskar se bhi chalta hai.",
+      "example": "Agar ghar mein paise kam hoon aur phir bhi tum kisi se udhaar maangne ke bajay mehnat karke need poori karo — wahi swabhimaan Lata ji ke ghar ka sanskar tha.",
+      "board_lines": [
+        "पिता: पं. दीनानाथ मंगेशकर — संगीत + ड्रामा कंपनी",
+        "सीख: स्वाभिमान, सही बात पर डटे रहना, याचना नहीं",
+        "माँ-बाबा दोनों: कठिन दिनों में भी आत्मसम्मान"
+      ],
+      "common_mistake": "Students sirf ‘pita ji acchhe musician the’ likhte hain; exam chahta hai sanskar: swabhimaan aur atmasamman ki seekh.",
+      "memory_trick": "D-S-Y: दीनानाथ → स्वाभिमान → याचना मत — ‘DSY’ = Dad taught Self-respect, refuse Yaachna.",
+      "gesture_action": "Seedhe khaade hokar seena tanakar bolo ‘स्वाभिमान’, phir haath peeche — ‘हाथ नहीं पसारना’.",
+      "real_life_examples": [
+        "Gaon mein koi kisaan dukaan-udhaar ke bajay mazdoori karke seedha hisaab rakhta hai — atmasamman",
+        "Student galat copy karne se mana karke fail hone ka risk leta hai — ‘sahi baat par khade rehna’"
+      ],
+      "worked_example": {
+        "problem": "लता मंगेशकर ने पिताजी से संगीत के अलावा सबसे महत्वपूर्ण क्या सीखा? उदाहरण सहित लिखिए।",
+        "steps": [
+          "Mukhya seekh: swabhimaan se jeena, sahi par adig rehna, yaachna na karna",
+          "Context: company achhi chalne aur pita ke baad bure din — dono mein same value",
+          "Result aaj: naam-paise ke baad bhi simple khushi aur pita ke path par chalna"
+        ],
+        "answer": "उन्होंने स्वाभिमान से जीना और किसी के आगे हाथ न पसारना सीखा; कठिन दिनों में भी माँ-बाबा के संस्कार से परिवार ने आत्मसम्मान बचाए रखा।"
+      },
+      "practice": {
+        "easy": [
+          "लता जी के पिता का नाम लिखिए।"
+        ],
+        "medium": [
+          "पिताजी का ‘बिना डाँटे समझाना’ वाला अनुशासन अपनी भाषा में समझाइए।"
+        ],
+        "hard": [
+          "‘संगीत की शिक्षा’ और ‘संस्कार की शिक्षा’ में लता जी के लिए कौन अधिक निर्णायक रही? तर्क दीजिए।"
+        ]
+      },
+      "summary": "पं. दीनानाथ मंगेशकर ने संगीत के साथ स्वाभिमान और आत्मसम्मान के संस्कार दिए; कठिन समय में भी परिवार ने उन्हीं मूल्यों पर चलने का प्रयास किया।",
+      "revision_point": "Pita = दीनानाथ मंगेशकर; Key value = स्वाभिमान / याचना नहीं / सही पर डटे रहो।",
+      "exam_tip": "पिता-संबंधी उत्तर में ek line music contribution + ek line swabhimaan sanskar — dono likhne se answer complete lagta hai।",
+      "source_text_hint": "सबसे ज्यादा तो स्वाभिमान से जीने की प्रेरणा"
+    },
+    {
+      "concept": "संघर्ष, संगीत-यात्रा और प्रमुख प्रसंग",
+      "say": "Ab events aur unki significance. Childhood: bhai-behen filmon ki nakal — especially Prabhat film ‘संत तुकाराम’; ghar mein gaddi-takiyon ka ‘swarg’, Lata ji gaati, Meena-Asha-Pandharinath rokar saath le chalne ki binti karte — yeh creative play aur family bonding dikhata hai. Pita sirf dharmik/deshbhakti films dekhne dete the, isliye yeh games chori-chori. Acting: chhoti umar mein 6–7 films; makeup-lights-crowd unhe pasand nahi; singing unka asli ghar. ‘छत्रपति शिवाजी’ mein unhone khud do lines gaane ki iccha ki — preference clear: abhinay nahi, shraddha aur sangeet. Career struggle: situations ko ‘bahut acchi/buri’ label kam, mehnat zyada — subah-se-raat recording, studio-se-studio; dimaag mein family needs aur next contracts. Childhood dream: medals pehenkar baithna jaise Kumar Gandharva — pehla bahar ka artist jise unhone gaate suna. 1949–50 ke around Khemchand Prakash, Shankar-Jaikishan, Husnlal-Bhagatram ke saath geet jaise ‘आएगा आने वाला’, ‘हवा में उड़ता जाए…’, ‘चले जाना नहीं…’ — naya yug. Time-machine sawaal par Lata ji kehti hain assessment mushkil, lekin purani technical limits (hall mein door se mike tak aana) aur aaj ke advance tools dono sochne layak hain. White saree / rangon se parhez — vyaktitva ki saadgi ka signal. English: milestones matter, but the engine is relentless work for family and craft. Har prsang ko ‘kya hua’ se aage badhakar ‘isase kya seekha’ tak le jao.",
+      "example": "Jaise khel mein practice match se final aata hai, waise Lata ji ke childhood naatak-games aur early acting experiments unhe singing-focus tak le aaye.",
+      "board_lines": [
+        "बचपन: फिल्मी नकल / संत तुकाराम का खेल",
+        "संघर्ष: दिन-रात रिकॉर्डिंग, परिवार की चिंता",
+        "मीलपत्थर: 1949–50 के गीत — नया युग"
+      ],
+      "common_mistake": "Students events ki list rattle kar dete hain bina significance ke. Har prsang ke saath ‘isase kya seekha’ likho — creativity, dislike of acting, hard work, simplicity.",
+      "memory_trick": "T-R-M: तुकाराम-खेल → रिकॉर्डिंग-मेहनत → मीलपत्थर-गीत — journey in three letters.",
+      "gesture_action": "Kadmon se ‘studio-to-studio’ chalne ka gesture, phir gale par haath — ‘आवाज़ ही रास्ता’.",
+      "real_life_examples": [
+        "Coaching ke baad bhi ghar ka kaam karna — thakaan ke beech priority clear rakhna",
+        "Class play mein acting pasand na aaye toh singing/anchoring choose karna — apni strength pehchanna"
+      ],
+      "worked_example": {
+        "problem": "लता जी के कार्य-काल की परिस्थितियों और उनकी प्राथमिकता पर टिप्पणी कीजिए।",
+        "steps": [
+          "Recording routine: subah se raat, kai studios",
+          "Priority: family ki zarooratein poori karna; next songs/contracts ki chinta",
+          "Conclude: takleef se zyada zimmedari unka focus thi"
+        ],
+        "answer": "परिस्थितियाँ चुनौतीपूर्ण रहीं—दिन-रात रिकॉर्डिंग—पर लता जी का ध्यान तकलीफ से अधिक परिवार की ज़रूरतों और आगामी गीतों पर रहता था; मेहनत उनकी आदत थी।"
+      },
+      "practice": {
+        "easy": [
+          "लता जी ने अभिनय क्यों छोड़ना चाहा? एक कारण लिखिए।"
+        ],
+        "medium": [
+          "‘संत तुकाराम’ वाली बचपन की नकल से उनके व्यक्तित्व की कौन-सी बात झलकती है?"
+        ],
+        "hard": [
+          "1949–50 के गीतों को लता जी के कद को बड़ा बनाने वाला मोड़ क्यों कहा जा सकता है? अपने शब्दों में लिखिए।"
+        ]
+      },
+      "summary": "बचपन के खेल से लेकर स्टूडियो-संघर्ष और युग-प्रवर्तक गीतों तक, हर प्रसंग मेहनत, परिवार-दायित्व और गायन-केंद्रित चुनाव को मजबूत करता है।",
+      "revision_point": "Key events: तुकाराम-खेल, अभिनय छोड़ना, दिन-रात रिकॉर्डिंग, 1949–50 hit songs, सादगी।",
+      "exam_tip": "प्रसंग-प्रश्न में pehle 2–3 lines event, phir 1 line ‘महत्व/संदेश’ — warna answer incomplete maana jaata hai।",
+      "source_text_hint": "मेरी रिकॉर्डिंग सुबह से रात तक"
+    },
+    {
+      "concept": "साक्षात्कार शैली और भाषा-तकनीक",
+      "say": "Ab technique — yeh path ka exam-favourite hissa hai. Style conversational aur aatmeeya hai: Yatindra Mishra pranam aur shraddha ke saath sawaal shuru karte hain; Lata ji shukriya aur fans ke prati aabhaar se jawab. Language simple Hindi, lekin jeevant details — soft discipline of father, childhood play, studio fatigue — reader ko scene dikhati hain. First-person memory (स्मृति) se authenticity aati hai; hasya aur seriousness ka mix personality ko human banata hai. Rhetorical play: time-machine sawaal mein Lata ji counter-question karti hain — agar naye composers purane hote / purane naye hote toh geet kaise bante — yeh dialogue ko one-way lecture nahi, thinking conversation banata hai. Contrast technique: purani technical limits vs aaj ki advanced recording; acting ki bheed-bhaad vs singing ka focus; shaan ke din vs bure din — sab swabhimaan ki line par. Names of films, raags, composers concrete evidence dete hain — interview ko vague praise se bachate hain. English: oral history style — questions open rare images for crores of listeners. Classroom tip: jab ‘भाषा-शैली’ pooche, likho — सरल, आत्मीय, संस्मरणात्मक, संवादात्मक, हास्य-गंभीर मिश्रण. Yeh craft isliye important hai kyunki isi se path boring biography nahi, living classroom conversation banta hai jo Smart Board par padhaya ja sake.",
+      "example": "Jaise dost se chai pe baat karte hue bhi serious seekh nikal aaye, waise is interview ki language ghar-jaisi hai magar message gehra hai.",
+      "board_lines": [
+        "शैली: संवादात्मक, आत्मीय, संस्मरणात्मक",
+        "तकनीक: प्रश्न-उत्तर, स्मृति-विवरण, व्यंग्य/हास्य-मिश्रण",
+        "प्रभाव: महान व्यक्तित्व को निकट और मानवीय बनाना"
+      ],
+      "common_mistake": "Students style ko sirf ‘आसान भाषा’ likhkar chhod dete hain. Add: संवाद-रूप, स्मृति-चित्र, counter-question, contrast.",
+      "memory_trick": "S-A-S: संवाद → आत्मीयता → स्मृति — style ka SAS code.",
+      "gesture_action": "Do students: ek sawaal (haath aage), ek jawab (haath dil) — class ko ‘साक्षात्कार’ freeze-frame dikhao.",
+      "real_life_examples": [
+        "News channel ka soft interview jahan guest haskar childhood yaad kare — wahi lehja yahan pustak mein",
+        "Grandmother ke muh se suni family story — simple words, deep feeling"
+      ],
+      "worked_example": {
+        "problem": "पाठ की भाषा-शैली की दो विशेषताएँ उदाहरण सहित लिखिए।",
+        "steps": [
+          "Feature 1: aatmeeya/sanvadatmak — prashna-uttar ka flow",
+          "Feature 2: sansmaranatmak vivaran — bachpan/pita/studio details",
+          "Optional: hasya-gambhir mix ya counter-question as craft"
+        ],
+        "answer": "भाषा सरल-आत्मीय और संवादात्मक है; शैली संस्मरणात्मक है जिसमें बचपन, पिता और रिकॉर्डिंग के जीवंत प्रसंग पाठक को निकट लाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ किस विधा/शैली में लिखा गया है?"
+        ],
+        "medium": [
+          "साक्षात्कार शैली पाठ को कहानी से कैसे अलग बनाती है?"
+        ],
+        "hard": [
+          "टाइम-मशीन वाले प्रश्न में लता जी का जवाब शैली की दृष्टि से क्यों प्रभावी है?"
+        ]
+      },
+      "summary": "पाठ की ताकत संवादात्मक-आत्मीय भाषा और स्मृति-आधारित विवरण में है, जो महान गायिका को परीक्षा के लिए याद रखने योग्य, मानवीय व्यक्तित्व बनाती है।",
+      "revision_point": "Style keywords: संवादात्मक, आत्मीय, संस्मरणात्मक, सरल हिंदी, हास्य-गंभीर।",
+      "exam_tip": "शैली-उत्तर mein hamesha ek chhota prsang-example do — sirf adjectives se examiner convince nahi hota।",
+      "source_text_hint": "दीदी, आपके संगीत की अप्रतिम यात्रा"
+    },
+    {
+      "concept": "नैतिक संदेश और जीवन-मूल्य",
+      "say": "Ab moral — jo path humein jeene ke liye deta hai, aur jo exam mein ‘संदेश/शिक्षा’ ke naam se aata hai. Message number one: स्वाभिमान — sahi lage toh karo, kisi ke aage jhukne ki zaroorat nahi; yaachna se badi mehnat. Path clearly dikhata hai ki Lata ji ne kisi se chhoti-moti madad maangne ki aadat nahi daali; yahi pita-mata ka sanskar tha. Message two: कर्तव्य और परिवार — recording ki thakaan se zyada family ko dekhna; success personal show-off nahi, zimmedari poori karne ka medium. Message three: समर्पण और मेहनत — situations ko blame kam, kaam zyada; subah-se-raat craft. Woh kehti hain ki acchi-buri label se zyada unka dimaag next work aur family needs par rehta tha. Message four: सादगी — rangon/show se parhez, chhote ghar mein khushi, shukr. Message five: अपनी राह चुनना — acting force mein nahi, singing mein sachcha sukh; Shivaji scene jaisa selective involvement bhi shraddha se. Message six: संस्कार की शक्ति — wealth aata-jaata hai, values reh jati hain; company ke shaan wale din aur pita ke baad ke bure din dono mein same backbone. English moral in one line: talent opens the door, character keeps you standing. Yeh morals preachy slogan nahi, interview ke jeeye hue prsangon se nikalte hain — isliye exam mein ‘संदेश’ ke saath ek supporting incident zaroor likho. Classroom: great voice + greater values = lasting respect. Agar tumhe ek hi line yaad rakhni ho toh yeh rakho — pehchaan awaaz se shuru hoti hai, lekin tikti hai swabhimaan se.",
+      "example": "Medal jeetne ke baad bhi classmate ko neecha dikhana vs quietly ghar ki help karna — path doosra raasta sikhata hai: success with humility and duty.",
+      "board_lines": [
+        "संदेश-1: स्वाभिमान से जियो, याचना मत करो",
+        "संदेश-2: मेहनत + परिवार-दायित्व = सच्ची सफलता",
+        "संदेश-3: सादगी और संस्कार ही स्थायी पहचान"
+      ],
+      "common_mistake": "Moral ko sirf ‘mehnat karo’ likh dena. Path specifically swabhimaan, no-begging, family duty, aur simplicity bhi maangta hai.",
+      "memory_trick": "M-S-S: मेहनत → स्वाभिमान → सादगी — moral ka MSS pack.",
+      "gesture_action": "Ek haath se mehnat (mutthi), doosra se family (dil), phir dono upar — ‘सफलता with values’.",
+      "real_life_examples": [
+        "Scholarship ke liye mehnat vs galat sifarish — swabhimaan wala choice",
+        "Salary aate hi ghar ke chhote kharch pehle poore karna — family duty"
+      ],
+      "worked_example": {
+        "problem": "पाठ से हमें कौन-सा प्रमुख नैतिक संदेश मिलता है? अपने शब्दों में लिखिए।",
+        "steps": [
+          "Core message identify: swabhimaan + parishram + parivar",
+          "Support with pita-sanskar / recording priority / simple living",
+          "Connect to lasting identity beyond awards"
+        ],
+        "answer": "प्रमुख संदेश है कि सफलता केवल प्रतिभा से नहीं, स्वाभिमान, निरंतर मेहनत और पारिवारिक उत्तरदायित्व से आती है; सादगी और संस्कार ही स्थायी पहचान बनाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का एक नैतिक संदेश लिखिए।"
+        ],
+        "medium": [
+          "‘स्वाभिमान से जीना’ पाठ में कैसे समझाया गया है?"
+        ],
+        "hard": [
+          "क्या प्रसिद्धि अकेले महान बनाती है? पाठ के आधार पर तर्क दीजिए।"
+        ]
+      },
+      "summary": "पाठ सिखाता है—स्वाभिमान रखो, मेहनत करो, परिवार निभाओ, सादगी अपनाओ; यश तब टिकाऊ होता है जब संस्कार साथ हों।",
+      "revision_point": "Moral pack: स्वाभिमान + मेहनत + परिवार + सादगी।",
+      "exam_tip": "संदेश-प्रश्न में ‘उपदेश’ mat bano — 1 message + 1 prsang (pita/recording/ghar) = full marks pattern।",
+      "source_text_hint": "अगर कोई बात तुम्हें सही लगती है"
+    },
+    {
+      "concept": "आज के विद्यार्थियों के लिए प्रासंगिकता",
+      "say": "Last concept — aaj ke teenagers ke liye yeh path kyun zaroori hai, especially rural/government school classroom mein jahan Smart Board teacher ka kaam kar raha hai. Pehli relevance: distraction wale yug mein focus — Lata ji recording ke alawa dusri sudh kam rakhti thin; aaj phone/reels ke beech padhai mein wahi ekagrata chahiye. Doosri: comparison trap — time-machine debate sikhata hai ki har zamane ki apni takniqi had aur creativity hoti hai; apne resources mein best do, purane-naye ko sirf flex mat banao. Teesri: career choice — acting shine dikhti thi, unhe singing suit karti thi; tumhe bhi crowd-pleasing nahi, apni strength choose karni chahiye. Chauthi: dignity in hardship — kam paise, zyada pressure; phir bhi self-respect. Paanchvi: family as motivation, not burden — ghar ke liye padhna/mehnat karna pride ho sakta hai. Chhathi: simplicity vs show-off culture — white saree jaisi saadgi aaj ke brand-pressure ka jawab. Saatvi: gratitude — fans/teachers/parents ke prati aabhaar, sirf demand nahi. English bridge: this interview is a life-skills chapter disguised as music history. Smart Board tip: har student ek personal pledge likhe — ‘Main apni pehchaan mehnat aur swabhimaan se banaunga/banaungi.’ Jab koi kahe ‘yeh path purana singer wala hai’, bolo — skills badal sakte hain, character nahi.",
+      "example": "Agar class mein naye shoes ke liye kisi se maangne ke bajay tuition/help karke khud kamao, ya kam resources mein bhi homework complete karo — path aaj bhi jeevit hai.",
+      "board_lines": [
+        "आज: एकाग्रता, स्वाभिमान, सही करियर-चुनाव",
+        "प्रेरणा: संघर्ष में भी परिवार और मेहनत",
+        "सवाल: मेरी पहचान शोर से या संस्कार से?"
+      ],
+      "common_mistake": "Students kehte hain ‘yeh path sirf singers ke liye hai’. Nahi — har field mein dedication, dignity aur duty chahiye.",
+      "memory_trick": "A-A-J: एकाग्रता → आत्मसम्मान → जीवन-चयन — ‘AAJ’ ke teen A/J steps.",
+      "gesture_action": "Phone neeche rakhne ka gesture, phir kitab uthana, phir seena tanana — ‘focus + dignity’.",
+      "real_life_examples": [
+        "Board exam season mein reels kam, revision zyada — recording-focus jaisa discipline",
+        "Village student smartphone ke bina bhi toppers list mein — resources nahi, riaaz jeetta hai"
+      ],
+      "worked_example": {
+        "problem": "‘ऐसी भी बातें होती हैं’ आज के विद्यार्थियों के लिए क्यों प्रासंगिक है? तीन बिंदु लिखिए।",
+        "steps": [
+          "Focus/mehnat vs distraction",
+          "Swabhimaan in financial/social pressure",
+          "Apni strength se career/life choice + simplicity/gratitude"
+        ],
+        "answer": "पाठ आज भी प्रासंगिक है क्योंकि वह एकाग्र मेहनत, कठिन दिनों में स्वाभिमान, अपनी क्षमता के अनुकूल चुनाव और सादगी-कृतज्ञता जैसे जीवन-कौशल सिखाता है—जो केवल संगीत तक सीमित नहीं।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ से विद्यार्थियों के लिए एक प्रेरणा लिखिए।"
+        ],
+        "medium": [
+          "सोशल मीडिया के युग में यह पाठ एकाग्रता पर क्या संदेश देता है?"
+        ],
+        "hard": [
+          "ग्रामीण विद्यालय के छात्र होने के नाते आप इस पाठ की किस सीख को अपने जीवन में अपनाएँगे और क्यों?"
+        ]
+      },
+      "summary": "यह साक्षात्कार आज के विद्यार्थी को सिखाता है कि पहचान शोर से नहीं, मेहनत-स्वाभिमान-सादगी से बनती है—संगीत हो या पढ़ाई।",
+      "revision_point": "Relevance = focus + dignity + right choice + simple living; applies beyond music.",
+      "exam_tip": "प्रासंगिकता-उत्तर mein ‘aaj’ ke concrete link do (exam stress, show-off, career confusion) — general praise se marks kam milte hain।",
+      "source_text_hint": "अपने करोड़ों प्रशंसकों का आभार व्यक्त"
+    }
+  ]
+}
