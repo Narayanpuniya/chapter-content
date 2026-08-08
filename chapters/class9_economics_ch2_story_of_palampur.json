@@ -1,0 +1,431 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 641,
+    "chapter_name": "पालमपुर गाँव की कहानी",
+    "chapter_number": 2,
+    "book_name": "Class 9 Economics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Economics"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum ek काल्पनिक गाँव — पालमपुर — ki कहानी se उत्पादन के मूल विचार सीखेंगे. खेती मुख्य क्रिया है, aur साथ में लघु विनिर्माण, डेयरी, परिवहन जैसी गैर-कृषि क्रियाएँ भी सीमित स्तर पर होती हैं. Hum उत्पादन के कारक (भूमि, श्रम, पूँजी, मानव पूँजी), बहुविध फसल प्रणाली, हरित क्रांति, भूमि-वितरण और श्रम-व्यवस्था ko Palampur ke examples se clearly samjhenge.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Economics — Chapter 2: पालमपुर गाँव की कहानी. Socho: ek gaon jahan road, bijli, school, health centre sab hai, lekin zameen badhti nahi — phir bhi teen faslein ugati hain! Aaj hum production ke asli secrets is village story se seekhenge. Ready ho? Chalo Palampur chalte hain!",
+    "learning_outcomes": [
+      "पालमपुर की कहानी के माध्यम से उत्पादन और उत्पादन क्रियाओं को समझना",
+      "उत्पादन के चार कारकों — भूमि, श्रम, भौतिक पूँजी और मानव पूँजी — को पहचानना और उदाहरण देना",
+      "बहुविध फसल प्रणाली, सिंचाई और आधुनिक कृषि विधियों (हरित क्रांति) से उपज बढ़ाने के तरीके समझाना",
+      "भूमि के असमान वितरण, पर्यावरणीय प्रभाव और श्रम-व्यवस्था की समस्या को Palampur के आँकड़ों से जोड़ना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अवलोकन — पालमपुर की कहानी का उद्देश्य"
+      },
+      {
+        "number": 2,
+        "name": "पालमपुर का परिचय — सुविधाएँ और जीवन"
+      },
+      {
+        "number": 3,
+        "name": "उत्पादन का संगठन — चार आवश्यकताएँ"
+      },
+      {
+        "number": 4,
+        "name": "पालमपुर में खेती — भूमि स्थिर है"
+      },
+      {
+        "number": 5,
+        "name": "बहुविध फसल प्रणाली और सिंचाई"
+      },
+      {
+        "number": 6,
+        "name": "आधुनिक कृषि विधियाँ और हरित क्रांति"
+      },
+      {
+        "number": 7,
+        "name": "क्या भूमि यह धारण कर पाएगी?"
+      },
+      {
+        "number": 8,
+        "name": "पालमपुर में भूमि का वितरण"
+      },
+      {
+        "number": 9,
+        "name": "श्रम की व्यवस्था कौन करेगा?"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अवलोकन — पालमपुर की कहानी का उद्देश्य",
+      "say": "Bacchon, aaj hum NCERT Class 9 Economics ka Chapter 2 shuru karte hain — पालमपुर गाँव की कहानी. Pehle NCERT clearly kehta hai: इस कहानी का उद्देश्य उत्पादन से संबंधित कुछ मूल विचारों से परिचय कराना है, aur yeh sab ek काल्पनिक गाँव — पालमपुर — की कहानी के माध्यम से. Yaad rakho — Palampur real map par exact nahi, lekin Western Uttar Pradesh ke Bulandshahr type villages par research se inspired hai. Palampur mein खेती मुख्य क्रिया है. Iske alawa लघु-स्तरीय विनिर्माण, डेयरी, परिवहन आदि सीमित स्तर पर ki jaati hain. In उत्पादन क्रियाओं ke liye alag-alag संसाधन chahiye — प्राकृतिक संसाधन, मानव निर्मित वस्तुएँ, मानव प्रयास, मुद्रा आदि. Is chapter ka core message yeh hai: गाँव में इच्छित वस्तुओं और सेवाओं को उत्पादित करने के लिए विभिन्न संसाधन किस प्रकार समायोजित होते हैं. India ke गाँवों में खेती उत्पादन की प्रमुख गतिविधि hai; बाकी को गैर-कृषि क्रियाएँ kehte hain — लघु विनिर्माण, परिवहन, दुकानदारी. Hum pehle production ke general rules seekhenge, phir farming aur non-farming dono dekhange. Class tip: jab bhi examiner pooche 'Palampur kyon padhate hain?', jawab — production ke मूल विचारों के लिए, imaginary village story ke through. Board par teen words likho: उत्पादन · संसाधन · समायोजन. Yeh teen words poore chapter ka map hain.",
+      "example": "Jaise school function ke liye hall (zameen), students (shram), mike-chairs (physical capital) aur teacher ka plan (human capital) ek saath chahiye — waise hi Palampur mein objects aur services banane ke liye resources adjust hote hain.",
+      "board_lines": [
+        "उद्देश्य: उत्पादन के मूल विचार (काल्पनिक गाँव पालमपुर)",
+        "मुख्य क्रिया: खेती | अन्य: डेयरी, लघु विनिर्माण, परिवहन",
+        "गैर-कृषि क्रियाएँ = खेती के अलावा उत्पादन गतिविधियाँ"
+      ],
+      "common_mistake": "Students sochte hain Palampur ek real named village hai jo exam mein map par dikhana hai — actually yeh काल्पनिक गाँव hai, production ideas sikhane ke liye.",
+      "memory_trick": "P-U-S: पालमपुर → उत्पादन → संसाधन समायोजन — chapter ka purpose!",
+      "gesture_action": "Dono haath failao jaise gaon ka nakaasha, phir ungliyan jodkar dikhao — resources aa kar production banate hain.",
+      "real_life_examples": [
+        "Apne gaon/shehar mein kheti ke saath dairy booth, kirana shop, tempo — farming + non-farm mix",
+        "School project: raw material + labour + tools milkar chart banana — resources adjust hona"
+      ],
+      "worked_example": {
+        "problem": "पालमपुर की कहानी का मुख्य उद्देश्य क्या है? एक वाक्य में लिखो।",
+        "steps": [
+          "NCERT overview yaad karo — production ke मूल विचारों से परिचय",
+          "Medium batão — काल्पनिक गाँव पालमपुर की कहानी",
+          "Answer mein उद्देश्य + माध्यम dono clearly likho"
+        ],
+        "answer": "पालमपुर की कहानी का उद्देश्य एक काल्पनिक गाँव के माध्यम से उत्पादन से संबंधित मूल विचारों से परिचय कराना है।"
+      },
+      "practice": {
+        "easy": [
+          "पालमपुर में मुख्य उत्पादन क्रिया क्या है?"
+        ],
+        "medium": [
+          "गैर-कृषि क्रियाएँ किसे कहते हैं? दो उदाहरण दीजिए।"
+        ],
+        "hard": [
+          "पालमपुर की कहानी हमें संसाधनों के समायोजन के बारे में क्या सिखाती है? अपने शब्दों में समझाइए।"
+        ]
+      },
+      "summary": "Palampur ek काल्पनिक गाँव hai jisse hum उत्पादन के मूल विचार aur संसाधनों का समायोजन seekhte hain — खेती मुख्य, बाकी गैर-कृषि।",
+      "revision_point": "Purpose = introduce production ideas via Palampur; farming main, non-farm limited.",
+      "exam_tip": "पहला प्रश्न अक्सर 'कहानी का उद्देश्य' होता है — 'काल्पनिक गाँव' शब्द ज़रूर लिखो।",
+      "source_text_hint": "इस कहानी का उद्देश्य उत्पादन से संबंधित कुछ मूल विचारों से परिचय कराना है"
+    },
+    {
+      "concept": "पालमपुर का परिचय — सुविधाएँ और जीवन",
+      "say": "Ab Palampur ko closely dekhte hain — परिचय section. Palampur आस-पड़ोस के गाँवों और कस्बों से भलीभाँति जुड़ा हुआ है. बड़ा गाँव रायगंज तीन किलोमीटर दूर hai; road aage छोटे कस्बे शाहपुर se bhi jodti hai. Is सड़क par बैलगाड़ियाँ, भैंसाबग्घी, मोटरसाइकिल, जीप, ट्रैक्टर और ट्रक — sab dikhte hain. गाँव में विभिन्न जातियों के लगभग 450 परिवार रहते हैं. अधिकांश भूमि के स्वामी उच्च जाति के 80 परिवार hain — unke मकान अक्सर ईंट और सीमेंट ke. अनुसूचित जाति (दलित) लोग कुल जनसंख्या का लगभग एक तिहाई hain, गाँव के एक कोने में छोटे घरों में — कुछ मिट्टी और पूफस के. अधिकांश घरों में बिजली है; खेतों के नलकूप बिजली से चलते हैं. शिक्षा: दो प्राथमिक विद्यालय और एक हाई स्कूल. स्वास्थ्य: एक राजकीय प्राथमिक स्वास्थ्य केंद्र और एक निजी औषधालय. NCERT kehta hai — सड़कों, परिवहन, बिजली, सिंचाई, विद्यालयों और स्वास्थ्य केंद्रों का पर्याप्त विकसित तंत्र है. Class activity: in सुविधाओं की तुलना अपने निकट के गाँव से करो. Important: India ke गाँवों में खेती प्रमुख है; अन्य उत्पादन = गैर-कृषि — लघु विनिर्माण, परिवहन, दुकानदारी. Yeh infrastructure isliye important hai kyunki isi se multiple crops aur modern farming possible hote hain — aage padhenge. Board tip: 450 families, 80 upper-caste landowners, one-third SC — yeh numbers exam mein aate hain.",
+      "example": "Agar tumhare gaon se nearest market 3 km road se juda ho aur bijli se tube-well chale — Palampur jaisi connectivity aur facility samajh aa jaati hai.",
+      "board_lines": [
+        "450 परिवार | रायगंज 3 किमी | शाहपुर कस्बा",
+        "80 उच्च जाति भूमि-स्वामी | ~1/3 अनुसूचित जाति",
+        "सुविधाएँ: सड़क, बिजली, सिंचाई, 2 प्राथमिक + 1 हाई स्कूल, PHC + निजी औषधालय"
+      ],
+      "common_mistake": "Students 450 families ko 450 log samajh lete hain — NCERT कहता है लगभग 450 परिवार, जनसंख्या नहीं।",
+      "memory_trick": "4-8-3: 450 परिवार, 80 बड़े भूमि-स्वामी परिवार, रायगंज 3 किमी — Palampur intro numbers!",
+      "gesture_action": "Road dikhao (haath se line), phir school-health ke liye do ungliyan, bijli ke liye switch-on gesture.",
+      "real_life_examples": [
+        "Apne block ke PHC aur private clinic — Palampur jaisi dual health facility",
+        "Village road par bullock cart + tractor + motorcycle ek saath — mixed transport"
+      ],
+      "worked_example": {
+        "problem": "पालमपुर की कोई चार विकसित सुविधाएँ लिखिए।",
+        "steps": [
+          "NCERT list yaad karo: सड़क/परिवहन, बिजली, सिंचाई, विद्यालय, स्वास्थ्य",
+          "Koi chaar clear names chuno",
+          "Short points mein likho"
+        ],
+        "answer": "सड़क एवं परिवहन साधन, बिजली, सिंचाई (नलकूप), विद्यालय (दो प्राथमिक + एक हाई स्कूल) / राजकीय प्राथमिक स्वास्थ्य केंद्र।"
+      },
+      "practice": {
+        "easy": [
+          "पालमपुर में लगभग कितने परिवार रहते हैं?"
+        ],
+        "medium": [
+          "पालमपुर अनुसूचित जाति के लोगों की आवासीय स्थिति के बारे में NCERT क्या कहता है?"
+        ],
+        "hard": [
+          "पालमपुर के विकसित तंत्र की तुलना अपने निकट गाँव की सुविधाओं से करके तीन समानताएँ या अंतर लिखो।"
+        ]
+      },
+      "summary": "Palampur ~450 परिवारों वाला जुड़ा हुआ गाँव है — सड़क, बिजली, सिंचाई, स्कूल और स्वास्थ्य सुविधाओं के साथ; भूमि और आवास में सामाजिक अंतर साफ़ दिखता है।",
+      "revision_point": "Intro facts: 450 families, Raiganj 3 km, electricity + schools + PHC, unequal housing/land ownership.",
+      "exam_tip": "सुविधाओं वाले 3-mark में कम से कम पाँच बिंदु — सड़क, बिजली, सिंचाई, शिक्षा, स्वास्थ्य — लिखो।",
+      "source_text_hint": "पालमपुर आस-पड़ोस के गाँवों और कस्बों से भलीभाँति जुड़ा हुआ है"
+    },
+    {
+      "concept": "उत्पादन का संगठन — चार आवश्यकताएँ",
+      "say": "Bacchon, ab chapter ka backbone — उत्पादन का संगठन. उत्पादन का उद्देश्य ऐसी वस्तुएँ और सेवाएँ उत्पादित करना है जिनकी हमें आवश्यकता है. Objects aur services banane ke liye चार चीजें आवश्यक हैं. पहली: भूमि तथा अन्य प्राकृतिक संसाधन — जल, वन, खनिज. दूसरी: श्रम — jo लोग काम करेंगे. Kuch production mein पढ़े-लिखे कर्मियों ki zaroorat, kuch mein शारीरिक कार्य करने वाले श्रमिक. प्रत्येक श्रमिक उत्पादन के लिए आवश्यक श्रम प्रदान करता है. तीसरी: भौतिक पूँजी — उत्पादन के हर स्तर पर अपेक्षित आगत. Iske do hisse hain. (क) औज़ार, मशीन, भवन — किसान का हल se lekar generator, turbine, computer tak; kai वर्षों तक use hoti hain — स्थायी पूँजी. (ख) कच्चा माल और नकद मुद्रा — बुनकर का सूत, कुम्हार की मिट्टी; payments aur zaruri maal ke liye cash — कार्यशील पूँजी. Yeh चीजें उत्पादन-क्रिया के दौरान समाप्त हो जाती हैं, tools/machines jaisi nahi. चौथी: ज्ञान और उद्यम — land, labour, physical capital ko combine karke ख़ुद उपभोग या बाज़ार बिक्री ke liye produce karna. Aajkal isse मानव पूँजी kehte hain; agle chapter mein detail. Board formula: उत्पादन = भूमि + श्रम + पूँजी को संयोजित करना. Inhe उत्पादन के कारक कहा जाता है. Is अध्याय में भौतिक पूँजी को संक्षेप में पूँजी कहेंगे; pehle teen factors Palampur story mein deeply aayenge. Picture tip: factory mein machines par workers — identify land/building, labour, fixed capital.",
+      "example": "Ek potter: मिट्टी/जगह (भूमि), हाथ से गढ़ना (श्रम), चाक और भट्ठा (स्थायी पूँजी), मिट्टी-रंग-नकद (कार्यशील पूँजी), डिज़ाइन-बाजार समझ (मानव पूँजी)।",
+      "board_lines": [
+        "4 कारक: भूमि · श्रम · भौतिक पूँजी · मानव पूँजी",
+        "स्थायी पूँजी = औज़ार/मशीन/भवन (कई वर्ष)",
+        "कार्यशील पूँजी = कच्चा माल + नकद (उत्पादन में समाप्त)"
+      ],
+      "common_mistake": "Students सारा पूँजी को सिर्फ पैसा समझते हैं — NCERT में भौतिक पूँजी = tools/machines + raw material/cash; पैसा अकेला चौथा कारक नहीं।",
+      "memory_trick": "L-L-P-H: Land–Labour–Physical capital–Human capital — 'LLPH' bolke चार कारक!",
+      "gesture_action": " चार ungliyan: 1 zameen, 2 mehnat (fist), 3 machine (turn), 4 dimaag/enterprise (point to head).",
+      "real_life_examples": [
+        "Tailor: sewing machine = स्थायी पूँजी; कपड़ा-धागा-नकद = कार्यशील पूँजी",
+        "Farmer ka tractor kai saalon tak — fixed capital; बीज-खाद हर फसल में खत्म — working capital"
+      ],
+      "worked_example": {
+        "problem": "स्थायी पूँजी और कार्यशील पूँजी में अंतर स्पष्ट कीजिए (एक-एक उदाहरण सहित)।",
+        "steps": [
+          "स्थायी पूँजी: कई वर्षों तक प्रयोग — औज़ार, मशीन, भवन",
+          "कार्यशील पूँजी: उत्पादन के दौरान समाप्त — कच्चा माल + नकद",
+          "Example pair likho — हल vs बीज/नकद"
+        ],
+        "answer": "स्थायी पूँजी लंबे समय तक प्रयोग होती है (जैसे हल, ट्रैक्टर, भवन)। कार्यशील पूँजी उत्पादन में समाप्त हो जाती है (जैसे बीज, खाद, कच्चा माल और नकद मुद्रा)।"
+      },
+      "practice": {
+        "easy": [
+          "उत्पादन के चार कारकों के नाम लिखो।"
+        ],
+        "medium": [
+          "भौतिक पूँजी की दो श्रेणियाँ समझाइए।"
+        ],
+        "hard": [
+          "एक छोटी बेकरी के उदाहरण से भूमि, श्रम, स्थायी पूँजी, कार्यशील पूँजी और मानव पूँजी को पहचानकर तालिका बनाओ।"
+        ]
+      },
+      "summary": "वस्तुएँ-सेवाएँ बनाने के लिए भूमि, श्रम, भौतिक पूँजी (स्थायी+कार्यशील) और मानव पूँजी (ज्ञान-उद्यम) को जोड़ना पड़ता है — यही उत्पादन के कारक हैं।",
+      "revision_point": "Four factors; fixed vs working capital difference is a favourite exam question.",
+      "exam_tip": "अंतर-प्रश्न में 'समाप्त हो जाती है' वाली line कार्यशील पूँजी के लिए ज़रूर लिखो।",
+      "source_text_hint": "वस्तुओं और सेवाओं के उत्पादन के लिए चार चीशें आवश्यक हैं"
+    },
+    {
+      "concept": "पालमपुर में खेती — भूमि स्थिर है",
+      "say": "Ab Palampur mein खेती. काम करने वालों में 75 प्रतिशत लोग अपनी जीविका के लिए खेती पर निर्भर हैं — किसान अथवा कृषि श्रमिक. Unka हित खेतों में उत्पादन se juda hai. Lekin मूलभूत कठिनाई: खेती में प्रयुक्त भूमि-क्षेत्र वस्तुतः स्थिर होता है. Palampur mein वर्ष 1960 से आज तक जुताई के अंतर्गत भूमि-क्षेत्र में कोई विस्तार नहीं हुआ. Us समय तक कुछ बंजर भूमि को कृषि योग्य बनाया गया tha; ab नयी भूमि को खेती योग्य बनाकर उत्पादन बढ़ाने की गुंजाइश नहीं. Land measure: मानक इकाई हेक्टेयर; गाँवों में बीघा, गुंठा भी. एक हेक्टेयर = 100 मीटर की भुजा वाले वर्ग का क्षेत्रफल. Socho — apne school ke मैदान se compare karo. Table 1.1 India ka cultivated area dikhata hai: 1950-51 mein 132 million hectare; 1990-91 ke baad roughly 186–200 ke aas-paas — matlab national level par bhi cultivated land zyada nahi badh rahi. Class point: jab land fixed ho, production badhane ke liye hum same land se zyada nikalna seekhte hain — next topics multiple cropping aur modern methods. Yaad rakho: 75% livelihood farming par; land area nearly fixed since 1960 in Palampur. Yeh tension poore chapter ko chalati hai — land nahi badhegi, toh kya karein?",
+      "example": "Family ke paas ek hi plot hai — nayi zameen kharidna mushkil; isliye same plot par saal mein zyada faslein ya behtar beej se production badhani padti hai.",
+      "board_lines": [
+        "75% लोग खेती पर निर्भर (किसान/कृषि श्रमिक)",
+        "भूमि-क्षेत्र स्थिर — 1960 से जुताई क्षेत्र में विस्तार नहीं",
+        "1 हेक्टेयर = 100 m × 100 m वर्ग"
+      ],
+      "common_mistake": "Students sochte hain production badhane ka sirf ek rasta hai nayi zameen जोड़ना — Palampur mein woh option khatam ho chuka hai।",
+      "memory_trick": "L-F: Land Fixed — 1960 se Palampur ki zameen 'Full'!",
+      "gesture_action": "Dono haathon se ek box banao (fixed land) aur head hilao — 'no more expansion'.",
+      "real_life_examples": [
+        "City edge par kheti ki zameen buildings mein convert — cultivated land pressure",
+        "School ground area fixed rehta hai — usi par zyada activities schedule karni padti hain"
+      ],
+      "worked_example": {
+        "problem": "पालमपुर में कृषि उत्पादन बढ़ाने की मूलभूत कठिनाई क्या है? संक्षेप में लिखो।",
+        "steps": [
+          "Recall: land under cultivation is fixed",
+          "1960 se koi विस्तार नहीं; barren land already converted",
+          "Conclude: new land option nearly zero"
+        ],
+        "answer": "मूलभूत कठिनाई यह है कि खेती में प्रयुक्त भूमि-क्षेत्र स्थिर है — 1960 से जुताई योग्य भूमि में विस्तार नहीं हुआ, अतः नई भूमि जोड़कर उत्पादन बढ़ाना संभव नहीं।"
+      },
+      "practice": {
+        "easy": [
+          "पालमपुर में कितने प्रतिशत लोग खेती पर निर्भर हैं?"
+        ],
+        "medium": [
+          "हेक्टेयर किसे कहते हैं? गाँवों में भूमि मापने की अन्य इकाइयाँ क्या हैं?"
+        ],
+        "hard": [
+          "यदि भूमि स्थिर है, तो उत्पादन बढ़ाने के संभावित रास्ते क्या हो सकते हैं? (अगले खंडों से जोड़कर सोचना)"
+        ]
+      },
+      "summary": "Palampur में 75% आजीविका खेती पर है, पर जुताई भूमि 1960 से लगभग स्थिर है — नई भूमि जोड़कर बढ़ोतरी संभव नहीं।",
+      "revision_point": "Fixed land + 75% farm dependence = central constraint of the chapter.",
+      "exam_tip": "'भूमि स्थिर है' वाले उत्तर में 1960 का वर्ष अवश्य लिखो।",
+      "source_text_hint": "खेती में प्रयुक्त भूमि-क्षेत्रा वस्तुतः स्थिर होता है"
+    },
+    {
+      "concept": "बहुविध फसल प्रणाली और सिंचाई",
+      "say": "Sawaal: क्या उसी भूमि से अधिक पैदावार करने का कोई तरीका है? Haan — दो बड़े रास्ते; pehla aaj: बहुविध फसल प्रणाली + सिंचाई. Palampur पश्चिमी उत्तर प्रदेश जैसा लगता है — समस्त भूमि पर खेती, कोई भूमि बेकार नहीं. फसल चक्र: बरसात (खरीफ) में ज्वार और बाजरा — पशु चारे के लिए; अक्तूबर–दिसंबर के बीच आलू; सर्दी (रबी) में गेहूँ — परिवार के लिए रखकर बाकी रायगंज मंडी में बिक्री; कुछ भाग में गन्ना — वर्ष में एक बार कटाई, कच्चा या गुड़ बनाकर शाहपुर व्यापारियों को. क्यों तीन फसलें? क्योंकि सिंचाई की सुविकसित व्यवस्था है. बिजली जल्दी आई; सिंचाई विधि बदली — पहले कुओं से रहट, अब बिजली नलकूप. शुरू में कुछ नलकूप सरकार ने लगाए, फिर किसानों ने निजी लगाए; 1970 के दशक के मध्य तक पूरे 200 हेक्टेयर जुते क्षेत्र की सिंचाई. एक वर्ष में किसी भूमि पर एक से ज़्यादा फसल = बहुविध फसल प्रणाली — भूमि के एक टुकड़े में उपज बढ़ाने की सबसे सामान्य प्रणाली. Palampur mein sab किसान कम से कम दो मुख्य फसलें; कई पिछले 15–20 वर्षों से तीसरी फसल आलू. India fact: आज भी कुल कृषि क्षेत्र के 40% से भी कम में सिंचाई; बाकी मुख्यतः वर्षा पर. नदीय मैदान और तटीय क्षेत्रों में अच्छी सिंचाई; दक्षिणी पठार में कम. Class discuss: क्या सिंचाई क्षेत्र बढ़ाना आवश्यक है? क्यों?",
+      "example": "Same field: June–Sep jowar/bajra, Oct–Dec potato, winter wheat — ek saal mein teen crops because tube-well irrigation reliable hai.",
+      "board_lines": [
+        "बहुविध फसल = एक वर्ष में एक भूमि पर एक से अधिक फसल",
+        "पालमपुर: खरीफ ज्वार-बाजरा → आलू → रबी गेहूँ (+ गन्ना)",
+        "सिंचाई: रहट → बिजली नलकूप; ~1970 मध्य तक 200 हेक्टेयर सिंचित"
+      ],
+      "common_mistake": "Students बहुविध फसल को 'अलग-अलग खेतों पर अलग फसल' समझते हैं — असल में एक ही भूमि-टुकड़े पर वर्ष में एक से अधिक फसल।",
+      "memory_trick": "J-A-G: ज्वार/बाजरा–आलू–गेहूँ — Palampur ka crop calendar!",
+      "gesture_action": "Teen ungliyan sequentially uthao — fasal 1, fasal 2, fasal 3 on same palm (same land).",
+      "real_life_examples": [
+        "Apne ilake ki rabi-kharif crops ki list banana — multiple cropping check",
+        "Canal/tube-well wale khet vs barani (rainfed) khet — yield difference"
+      ],
+      "worked_example": {
+        "problem": "बहुविध फसल प्रणाली किसे कहते हैं? पालमपुर में यह कैसे संभव हुई?",
+        "steps": [
+          "Definition: एक वर्ष में एक भूमि पर एक से अधिक फसल",
+          "Palampur crops: कम से कम दो; अक्सर आलू तीसरी",
+          "Reason: विकसित सिंचाई (बिजली नलकूप)"
+        ],
+        "answer": "एक वर्ष में किसी भूमि पर एक से अधिक फसल पैदा करना बहुविध फसल प्रणाली है। पालमपुर में बिजली से चलने वाले नलकूपों की सुविकसित सिंचाई के कारण किसान एक वर्ष में तीन फसलें तक उगा पाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पालमपुर में रबी मौसम की मुख्य फसल कौन-सी है?"
+        ],
+        "medium": [
+          "भारत में सिंचाई की स्थिति के बारे में NCERT का 40% वाला तथ्य लिखो।"
+        ],
+        "hard": [
+          "बहुविध फसल प्रणाली भूमि के एक टुकड़े से उत्पादन बढ़ाने का सबसे सामान्य तरीका क्यों मानी जाती है? सिंचाई से जोड़कर समझाइए।"
+        ]
+      },
+      "summary": "सिंचाई (नलकूप) की वजह से Palampur में बहुविध फसल संभव है — ज्वार-बाजरा, आलू, गेहूँ — जबकि देश में अभी भी 40% से कम कृषि भूमि सिंचित है।",
+      "revision_point": "Multiple cropping + irrigation is the first way to raise output on fixed land.",
+      "exam_tip": "फसलों के नाम के साथ मौसम (खरीफ/रबी) और बिक्री स्थान (रायगंज/शाहपुर) लिखने से पूरे अंक मिलते हैं।",
+      "source_text_hint": "एक वर्ष में किसी भूमि पर एक से श्यादा पफसल पैदा करने को बहुविध पफसल प्रणाली कहते है"
+    },
+    {
+      "concept": "आधुनिक कृषि विधियाँ और हरित क्रांति",
+      "say": "Doosra तरीका: आधुनिक कृषि विधियाँ. उपज = भूमि के किसी टुकड़े में एक ही मौसम में पैदा फसल. 1960 के दशक मध्य तक पारंपरिक बीज — कम उपज, कम सिंचाई, गोबर/प्राकृतिक खाद, खरीद की कम जरूरत. 1960 के दशक अंत में हरित क्रांति — अधिक उपज वाले बीज (HYV) se गेहूँ और चावल. HYV se ek पौधे se zyada अनाज, lekin अधिकतम उपज के लिए बहुत ज़्यादा पानी, रासायनिक खाद और कीटनाशक — combination zaroori. Punjab, Haryana, पश्चिमी UP ने पहले अपनाया — नलकूप, HYV, chemical fertilizers, pesticides; कुछ ने ट्रैक्टर और थ्रेशर भी. Palampur figures: पारंपरिक बीज से गेहूँ 1,300 किग्रा/हेक्टेयर; HYV से 3,200 किग्रा/हेक्टेयर — अधिशेष गेहूँ बाज़ार में. Modern farmer ko अधिक कार्यशील पूँजी chahiye — बीज, खाद, कीटनाशक, बिजली/डीज़ल नकद में. Table 1.2: हरित क्रांति के बाद गेहूँ का उत्पादन तेज़ी से बढ़ा (1965-66: 10 करोड़ टन → 2023-24: 113), दालें अपेक्षाकृत धीमी — चर्चा: क्या दोनों फसलों के लिए समान सफल? Board: आधुनिक विधियाँ = HYV + सिंचाई + उर्वरक + कीटनाशक (+ मशीनें). Class tip: बहुविध फसल ≠ आधुनिक विधियाँ — pehli same land par zyada seasons; doosri same season mein higher yield technology.",
+      "example": "Same 1 hectare: purane beej se ~1300 kg gehun; HYV package se ~3200 kg — surplus mandi mein bechne layak.",
+      "board_lines": [
+        "हरित क्रांति ≈ HYV बीज + सिंचाई + रासायनिक उर्वरक + कीटनाशक",
+        "पालमपुर गेहूँ: 1,300 → 3,200 किग्रा/हेक्टेयर",
+        "आधुनिक खेती = अधिक नकद/कार्यशील पूँजी की जरूरत"
+      ],
+      "common_mistake": "Students बहुविध फसल प्रणाली और आधुनिक विधियों को एक ही समझ लेते हैं — अंतर: एक समय में मौसमों की संख्या बनाम तकनीक से प्रति मौसम उपज।",
+      "memory_trick": "H-Y-V-C: HYV + Water + Chemical inputs — Green Revolution package!",
+      "gesture_action": "Ek haath se chhota plant (traditional), doosra haath ooncha (HYV yield) — phir pocket se 'cash' nikaalne ka gesture for working capital.",
+      "real_life_examples": [
+        "Krishi seva kendra se DAP/urea kharidna — modern inputs in cash",
+        "Combine/tractor se katai — fixed capital speeding farm work"
+      ],
+      "worked_example": {
+        "problem": "बहुविध फसल प्रणाली और खेती की आधुनिक विधियों में क्या अंतर है?",
+        "steps": [
+          "Multiple cropping: ek saal mein ek land par ek se zyada crops",
+          "Modern methods: HYV + irrigation + chemicals se same season mein higher yield",
+          "Clear contrast sentence likho"
+        ],
+        "answer": "बहुविध फसल प्रणाली एक ही भूमि पर वर्ष में एक से अधिक फसल उगाना है; आधुनिक विधियाँ HYV बीज, सिंचाई, रासायनिक उर्वरक आदि से उसी मौसम में प्रति हेक्टेयर उपज बढ़ाती हैं।"
+      },
+      "practice": {
+        "easy": [
+          "HYV का पूरा रूप क्या है?"
+        ],
+        "medium": [
+          "आधुनिक कृषि विधियाँ अपनाने वाले किसान को अधिक नकद क्यों चाहिए?"
+        ],
+        "hard": [
+          "सारणी 1.2 के आधार पर बताइए कि हरित क्रांति गेहूँ और दालों के लिए समान रूप से सफल हुई या नहीं। तर्क दीजिए।"
+        ]
+      },
+      "summary": "हरित क्रांति की HYV तकनीक ने Palampur में गेहूँ की उपज 1300 से 3200 किग्रा/हेक्टेयर तक बढ़ाई, पर इसके लिए अधिक पानी, रसायन और नकद कार्यशील पूँजी चाहिए।",
+      "revision_point": "Green Revolution package + Palampur wheat yields 1300→3200; more cash needed.",
+      "exam_tip": "अंतर-प्रश्न में दोनों विधियों की परिभाषा अलग-अलग वाक्यों में लिखो — examiner मिश्रण पर नंबर काटता है।",
+      "source_text_hint": "1960 के दशक के अंत में हरित क्रांति ने भारतीय किसानों को अधिक उपज वाले बीजों"
+    },
+    {
+      "concept": "क्या भूमि यह धारण कर पाएगी?",
+      "say": "Bacchon, ab serious sawaal — क्या भूमि यह धारण कर पाएगी? भूमि एक प्राकृतिक संसाधन है, अतः सावधानीपूर्वक प्रयोग जरूरी. वैज्ञानिक रिपोर्ट: आधुनिक कृषि विधियों ने प्राकृतिक संसाधन आधार का अति उपयोग किया. अनेक क्षेत्रों में हरित क्रांति के कारण उर्वरकों के अधिक प्रयोग से मिट्टी की उर्वरता कम हुई; नलकूप सिंचाई से भूमि जल के सतत् प्रयोग से भौम जल-स्तर गिरा. मिट्टी की उर्वरता और भौम जल जैसे पर्यावरणीय संसाधन कई वर्षों में बनते हैं; नष्ट होने पर पुनर्जीवित करना बहुत कठिन. Future agriculture ke liye पर्यावरण की देखभाल जरूरी. Box points from Down to Earth: रासायनिक उर्वरक पानी में घुलकर पौधों को तुरंत मिलते हैं, पर मिट्टी लंबे समय तक नहीं पकड़ती; वे भौम जल, नदियों, तालाबों को प्रदूषित करते हैं; मिट्टी के जीवाणु और सूक्ष्म-अवयव नष्ट हो सकते हैं — बाद में मिट्टी कम उपजाऊ. Tribune/Punjab: देश में रासायनिक खाद का सबसे अधिक प्रयोग पंजाब में; गुणवत्ता घटी, पुराना उत्पादन पाने के लिए और अधिक inputs — लागत तेज़ी से बढ़ी. Suggested activity: कृषि मंत्री को पत्र — chemical fertilizers कैसे हानिकारक हो सकते हैं. Class message: modern methods ne yield badhai, lekin sustainability ka bill bhi aaya. Exam mein environment impact alag 3–5 mark question ban sakta hai.",
+      "example": "Tube-well roz chalane se short-term fasal achhi, lekin saalon baad village well ka water level gir jaata hai — same story NCERT warns about.",
+      "board_lines": [
+        "आधुनिक विधियाँ → अति उपयोग: उर्वरता↓ , भौम जल↓",
+        "रासायनिक उर्वरक: तुरंत लाभ, लंबे समय में प्रदूषण/क्षति",
+        "पंजाब उदाहरण: अधिक खाद → लागत↑ , मिट्टी गुणवत्ता↓"
+      ],
+      "common_mistake": "Students हरित क्रांति को सिर्फ 'सफलता' मानकर रटते हैं — NCERT साफ़ चेतावनी देता है कि मिट्टी और भूजल का नुकसान गंभीर है।",
+      "memory_trick": "S-W: Soil fertility↓ + Water table↓ — modern farming ka environmental bill!",
+      "gesture_action": "Ek haath se fasal oonchi dikhao (yield up), doosre haath se neeche dabaao (soil/water down).",
+      "real_life_examples": [
+        "Newspaper reports on falling groundwater in farming belts",
+        "Organic manure / compost use in kitchen garden — contrast with chemical-only fields"
+      ],
+      "worked_example": {
+        "problem": "आधुनिक कृषि विधियों के दो पर्यावरणीय दुष्प्रभाव लिखिए।",
+        "steps": [
+          "Point 1: chemical fertilizers → मिट्टी की उर्वरता कम",
+          "Point 2: tube-well irrigation → भौम जल-स्तर कम",
+          "Optional add: water pollution / microbes damage"
+        ],
+        "answer": "(1) रासायनिक उर्वरकों के अधिक प्रयोग से मिट्टी की उर्वरता घटती है। (2) नलकूपों से लगातार सिंचाई से भौम जल-स्तर गिरता है।"
+      },
+      "practice": {
+        "easy": [
+          "भूमि को सावधानी से प्रयोग करने की आवश्यकता क्यों है?"
+        ],
+        "medium": [
+          "रासायनिक उर्वरक मिट्टी और जल को कैसे प्रभावित करते हैं? (पाठ के बॉक्स के अनुसार)"
+        ],
+        "hard": [
+          "कृषि मंत्री को 8–10 पंक्तियों का पत्र लिखो जिसमें रासायनिक उर्वरकों की हानि और एक सुझाव हो।"
+        ]
+      },
+      "summary": "आधुनिक खेती ने पैदावार बढ़ाई, पर मिट्टी की उर्वरता और भूजल का अति दोहन भविष्य के लिए खतरा है — पर्यावरण की देखभाल जरूरी।",
+      "revision_point": "Sustainability warning: soil fertility↓, groundwater↓, chemical pollution, rising costs (Punjab).",
+      "exam_tip": "'क्या भूमि धारण कर पाएगी' में मिट्टी + भूजल दोनों बिंदु लिखना अनिवार्य समझो।",
+      "source_text_hint": "भूमि एक प्राकृतिक संसाधन है, अतः इसका सावधानीपूर्वक प्रयोग करने की शरूरत है"
+    },
+    {
+      "concept": "पालमपुर में भूमि का वितरण",
+      "say": "Land itni important hai, lekin सबके पास पर्याप्त भूमि नहीं. Palampur: 450 परिवारों में लगभग एक तिहाई अर्थात् 150 परिवारों के पास खेती के लिए भूमि नहीं — अधिकांशतः दलित. बाकी में 240 परिवार 2 हेक्टेयर से कम के छोटे टुकड़ों पर खेती — पर्याप्त आमदनी नहीं. मझोले और बड़े किसानों के 60 परिवार 2 हेक्टेयर से अधिक पर; कुछ के पास 10 हेक्टेयर या अधिक. चित्र 1.5: गाँव के चारों ओर बिखरे छोटे plots; आधे से ज़्यादा क्षेत्र बड़े plots. Case study — कृषक गोविंद: 1960 में 2.25 हेक्टेयर अधिकतर असिंचित भूमि; तीन पुत्रों की मदद + एक भैंस से गुज़ारा. मृत्यु के बाद भूमि तीनों में बँटी — प्रत्येक को 0.75 हेक्टेयर. बेहतर सिंचाई और आधुनिक विधियों के बावजूद बेटे गुज़ारा नहीं कर पाते; वर्ष के कुछ भाग में अतिरिक्त कार्य ढूँढ़ना पड़ता है. Discuss: छोटे किसानों के इतने परिवार छोटे plots पर क्यों? Inheritance se plots टूटते जाते हैं. आरेख 1.1 भारत में किसानों और भूमि का वितरण — कक्षा चर्चा: क्या Palampur में वितरण असमान है? क्या भारत में भी ऐसी स्थिति? Haan — thode logon ke paas zyada zameen, bahut log landless ya marginal. Yeh inequality next topic labour se judti hai.",
+      "example": "Gobind ke 2.25 haage teen bete → 0.75 ha each — modern inputs hone ke baad bhi plot itna chhota ki pure saal ka kharcha nahi nikalta.",
+      "board_lines": [
+        "450 परिवार: 150 भूमिहीन | 240 (<2 हेक्टेयर) | 60 (>2 हेक्टेयर)",
+        "गोविंद: 2.25 हेक्टेयर → 3 × 0.75 हेक्टेयर",
+        "निष्कर्ष: कृषि भूमि का वितरण असमान"
+      ],
+      "common_mistake": "Students 240 छोटे किसानों को 'खुशहाल' मान लेते हैं — NCERT कहता है छोटे टुकड़ों से पर्याप्त आमदनी नहीं होती।",
+      "memory_trick": "1-2-6: ~150 landless, 240 small (<2 ha), 60 medium/large — Palampur land math!",
+      "gesture_action": "Ek bada imaginary field dikhao, phir usse teen chhote pieces mein todo — inheritance fragmentation.",
+      "real_life_examples": [
+        "Family zameen bhaiyon mein bantne se chhote holdings",
+        "Village mein bade kisan ke bade khet vs mazdoor ke bilkul no land"
+      ],
+      "worked_example": {
+        "problem": "क्या आप सहमत हैं कि पालमपुर में कृषि भूमि का वितरण असमान है? आँकड़ों से समझाइए।",
+        "steps": [
+          "150 landless (~1/3) mention karo",
+          "240 small (<2 ha) vs 60 medium/large (>2 ha, some ≥10 ha)",
+          "Conclude clearly: हाँ, वितरण असमान"
+        ],
+        "answer": "हाँ, वितरण असमान है — लगभग 150 परिवार भूमिहीन हैं, 240 छोटे टुकड़ों (<2 हेक्टेयर) पर हैं, जबकि केवल 60 मझोले/बड़े किसान अधिक भूमि (कुछ 10+ हेक्टेयर) रखते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पालमपुर में लगभग कितने परिवार भूमिहीन हैं?"
+        ],
+        "medium": [
+          "गोविंद की कहानी भूमि विभाजन की समस्या कैसे दिखाती है?"
+        ],
+        "hard": [
+          "पालमपुर और भारत दोनों में भूमि वितरण की असमानता की तुलना अपने शब्दों में कीजिए।"
+        ]
+      },
+      "summary": "Palampur में भूमि असमान बँटी है — 150 भूमिहीन, 240 छोटे किसान, 60 मझोले/बड़े — और विरासत से जोतें और छोटी होती जा रही हैं।",
+      "revision_point": "Numbers 150–240–60 + Gobind 2.25→0.75 story = unequal land distribution.",
+      "exam_tip": "गोविंद केस-स्टडी को 3-mark में steps (पहले–बाद–परिणाम) में लिखो।",
+      "source_text_hint": "परिवारों में से लगभग एक तिहाई अर्थात् 150 परिवारों के पास, खेती के लिए भूमि नहीं है"
+    },
+    {
+      "concept": "श्रम की व्यवस्था कौन करेगा?",
+      "say": "भूमि के पश्चात्, श्रम उत्पादन का दूसरा आवश्यक कारक है. खेती में बहुत ज़्यादा परिश्रम की आवश्यकता होती है — जुताई, बुआई, निराई, सिंचाई, कटाई, गहाई. Sawaal: श्रम की व्यवस्था कौन करेगा? NCERT clear distinction deta hai. छोटे किसान अपने परिवारों के साथ अपने खेतों में स्वयं काम करते हैं — इस तरह वे खेती के लिए आवश्यक श्रम की व्यवस्था स्वयं ही करते हैं. Unke paas chhoti johein hoti hain (yaad rakho <2 hectare wale 240 families), isliye hired labour ki capacity/need limited; family labour sasta aur available. दूसरी ओर, मझोले और बड़े किसान अपने खेतों में काम करने के लिए दूसरे श्रमिकों को किराये पर लगाते हैं. Unke plots bade hote hain, operations time-bound hote hain, aur kai baar woh khud sirf supervision karte hain. Landless families (lagbhag 150) often inhi bade farms par मजदूरी करते हैं — previous concept se link. Class discuss point from textbook: खेतों में किए जाने वाले कार्यों की सूची सोचना — kaunse kaam family kar sakti hai, kaunse ke liye bahar se labour chahiye. Exam connection: factors of production mein labour ke baad hum dekhte hain ki land ownership decide karta hai labour arrangement — small = family labour, medium/large = hired labour. Yeh Palampur story ka important social-economic link hai.",
+      "example": "2 hectare se chhote plot par pita-mata-bacche milkar ropai-katai karte hain; 10 hectare wale kisan season mein 8–10 mazdoor hire karte hain.",
+      "board_lines": [
+        "श्रम = उत्पादन का दूसरा आवश्यक कारक",
+        "छोटे किसान → पारिवारिक श्रम स्वयं",
+        "मझोले/बड़े किसान → किराये के श्रमिक"
+      ],
+      "common_mistake": "Students सोчते हैं सभी किसान मजदूर रखते हैं — छोटे किसान आमतौर पर परिवार के साथ स्वयं काम करते हैं।",
+      "memory_trick": "S-F / L-H: Small→Family labour; Large→Hired labour.",
+      "gesture_action": "Chhote circle mein family milkar kaam (hath jodna); bada circle — bahar se workers bulaane ka ishara.",
+      "real_life_examples": [
+        "Harvest season mein bade kheton par daily-wage workers",
+        "Small kitchen-garden/family farm — ghar ke log khud kaam"
+      ],
+      "worked_example": {
+        "problem": "पालमपुर में छोटे तथा बड़े किसान श्रम की व्यवस्था कैसे करते हैं?",
+        "steps": [
+          "Small farmers: family labour on own fields",
+          "Medium/large: hire labourers",
+          "Contrast clearly in answer"
+        ],
+        "answer": "छोटे किसान अपने परिवारों के साथ स्वयं खेतों में काम करके श्रम की व्यवस्था करते हैं; मझोले और बड़े किसान खेतों के लिए अन्य श्रमिकों को किराये पर लगाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "उत्पादन का दूसरा आवश्यक कारक क्या है?"
+        ],
+        "medium": [
+          "छोटे किसान मजदूर क्यों कम रखते हैं? एक कारण लिखो।"
+        ],
+        "hard": [
+          "भूमिहीन परिवार, छोटे किसान और बड़े किसान — तीनों की श्रम-स्थिति को जोड़कर एक अनुच्छेद लिखो।"
+        ]
+      },
+      "summary": "खेती में भारी श्रम लगता है — छोटे किसान पारिवारिक श्रम से काम चलाते हैं, जबकि मझोले और बड़े किसान किराये के श्रमिक लगाते हैं।",
+      "revision_point": "Labour arrangement follows farm size: family labour vs hired labour.",
+      "exam_tip": "श्रम व्यवस्था वाले उत्तर में 'छोटे = परिवार' और 'बड़े = किराये के श्रमिक' दोनों वाक्य लिखना न भूलें।",
+      "source_text_hint": "छोटे किसान अपने परिवारों के साथ अपने खेतों में स्वयं काम करते हैं"
+    }
+  ]
+}
