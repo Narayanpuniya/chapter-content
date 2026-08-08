@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 693,
+    "chapter_name": "वृत्त",
+    "chapter_number": 9,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 9 — वृत्त (Circles) — ko padhenge. Ismein jeeva (chord) dwara kendra aur circumference par antarit kon, kendra se jeeva par lamb, barabar jeevaon ki kendra se dooriyan, aur chaap dwara antarit kon (Theorem 9.1 se 9.8) aate hain. Proofs triangle congruence (SSS, SAS, SSS/RHS ideas) aur CPCT (सर्वांगसम त्रिभुजों के संगत भाग) par based hain — exam mein bahut scoring chapter!",
+    "welcome": "Good morning, bacchon! Smart Board par aaj ek circular adventure — वृत्त! School ke ground ka round park, cycle ka tyre, thali ka man — sab circles hain. Aaj hum prove karenge ki barabar jeevaen kendra par barabar kon banati hain, lamb jeeva ko bisect karta hai, aur chaap ka kendriya kon periphery wale kon ka duguna hota hai. Notebook, compass aur scale ready? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "Jeeva dwara kisi bindu / kendra par antarit kon ko pehchanna aur Theorem 9.1–9.2 (barabar jeeva ↔ barabar kendriya kon) apply karna",
+      "Kendra se jeeva par lamb aur uske vilom (Theorem 9.3–9.4) se jeeva ke segments aur perpendicularity prove karna",
+      "Barabar jeevaon ki kendra se dooriyan (Theorem 9.5–9.6) aur pratichhedi jeevaon wale applications solve karna",
+      "Chaap dwara antarit kon, Theorem 9.7 (kendra par kon = 2 × periphery par kon), Theorem 9.8 (same segment) aur ardhvritt ka samakon yaad rakhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "जीवा द्वारा एक बिन्दु पर अंतरित कोण"
+      },
+      {
+        "number": 2,
+        "name": "प्रमेय 9.1 व 9.2 – बराबर जीवाएँ और केन्द्र पर कोण"
+      },
+      {
+        "number": 3,
+        "name": "केन्द्र से जीवा पर लम्ब – प्रमेय 9.3 व 9.4"
+      },
+      {
+        "number": 4,
+        "name": "समान जीवाएँ और केन्द्र से दूरियाँ – प्रमेय 9.5 व 9.6"
+      },
+      {
+        "number": 5,
+        "name": "प्रतिच्छेदी जीवाएँ – उदाहरण 1 व अनुप्रयोग"
+      },
+      {
+        "number": 6,
+        "name": "चाप द्वारा अंतरित कोण और सर्वांगसम चाप"
+      },
+      {
+        "number": 7,
+        "name": "प्रमेय 9.7 – केन्द्र पर कोण परिधि पर कोण का दुगुना"
+      },
+      {
+        "number": 8,
+        "name": "प्रमेय 9.8 और अर्धवृत्त का कोण"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "जीवा द्वारा एक बिन्दु पर अंतरित कोण",
+      "say": "Bacchon, pehle basic language clear karte hain — warna theorems mein confuse ho jaoge. NCERT kehti hai: ek rekha-khand AB lo, aur ek bindu P jo AB par na ho. AP aur BP milao. Jo kon APB banta hai, use hum kehte hain — rekha-khand AB dwara bindu P par antarit kon (angle subtended by the line segment AB at point P). Simple! Ab circle mein socho. Chord AB lo. Agar P circle ke centre O par ho, toh ∠AOB wahi kon hai jo chord AB kendra par antarit karti hai — angle subtended by the chord at the centre. Agar P major arc AB par ho, toh ∠APB major arc wale side se antarit kon hai; agar minor arc par koi point C ho, toh ∠ACB minor arc side se antarit kon. Aakriti 9.2 mein yeh teen alag situations dikhti hain. Ab interesting observation: agar tum circle mein alag-alag jeevaen khinchoge aur unke kendriya kon measure karoge, toh dikhega — jeeva jitni badi, kendra par antarit kon utna bada. Diameter sabse badi jeeva hai, toh uska kendriya kon 180 degree tak ja sakta hai (semi-circle case). Chhoti jeeva → chhota central angle. Yeh intuition aage Theorem 9.1 ke liye foundation hai. Classroom tip: hamesha figure mein clearly likho — 'kon kis jeeva dwara kis bindu par antarit ho raha hai'. Exam mein language galat hone se marks kate jaate hain. Yaad rakho teen jagah: (1) kisi general point par, (2) centre par, (3) circumference / arc par. Aaj se 'antarit kon' bolte hi dimaag mein triangle APB ya AOB flash hona chahiye!",
+      "example": "Classroom ke round wall-clock par do numbers (jaise 12 aur 4) ko chord se jodo — centre se bana kon central angle hai; rim par kisi teesre number se bana kon periphery par antarit kon hai.",
+      "board_lines": [
+        "AB dwara P par antarit kon = ∠APB (P, AB par nahi)",
+        "Kendra O par: chord AB → ∠AOB (central angle)",
+        "Badi jeeva → bada kendriya kon; chhoti jeeva → chhota kon"
+      ],
+      "common_mistake": "Students centre wale kon aur circumference wale kon ko mix kar dete hain — pehle clearly likho kon kis point par antarit hai.",
+      "memory_trick": "A-P-K: Antarit = Point se Kon. 'Kaunsa Point?' pucho pehle — Centre / Arc / Bahar.",
+      "gesture_action": "Do ungliyon se chord AB dikhao, teesri ungli se point P touch karke ∠APB ka V-shape banao.",
+      "real_life_examples": [
+        "Football ground ke centre circle mein do players ko chord maan kar coach (centre) se dekha gaya opening angle",
+        "Round thali ke do points se bani jeeva aur thali ke beech (approx centre) se bana kon"
+      ],
+      "worked_example": {
+        "problem": "Ek vritt mein chord AB = 6 cm aur chord CD = 10 cm hain (dono centre se alag). Bina measure kiye batao ∠AOB aur ∠COD mein kaunsa bada hoga? Reason do.",
+        "steps": [
+          "Observation: jeeva badi ho toh uske dwara kendra par antarit kon bhi bada hota hai",
+          "Yahan CD = 10 cm > AB = 6 cm",
+          "Isliye ∠COD > ∠AOB"
+        ],
+        "answer": "∠COD bada hoga kyunki CD badi jeeva hai — badi jeeva bada kendriya kon antarit karti hai."
+      },
+      "practice": {
+        "easy": [
+          "Jeeva dwara kisi bindu par antarit kon ki paribhasha likho."
+        ],
+        "medium": [
+          "Aakriti mein chord PQ, centre O aur circumference par point R ho. ∠POQ aur ∠PRQ ko naam dekar batao yeh kaunse antarit kon hain."
+        ],
+        "hard": [
+          "Samjhao ki diameter ke liye kendra par antarit kon kyun 180° hota hai, aur uska sambandh ardhvritt se kya hai."
+        ]
+      },
+      "summary": "Kisi jeeva/rekha-khand dwara kisi bindu par bana kon 'antarit kon' kehlata hai; circle mein badi jeeva kendra par bada kon antarit karti hai.",
+      "revision_point": "Antarit kon = chord ke endpoints se point tak lines → jo angle bane; badi chord → bada central angle.",
+      "exam_tip": "Definition-based 1-mark mein figure label karke 'AB dwara P par ∠APB' likho — sirf 'angle' mat likho.",
+      "source_text_hint": "जीवा द्वारा एक बिन्दु पर अंतरित कोण"
+    },
+    {
+      "concept": "प्रमेय 9.1 व 9.2 – बराबर जीवाएँ और केन्द्र पर कोण",
+      "say": "Ab activity! Circle mein do ya adhik barabar jeevaen khincho, centre O se unke endpoints jodo, aur kendriya kon measure karo. NCERT kehti hai — tum paoge ki barabar jeevaen kendra par barabar kon antarit karti hain. Isi ko theorem banate hain. Pramey 9.1: Vritt ki barabar jeevaen kendra par barabar kon antarit karti hain. Proof (aakriti 9.4): Diya hai circle centre O, equal chords AB aur CD, yani AB = CD. Siddh karna hai ∠AOB = ∠COD. Triangles AOB aur COD mein: OA = OC (dono radii), OB = OD (dono radii), aur AB = CD (diya hai). Toh SSS rule se △AOB ≅ △COD. CPCT se ∠AOB = ∠COD. Bahut clean proof! Tip: NCERT bolti hai 'सर्वांगसम त्रिभुजों के संगत भाग' ko short mein CPCT likhenge — aage bahut use hoga. Ab converse socho — agar do jeevaen kendra par barabar kon antarit karen, kya jeevaen barabar hongi? Tracing paper activity: circle cut karke chakki banao, centre par do equal angles AOB aur POQ banao, chords ke along segments kaato, overlap karo — woh fully cover karte hain, matlab chords equal. Pramey 9.2: Yadi ek vritt ki jeevaon dwara kendra par antarit kon barabar hon, to ve jeevaen barabar hoti hain. Yeh Theorem 9.1 ka vilom hai. Proof idea: aakriti 9.4 mein agar ∠AOB = ∠COD lo, toh radii equal hone se SAS/ASA type se triangles congruent, phir CPCT se AB = CD. Exercise 9.1 mein congruent circles (equal radii) ke liye bhi same results extend hote hain — barabar jeevaen centres par barabar kon, aur vilom. Yaad: equal chords ↔ equal central angles — if and only if!",
+      "example": "Do equal sticks ko same circle (compass se) ke andar chords ki tarah rakho — centre se jo angles banenge, protractor se nearly equal milenge.",
+      "board_lines": [
+        "Pramey 9.1: AB = CD ⇒ ∠AOB = ∠COD (SSS + CPCT)",
+        "Pramey 9.2 (vilom): ∠AOB = ∠COD ⇒ AB = CD",
+        "CPCT = sarvaangasam tribhujon ke sangata bhag"
+      ],
+      "common_mistake": "Students SSS mein sirf AB = CD likhkar radii bhool jaate hain — OA=OC aur OB=OD likhna zaroori hai, warna congruence incomplete.",
+      "memory_trick": "E-C-E: Equal Chords → Equal central angles; ulte mein bhi ECE — Equal Central angles → Equal chords.",
+      "gesture_action": "Do barabar ungli-spans se do chords dikhao, phir dono haathon se centre par same-size V angles banao.",
+      "real_life_examples": [
+        "Bicycle wheel ke do equal spoke-to-spoke chords — hub (centre) par nearly equal angles",
+        "Round dining table par do equal straight cuts — centre se opening angles match"
+      ],
+      "worked_example": {
+        "problem": "Circle centre O mein AB = CD. Agar ∠AOB = 70°, toh ∠COD kitna hai? Kaunsi theorem?",
+        "steps": [
+          "Diya: AB = CD (equal chords)",
+          "Theorem 9.1: equal chords ⇒ equal angles at centre",
+          "Isliye ∠COD = ∠AOB = 70°"
+        ],
+        "answer": "∠COD = 70° (Theorem 9.1)."
+      },
+      "practice": {
+        "easy": [
+          "Pramey 9.1 ka kathan likho."
+        ],
+        "medium": [
+          "Pramey 9.1 ki upapatti SSS ke teen equal parts likhkar complete karo."
+        ],
+        "hard": [
+          "Siddh karo: sarvaangasam vritton ki barabar jeevaen unke kendron par barabar kon antarit karti hain (Exercise 9.1 Q1 style)."
+        ]
+      },
+      "summary": "Barabar jeevaen kendra par barabar kon banati hain (Th. 9.1), aur vilom bhi satya hai (Th. 9.2) — proof congruence + CPCT se.",
+      "revision_point": "Equal chords ⇔ equal central angles (9.1 ↔ 9.2); tool = SSS/CPCT.",
+      "exam_tip": "Proof mein hamesha 'trijyaen' reason bracket mein likho — OA = OC (ek vritt ki trijyaen) — examiner yahi dekhta hai.",
+      "source_text_hint": "प्रमेय 9.1 रू वृत्त की बराबर जीवाएँ केन्द्र पर बराबर कोण अंतरित करती हैं।"
+    },
+    {
+      "concept": "केन्द्र से जीवा पर लम्ब – प्रमेय 9.3 व 9.4",
+      "say": "Section 9.2 — bahut favourite exam topic! Activity: tracing paper par circle centre O, chord AB khincho. Paper ko O se guzarne wali line ke along aise fold karo ki chord ka ek hissa doosre par pade. Fold mark AB ko M par kaate. NCERT kehti hai ∠OMA = ∠OMB = 90°, yani OM, AB par lamb (perpendicular) hai. Aur haan — M, A aur B ke beech midpoint hota hai, isliye AM = MB. Isi observation ko theorem banate hain. Pramey 9.3: Ek vritt ke kendra se ek jeeva par dala gaya lamb jeeva ko samadvibhajit karta hai. Proof khud do (NCERT bolti hai): OA aur OB milao; right triangles OMA aur OMB congruent (radii + right angle + common OM) se AM = MB. Ab vilom socho carefully. Theorem 9.3 mein diya = kendra se lamb; siddh = jeeva bisect. Isliye vilom mein: diya = kendra se guzarne wali rekha jeeva ko bisect kare; siddh = woh rekha jeeva par lamb hai. Pramey 9.4: Ek vritt ke kendra se ek jeeva ko samadvibhajit karne ke liye khinchi gayi rekha jeeva par lamb hoti hai. Proof sketch (aakriti 9.7): AB chord, M midpoint, OM join. △OMA aur △OMB mein: OA = OB (radii — kyon?), AM = MB (M midpoint — kyon?), OM = OM (common). SSS se triangles congruent. CPCT se ∠OMA = ∠OMB. Magar yeh adjacent angles ek seedhi rekha AB par hain, isliye har ek 90° — OM ⊥ AB. Classroom tip: 'bisect' aur 'perpendicular' alag cheezein hain; yahan dono linked hain jab line centre se jaati hai. Diameter special case: centre khud diameter par hai, toh distance zero — baad ke section mein kaam aayega.",
+      "example": "Fold a paper circle through the centre so a drawn chord maps onto itself — the crease hits the chord at its midpoint and at right angles.",
+      "board_lines": [
+        "Pramey 9.3: OM ⊥ AB (O se) ⇒ AM = MB",
+        "Pramey 9.4 (vilom): AM = MB aur M on line through O ⇒ OM ⊥ AB",
+        "Tool: right/SSS congruence + CPCT → 90°"
+      ],
+      "common_mistake": "Students sochte hain koi bhi perpendicular bisector centre se hona zaroori nahi — yahan specifically 'kendra se' wali line ki baat hai.",
+      "memory_trick": "L-B: Lamb → Bisect (9.3); B-L: Bisect from centre → Lamb (9.4). 'LB ulte BL'!",
+      "gesture_action": "Ek haath se horizontal chord, doosre se centre se neeche vertical 'lamb' — phir chord ke do halves equal dikhao.",
+      "real_life_examples": [
+        "Round roti par knife se centre se seedha cut — chord ke do equal pieces",
+        "Compass se bana circle, scale se chord, set-square se centre se perpendicular — midpoint milna"
+      ],
+      "worked_example": {
+        "problem": "Circle radius 5 cm, chord AB = 8 cm. Centre O se AB par perpendicular OM hai. AM aur OM find karo.",
+        "steps": [
+          "Theorem 9.3: OM ⊥ AB ⇒ AM = MB = 8/2 = 4 cm",
+          "Right △OMA mein OA = 5 (radius), AM = 4",
+          "OM = √(OA² − AM²) = √(25 − 16) = √9 = 3 cm"
+        ],
+        "answer": "AM = 4 cm, OM = 3 cm."
+      },
+      "practice": {
+        "easy": [
+          "Pramey 9.3 aur 9.4 ke kathan likho."
+        ],
+        "medium": [
+          "△OMA aur △OMB ke liye Theorem 9.4 proof mein teen equal parts aur congruence rule likho."
+        ],
+        "hard": [
+          "Radius 13 cm wale vritt mein chord ki lambai 24 cm hai. Kendra se jeeva ki doori gyat karo."
+        ]
+      },
+      "summary": "Kendra se jeeva par lamb use bisect karta hai (9.3), aur centre se bisect karne wali rekha jeeva par lamb hoti hai (9.4).",
+      "revision_point": "From centre: perpendicular ⇔ bisector of the chord.",
+      "exam_tip": "Numericals mein pehle half chord nikaalo (bisect), phir Pythagoras se distance — yeh pattern bahut common hai.",
+      "source_text_hint": "प्रमेय 9.3 रू एक वृत्त के केन्द्र से एक जीवा पर डाला गया लम्ब जीवा को समद्विभाजित करता है।"
+    },
+    {
+      "concept": "समान जीवाएँ और केन्द्र से दूरियाँ – प्रमेय 9.5 व 9.6",
+      "say": "Pehle 'doorí' clear karo. Line AB aur bahar point P — P se AB ke har point tak segments ban sakte hain, lekin sabse chhota kaunsa? Woh perpendicular segment PM hota hai. Mathematics mein: ek bindu se ek rekha ki doori = us bindu se rekha par dale gaye lamb ki lambai. Agar bindu rekha par ho, doori shunya. Ab circle mein: lambe jeevaen centre ke kareeb hoti hain; chhoti jeevaen door. Diameter sabse badi jeeva — centre us par hi hai, doori zero! Activity (aakriti 9.9): do equal chords AB, CD; O se perpendiculars OM, ON. Fold/overlap se milta hai OM = ON. Congruent circles par bhi same. Pramey 9.5: Ek vritt ki (ya sarvaangasam vritton ki) barabar jeevaen kendra se (ya kendron se) saman doori par hoti hain. Vilom activity (aakriti 9.10): centre se do equal lengths OX, OY khincho, un par perpendicular chords PQ, RS banao — measure karo, PQ = RS. Pramey 9.6: Ek vritt ke kendra se samadursth jeevaen lambai mein saman hoti hain. Matlab: equal chords ⇔ equidistant from centre. Link Theorem 9.3 se: perpendicular distance hi 'doorí' hai, aur woh chord ko bisect bhi karti hai — isliye half-chord aur distance Pythagoras se jude hote hain. Agar do chords equal, unke half equal, radii equal, toh distances equal. Classroom tip: 'doorí' hamesha perpendicular length; schiefe (slant) distance mat lo. Exam mein concentric circles wale questions bhi isi family se aate hain.",
+      "example": "Round park mein do equal straight walking paths (chords) — centre fountain se un tak perpendicular distances same hongi.",
+      "board_lines": [
+        "Point→line doori = perpendicular length",
+        "Pramey 9.5: equal chords ⇒ equal distance from centre",
+        "Pramey 9.6 (vilom): equal distance ⇒ equal chords; diameter doori = 0"
+      ],
+      "common_mistake": "Students slant segment ko doori maan lete hain — doori sirf perpendicular hai; aur sochte hain badi jeeva centre se door hoti hai — ulta hai!",
+      "memory_trick": "E-E-D: Equal chords → Equal Distance; D-E-C: Distance equal → Equal Chords.",
+      "gesture_action": "Do barabar horizontal chords dikhao, centre se dono tak same-length vertical 'doorí' fingers se map karo.",
+      "real_life_examples": [
+        "Two equal shelves across a round table — centre se unki clear perpendicular gap same",
+        "Cricket field boundary chords of equal length — pitch centre se similar offset"
+      ],
+      "worked_example": {
+        "problem": "Circle radius 10 cm. Do equal chords AB aur CD, har ek centre se 6 cm door. Har jeeva ki lambai gyat karo.",
+        "steps": [
+          "Theorem 9.5: equal chords equidistant — yahan diya dono 6 cm door (consistent)",
+          "OM ⊥ AB, AM = AB/2; △OMA: OA² = OM² + AM² ⇒ 10² = 6² + AM²",
+          "AM² = 100 − 36 = 64 ⇒ AM = 8 ⇒ AB = 16 cm; similarly CD = 16 cm"
+        ],
+        "answer": "AB = CD = 16 cm."
+      },
+      "practice": {
+        "easy": [
+          "Bindu se rekha ki doori ki paribhasha likho."
+        ],
+        "medium": [
+          "Pramey 9.5 aur 9.6 ke kathan likho aur batao kaunsa kis ka vilom hai."
+        ],
+        "hard": [
+          "Radius 5 cm; chord centre se 3 cm door. Jeeva ki lambai nikaalo. Agar doosri jeeva bhi same doori par ho toh uski lambai kya hogi? (Th. 9.6)"
+        ]
+      },
+      "summary": "Barabar jeevaen kendra se barabar doori par hoti hain (9.5) aur samadursth jeevaen barabar hoti hain (9.6); doori = perpendicular length.",
+      "revision_point": "Equal chords ⇔ equidistant from centre; longer chord → closer to centre; diameter distance = 0.",
+      "exam_tip": "Distance numericals = half chord + Pythagoras; pehle bisect (Th. 9.3) apply karna mat bhoolna.",
+      "source_text_hint": "प्रमेय 9.5 रू एक वृत्त की (या सर्वांगसम वृत्तों की) बराबर जीवाएँ केन्द्र से (या केन्द्रों से) समान दूरी पर होती है।"
+    },
+    {
+      "concept": "प्रतिच्छेदी जीवाएँ – उदाहरण 1 व अनुप्रयोग",
+      "say": "Ab Theorems 9.5–9.6 ka application — NCERT Example 1. Statement: Yadi ek vritt ki do pratichhedi jeevaen, pratichhed bindu se guzarne wale vyas se saman kon banayen, to siddh karo ki ve jeevaen barabar hain. Figure 9.11: centre O, chords AB aur CD point M par intersect; diameter PQ M se guzarta hai; diya ∠AMP = ∠DMP. Siddh: AB = CD. Strategy: AB aur CD par O se perpendiculars OX aur OY dalo. Phir triangles OXM aur OYM mein angles chase karke dikhao OX = OY, phir Theorem 9.6 se chords equal. Detail: triangle angle sum se ∠XOM = 180° − 90° − ∠XMO = 90° − ∠XMO. Diya ∠AMP = ∠DMP se related angles equal nikalte hain, aur eventually ∠XOM = ∠YOM. Triangles OXM, OYM mein: ∠XMO = ∠YMO (given path), ∠XOM = ∠YOM (proved), OM common — ASA/AAS se congruent, CPCT se OX = OY. Equal distances from centre ⇒ AB = CD (Theorem 9.6). Yeh pattern yaad rakho: prove distances equal → conclude chords equal. Exercise 9.2 mein related apps: common chord of intersecting circles (radii 5 cm, 3 cm, centres 4 cm apart), equal chords intersecting inside → segments equal; line through concentric circles → intercepted equal chords; park pe girls Reshma-Salma-Mandeep equilateral idea; circular park Ankur-Saiyed-David equally spaced → chord length of equilateral inscribed triangle. Numerical tip for Q1: common chord ⊥ line of centres aur bisected; use two Pythagoras equations.",
+      "example": "Do crossing ropes across a round fountain — agar diameter rope se same angles banayen, crossing ropes equal length honge (Example 1 idea).",
+      "board_lines": [
+        "Example 1: intersecting chords + equal angles with diameter ⇒ chords equal",
+        "Bridge: prove OX = OY (distances) → Th. 9.6 → AB = CD",
+        "Tool kit: ⊥ from centre, congruence, Th. 9.5/9.6"
+      ],
+      "common_mistake": "Students seedha AB = CD likh dete hain bina distance equal prove kiye — examiner ko OX = OY wala bridge chahiye.",
+      "memory_trick": "A-D-C: Angles with diameter → Distances equal → Chords equal.",
+      "gesture_action": "Do fingers cross (intersecting chords), teesri se diameter line, dono sides par equal angle dikhao, phir chords ko 'equal' signal.",
+      "real_life_examples": [
+        "Two intersecting roads across a circular chowk making equal angles with a diametral road",
+        "Common chord of two overlapping circular rangoli patterns — length from centres distance"
+      ],
+      "worked_example": {
+        "problem": "Do vritt, trijya 5 cm aur 3 cm, do binduon par pratichhed; kendron ke beech doori 4 cm. Ubhayanishth jeeva (common chord) ki lambai gyat karo. (Ex 9.2 Q1)",
+        "steps": [
+          "Centres O, O′; common chord AB; OO′ = 4 cm, OA = 5 cm, O′A = 3 cm. OO′ chord AB ko M par bisect karta hai aur ⊥ hai.",
+          "OM = x, O′M = 4 − x. Pythagoras: 5² − x² = 3² − (4 − x)² ⇒ 25 − x² = 9 − (16 − 8x + x²) ⇒ 25 = 8x − 7 ⇒ x = 4.",
+          "OM = 4 cm ⇒ M, O′ par; AM = √(O′A² − O′M²) = √(9 − 0) = 3 cm (ya √(5² − 4²) = 3). Isliye AB = 2 × AM = 6 cm."
+        ],
+        "answer": "Ubhayanishth jeeva ki lambai = 6 cm."
+      },
+      "practice": {
+        "easy": [
+          "Example 1 ka kathan apne shabdon mein likho."
+        ],
+        "medium": [
+          "Example 1 mein OX = OY prove karne ke baad AB = CD kis theorem se aata hai?"
+        ],
+        "hard": [
+          "Yadi ek rekha do sankendri vritton (centre O) ko A, B, C, D par kaate (order A,B,C,D), siddh karo AB = CD. (Ex 9.2 Q4)"
+        ]
+      },
+      "summary": "Equal angles with a diameter at the intersection imply equal chord distances from centre, hence equal chords (Example 1); Exercise 9.2 applies Th. 9.3–9.6.",
+      "revision_point": "Intersecting chords problems: drop ⊥ from centre → compare distances → Th. 9.6.",
+      "exam_tip": "Common chord numerical: line of centres ⊥ bisects common chord — do right triangles, ek variable se solve.",
+      "source_text_hint": "यदि एक वृत्त की दो प्रतिच्छेदी जीवाएँ प्रतिच्छेद बिन्दु से जाने वाले व्यास से समान कोण बनाएँ"
+    },
+    {
+      "concept": "चाप द्वारा अंतरित कोण और सर्वांगसम चाप",
+      "say": "Section 9.4 shuru! Chord ke endpoints (diameter chhodkar) circle ko do chaapon mein baantte hain — ek dirgh (major) aur ek laghu (minor). Sawal: barabar jeevaen lo, unke corresponding arcs ke baare mein kya kahoge? Sirf length equal? NCERT kehti hai — aur bhi zyada: agar ek arc ko doosre par rakho bina ainthhe-mode, toh woh fully cover karte hain — matlab arcs congruent (sarvaangasam) hain. Activity: chord CD ke corresponding arc ko CD along cut karke equal chord AB ke arc par rakho — cover ho jaata hai. Result: barabar jeevaen sarvaangasam chaap banati hain; vilomatah sarvaangasam chaap barabar jeevaen banate hain. Formal: Yadi kisi vritt ki do jeevaen barabar hon, to unke sangata chaap sarvaangasam hote hain; vilomatah yadi do chaap sarvaangasam hon, to unki sangata jeevaen barabar hoti hain. Ab 'chaap dwara kendra par antarit kon': minor arc central angle antarit karta hai; major arc corresponding reflex central angle antarit karta hai. Aakriti 9.14 mein minor arc PQ → ∠POQ; major arc PQ → reflex ∠POQ. Theorem 9.1 ke saath jodo: congruent/equal arcs bhi kendra par barabar kon antarit karte hain. Aur: jeeva dwara kendra par antarit kon = uske corresponding (minor) arc dwara kendra par antarit kon. Yeh bridge agle Theorem 9.7 ke liye zaroori hai — wahan hum arc ke central angle ko circumference ke angle se compare karenge. Classroom tip: hamesha specify karo minor ya major arc; warna reflex angle bhool jaate ho.",
+      "example": "Birthday paper plate se do equal chords cut karo — unke rim arcs ek-doosre par perfectly baithenge (congruent arcs).",
+      "board_lines": [
+        "Equal chords ⇔ congruent corresponding arcs",
+        "Minor arc → central angle; major arc → reflex central angle",
+        "Chord ka central angle = uske (laghu) chaap ka central angle"
+      ],
+      "common_mistake": "Students major/minor mix kar dete hain aur reflex angle bhool jaate hain — figure mein chhota arc clearly mark karo.",
+      "memory_trick": "C-A-C: Chord Equal → Arc Congruent → Central angles Equal.",
+      "gesture_action": "Do curved finger-arcs same size dikhao, phir unhe overlap karke 'cover' act out karo.",
+      "real_life_examples": [
+        "Two equal pizza crust chords — same crust arc lengths between toppings",
+        "Circular embroidery hoop — equal straight stitches correspond to matching rim arcs"
+      ],
+      "worked_example": {
+        "problem": "Circle mein arc AB ≅ arc CD (congruent). Agar chord AB = 7 cm, toh chord CD kitna? Reason.",
+        "steps": [
+          "Diya: arcs AB aur CD sarvaangasam",
+          "Property: congruent arcs ⇒ corresponding chords equal",
+          "Isliye CD = AB = 7 cm"
+        ],
+        "answer": "CD = 7 cm (sarvaangasam chaap → barabar jeevaen)."
+      },
+      "practice": {
+        "easy": [
+          "Laghu chaap aur dirgh chaap mein antar ek line mein likho."
+        ],
+        "medium": [
+          "Equal chords aur congruent arcs ka if-and-only-if relation apne shabdon mein likho."
+        ],
+        "hard": [
+          "Aakriti mein minor arc PQ ka central angle 80° hai. Major arc PQ dwara kendra par antarit (reflex) kon kitna hoga?"
+        ]
+      },
+      "summary": "Barabar jeevaen congruent chaap deti hain (aur vilom); chaap ka kendriya kon minor/major ke hisaab se ordinary ya reflex hota hai.",
+      "revision_point": "Equal chords ⇔ congruent arcs; minor arc angle + major reflex = 360°.",
+      "exam_tip": "Arc questions mein hamesha 'laghu/dirgh' likho; reflex central angle = 360° − minor central angle.",
+      "source_text_hint": "यदि किसी वृत्त की दो जीवाएँ बराबर हों, तो उनके संगत चाप सर्वांगसम होते हैं"
+    },
+    {
+      "concept": "प्रमेय 9.7 – केन्द्र पर कोण परिधि पर कोण का दुगुना",
+      "say": "Ab chapter ka star theorem! Pramey 9.7: Ek chaap dwara kendra par antarit kon, vritt ke shesh bhag ke kisi bindu par antarit kon ka duguna hota hai. Matlab: central angle = 2 × inscribed angle (same arc). Diya: arc PQ, centre O → ∠POQ; remaining circumference par point A → ∠PAQ. Siddh: ∠POQ = 2∠PAQ. Teen cases (aakriti 9.15): (i) PQ minor arc, (ii) PQ semicircle, (iii) PQ major arc. Proof idea — teeno mein OA ko milaakar B tak badhao (O se A through, diameter direction). Exterior angle theorem: ∠BOQ = ∠OAQ + ∠AQO. △OAQ mein OA = OQ (radii) ⇒ base angles equal ⇒ ∠OAQ = ∠AQO. Isliye ∠BOQ = 2∠OAQ ... (1). Similarly ∠BOP = 2∠OAP ... (2). (1)+(2): ∠POQ = 2∠PAQ. Case (iii) major arc mein result reflex ∠POQ = 2∠PAQ hota hai. Note: agar chord PQ banao, toh ∠PAQ ko vritt-khand (segment) PAQP mein bana kon bhi kehte hain. Yeh theorem exams mein numerical + proof dono mein aata hai — 'find angle at centre if angle at circumference is ...' ya reverse. Classroom memory: same arc dekho; centre wala hamesha double. Agar alag arcs, formula apply mat karo! Numerical tip: agar circumference par 40° diya ho toh centre 80°; agar centre 150° (minor) ho toh circumference 75°. Semicircle case mein centre 180° ⇒ circumference 90° — next concept mein detail.",
+      "example": "Centre se 80° wala pizza slice — rim par baithi hui bindingi se usi crust arc ka angle 40° dikhega.",
+      "board_lines": [
+        "Pramey 9.7: ∠(centre) = 2 × ∠(remaining circumference) for same arc",
+        "Proof engine: radii ⇒ isosceles + exterior angle ⇒ double",
+        "Cases: minor / semicircle / major (reflex)"
+      ],
+      "common_mistake": "Students galat arc par angles compare kar dete hain — pehle same arc highlight karo; aur major arc par reflex central angle yaad rakho.",
+      "memory_trick": "C = 2I: Central = 2 × Inscribed (same arc). 'Centre Double'!",
+      "gesture_action": "Ek bada V centre par, usi arc ke liye chhota V rim par — bada V ko 'duguna' dikhao.",
+      "real_life_examples": [
+        "Round auditorium — stage arc ka angle from centre vs from back-row seat (roughly double relation in geometry model)",
+        "Dartboard sector angle at bullseye vs angle at rim point subtended by same arc"
+      ],
+      "worked_example": {
+        "problem": "Circle centre O. Arc AB ke liye ∠ACB = 35° jahan C remaining circumference par hai. ∠AOB find karo.",
+        "steps": [
+          "∠ACB inscribed angle for arc AB",
+          "Theorem 9.7: ∠AOB = 2 × ∠ACB",
+          "∠AOB = 2 × 35° = 70°"
+        ],
+        "answer": "∠AOB = 70°."
+      },
+      "practice": {
+        "easy": [
+          "Pramey 9.7 ka kathan likho."
+        ],
+        "medium": [
+          "Agar kendra par kon 110° hai (minor arc), toh shesh circumference par usi chaap dwara antarit kon kitna?"
+        ],
+        "hard": [
+          "Theorem 9.7 ki upapatti mein ∠BOQ = 2∠OAQ kaise aata hai? Exterior angle + isosceles steps likho."
+        ]
+      },
+      "summary": "Same arc ke liye kendra par antarit kon circumference par antarit kon ka duguna hota hai — proof isosceles radii + exterior angle se.",
+      "revision_point": "∠ at centre = 2 × ∠ at circumference (same arc); major arc → use reflex central angle.",
+      "exam_tip": "Numerical mein pehle confirm karo dono angles same arc subtend karte hain — phir ×2 ya ÷2 karo.",
+      "source_text_hint": "प्रमेय 9.7 रू एक चाप द्वारा केन्द्र पर अंतरित कोण वृत्त के शेष भाग के किसी बिन्दु पर अंतरित कोण का दुगुना होता है।"
+    },
+    {
+      "concept": "प्रमेय 9.8 और अर्धवृत्त का कोण",
+      "say": "Theorem 9.7 se turant ek beautiful corollary nikalta hai. Agar remaining part par do points A aur B lo (aakriti 9.16), toh ∠POQ = 2∠PAQ = 2∠PBQ. Isliye ∠PAQ = ∠PBQ. Matlab same arc ke inscribed angles equal. Isi ko kehte hain — Pramey 9.8: Ek hi vritt-khand (segment) ke kon barabar hote hain. Angles in the same segment of a circle are equal. Ab special case — semicircle. Agar arc PQ semicircle hai, toh central ∠POQ = 180°. Theorem 9.7 se inscribed ∠PAQ = (1/2)×180° = 90°. Koi bhi point A semicircle par lo, ∠PAQ = 90°. Famous result: Ardhvritt ka kon samakon hota hai — The angle in a semicircle is a right angle. Yeh Class 9–10 exams ka evergreen fact hai! Theorem 9.8 ka vilom bhi satya hai (NCERT mention): agar do angles equal hain appropriate configuration mein, toh points same segment mein lie karte hain — details aage/related results mein. Revision package of chapter: (1) equal chords ↔ equal central angles, (2) ⊥ from centre bisects chord (and converse), (3) equal chords ↔ equidistant from centre, (4) central = 2 × inscribed, (5) same segment angles equal, (6) angle in semicircle = 90°. Board par yeh cheh lines likh lo — poora chapter revise! Practice: semicircle diameter endpoints A,B; rim point C → ∠ACB = 90° hamesha. Numericals mein diameter pehchano pehle.",
+      "example": "Diameter ko hypotenuse maankar rim par koi bhi point se triangle banao — woh hamesha right-angled hoga (Thales' theorem / angle in semicircle).",
+      "board_lines": [
+        "Pramey 9.8: same segment ke angles equal (∠PAQ = ∠PBQ)",
+        "Ardhvritt ka kon = 90° (∵ central 180° → half = 90°)",
+        "Chapter pack: 9.1–9.2, 9.3–9.4, 9.5–9.6, 9.7, 9.8 + semicircle"
+      ],
+      "common_mistake": "Students kisi bhi circumference angle ko 90° maan lete hain — 90° tabhi jab angle semicircle mein ho, yani hypotenuse diameter ho.",
+      "memory_trick": "S-E-S: Same segment → Equal angles; Semi → Ninety. 'SES-90'!",
+      "gesture_action": "Diameter ke liye dono bahen failao, rim par ungli rakhkar right-angle (L-shape) dikhao.",
+      "real_life_examples": [
+        "Architects using semicircular arch — any point on arch sees diameter at 90° (classical geometry)",
+        "Basketball hoop circle model — diameter endpoints and rim point forming right triangle"
+      ],
+      "worked_example": {
+        "problem": "AB diameter hai, C circumference par. Agar ∠ABC = 35°, toh ∠BAC aur ∠ACB find karo.",
+        "steps": [
+          "Angle in semicircle: ∠ACB = 90° (AB diameter)",
+          "Triangle sum: ∠BAC + ∠ABC + ∠ACB = 180°",
+          "∠BAC + 35° + 90° = 180° ⇒ ∠BAC = 55°"
+        ],
+        "answer": "∠ACB = 90°, ∠BAC = 55°."
+      },
+      "practice": {
+        "easy": [
+          "'Ardhvritt ka kon samakon hota hai' — ek line mein reason likho (Th. 9.7 se)."
+        ],
+        "medium": [
+          "Pramey 9.8 ka kathan likho aur batao yeh Th. 9.7 se kaise follow hota hai."
+        ],
+        "hard": [
+          "AB diameter, ∠ACB = 90°, D bhi circumference par same segment mein C ke saath. Agar ∠ADB = 90° dikhe toh explain; aur ∠ACD vs ∠ABD same segment property se compare karo."
+        ]
+      },
+      "summary": "Same segment ke angles equal hote hain (Th. 9.8); semicircle mein inscribed angle 90° hota hai — Th. 9.7 ka seedha upyog.",
+      "revision_point": "Same segment ⇒ equal inscribed angles; diameter ⇒ angle on circumference = 90°.",
+      "exam_tip": "Jab figure mein diameter dikhe, turant 90° mark karo — kai 2–3 mark questions isi shortcut se khulte hain.",
+      "source_text_hint": "प्रमेय 9.8 रू एक ही वृत्तखंड के कोण बराबर होते हैं।"
+    }
+  ]
+}
