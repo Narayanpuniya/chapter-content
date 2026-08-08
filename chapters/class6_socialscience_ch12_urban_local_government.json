@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 437,
+    "chapter_name": "आधारभूत लोकतंत्र भाग 3: नगरीय क्षेत्रों में स्थानीय सरकार",
+    "chapter_number": 12,
+    "book_name": "Class 6 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum नगरीय क्षेत्रों की स्थानीय सरकार — Urban Local Bodies — ko samjhenge. Pehle seekhenge ki नगर गाँव se kyun zyada जटिल aur विविध hote hain; phir शासन पिरामिड, वार्ड समितियाँ, नगर निगम–नगरपालिका–नगर पंचायत, नागरिकों के कर्तव्य, aur इंदौर–चेन्नई jaise उदाहरण. Sameer-Anita ki baatcheet se गाँव aur शहर ke लोकतंत्र ka मूल विचार ek hi dikhega — हर व्यक्ति का मत मायने रखता है।",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 6 Social Science ka Chapter 12 — आधारभूत लोकतंत्र भाग 3: नगरीय क्षेत्रों में स्थानीय सरकार. Socho — tumhare shehar mein paani, sadak, kooda, street light kaun sambhalta hai? Sirf CM ya PM nahi — tumhare paas local body hoti hai! Aaj hum us नगरीय स्थानीय शासन ki kahani padhenge. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "नगरीय स्थानीय निकाय kya hain aur unke मुख्य कार्य batana",
+      "शासन पिरामिड mein स्थानीय से संघीय सरकार tak ka क्रम samjhana",
+      "जनसंख्या के आधार पर नगर निगम, नगरपालिका और नगर पंचायत को अलग-अलग पहचानना",
+      "सहभागी लोकतंत्र में नागरिकों के कर्तव्य और इंदौर–मद्रास जैसे उदाहरण लिखना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अध्याय का परिचय और महत्वपूर्ण प्रश्न"
+      },
+      {
+        "number": 2,
+        "name": "नगरीय परिदृश्य और शासन पिरामिड"
+      },
+      {
+        "number": 3,
+        "name": "नगरीय स्थानीय निकाय और वार्ड"
+      },
+      {
+        "number": 4,
+        "name": "नगरीय निकायों के कार्य"
+      },
+      {
+        "number": 5,
+        "name": "नागरिकों के कर्तव्य और सहभागी लोकतंत्र"
+      },
+      {
+        "number": 6,
+        "name": "नगर निगम, नगरपालिका और नगर पंचायत"
+      },
+      {
+        "number": 7,
+        "name": "इंदौर की सेवाएँ और स्वच्छ सर्वेक्षण"
+      },
+      {
+        "number": 8,
+        "name": "समीर–अनीता संवाद और अध्याय सार"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अध्याय का परिचय और महत्वपूर्ण प्रश्न",
+      "say": "Bacchon, aaj hum आधारभूत लोकतंत्र ke Part 3 par aaye hain — नगरीय क्षेत्रों में स्थानीय सरकार. Pehle Chapter 11 mein humne ग्रामीण पंचायती राज padha tha. Ab shehar aur kasbe ki baat! Chapter shuru hota hai रूस सभा ke सदस्य रूसम के. सिधवा ke quotation se. Woh 13 अक्टूबर 1949 ko bolte hain — main chahta hoon ki ek पूर्ण विकसित स्थानीय निकाय jaldi bane, taaki log sachmuch jaan saken ki unke अपनों नगरों aur गाँवों mein प्रशासन क्या है, मताधिकार क्या है, शक्तियाँ क्या हैं, अधिकार क्या हैं aur विशेषाधिकार क्या हैं. Matlab — democracy sirf Delhi mein nahi, tumhare mohalle tak pahunchna chahiye! Board par do महत्वपूर्ण प्रश्न likho: (1) नगरीय स्थानीय निकाय क्या है और इनके कार्य क्या हैं? (2) ये सरकार और लोकतंत्र में क्यों महत्वपूर्ण हैं? Inhi sawalon ke around poora chapter ghoomega. चित्र 12.1 dikhata hai — बृहन्मुंबई म्यूनिसिपल कॉरपोरेशन, originally Bombay Municipal Corporation, 1865 mein गठित. Itna purana shehar ka local body! Introduction mein NCERT kehta hai — लोकतंत्र mein सुशासन ka उद्देश्य नागरिकों ko सशक्त banana hai, taaki ve देश ke कार्यों mein सक्रिय रूप se भाग le saken — चाहे ग्रामीण, क्षेत्रीय, नगरीय, राज्य ya राष्ट्रीय स्तर. Yeh सहभागी लोकतंत्र ki वृहत धारणा hai. Class tip: jab bhi examiner 'local democracy kyun?' pooche — Sidhwa wala point + participatory democracy, dono likho.",
+      "example": "Jaise school mein class monitor sirf principal ke orders wait nahi karta — class ke chhote problems khud solve karta hai — waise hi स्थानीय निकाय अपने नगर के काम खुद संभालते हैं।",
+      "board_lines": [
+        "रूसतम के. सिधवा (1949): पूर्ण विकसित स्थानीय निकाय चाहिए",
+        "Do prashn: निकाय क्या? लोकतंत्र में क्यों महत्वपूर्ण?",
+        "बृहन्मुंबई म्यूनिसिपल कॉरपोरेशन — 1865"
+      ],
+      "common_mistake": "Students सोचते हैं लोकतंत्र सिर्फ संसद और विधानसभा है — भूल जाते हैं कि संविधान सभा में ही स्थानीय निकायों की बात हुई थी और नगरों में भी स्वशासन ज़रूरी है।",
+      "memory_trick": "S-N-K: सिधवा–नगर–कर्तव्य — chapter opening: Sidhwa quote, नगर निकाय, बाद में नागरिक कर्तव्य!",
+      "gesture_action": "Dono haath se chhota circle banao (अपना नगर), phir do ungliyan uthao for do महत्वपूर्ण प्रश्न।",
+      "real_life_examples": [
+        "School student council = chhota local body — apne class ke issues discuss karte hain",
+        "Mumbai/Bombay Municipal Corporation 1865 — aaj bhi BMC naam sunte ho news mein"
+      ],
+      "worked_example": {
+        "problem": "रूसतम के. सिधवा ने संविधान सभा में स्थानीय निकायों के बारे में क्या कहा?",
+        "steps": [
+          "Date aur context yaad karo: 13 अक्टूबर 1949, संविधान सभा",
+          "Unka wish: पूर्ण विकसित स्थानीय निकाय का शीघ्र गठन",
+          "Purpose: log jaane प्रशासन, मताधिकार, शक्तियाँ, अधिकार, विशेषाधिकार"
+        ],
+        "answer": "उन्होंने कहा कि एक पूर्ण विकसित स्थानीय निकाय का शीघ्र गठन होना चाहिए ताकि लोग अपने नगरों और गाँवों में प्रशासन, मताधिकार, शक्तियाँ, अधिकार और विशेषाधिकार सचमुच जान सकें।"
+      },
+      "practice": {
+        "easy": [
+          "अध्याय के दो महत्वपूर्ण प्रश्न लिखो।"
+        ],
+        "medium": [
+          "सहभागी लोकतंत्र की वृहत धारणा एक-दो वाक्य में समझाओ।"
+        ],
+        "hard": [
+          "सिधवा के कथन को अपने शब्दों में लिखो और बताओ कि आज के नगरों के लिए यह क्यों प्रासंगिक है।"
+        ]
+      },
+      "summary": "अध्याय सिधवा के स्थानीय निकाय वाले कथन और दो महत्वपूर्ण प्रश्नों से खुलता है; सुशासन का उद्देश्य नागरिकों को हर स्तर पर सशक्त बनाना है — यही सहभागी लोकतंत्र है।",
+      "revision_point": "Opening key: स्थानीय निकाय = लोगों के निकट शासन; याद रखो दो महत्वपूर्ण प्रश्न और 1865 बृहन्मुंबई उदाहरण।",
+      "exam_tip": "सिधवा quotation में से 'पूर्ण विकसित स्थानीय निकाय' और 'मताधिकार–शक्तियाँ–अधिकार' शब्द ज़रूर लिखो।",
+      "source_text_hint": "एक पूर्ण विकसित स्थानीय निकाय का शीघ्र गठन किया जाना चाहिए"
+    },
+    {
+      "concept": "नगरीय परिदृश्य और शासन पिरामिड",
+      "say": "Bacchon, pehle socho — ek gaon ya kasba, aur Kolkata, Chennai ya Mumbai. Kyun shehar zyada जटिल aur विविध hote hain? Because cities mein bahut se communities, jobs, buildings, traffic, markets, different languages — sab ek saath! NCERT kehta hai: ग्रामीण परिवेश की तुलना में नगरीय परिदृश्य सामान्यतः अधिक जटिल और विविध होता है, isliye नगरीय शासन भी अधिक जटिल होगा. Lekin hum मूल सिद्धांतों tak limited rahenge. 'आइए पता लगाएँ' — apne kisi familiar city ke विविध समुदायों ki list banao classmates ke saath. Ab badi picture — चित्र 12.2 ka शासन पिरामिड! Is pyramid ka आधार स्थानीय स्तर hai — जनता के निकट. Top par संघीय / केंद्रीय सरकार. Beech mein राज्य सरकार. Left side pehle padha — ग्रामीण स्थानीय शासन / पंचायती राज संस्थाएँ: ग्राम सभा, ग्राम पंचायत, पंचायत समिति, जिला पंचायत. Right side — aaj ka topic — नगरीय स्थानीय शासन: वार्ड के लोग, वार्ड समिति, नगर निगम या नगर परिषद (नगर पंचायत). Dono sides 'स्व शासन के लिए स्थानीय सरकार' ke under aate hain. Same idea — विकेंद्रित शासन — alag structure. Class tip: pyramid yaad rakhne ka tarika — bottom = logon ke paas, top = देश; left = गाँव (Chapter 11), right = शहर (Chapter 12). Jab examiner similarity-difference pooche, pehle pyramid draw karke answer karo!",
+      "example": "Jaise school building mein ground floor classrooms (local), beech mein office, top par principal — waise hi शासन पिरामिड: नीचे स्थानीय, ऊपर संघ सरकार।",
+      "board_lines": [
+        "पिरामिड: स्थानीय (आधार) → राज्य → संघ (शीर्ष)",
+        "बायाँ: पंचायती राज | दायाँ: नगरीय स्थानीय निकाय",
+        "नगर = अधिक जटिल और विविध → शासन भी जटिल"
+      ],
+      "common_mistake": "Students सोचते हैं नगरीय स्थानीय सरकार राज्य सरकार के अंदर कोई ऑफिस है — NCERT पिरामिड में इसे स्वशासन के लिए अलग स्थानीय स्तर दिखाता है।",
+      "memory_trick": "L-S-U: Local–State–Union — पिरामिड नीचे से ऊपर; Left=गाँव, Right=शहर!",
+      "gesture_action": "Haath se triangle/pyramid banao — neeche wide (local), upar tip (Union); left aur right sides alag dikhao.",
+      "real_life_examples": [
+        "Mumbai/Chennai/Kolkata — bahut communities, languages, jobs — complexity dikhti hai",
+        "School house system: houses = wards, school council = local body, principal = higher authority"
+      ],
+      "worked_example": {
+        "problem": "चित्र 12.2 के पिरामिड में स्थानीय स्तर और संघीय सरकार की स्थिति बताओ। पंचायती राज और नगरीय स्थानीय सरकार कहाँ हैं?",
+        "steps": [
+          "पिरामिड का आधार = स्थानीय स्तर (जनता के निकट)",
+          "शीर्ष = संघीय / केंद्रीय सरकार; बीच में राज्य सरकार",
+          "बायाँ = ग्रामीण पंचायती राज; दायाँ = नगरीय स्थानीय निकाय"
+        ],
+        "answer": "आधार पर स्थानीय सरकार है और शीर्ष पर संघीय सरकार। बाईं ओर पंचायती राज संस्थाएँ और दाईं ओर नगरीय स्थानीय निकाय दर्शाए गए हैं।"
+      },
+      "practice": {
+        "easy": [
+          "शासन पिरामिड के तीन मुख्य स्तर लिखो।"
+        ],
+        "medium": [
+          "कोलकाता, चेन्नई या मुंबई जैसे नगर गाँव से अधिक जटिल क्यों हैं? दो कारण दो।"
+        ],
+        "hard": [
+          "चित्र 12.2 में पंचायती राज और शहरी स्थानीय सरकार के बीच दो समानताएँ और दो विभिन्नताएँ लिखो।"
+        ]
+      },
+      "summary": "नगरीय परिदृश्य अधिक जटिल होता है; शासन पिरामिड में आधार स्थानीय स्तर और शीर्ष संघ सरकार है — बाएँ पंचायती राज, दाएँ नगरीय स्थानीय निकाय।",
+      "revision_point": "Pyramid memory: आधार = लोगों के निकट स्थानीय शासन; Chapter 11 left, Chapter 12 right.",
+      "exam_tip": "समानता–विभिन्नता वाले प्रश्न में पिरामिड के दोनों पक्षों के नाम बिंदुवार लिखो — ग्राम सभा vs वार्ड के लोग आदि।",
+      "source_text_hint": "इस पिरामिड का आधार स्थानीय स्तर है, जो जनता के निकट है"
+    },
+    {
+      "concept": "नगरीय स्थानीय निकाय और वार्ड",
+      "say": "Ab seedha definition — नगरीय क्षेत्रों में स्थानीय सरकार की संरचनाओं ko 'नगरीय स्थानीय निकाय' kehte hain. Urban Local Bodies — short mein ULB. NCERT ek important baat kehta hai: iska अर्थ hai ki yeh शीर्ष प्राधिकरण ke अंतर्गत kaam nahi karte jaise koi remote-controlled office. In स्थानीय समुदायों ko अपने क्षेत्रों ke प्रबंधन aur अपने सामने उपस्थित मुद्दों / समस्याओं ka हल ढूँढ़ने ki स्वायत्तता रहती है. Matlab — apne area ke liye best kya hai, yeh decide karne ka तंत्र hai jisme citizens saath aate hain. Ab shehar ko chhote pieces mein kaise baanta jaata hai? नगरों एवं कस्बों ko छोटी-छोटी इकाइयों mein विभाजित kiya jaata hai — inhe 'वार्ड' kehte hain. Har ward ke log, ward committee — yeh local democracy ki pehli seedhi hai, bilkul jaise gaon mein Gram Sabha ke paas log. वार्ड समितियाँ स्वास्थ्य शिविरों ke आयोजन, एकल उपयोग वाले प्लास्टिक ke विरुद्ध अभियान jaise activities mein सहायता karti hain. Yeh har us विषय par दृष्टि rakhti hain jisme समस्या aa sakti hai — जल रिसाव, नाली का जाम होना, किसी सड़क का टूट जाना — in sabke baare mein अधिकारियों ko अवगत कराती hain. Lekin ध्यान: वार्डों की निश्चित कार्यप्रणाली अलग-अलग राज्यों में भिन्न-भिन्न है, जो उनके द्वारा बनाए गए नियमों पर निर्भर करती है. Class tip: Ward = shehar ka chhota टुकड़ा; Ward Committee = us टुकड़े ki local team jo problems report aur help karti hai.",
+      "example": "Agar tumhari colony mein nali band ho jaye, pehle ward committee / local councillor ko report hota hai — bilkul jaise class monitor pehle class problem dekhta hai, phir teacher ko batata hai।",
+      "board_lines": [
+        "नगरीय स्थानीय निकाय = शहर/कस्बे की स्थानीय सरकार",
+        "स्वायत्तता = अपने क्षेत्र के मुद्दे खुद सुलझाना",
+        "वार्ड = नगर की छोटी इकाई; समिति = शिविर, प्लास्टिक अभियान, शिकायत"
+      ],
+      "common_mistake": "Students वार्ड को सिर्फ चुनाव क्षेत्र समझते हैं — NCERT कहता है वार्ड समितियाँ स्वास्थ्य शिविर, प्लास्टिक अभियान और जल-नाली-सड़क जैसी समस्याओं पर नज़र रखती हैं।",
+      "memory_trick": "W-A-R-D: Watch And Report Damage — वार्ड समिति समस्या देखो और अधिकारियों को बताओ!",
+      "gesture_action": "Badi sheet (नगर) ko haath se chhote squares mein divide karo — har square ek वार्ड; phir report karne jaisa gesture.",
+      "real_life_examples": [
+        "Plastic-free campaign in school/colony — ward-level activity jaisa",
+        "Broken street light ya leaking tap — ward committee / local body ko shikayat"
+      ],
+      "worked_example": {
+        "problem": "वार्ड समिति कौन-कौन सी गतिविधियों और समस्याओं में मदद करती है? कोई तीन उदाहरण दो।",
+        "steps": [
+          "गतिविधियाँ: स्वास्थ्य शिविर, एकल-उपयोग प्लास्टिक के विरुद्ध अभियान",
+          "समस्याएँ: जल रिसाव, नाली जाम, सड़क टूटना",
+          "काम: अधिकारियों को अवगत कराना; याद रखो नियम राज्यानुसार भिन्न हो सकते हैं"
+        ],
+        "answer": "वार्ड समितियाँ स्वास्थ्य शिविर और प्लास्टिक-विरोधी अभियान जैसी गतिविधियों में सहायता करती हैं तथा जल रिसाव, नाली जाम, सड़क टूटने जैसी समस्याओं की सूचना अधिकारियों को देती हैं।"
+      },
+      "practice": {
+        "easy": [
+          "नगरों और कस्बों की छोटी इकाइयों को क्या कहते हैं?"
+        ],
+        "medium": [
+          "नगरीय स्थानीय निकायों को 'स्वायत्तता' का क्या अर्थ है? अपने शब्दों में लिखो।"
+        ],
+        "hard": [
+          "वार्ड समितियों की कार्यप्रणाली सभी राज्यों में एक जैसी क्यों नहीं होती? NCERT के अनुसार उत्तर दो।"
+        ]
+      },
+      "summary": "नगरीय स्थानीय निकाय स्वायत्त संरचनाएँ हैं जो नागरिकों के साथ मिलकर क्षेत्र के मुद्दे सुलझाती हैं; नगर वार्डों में बँटे होते हैं और वार्ड समितियाँ स्थानीय समस्याओं पर नज़र रखती हैं।",
+      "revision_point": "ULB = छोटा क्षेत्रीय स्वशासन; वार्ड = इकाई; समिति = देखो–बताओ–मदद करो।",
+      "exam_tip": "'स्वायत्तता' शब्द और जल/नाली/सड़क वाले उदाहरण साथ लिखो — इससे उत्तर पूरा लगता है।",
+      "source_text_hint": "नगरों एवं कस्बों को छोटी-छोटी इकाइयों में विभाजित किया जाता है, जिन्हें 'वार्ड' कहते हैं"
+    },
+    {
+      "concept": "नगरीय निकायों के कार्य",
+      "say": "Bacchon, ab lambi lekin important list — नगरीय एवं स्थानीय निकायों par कार्यों ki एक लंबी सूची ki जिम्मेदारी hai. Board par points likho carefully! (1) आधारभूत ढाँचे की देखभाल — roads, drains, lights, basic infrastructure. (2) कब्रगाहों का रख-रखाव. (3) अपशिष्ट संग्रहण एवं निपटान — kooda uthana aur dispose karna. (4) सरकारी योजनाओं के कार्यान्वयन पर ध्यान रखना — schemes ground par pahunche. (5) स्थानीय कर एवं अर्थदंड प्राप्त करना — tax aur fine se money aati hai. (6) क्षेत्र के आर्थिक और सामाजिक विकास के नियोजन में भी इनकी कुछ भूमिका होती है. Yeh sab isliye kyunki shehar mein roz ke jeevan ke bahut se chhote-bade kaam local level par hi settle hote hain. Agar sirf Central ya State government har leaking pipe dekhe, to kaam bahut slow ho jayega! Isliye विकेंद्रित शासन — decentralised governance — nagar mein Urban Local Bodies ke madhyam se chalta hai. Yaad rakho: yeh bodies citizens ke जीवन ko प्रभावित karne wale विभिन्न कार्य संपन्न करती hain. Class tip: exam mein 'कार्य लिखो' aaye to कम से कम पाँच points — infrastructure, waste, schemes, tax, planning. Indore wale service list (चित्र 12.4) aage dekhenge — wahan property tax, water charges, licenses, ambulance sab dikhega — functions ka living proof!",
+      "example": "Roz subah gali se garbage van aana = अपशिष्ट संग्रहण; broken road repair = आधारभूत ढाँचा — yeh dono ULB ke classic कार्य hain।",
+      "board_lines": [
+        "कार्य: आधारभूत ढाँचा · कब्रगाह · अपशिष्ट · योजनाएँ · कर/अर्थदंड",
+        "आर्थिक–सामाजिक विकास का नियोजन भी भूमिका",
+        "विकेंद्रित शासन = स्थानीय स्तर पर काम"
+      ],
+      "common_mistake": "Students सिर्फ 'सड़क और पानी' लिखते हैं — NCERT में अपशिष्ट निपटान, सरकारी योजनाएँ, स्थानीय कर–अर्थदंड और विकास नियोजन भी साफ़ लिखे हैं।",
+      "memory_trick": "I-W-S-T-P: Infrastructure–Waste–Schemes–Tax–Planning — 'इवस्टप' functions!",
+      "gesture_action": "Paanch ungliyan gino: ढाँचा, कूड़ा, योजना, कर, नियोजन — har ungli par ek कार्य bolo.",
+      "real_life_examples": [
+        "Municipality garbage truck aur drain cleaning van — अपशिष्ट और आधारभूत ढाँचा",
+        "Property tax receipt / water bill — स्थानीय कर का उदाहरण"
+      ],
+      "worked_example": {
+        "problem": "नगरीय स्थानीय निकायों की किन्हीं पाँच जिम्मेदारियों की सूची बनाओ।",
+        "steps": [
+          "NCERT list se points chuno",
+          "आधारभूत ढाँचा, अपशिष्ट, योजनाएँ, कर–अर्थदंड, विकास नियोजन / कब्रगाह रख-रखाव",
+          "बिंदुवार short phrases mein likho"
+        ],
+        "answer": "आधारभूत ढाँचे की देखभाल; कब्रगाहों का रख-रखाव; अपशिष्ट संग्रहण एवं निपटान; सरकारी योजनाओं का कार्यान्वयन; स्थानीय कर एवं अर्थदंड प्राप्त करना; आर्थिक–सामाजिक विकास का नियोजन।"
+      },
+      "practice": {
+        "easy": [
+          "अपशिष्ट संग्रहण एवं निपटान का क्या अर्थ है? एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "नगरीय निकाय स्थानीय कर और अर्थदंड क्यों लेते हैं? सोचकर उत्तर दो।"
+        ],
+        "hard": [
+          "यदि नगरीय स्थानीय निकाय न हों तो शहर के रोज़मर्रा के काम कैसे प्रभावित होंगे? तीन बिंदु लिखो।"
+        ]
+      },
+      "summary": "नगरीय स्थानीय निकाय आधारभूत ढाँचा, अपशिष्ट, योजनाएँ, कर–अर्थदंड और विकास नियोजन जैसे कई कार्य करते हैं — यही शहर में विकेंद्रित शासन है।",
+      "revision_point": "Functions checklist: infrastructure, cemeteries, waste, schemes, taxes/fines, planning.",
+      "exam_tip": "कार्य वाले उत्तर में 'आर्थिक और सामाजिक विकास के नियोजन' वाला बिंदु अक्सर छूट जाता है — ज़रूर जोड़ो।",
+      "source_text_hint": "आधारभूत ढाँचे की देखभाल पर ध्यान रखना, कब्रगाहों का रख-रखाव, अपशिष्ट संग्रहण एवं निपटान"
+    },
+    {
+      "concept": "नागरिकों के कर्तव्य और सहभागी लोकतंत्र",
+      "say": "Bacchon, ek bahut important twist! निकायों ko अपने कार्यों ko कुशलतापूर्वक करने mein सक्षम hone ke liye, नागरिकों ko bhi अपने कर्तव्यों ka पालन karna chahiye. Matlab — sirf government ka kaam nahi; citizens ko अपने क्षेत्र की देखभाल एवं रख-रखाव ka ध्यान rakhna chahiye. NCERT clearly yaad dilata hai: याद रहे कि यह एक सहभागी लोकतंत्र है — Participatory Democracy. Example one: agar log कूड़े के पृथक्करण (segregation — गीला/सूखा alag) ke निर्देशों ka सावधानीपूर्वक पालन karen, to कूड़े ka एकत्रीकरण एवं निस्तारण अधिक आसान ban jaata hai. Example two: agar koi गली अथवा रास्ते mein जल-रिसाव पाते hain, to turant सूचना dene se बहुमूल्य जल ka अपव्यय रुकेगा. 'आइए पता लगाएँ' — aur चार-पाँच कार्य socho jinse कर्तव्यनिष्ठ नागरिक नगर ke अपने-अपने क्षेत्र ki देखभाल mein सहायता kar saken. Ideas: plastic mat phenko, street light kharab ho to report karo, drain saaf rakho, public park ki dekhbhal, traffic rules follow, water save. आगे बढ़ने से पहले point bhi yahi kehta hai — यह सुनिश्चित करना नागरिकों का कर्तव्य है कि स्थानीय निकाय कुशल तरीके se अपना कार्य करने mein सक्षम हों. Class tip: Democracy = vote + duty. Exam mein 'नागरिक क्या करें?' aaye to segregation + leak report + area care, teeno likho!",
+      "example": "School mein agar har student apna kachra dustbin mein daale aur wet-dry alag rakhe, safai staff ka kaam asaan — bilkul shehar ke कूड़ा पृथक्करण jaisa।",
+      "board_lines": [
+        "सहभागी लोकतंत्र = नागरिक + निकाय साथ",
+        "कर्तव्य: क्षेत्र की देखभाल एवं रख-रखाव",
+        "उदाहरण: कूड़ा पृथक्करण · जल-रिसाव की तुरंत सूचना"
+      ],
+      "common_mistake": "Students सोचते हैं सफ़ाई और पानी सिर्फ नगर निगम की ज़िम्मेदारी है — NCERT कहता है नागरिकों को भी कर्तव्य निभाने होंगे, तभी निकाय कुशलता से काम कर पाएँगे।",
+      "memory_trick": "C-C-C: Citizen Care Completes — नागरिक देखभाल पूरी करे तभी शहर चले!",
+      "gesture_action": "Ek haath 'nikaya' (institution), doosra haath 'citizen' — dono haath milaao for सहभागी लोकतंत्र।",
+      "real_life_examples": [
+        "Ghar par wet aur dry waste alag buckets — कूड़ा पृथक्करण",
+        "School/colony mein paani ka pipe leak dikhe to turant batana — जल अपव्यय रोकना"
+      ],
+      "worked_example": {
+        "problem": "स्कूल जाते समय तुम और तुम्हारे मित्र जल के पाइप में रिसाव देखते हो। इस स्थिति में क्या करोगे?",
+        "steps": [
+          "समस्या पहचानो: बहुमूल्य जल व्यर्थ हो रहा है",
+          "NCERT tip: तुरंत सूचना दो — ward/local body / adults / authorities",
+          "साथ में सुरक्षित रहो; स्वयं पाइप खोलने की कोशिश मत करो"
+        ],
+        "answer": "हम तुरंत परिवार/शिक्षक या नगरीय स्थानीय निकाय / वार्ड संबंधी अधिकारी को सूचना देंगे ताकि जल का अपव्यय रुके — यही कर्तव्यनिष्ठ नागरिक का व्यवहार है।"
+      },
+      "practice": {
+        "easy": [
+          "कूड़े के पृथक्करण से नगर को क्या लाभ होता है?"
+        ],
+        "medium": [
+          "सहभागी लोकतंत्र में नागरिकों की भूमिका दो उदाहरणों सहित समझाओ।"
+        ],
+        "hard": [
+          "कर्तव्यनिष्ठ नागरिक नगर के अपने क्षेत्र की देखभाल में कैसे मदद कर सकते हैं? पाँच कार्य लिखो।"
+        ]
+      },
+      "summary": "सहभागी लोकतंत्र में नागरिकों को भी क्षेत्र की देखभाल करनी होती है — कूड़ा पृथक्करण और जल-रिसाव की सूचना जैसे कर्तव्य निकायों को कुशल बनाते हैं।",
+      "revision_point": "Key line: नागरिक कर्तव्य = स्थानीय निकाय की कुशलता की शर्त।",
+      "exam_tip": "रिसाव वाले प्रश्न (पाठ्य पुस्तक प्रश्न 1) में 'तुरंत सूचना' और 'जल अपव्यय रोकना' दोनों वाक्य लिखो।",
+      "source_text_hint": "याद रहे कि यह एक सहभागी लोकतंत्र है"
+    },
+    {
+      "concept": "नगर निगम, नगरपालिका और नगर पंचायत",
+      "say": "Ab clear classification — population ke hisaab se teen prakaar ke top urban bodies! NCERT kehta hai: Chennai aur Indore mein नगर निगम नगरीय निकायों ke शीर्ष par hain. (1) 10 लाख से अधिक जनसंख्या wale नगरों mein सर्वोच्च निकाय = नगर निगम, jise महानगर निगम bhi kehte hain — Municipal Corporation. (2) 1 से 10 लाख के बीच जनसंख्या wale नगरों mein सर्वोच्च निकाय = नगरपालिका, jise म्यूनिसिपल काउंसिल bhi kehte hain — Municipal Council. (3) 1 लाख से कम जनसंख्या wale नगरों और कस्बों mein = नगर पंचायत — Nagar Panchayat. Yaad rakhne ka simple ladder: chhota kasba → नगर पंचायत; medium city → नगरपालिका; bada metro-type → नगर निगम. History bonus — भारत में सबसे प्राचीन नगर निगम संस्था: मद्रास कॉर्पोरेशन (ab Greater Chennai Corporation), स्थापित 29 सितंबर 1688! ईस्ट इंडिया कंपनी ne ek वर्ष पहले charter जारी karke Fort St. George नगर तथा उससे 16 कि.मी. ke भीतर ke सभी क्षेत्रों ko ek Corporation mein गठित kiya. 1792 ke एक संसदीय अधिनियम ne Madras Corporation ko नगर mein स्थानीय कर लगाने की शक्ति di — isse स्थानीय नगरीय स्वशासन सुचारु रूप mein आरंभ हुआ. चित्र 12.3 — Madras Corporation. 'आइए पता लगाएँ' — apne aur पड़ोसी राज्यों ke kuchh नगर chuno; kaise pata karoge kahan नगर पंचायत, नगरपालिका ya नगर निगम hai? Names aur body type ki list banao. Class tip: numbers rote karo — 10 lakh, 1–10 lakh, 1 lakh se kam.",
+      "example": "Agar ek city ki population 12 lakh hai to नगर निगम; 4 lakh hai to नगरपालिका; 80,000 hai to नगर पंचायत — population ladder se pehchano।",
+      "board_lines": [
+        "> 10 लाख → नगर निगम / महानगर निगम",
+        "1–10 लाख → नगरपालिका / म्यूनिसिपल काउंसिल",
+        "< 1 लाख → नगर पंचायत | मद्रास कॉर्पोरेशन 1688 (प्राचीनतम)"
+      ],
+      "common_mistake": "Students नगर निगम और नगरपालिका को एक ही मान लेते हैं — NCERT जनसंख्या सीमा से साफ़ अंतर बताता है: 10 लाख से अधिक बनाम 1 से 10 लाख।",
+      "memory_trick": "N-N-N ladder: निगम (बड़ा) → नगरपालिका (मध्यम) → नगर पंचायत (छोटा) — 'तीन N, तीन आकार'!",
+      "gesture_action": "Teen steps dikhao — neeche chhota (पंचायत), beech medium (पालिका), upar bada (निगम).",
+      "real_life_examples": [
+        "Greater Chennai Corporation / BMC / Indore Municipal Corporation — बड़े नगर निगम",
+        "Chhote kasbe ki Nagar Panchayat office board — road par naam likha milta hai"
+      ],
+      "worked_example": {
+        "problem": "एक नगर की जनसंख्या लगभग 3 लाख है। वहाँ कौन-सा सर्वोच्च नगरीय निकाय होने की संभावना है? क्यों?",
+        "steps": [
+          "NCERT सीमाएँ याद करो: >10 लाख निगम; 1–10 लाख नगरपालिका; <1 लाख नगर पंचायत",
+          "3 लाख = 1 और 10 लाख के बीच",
+          "निष्कर्ष: नगरपालिका / म्यूनिसिपल काउंसिल"
+        ],
+        "answer": "नगरपालिका (म्यूनिसिपल काउंसिल), क्योंकि जनसंख्या 1 से 10 लाख के बीच है।"
+      },
+      "practice": {
+        "easy": [
+          "भारत की सबसे प्राचीन नगर निगम संस्था कौन-सी है और कब स्थापित हुई?"
+        ],
+        "medium": [
+          "नगर निगम और नगर पंचायत में जनसंख्या के आधार पर अंतर स्पष्ट करो।"
+        ],
+        "hard": [
+          "1792 के संसदीय अधिनियम ने मद्रास कॉर्पोरेशन को कौन-सी शक्ति दी और इससे स्थानीय स्वशासन कैसे शुरू हुआ?"
+        ]
+      },
+      "summary": "जनसंख्या के आधार पर नगर निगम (>10 लाख), नगरपालिका (1–10 लाख) और नगर पंचायत (<1 लाख) होते हैं; मद्रास कॉर्पोरेशन (1688) भारत की प्राचीनतम नगर निगम संस्था है।",
+      "revision_point": "Teen bodies + teen population bands; Madras 1688 + 1792 tax power.",
+      "exam_tip": "संख्याएँ ठीक लिखो — '10 लाख से अधिक' और '1 लाख से कम' गलती से उल्टे मत लिखना।",
+      "source_text_hint": "10 लाख से अधिक की जनसंख्या वाले नगरों में ही सर्वोच्च निकाय के रूप में नगर निगम होते हैं"
+    },
+    {
+      "concept": "इंदौर की सेवाएँ और स्वच्छ सर्वेक्षण",
+      "say": "Bacchon, ab living example — इंदौर नगर निगम! चित्र 12.4 mein services ki lambi list hai — yeh dikhata hai local body citzens ke liye kya-kya karti hai. Dekho: संपत्ति कर, जल शुल्क, सूखा कूड़ा प्रबंधन, व्यवसाय–विज्ञापन–व्यापार लाइसेंस. Phir CRM — Citizen Relationship Management / नागरिक संबंध प्रबंधन — ke through: विवाह प्रमाणपत्र, अग्निशमन सेवाएँ, विभिन्न लाइसेंस, जल टैंकर, मलबा हटाना, पेड़ की कटाई और ढुलाई, शिकायतें, सेवा के लिए अनुरोध. Aur bhi: सेप्टिक टैंकर (मैला), सभागार, अंत्येष्टि क्रिया संबंधी वाहन, चल शौचालय, एंबुलेंस. Matlab — birth se lekar emergency tak, bahut services local body se judi hain! Kai services भुगतान आधारित hain — tax, water charges, licenses — isi se निकाय अपनी गतिविधियों ke liye संसाधन जुटाते hain. 'आइए विचार करें': pichhle saat वर्षों se लगातार मध्य प्रदेश ke Indore ko सरकारी 'स्वच्छ सर्वेक्षण' योजना ke अंतर्गत भारत ke सर्वाधिक स्वच्छ नगर ka पुरस्कार मिला hai. Is उपलब्धि mein इंदौर ke नागरिकों ki क्या भूमिका रही होगी? Socho — segregation, discipline, participation, reporting problems, following rules. Clean city = corporation + citizens together. Yeh concept previous वाले नागरिक कर्तव्य se seedha judta hai. Class tip: jab resources pooche — property tax, water charges, licences, paid services (tankers etc.) hint from Fig 12.4.",
+      "example": "Indore mein agar koi jal tanker maange ya shikayat darj kare CRM se — woh citizen services ka real use hai; saath mein log kooda alag karte hain to Swachh Survekshan jeetne mein madad milti hai।",
+      "board_lines": [
+        "इंदौर सेवाएँ: कर · जल · कूड़ा · लाइसेंस · CRM शिकायत/अनुरोध",
+        "संसाधन = कर, शुल्क, भुगतान आधारित सेवाएँ",
+        "स्वच्छ सर्वेक्षण: इंदौर — लगातार सबसे स्वच्छ (7 वर्ष)"
+      ],
+      "common_mistake": "Students सोचते हैं स्वच्छ सर्वेक्षण का अवार्ड सिर्फ नगर निगम के अफसरों की मेहनत है — NCERT पूछता है नागरिकों की भूमिका क्या रही होगी।",
+      "memory_trick": "I-C-S: Indore–CRM–Swachh — इंदौर सेवाएँ CRM से, स्वच्छता नागरिकों से!",
+      "gesture_action": "Ek haath se 'tax/bill' gesture, doosre se 'safai/segregation' — dono milaake Indore success dikhao.",
+      "real_life_examples": [
+        "Ghar ka property tax / water bill payment — ULB resource",
+        "Swachh Bharat / school cleanliness drive — citizen role jaisa Indore mein"
+      ],
+      "worked_example": {
+        "problem": "नगरीय स्थानीय निकाय अपनी गतिविधियों के लिए संसाधन कैसे जुटाते हैं? चित्र 12.4 के संकेत से उत्तर दो।",
+        "steps": [
+          "चित्र में संपत्ति कर, जल शुल्क, लाइसेंस देखो",
+          "कई सेवाएँ भुगतान आधारित हैं — टैंकर, हॉल आदि",
+          "निष्कर्ष: कर, शुल्क और paid services से संसाधन"
+        ],
+        "answer": "वे स्थानीय कर (जैसे संपत्ति कर), जल शुल्क, व्यापार/विज्ञापन लाइसेंस और कुछ भुगतान आधारित सेवाओं के माध्यम से संसाधन जुटाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "CRM का पूरा रूप और हिंदी अर्थ लिखो।"
+        ],
+        "medium": [
+          "इंदौर नगर निगम द्वारा दी जाने वाली किन्हीं छह सेवाओं की सूची बनाओ।"
+        ],
+        "hard": [
+          "इंदौर के स्वच्छ सर्वेक्षण पुरस्कार में नागरिकों की संभावित भूमिका पर एक छोटा अनुच्छेद लिखो।"
+        ]
+      },
+      "summary": "इंदौर नगर निगम कर, जल, कूड़ा, लाइसेंस और CRM सेवाएँ देता है; संसाधन कर–शुल्क से आते हैं; स्वच्छ सर्वेक्षण की सफलता में नागरिक भागीदारी अहम है।",
+      "revision_point": "Fig 12.4 = services + money sources; Indore clean award = citizen + corporation.",
+      "exam_tip": "संसाधन जुटाने वाले प्रश्न में चित्र 12.4 के कम से कम तीन स्रोत नाम लिखो — संपत्ति कर, जल शुल्क, लाइसेंस।",
+      "source_text_hint": "इंदौर को सरकारी 'स्वच्छ सर्वेक्षण' योजना के अंतर्गत भारत के सर्वाधिक स्वच्छ नगर का पुरस्कार"
+    },
+    {
+      "concept": "समीर–अनीता संवाद और अध्याय सार",
+      "say": "Last part — ek sundar classroom dialogue! समीर गाँव ka, अनीता नगर se दादा-दादी se milne aayi. Anita kehti hai — नगर व्यस्त aur भीड़-भाड़ wala, ऊँचे भवन, log हमेशा आते-जाते, कोलाहल भरा; log अधिक आत्मनिर्भर, अक्सर पड़ोसियों ko bhi nahi jaante. Sameer kehta hai — yahan हर व्यक्ति एक-दूसरे ko jaanta hai, मदद ke liye तैयार; mil-julkar खेतों mein kaam, festivals, सामूहिक निर्णय. Anita add karti hai — shehar mein bhi सामुदायिक भावना hai! Heavy rain se do gali baad ek मकान ढह गया, दर्जनों log मलबा हटाने aaye, ensure kiya koi अंदर फँसा na rahe. Sameer poochhta hai — local government madad nahi karti? Anita: हाँ करती है — हमारे यहाँ स्थानीय निकाय और निर्वाचित प्रतिनिधि hain jo हमारे हितों ka प्रतिनिधित्व करते hain. Sameer: यह तो ग्राम पंचायत जैसी प्रतीत होती है, बस केवल उससे बड़ी है — yahan bhi सदस्य निर्वाचित होते hain, aur kyunki log ek-doosre ko जानते hain, अधिक लोग भाग लेते hain; kabhi बच्चों ki baat bhi suni jaati hai. Example: बच्चों ने खतरनाक बिजली का तार नीचे लटकता पाया, report kiya, ग्राम सभा सदस्य ko सुझाया खंभा स्थानांतरित हो — और ऐसा किया गया! Anita: लोकतंत्र ko isi tarah kaam karna chahiye — शहर में अधिक जटिल, लेकिन मूल विचार वही — प्रत्येक व्यक्ति का मत महत्व रखता है. आगे बढ़ने से पहले तीन बातें: (1) नगरीय क्षेत्रों mein विभिन्न नगरीय स्थानीय निकायों ke माध्यम se विकेंद्रित शासन चलता है. (2) ग्रामीण की तरह नगरीय निकायों mein भी स्थानीय नागरिकों ka प्रतिनिधित्व करने वाले सदस्य निर्वाचित होते हैं. (3) नागरिकों ka कर्तव्य — निकाय कुशल तरीके se काम kar saken. Class tip: compare-contrast question ke liye Sameer-Anita points gold hain!",
+      "example": "Agar bacche dangerous hanging wire report karke shift karwa sakein — jaise Sameer ke gaon mein — to shehar mein bhi tum ward office / helpline se report karke democracy chala sakte ho।",
+      "board_lines": [
+        "गाँव: निकटता, सामूहिक निर्णय | नगर: जटिल, फिर भी निकाय+समुदाय",
+        "मूल विचार: प्रत्येक व्यक्ति का मत महत्व रखता है",
+        "सार: विकेंद्रित शासन · निर्वाचित सदस्य · नागरिक कर्तव्य"
+      ],
+      "common_mistake": "Students लिख देते हैं कि शहर में लोकतंत्र नहीं चलता या समुदाय नहीं होता — संवाद दिखाता है कि शहर जटिल है, पर मूल विचार और सामुदायिक भावना दोनों मौजूद हैं।",
+      "memory_trick": "S-A-V: Sameer–Anita–Vote — संवाद का मैसेज: हर व्यक्ति का मत (Vote) मायने रखता है!",
+      "gesture_action": "Do students ki tarah pair banakar baat karo — ek 'gaon', ek 'shehar' — phir dono thumbs up for 'har mat mahatva'.",
+      "real_life_examples": [
+        "Flood/house collapse par neighbours madad — shehar ki saamudaayik bhaavna",
+        "Children reporting unsafe wire / open drain — participatory democracy in action"
+      ],
+      "worked_example": {
+        "problem": "ग्रामीण क्षेत्रों में पंचायती राज व्यवस्था और नगरीय स्थानीय निकायों के बीच क्या समानताएँ एवं विभिन्नताएँ हैं?",
+        "steps": [
+          "समानता: निर्वाचित प्रतिनिधि; विकेंद्रित स्वशासन; नागरिक भागीदारी; स्थानीय समस्याएँ सुलझाना",
+          "विभिन्नता: संरचना नाम (ग्राम सभा/पंचायत vs वार्ड/निगम–पालिका–पंचायत); नगर अधिक जटिल; गाँव में निकटता–सामूहिकता अधिक दिखती है",
+          "संवाद का निष्कर्ष: मूल विचार एक — प्रत्येक व्यक्ति का मत महत्वपूर्ण"
+        ],
+        "answer": "समानताएँ: दोनों में निर्वाचित सदस्य और विकेंद्रित स्थानीय शासन। विभिन्नताएँ: नगर अधिक जटिल/विविध; संस्थाओं के नाम और स्तर अलग; गाँव में आपसी जान-पहचान अधिक। मूल लोकतंत्र का विचार दोनों में एक है।"
+      },
+      "practice": {
+        "easy": [
+          "अनीता के अनुसार नगर गाँव से कैसे भिन्न है? दो बातें लिखो।"
+        ],
+        "medium": [
+          "बच्चों ने ग्राम सभा में बिजली के तार वाली समस्या कैसे हल करवाई? संक्षेप में लिखो।"
+        ],
+        "hard": [
+          "एक अच्छे नगरीय स्थानीय निकाय की विशेषताएँ और नागरिकों से अपेक्षाएँ — दोनों की छोटी सूची बनाओ।"
+        ]
+      },
+      "summary": "समीर–अनीता संवाद दिखाता है कि गाँव और नगर भिन्न हैं, पर लोकतंत्र का मूल एक है; अध्याय का सार है विकेंद्रित नगरीय शासन, निर्वाचित प्रतिनिधि और नागरिक कर्तव्य।",
+      "revision_point": "Chapter closing triangle: विकेंद्रित शासन + निर्वाचित सदस्य + नागरिक कर्तव्य; मत = महत्व।",
+      "exam_tip": "तुलना वाले प्रश्न में संवाद के उदाहरण (मकान ढहना / बिजली तार) देकर उत्तर जीवंत बनाओ।",
+      "source_text_hint": "यह शहर में अधिक जटिल प्रतीत होता है, लेकिन मूल विचार वही है कि प्रत्येक व्यक्ति का मत महत्व रखता है"
+    }
+  ]
+}
