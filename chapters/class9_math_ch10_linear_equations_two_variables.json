@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 688,
+    "chapter_name": "दो चरों वाले रैखिक समीकरण",
+    "chapter_number": 10,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 10 — दो चरों वाले रैखिक समीकरण (Linear Equations in Two Variables) — ko padhenge. Pehle ek char wale linear equations ki yaad taza karenge, phir cricket jaisi daily situations se x + y = 176 jaisa two-variable equation banayenge. Standard form ax + by + c = 0, ordered-pair solutions, aur yeh baat clearly samjhenge ki aise equation ke अपरिमित रूप से अनेक हल hote hain — aur har solution graph par ek point hota hai.",
+    "welcome": "Good morning, class! Smart Board par aaj ek bahut useful Maths chapter shuru karte hain — दो चरों वाले रैखिक समीकरण. Socho: do batsmen ne milkar 176 runs banaye, lekin har ek ke runs alag-alag nahi pata. Aise sawalon ko maths mein equation banate hain. Aaj hum seekhenge ki do variables wale linear equation kaise likhte hain, uska solution kya hota hai, aur kyun ek hi nahi — अनगिनत solutions milte hain. Ready ho? Chalo board ki taraf!",
+    "learning_outcomes": [
+      "Ek char wale linear equation se do char wale linear equation tak transition samajhna aur daily situations ko equation mein badalna",
+      "ax + by + c = 0 ke standard form mein equation likhna aur a, b, c ke values identify karna (jahan a aur b dono zero nahi)",
+      "Solution ko ordered pair (x, y) ke roop mein likhna aur verify karna ki kaunsa pair equation satisfy karta hai",
+      "Yeh prove/explain karna ki do char wale linear equation ke अपरिमित रूप से अनेक हल hote hain, aur solution–graph connection yaad rakhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "भूमिका – एक चर वाले रैखिक समीकरणों की याद"
+      },
+      {
+        "number": 2,
+        "name": "दो चरों वाला रैखिक समीकरण – क्रिकेट उदाहरण"
+      },
+      {
+        "number": 3,
+        "name": "मानक रूप ax + by + c = 0"
+      },
+      {
+        "number": 4,
+        "name": "समीकरण को मानक रूप में लिखना"
+      },
+      {
+        "number": 5,
+        "name": "एक चर जैसे समीकरणों को दो चरों में व्यक्त करना"
+      },
+      {
+        "number": 6,
+        "name": "हल का अर्थ – क्रमित युग्म (x, y)"
+      },
+      {
+        "number": 7,
+        "name": "अपरिमित रूप से अनेक हल"
+      },
+      {
+        "number": 8,
+        "name": "सारांश – हल और आलेख का संबंध"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भूमिका – एक चर वाले रैखिक समीकरणों की याद",
+      "say": "Bacchon, pehle thodi si revision — previous classes mein tumne एक चर वाले रैखिक समीकरण padhe the. Yaad hai? Jaise x − 1 = 0, x − 2 = 0, aur (2/3)x = 0. Aise equations mein sirf ek unknown hota hai. Aur bahut important baat — ऐसे समीकरणों का एक अद्वितीय हल होता है, matlab ek aur sirf ek solution. Us solution ko number line par bhi dikha sakte ho. Aaj ke chapter mein hum isi knowledge ko aage le jaayenge. Sawal yeh hai: क्या दो चरों वाले रैखिक समीकरण का एक हल होता है? Agar haan, kya woh unique hota hai? Aur Cartesian plane par woh solution kaise dikhega? Yeh questions samajhne ke liye hum Chapter 3 ki coordinate geometry wali concepts bhi use karenge. Edmund Halley ne kaha tha — Analytic Art ka asli kaam mathematical problems ko equations mein laana aur unhe sabse simple form mein dikhana hai. Bilkul wahi hum aaj karenge. Pehle ek familiar example lo: 2x + 5 = 0. Iska solution x = −5/2 hai, aur ise number line par mark kiya jaata hai. Equation solve karte waqt do rules yaad rakho: (i) dono sides mein same number add/subtract karne se equation same rehti hai; (ii) dono sides ko same non-zero number se multiply/divide karne se bhi equation same rehti hai. Yeh foundation strong rakho — aage do variables aayenge!",
+      "example": "2x + 5 = 0 ka unique solution x = −5/2 hai; ise number line par −2.5 ke paas mark karte hain.",
+      "board_lines": [
+        "Ek char: x − 1 = 0, x − 2 = 0, (2/3)x = 0 → unique solution",
+        "2x + 5 = 0 ⇒ x = −5/2 (number line par dikhao)",
+        "Rules: same number ± / ×÷ (≠0) dono sides → equation unchanged"
+      ],
+      "common_mistake": "Students sochte hain ki two-variable equation ka bhi ek hi unique solution hoga jaise one-variable ka — yeh misconception aage clear hogi.",
+      "memory_trick": "ONE = ONE: Ek variable → Ek unique solution. Do variables aane par rule badlega!",
+      "gesture_action": "Ek ungli upar karke ‘ek variable’ dikhao, phir number line par imaginary point mark karke unique solution act out karo.",
+      "real_life_examples": [
+        "Shop mein ek item ki price pata ho aur total bill fixed ho — ek unknown, ek equation",
+        "Bus fare fixed ho aur distance known ho — ek relation se ek value nikalna"
+      ],
+      "worked_example": {
+        "problem": "समीकरण 2x + 5 = 0 ka हल ज्ञात कीजिए और बताइए कि यह अद्वितीय क्यों है।",
+        "steps": [
+          "2x + 5 = 0 ⇒ 2x = −5 (dono sides se 5 घटाया)",
+          "x = −5/2 (dono sides ko 2 se divide)",
+          "Sirf ek variable hai, isliye sirf ek value possible — अद्वितीय हल"
+        ],
+        "answer": "x = −5/2; यह अद्वितीय हल है क्योंकि एक चर वाले रैखिक समीकरण का एक और केवल एक हल होता है।"
+      },
+      "practice": {
+        "easy": [
+          "एक चर वाले दो रैखिक समीकरण लिखिए।"
+        ],
+        "medium": [
+          "समीकरण 3x − 9 = 0 हल कीजिए और number line पर कैसे दिखाएँगे, लिखिए।"
+        ],
+        "hard": [
+          "दो चरों वाले रैखिक समीकरण के बारे में NCERT भूमिका में कौन-से तीन प्रश्न पूछे गए हैं? अपने शब्दों में लिखिए।"
+        ]
+      },
+      "summary": "एक चर वाले रैखिक समीकरण का अद्वितीय हल होता है; आज उसी ज्ञान को दो चरों वाले समीकरणों पर लागू करेंगे।",
+      "revision_point": "One variable linear equation → unique solution; rules of balance (± same, ×÷ same ≠0).",
+      "exam_tip": "Exam में introduction में अक्सर पूछते हैं — एक चर vs दो चर; ‘अद्वितीय हल’ शब्द जरूर लिखो।",
+      "source_text_hint": "पिछली कक्षाओं में, आप एक चर वाले रैखिक समीकरणों का अध्ययन कर चुके हैं"
+    },
+    {
+      "concept": "दो चरों वाला रैखिक समीकरण – क्रिकेट उदाहरण",
+      "say": "Ab ek real situation lete hain — bilkul NCERT jaisi. Nagpur mein India aur Sri Lanka ke beech ODI cricket match hua. Do Indian batsmen ne milkar 176 runs banaye. Is information ko equation mein kaise likhein? Humein individual runs nahi pata — दो अज्ञात राशियाँ hain, two unknowns. Inhe x aur y se denote karte hain. Ek batsman ke runs = x, doosre ke = y. Equation banegi: x + y = 176. Yeh दो चरों वाले रैखिक समीकरण का उदाहरण hai! Tradition mein variables x aur y hote hain, lekin any letters use kar sakte ho. Aur examples: 1.2x + 3y = 5, p + 4q = 7, πu + 5v = 9, aur 3 = 2x − 7y. Inhe zero form mein bhi likho: 1.2x + 3y − 5 = 0, p + 4q − 7 = 0, πu + 5v − 9 = 0, aur 2x − 7y − 3 = 0. Class tip: jab do cheezein mili hon lekin alag-alag na pata ho, socho two variables. Notebook price double of pen — x = notebook, y = pen, toh x = 2y. Yeh Exercise 4.1 ka pehla sawal bhi hai. Cricket se lekar shop tak — linear equation in two variables har jagah milta hai. Agle concept mein ax + by + c = 0 seekhenge.",
+      "example": "Do batsmen ke combined runs 176 ⇒ x + y = 176, jahan x aur y unke individual runs hain.",
+      "board_lines": [
+        "Situation: 2 batsmen, total runs = 176 (individual unknown)",
+        "Let runs be x and y ⇒ x + y = 176",
+        "Other examples: 1.2x + 3y = 5, p + 4q = 7, πu + 5v = 9"
+      ],
+      "common_mistake": "Students ek hi variable se try karte hain — ‘total 176’ se individual runs nahi nikalte; do unknowns ke liye do symbols zaroori hain.",
+      "memory_trick": "CRICKET-XY: Combined Runs → x + y. Do players = do variables!",
+      "gesture_action": "Do students ko aage bulao — ek ‘x runs’, doosra ‘y runs’ — dono ke haath milao aur board par 176 likho.",
+      "real_life_examples": [
+        "Do friends milkar ₹200 kharch karein — alag-alag amount unknown: x + y = 200",
+        "Class mein boys + girls = 40: b + g = 40"
+      ],
+      "worked_example": {
+        "problem": "एक नोटबुक की कीमत एक कलम की कीमत से दो गुनी है। दो चरों वाला रैखिक समीकरण लिखिए। (संकेत: नोटबुक = x रु, कलम = y रु)",
+        "steps": [
+          "Notebook price = x, pen price = y",
+          "‘दो गुनी’ means x = 2y",
+          "Standard thinking: x − 2y = 0 bhi same relation hai"
+        ],
+        "answer": "x = 2y (या x − 2y = 0), जहाँ x = नोटबुक की कीमत, y = कलम की कीमत।"
+      },
+      "practice": {
+        "easy": [
+          "x + y = 176 में x और y क्या दर्शाते हैं?"
+        ],
+        "medium": [
+          "दो संख्याओं का योग 50 है। दो चरों वाला समीकरण लिखिए।"
+        ],
+        "hard": [
+          "‘एक पुस्तक की कीमत एक पेन से ₹5 अधिक है’ — x, y लेकर समीकरण लिखिए और बताइए यह दो चरों वाला क्यों है।"
+        ]
+      },
+      "summary": "जब दो अज्ञात हों — जैसे दो बल्लेबाजों के रन — तो x + y = 176 जैसा दो चरों वाला रैखिक समीकरण बनता है।",
+      "revision_point": "Two unknowns → two letters (usually x, y); word problem → equation.",
+      "exam_tip": "Word problem में पहले ‘मान लीजिए…’ लिखो — x और y क्या हैं, clearly define करो; वरना marks कटते हैं।",
+      "source_text_hint": "नागपुर में भारत और श्रीलंका के बीच खेले गए एक एकदिवसीय अंतर्राष्ट्रीय क्रिकेट"
+    },
+    {
+      "concept": "मानक रूप ax + by + c = 0",
+      "say": "Ab formal definition — NCERT ka heart. Jo equation ax + by + c = 0 ke form mein likhi ja sake, jahan a, b, c वास्तविक संख्याएँ (real numbers) hain, aur a aur b दोनों शून्य नहीं हैं — usse दो चरों वाला रैखिक समीकरण (linear equation in two variables) kehte hain. Matlab a = 0 aur b = 0 ek saath nahi ho sakte. Agar a ≠ 0, b ≠ 0 — classic case. Agar a ≠ 0 lekin b = 0 — phir bhi two-variable form: ax + 0·y + c = 0. Agar a = 0, b ≠ 0 — toh 0·x + by + c = 0. Important: linear isliye kyunki variables ki power 1 hoti hai — x², xy, 1/x jaise terms nahi hone chahiye. Example: 1.2x + 3y = 5 ⇒ 1.2x + 3y − 5 = 0. Yahan a = 1.2, b = 3, c = −5. Similarly p + 4q − 7 = 0. Class tip: c ke sign par dhyan — right se left laate waqt sign reverse hota hai. Definition ke teen hisse yaad rakho: (1) form ax+by+c=0, (2) a,b,c real, (3) a aur b dono zero nahi. Yeh exam mein marks dilate hain!",
+      "example": "1.2x + 3y = 5 ko 1.2x + 3y − 5 = 0 likho; a = 1.2, b = 3, c = −5.",
+      "board_lines": [
+        "Standard form: ax + by + c = 0",
+        "a, b, c ∈ Real numbers; a and b not both zero",
+        "Example: 2x − 7y − 3 = 0 (from 3 = 2x − 7y)"
+      ],
+      "common_mistake": "Students sochte hain a aur b dono non-zero hone chahiye — actually ‘ दोनों शून्य नहीं’ ka matlab hai dono ek saath zero nahi; ek zero ho sakta hai.",
+      "memory_trick": "A-B-C ZERO: Form ax+by+c=0; A aur B dono zero nahi. C kuch bhi ho sakta hai!",
+      "gesture_action": "Board par ax + by + c = 0 likho; a aur b ke neeche underline karke ‘not both zero’ circle karo.",
+      "real_life_examples": [
+        "Mobile recharge: 2 packs + 3 packs = fixed amount → 2x + 3y − amount = 0",
+        "Farming: fertilizer bags x aur y milakar fixed cost — same form"
+      ],
+      "worked_example": {
+        "problem": "क्या 3 = 2x − 7y दो चरों वाला रैखिक समीकरण है? मानक रूप में लिखकर a, b, c बताइए।",
+        "steps": [
+          "3 = 2x − 7y ⇒ 2x − 7y − 3 = 0",
+          "a = 2, b = −7, c = −3 — sab real numbers",
+          "a aur b dono zero nahi ⇒ हाँ, यह दो चरों वाला रैखिक समीकरण है"
+        ],
+        "answer": "हाँ। 2x − 7y − 3 = 0; a = 2, b = −7, c = −3।"
+      },
+      "practice": {
+        "easy": [
+          "ax + by + c = 0 में a और b पर क्या शर्त है?"
+        ],
+        "medium": [
+          "p + 4q = 7 को मानक रूप में लिखिए और a, b, c के मान बताइए।"
+        ],
+        "hard": [
+          "क्या x² + y = 5 दो चरों वाला रैखिक समीकरण है? कारण सहित उत्तर दीजिए।"
+        ]
+      },
+      "summary": "ax + by + c = 0 (a, b दोनों शून्य नहीं) ही दो चरों वाले रैखिक समीकरण का मानक रूप है।",
+      "revision_point": "Definition checklist: form + real a,b,c + a,b not both zero + degree 1.",
+      "exam_tip": "Definition लिखते समय ‘a और b दोनों शून्य नहीं हैं’ वाक्य मत भूलना — यह half mark बचाता है।",
+      "source_text_hint": "अतः उस समीकरण को, जिसे ax + by + c = 0 के रूप में व्यक्त किया जा सकता हो"
+    },
+    {
+      "concept": "समीकरण को मानक रूप में लिखना",
+      "say": "Ab Example 1 — equations ko ax + by + c = 0 mein badalna aur a, b, c batana. (i) 2x + 3y = 4.37 → 2x + 3y − 4.37 = 0; a = 2, b = 3, c = −4.37. (ii) x − 4 = (1/3)y → x − (1/3)y − 4 = 0; a = 1, b = −1/3, c = −4. (iii) 4 = 5x − 3y ⇒ 5x − 3y − 4 = 0; a = 5, b = −3, c = −4. Interesting: ise −5x + 3y + 4 = 0 bhi likh sakte ho — dono sides −1 se multiply; tab a = −5, b = 3, c = 4. Dono sahi! (iv) 2x = y ⇒ 2x − y + 0 = 0; a = 2, b = −1, c = 0. Yaad rakho: c = 0 allowed hai. Board tip: sab terms left, right = 0; signs carefully reverse karo. Exercise 4.1 isi pattern ka hai — 2x + 3y = 9.35, −2x + 3y = 6, x = 3y, 2x = −5y, 3x + 2 = 0, y − 2 = 0, 5 = 2x. Har ek mein a, b, c identify karo. Common error: 2x = −5y se 2x + 5y = 0 banate waqt sign galat kar dena. Practice se strong ho jayega.",
+      "example": "4 = 5x − 3y ⇒ 5x − 3y − 4 = 0 (a=5,b=−3,c=−4) अथवा −5x + 3y + 4 = 0 (a=−5,b=3,c=4).",
+      "board_lines": [
+        "2x + 3y = 4.37 → 2x + 3y − 4.37 = 0 (a=2,b=3,c=−4.37)",
+        "x − 4 = (1/3)y → x − (1/3)y − 4 = 0 (a=1,b=−1/3,c=−4)",
+        "2x = y → 2x − y + 0 = 0 (a=2,b=−1,c=0)"
+      ],
+      "common_mistake": "Students c ka sign galat rakhte hain — right side se left laate waqt number ka sign reverse karna zaroori hai.",
+      "memory_trick": "LEFT-ZERO: Sab left lao, right zero karo; jo peeche aaya uska sign उल्टा!",
+      "gesture_action": "Haath se terms ko board ke left side ‘swipe’ karo, phir equals zero pe thump — ‘standard form ready’.",
+      "real_life_examples": [
+        "Budget: 2x + 3y = 500 ko 2x + 3y − 500 = 0 likhna — same meaning",
+        "Recipe ratio: 5 cups = 2x − 3y type relation ko zero-form mein balance karna"
+      ],
+      "worked_example": {
+        "problem": "समीकरण x − 4 = (1/3)y को ax + by + c = 0 रूप में लिखिए और a, b, c बताइए।",
+        "steps": [
+          "x − 4 − (1/3)y = 0",
+          "Terms arrange: x − (1/3)y − 4 = 0",
+          "Compare: a = 1, b = −1/3, c = −4"
+        ],
+        "answer": "x − (1/3)y − 4 = 0; a = 1, b = −1/3, c = −4।"
+      },
+      "practice": {
+        "easy": [
+          "2x + 3y = 9.35 को ax + by + c = 0 में लिखिए।"
+        ],
+        "medium": [
+          "−2x + 3y = 6 के लिए a, b, c के मान बताइए।"
+        ],
+        "hard": [
+          "5 = 2x को दो तरीकों से ax + by + c = 0 रूप में लिखकर दिखाइए कि a, b, c के जायज़ युग्म एक से अधिक हो सकते हैं।"
+        ]
+      },
+      "summary": "किसी भी दो चरों वाले समीकरण को ax + by + c = 0 में लाकर a, b, c पहचानना सीखना ज़रूरी है; चिह्न बदलने पर भी समीकरण वैध रह सकता है।",
+      "revision_point": "Move all terms left → = 0; watch signs; multiplying by −1 gives another valid (a,b,c).",
+      "exam_tip": "a, b, c लिखने से पहले समीकरण एक बार जाँचो — खासकर भिन्न वाले b (जैसे −1/3) पर गलती आम है।",
+      "source_text_hint": "नीचे दिए गए समीकरणों को ax + by + c = 0 के रूप में लिखिए"
+    },
+    {
+      "concept": "एक चर जैसे समीकरणों को दो चरों में व्यक्त करना",
+      "say": "Example 2 bahut smart hai — lagta hai ek variable wala equation hai, lekin hum use two-variable form mein likh sakte hain! (i) x = −5 ko 1·x + 0·y = −5, ya 1·x + 0·y + 5 = 0 likho. Yahan a = 1, b = 0, c = 5. (ii) y = 2 ⇒ 0·x + 1·y − 2 = 0; a = 0, b = 1, c = −2. (iii) 2x = 3 ⇒ 2x + 0·y − 3 = 0. (iv) 5y = 2 ⇒ 0·x + 5y − 2 = 0. NCERT clearly kehta hai: ax + c = 0 bhi two-variable linear equation ka example hai, kyunki ise ax + 0·y + c = 0 likha ja sakta hai. Jaise 4 − 3x = 0 ⇒ −3x + 0·y + 4 = 0. Kyun important? Graph par x = −5 vertical line hoti hai, y = 2 horizontal line. Solution ke liye — x = −5 mein x hamesha −5, y kuch bhi — isliye infinite solutions! Exercise mein 3x + 2 = 0, y − 2 = 0, 5 = 2x isi family ke hain. Common doubt: b = 0 hai toh two variable kaise? Answer: missing variable ka coefficient zero hai; definition tab tak valid hai jab a aur b दोनों साथ में zero na hon.",
+      "example": "x = −5 ⇒ x + 0·y + 5 = 0; y = 2 ⇒ 0·x + y − 2 = 0.",
+      "board_lines": [
+        "x = −5 → 1·x + 0·y + 5 = 0 (b = 0 allowed)",
+        "y = 2 → 0·x + 1·y − 2 = 0 (a = 0 allowed)",
+        "ax + c = 0 = ax + 0·y + c = 0 (still linear in two variables)"
+      ],
+      "common_mistake": "Students b = 0 या a = 0 देखकर कह देते हैं ‘यह दो चरों वाला नहीं’ — NCERT के अनुसार यह मान्य है जब तक a और b दोनों शून्य न हों।",
+      "memory_trick": "ZERO COEFFICIENT OK: Missing variable = 0×variable; definition अभी भी पास!",
+      "gesture_action": "Ek haath se ‘x fixed’ vertical line dikhao, doosre se ‘y fixed’ horizontal line — a=0 या b=0 cases.",
+      "real_life_examples": [
+        "Ticket price fixed ₹50 — x = 50, quantity y kuch bhi ho price same relation",
+        "Water tank height always 2 m — y = 2, horizontal constraint"
+      ],
+      "worked_example": {
+        "problem": "2x = 3 को दो चरों वाले समीकरण के रूप में लिखिए और a, b, c बताइए।",
+        "steps": [
+          "2x = 3 ⇒ 2x − 3 = 0",
+          "y term add with 0 coefficient: 2x + 0·y − 3 = 0",
+          "a = 2, b = 0, c = −3"
+        ],
+        "answer": "2x + 0·y − 3 = 0; a = 2, b = 0, c = −3।"
+      },
+      "practice": {
+        "easy": [
+          "y = 2 को ax + by + c = 0 रूप में लिखिए।"
+        ],
+        "medium": [
+          "3x + 2 = 0 को दो चरों वाले रूप में लिखकर a, b, c बताइए।"
+        ],
+        "hard": [
+          "समझाइए: 4 − 3x = 0 क्यों दो चरों वाले रैखिक समीकरण का उदाहरण है।"
+        ]
+      },
+      "summary": "x = k या y = k जैसे समीकरणों को 0 गुणांक वाले दूसरे चर के साथ ax + by + c = 0 रूप में लिखा जा सकता है।",
+      "revision_point": "a=0 or b=0 is OK; only a=b=0 together is forbidden.",
+      "exam_tip": "‘क्या x = 5 दो चरों वाला है?’ — हाँ, x + 0·y − 5 = 0 लिखकर दिखाओ; examiner impressed होता है।",
+      "source_text_hint": "समीकरण ax + c = 0 भी दो चरों वाले रैखिक समीकरणों का ही एक उदाहरण है"
+    },
+    {
+      "concept": "हल का अर्थ – क्रमित युग्म (x, y)",
+      "say": "Section 4.3 — रैखिक समीकरण का हल. Ek variable mein solution ek number hota hai. Do variables mein solution ka matlab hai x aur y ke मानों का युग्म jo equation को संतुष्ट kare. Equation lo: 2x + 3y = 12. Check: x = 3, y = 2. Substitute: 2(3) + 3(2) = 6 + 6 = 12. Yes! Ise क्रमित युग्म (ordered pair) (3, 2) likhte hain — pehle x, baad mein y. Order matter karta hai! (0, 4) bhi solution hai: 2(0)+3(4)=12. Lekin (1, 4) nahi: 2(1)+3(4)=14 ≠ 12. Aur dhyan do — (0, 4) solution hai, lekin (4, 0) nahi: 2(4)+3(0)=8 ≠ 12. Isliye order aur values dono check karo. Easy NCERT tip: x = 0 lo, y nikaalo; ya y = 0 lo, x nikaalo — intercept solutions jaldi mil jaate hain. Example 3: x + 2y = 6 ke solutions (2,2) kyunki 2+4=6; phir (0,3), (6,0), aur y=1 se (4,1). Example 4: 4x+3y=12 ⇒ (0,4) aur (3,0); 2x+5y=0 ⇒ (0,0) aur (1,−2/5); 3y+4=0 ⇒ y=−4/3 for any x, jaise (0,−4/3) aur (1,−4/3). Class mein verification habit banao — har claimed solution ko substitute karke zaroor check karo!",
+      "example": "2x + 3y = 12 के लिए (3, 2) और (0, 4) हल हैं; (1, 4) और (4, 0) हल नहीं हैं।",
+      "board_lines": [
+        "Solution = ordered pair (x, y) that satisfies the equation",
+        "2x + 3y = 12: (3,2) ✓, (0,4) ✓, (1,4) ✗, (4,0) ✗",
+        "Tip: put x=0 (find y) or y=0 (find x) for quick solutions"
+      ],
+      "common_mistake": "(0, 4) और (4, 0) को same समझना — ordered pair में क्रम मायने रखता है; एक हल हो तो दूसरा ज़रूरी नहीं।",
+      "memory_trick": "X-FIRST: क्रमित युग्म में पहले x, फिर y — जूते पहले, मोजे बाद में नहीं!",
+      "gesture_action": "Do ungliyan — left ‘x’, right ‘y’ — pair dikhao; phir substitute करके tick/cross gesture.",
+      "real_life_examples": [
+        "Cinema: 2 adult + 3 child tickets = ₹12 type check — kaunsa combination exact total deta hai",
+        "Recipe: 2 cups flour + 3 cups milk = required mix — pairs that fit"
+      ],
+      "worked_example": {
+        "problem": "बताइए कि (2, 0) समीकरण x − 2y = 4 का हल है या नहीं।",
+        "steps": [
+          "Substitute x = 2, y = 0 in x − 2y",
+          "2 − 2(0) = 2, जो 4 के बराबर नहीं",
+          "अतः (2, 0) हल नहीं है; जबकि (4, 0) हल है क्योंकि 4 − 0 = 4"
+        ],
+        "answer": "(2, 0) हल नहीं है। (सत्यापन: 2 ≠ 4)"
+      },
+      "practice": {
+        "easy": [
+          "2x + 3y = 12 में (3, 2) को substitute करके जाँचिए।"
+        ],
+        "medium": [
+          "x − 2y = 4 के लिए जाँचिए: (0,2), (2,0), (4,0), (1,1) — कौन-कौन हल हैं?"
+        ],
+        "hard": [
+          "यदि x = 2, y = 1 समीकरण 2x + 3y = k का हल है, तो k का मान ज्ञात कीजिए।"
+        ]
+      },
+      "summary": "दो चरों में हल का अर्थ है क्रमित युग्म (x, y) जो समीकरण को संतुष्ट करे; क्रम और प्रतिस्थापन जाँच दोनों ज़रूरी हैं।",
+      "revision_point": "Ordered pair (x,y); verify by substitution; (a,b) ≠ (b,a) generally.",
+      "exam_tip": "‘कौन हल है’ वाले MCQ में हर option substitute करो — rough work में 10 सेकंड बचाते हैं गलती।",
+      "source_text_hint": "हल का अर्थ होता है x तथा y के उन मानों का युग्म जो दिए हुए समीकरण को संतुष्ट करते हैं"
+    },
+    {
+      "concept": "अपरिमित रूप से अनेक हल",
+      "say": "Ab sabse important conclusion! 2x + 3y = 12 ke liye (3,2), (0,4) dekhe. Kya aur hain? x = 6 lo: 12 + 3y = 12 ⇒ y = 0 ⇒ (6,0) bhi solution. Method: x ki koi bhi value choose karo — maan lo x = 2 — toh 4 + 3y = 12 ⇒ y = 8/3. Toh (2, 8/3) ek aur solution. x = −5 lo: −10 + 3y = 12 ⇒ y = 22/3. Toh (−5, 22/3) bhi solution. Matlab jitni marzi x values lo, utne solutions milte rahenge. इसलिए दो चरों वाले रैखिक समीकरण के विभिन्न हलों का कोई अंत नहीं — अपरिमित रूप से अनेक हल होते हैं. Contrast yaad rakho: one variable → unique; two variables with one equation → infinite. Kyun? Ek equation, do unknowns — ek variable choose karne ki freedom. Exercise 4.2 Q1: y = 3x + 5 ka answer hai infinitely many solutions. Q2: four solutions likho for 2x+y=7, πx+y=9, x=4y — tip: x=0, y=0, aur do aur values. For 2x+5y=0, (0,0) aur (1,−2/5). For 3y+4=0, y hamesha −4/3, x kuch bhi. Infinite ka matlab random nahi — har pair equation satisfy karni chahiye!",
+      "example": "2x + 3y = 12 के कुछ हल: (3,2), (0,4), (6,0), (2, 8/3), (−5, 22/3) — और अनगिनत।",
+      "board_lines": [
+        "Choose any x → solve for y → get a solution pair",
+        "2x + 3y = 12: (2, 8/3), (−5, 22/3), …",
+        "Conclusion: infinitely many solutions (अपरिमित रूप से अनेक हल)"
+      ],
+      "common_mistake": "Students ‘दो हल’ या ‘चार हल’ लिखकर रुक जाते हैं — NCERT कहता है अनगिनत हैं; चार सिर्फ उदाहरण हैं।",
+      "memory_trick": "1 EQ + 2 VAR = ∞ SOLUTIONS. एक समीकरण, दो चर = अनंत हल!",
+      "gesture_action": "Ek ungli se ‘ek equation’, do ungliyan ‘do variables’, phir haath failaakar ‘infinite solutions’ dikhao.",
+      "real_life_examples": [
+        "x + y = 176 — अनगिनत run pairs: (100,76), (80,96), (176,0), …",
+        "₹50 note + ₹10 coins = ₹100 — कई combinations possible"
+      ],
+      "worked_example": {
+        "problem": "समीकरण x + 2y = 6 के चार अलग-अलग हल ज्ञात कीजिए।",
+        "steps": [
+          "x=2,y=2: 2+4=6 → (2,2)",
+          "x=0 ⇒ 2y=6 ⇒ y=3 → (0,3); y=0 ⇒ x=6 → (6,0)",
+          "y=1 ⇒ x+2=6 ⇒ x=4 → (4,1)"
+        ],
+        "answer": "(2, 2), (0, 3), (6, 0), (4, 1) [और भी अनगिनत हल संभव]"
+      },
+      "practice": {
+        "easy": [
+          "y = 3x + 5 के हलों की संख्या के बारे में सही विकल्प क्या है?"
+        ],
+        "medium": [
+          "2x + y = 7 के चार हल लिखिए।"
+        ],
+        "hard": [
+          "सिद्ध कीजिए / समझाइए कि 2x + 5y = 0 के अपरिमित हल हैं — कम से कम तीन अलग हल देकर।"
+        ]
+      },
+      "summary": "एक दो-चर रैखिक समीकरण के अपरिमित रूप से अनेक हल होते हैं — किसी एक चर का मान चुनकर दूसरा निकाला जा सकता है।",
+      "revision_point": "Infinitely many solutions; method: free choice of one variable → solve other.",
+      "exam_tip": "‘चार हल लिखो’ में x=0, y=0 ज़रूर शामिल करो — आसान marks; फिर दो और सुविधाजनक मान।",
+      "source_text_hint": "दो चरों वाले रैखिक समीकरण के अपरिमित रूप से अनेक हल होते हैं"
+    },
+    {
+      "concept": "सारांश – हल और आलेख का संबंध",
+      "say": "Chapter wrap-up — NCERT सारांश ke teen crystal-clear points. Point 1: ax + by + c = 0 jahan a, b, c real hain aur a, b दोनों शून्य नहीं — yahi दो चरों वाला रैखिक समीकरण hai. Point 2: iske अपरिमित रूप से अनेक हल होते हैं. Point 3 — exam-favourite: आलेख पर स्थित प्रत्येक बिंदु उस समीकरण का एक हल होता है; aur प्रत्येक हल आलेख पर एक बिंदु होता है. Matlab solution ↔ point on the graph — perfect matching! Chapter 3 (coordinate geometry) se visualize karo: har ordered pair (x,y) plane par ek point; saare solutions milkar ek straight line banate hain — isliye naam linear hai. x=0 se y-intercept, y=0 se x-intercept milta hai. Do points se line draw karke poora graph banega. Revision checklist: definition ✓, standard form ✓, verify ordered pairs ✓, infinite solutions ✓, graph-solution link ✓. Exercise 4.1 aur 4.2 practice karo — word problem, a-b-c, four solutions, which are solutions, aur k find when (2,1) solves 2x+3y=k. Teen summary points carefully rat lo aur examples se jodo — chapter ka backbone strong!",
+      "example": "2x + 3y = 12 के हल (0,4) और (3,0) आलेख पर दो बिंदु हैं; इनसे बनी रेखा के हर बिंदु भी हल हैं।",
+      "board_lines": [
+        "1. ax + by + c = 0 (a,b not both 0) = linear eq. in two variables",
+        "2. Infinitely many solutions",
+        "3. Every point on the graph ↔ a solution; every solution ↔ a point on the graph"
+      ],
+      "common_mistake": "Students graph और solution को अलग चीज़ समझते हैं — वास्तव में आलेख के बिंदु = हल, और हल = आलेख के बिंदु।",
+      "memory_trick": "D-I-G: Definition — Infinite solutions — Graph link. सारांश का DIG सूत्र!",
+      "gesture_action": "Air में सीधी रेखा खींचो; रेखा पर अलग-अलग बिंदु छूकर ‘हर बिंदु = एक हल’ दोहराओ।",
+      "real_life_examples": [
+        "Map पर straight road — road के हर बिंदु destination path पर हैं, जैसे line के हर बिंदु solution",
+        "Balance scale graph — सभी balancing pairs एक line पर"
+      ],
+      "worked_example": {
+        "problem": "समीकरण 4x + 3y = 12 के दो हल (0,4) और (3,0) हैं। सारांश के अनुसार आलेख के बारे में दो कथन लिखिए।",
+        "steps": [
+          "(0,4) और (3,0) आलेख पर दो बिंदु हैं",
+          "इन बिंदुओं से गुजरने वाली रेखा समीकरण का आलेख है",
+          "उस रेखा का हर अन्य बिंदु भी एक हल है, और हर हल उस रेखा पर है"
+        ],
+        "answer": "(0,4) व (3,0) आलेख पर हैं; आलेख की रेखा के प्रत्येक बिंदु समीकरण का हल है और प्रत्येक हल उस आलेख पर स्थित बिंदु है।"
+      },
+      "practice": {
+        "easy": [
+          "अध्याय के सारांश के तीन बिंदु संक्षेप में लिखिए।"
+        ],
+        "medium": [
+          "‘आलेख पर स्थित प्रत्येक बिंदु एक हल होता है’ — एक उदाहरण से समझाइए।"
+        ],
+        "hard": [
+          "एक चर और दो चरों वाले रैखिक समीकरणों के हलों की संख्या और ज्यामितीय निरूपण की तुलना तालिका में कीजिए।"
+        ]
+      },
+      "summary": "परिभाषा, अपरिमित हल, और हल↔आलेख बिंदु का संबंध — यही अध्याय का सार है।",
+      "revision_point": "DIG: Definition, Infinite solutions, Graph↔Solution bijection.",
+      "exam_tip": "3-mark सारांश/‘लघु उत्तरीय’ में तीनों बिंदु अलग-अलग नंबर करके लिखो — examiner को scanning आसान लगती है।",
+      "source_text_hint": "दो चरों वाले रैखिक समीकरण के आलेख पर स्थित प्रत्येक बिंदु रैखिक समीकरण का एक हल होता है"
+    }
+  ]
+}
