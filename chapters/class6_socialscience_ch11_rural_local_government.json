@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 436,
+    "chapter_name": "आधारभूत लोकतंत्र भाग 2: ग्रामीण क्षेत्रों में स्थानीय सरकार",
+    "chapter_number": 11,
+    "book_name": "Class 6 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum ग्रामीण भारत ki स्थानीय सरकार — पंचायती राज — ko samjhenge. Gandhi ji kehte hain 'असली भारत, गाँवों में बसता है'; isliye ग्राम, खंड aur जिला — teen starों ki त्रिस्तरीय व्यवस्था seekhenge. Gram Sabha, Sarpanch, बाल हितैषी पंचायत, पंचायत समिति, जिला परिषद aur कौटिल्य ke ancient framework se yeh clear hoga ki democracy गाँव के दरवाज़े तक कैसे पहुँचती है।",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 6 Social Science — Chapter 11: आधारभूत लोकतंत्र भाग 2, ग्रामीण क्षेत्रों में स्थानीय सरकार. Socho — agar gaon ki sadak toot jaaye ya school ki wall toot jaaye, kya hum Delhi ya state capital bhaagenge? Nahin! Aaj seekhenge गाँव वाले अपने फैसले कैसे लेते हैं — पंचायत के ज़रिए। We are ready? Chalo shuru!",
+    "learning_outcomes": [
+      "पंचायती राज की त्रिस्तरीय व्यवस्था (ग्राम–खंड–जिला) को नाम और क्रम से बताना",
+      "ग्राम सभा, ग्राम पंचायत, सरपंच, सचिव और पटवारी की भूमिका स्पष्ट करना",
+      "पंचायत समिति व जिला परिषद के कार्य तथा महिलाओं व वंचित वर्गों के आरक्षण को समझना",
+      "बाल हितैषी पंचायत / बाल संसद के उदाहरण और कौटिल्य के प्रशासनिक ढाँचे को जोड़ना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अध्याय का परिचय — लक्ष्मणपुर और महत्वपूर्ण प्रश्न"
+      },
+      {
+        "number": 2,
+        "name": "पंचायती राज व्यवस्था — त्रिस्तरीय प्रणाली"
+      },
+      {
+        "number": 3,
+        "name": "ग्राम पंचायत, ग्राम सभा और सरपंच"
+      },
+      {
+        "number": 4,
+        "name": "आदर्श सरपंच — तीन प्रेरणादायी उदाहरण"
+      },
+      {
+        "number": 5,
+        "name": "पंचायत सचिव, पटवारी और बाल हितैषी पंचायत"
+      },
+      {
+        "number": 6,
+        "name": "बाल संसद और बाल पंचायत की पहल"
+      },
+      {
+        "number": 7,
+        "name": "पंचायत समिति, जिला परिषद और आरक्षण"
+      },
+      {
+        "number": 8,
+        "name": "कौटिल्य का प्रशासनिक ढाँचा और अध्याय सार"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अध्याय का परिचय — लक्ष्मणपुर और महत्वपूर्ण प्रश्न",
+      "say": "Bacchon, aaj hum गाँव की सरकार ki baat karenge — Chapter 11: आधारभूत लोकतंत्र भाग 2: ग्रामीण क्षेत्रों में स्थानीय सरकार. Gandhi ji ka famous line board par likho — 'असली भारत, गाँवों में बसता है।' Yeh isliye important hai kyunki भारत बहुत विशाल aur विविधताओं वाला देश है — lagbhag 6,00,000 गाँव, 8,000 कस्बे, aur 4,000 se adhik नगर. हमारी जनसंख्या लगभग 1.4 अरब पार कर चुकी है, aur uska दो-तिहाई भाग ग्रामीण क्षेत्रों में रहता है. Ab socho — itni diversity mein शासन kaise chalta hai? NCERT humein Himalaya ki तराई mein base chhote gaon लक्ष्मणपुर le jaata hai. Is gaon mein 200 घर hain, जनसंख्या लगभग 700, zyadatar कृषक. Log apni zameen par खेती karte hain, गाय-बकरियाँ paalte hain; kuch relatives सेना mein hain, kuch युवा शहर chale gaye. Gaon ki zaruratein kya hain? खेतों के लिए पानी, भारी वर्षा se kharab hui मुख्य सड़क ka रख-रखाव, aur प्राथमिक विद्यालय ka रख-रखाव. Daily life ke aise decisions gaon wale kaise lenge? Resources kahan se aayenge? Agar भूमि को लेकर विवाद ho ya कृषि उपज चोरी ho jaaye — kya har samasya ke liye state ya राष्ट्र की राजधानी jaana padega? Obviously nahin! Isliye local government chahiye. Chapter ke teen महत्वपूर्ण प्रश्न yaad rakhna: (1) पंचायती राज संस्थाएँ क्या हैं? (2) उनके क्या कार्य हैं? (3) शासन और लोकतंत्र में ये क्यों महत्वपूर्ण हैं? Agle chapter mein नगरीय क्षेत्रों par baat hogi — aaj focus pure गाँव पर है।",
+      "example": "Agar tumhare school ke paas sadak toot jaaye aur barish mein paani bhar jaaye — Delhi jaane ki zarurat nahi; pehle गाँव की पंचायत hi is problem par baithak karegi.",
+      "board_lines": [
+        "Gandhi: असली भारत, गाँवों में बसता है",
+        "~6,00,000 गाँव · 2/3 जनसंख्या ग्रामीण",
+        "Teen prashn: संस्थाएँ? कार्य? महत्व?"
+      ],
+      "common_mistake": "Students sochte hain ki har gaon ki problem ke liye CM ya PM se milna padta hai — NCERT batata hai ki pehle स्थानीय पंचायत hi decisions leti hai.",
+      "memory_trick": "L-6-2-3: लक्ष्मणपुर · 6 lakh गाँव · 2/3 rural · 3 महत्वपूर्ण प्रश्न — chapter opening formula!",
+      "gesture_action": "Haath se door capital ki taraf ishara karo, phir apne paas gaon ki taraf — 'yahan solve!' bolo.",
+      "real_life_examples": [
+        "School ki broken hand-pump — pehle local committee/panchayat level par report",
+        "Village road after monsoon — Gram Panchayat ka typical maintenance issue"
+      ],
+      "worked_example": {
+        "problem": "लक्ष्मणपुर गाँव की तीन मुख्य आवश्यकताओं का उल्लेख कीजिए और बताइए कि हर समस्या के लिए राज्य की राजधानी जाना क्यों व्यावहारिक नहीं है।",
+        "steps": [
+          "लक्ष्मणपुर: खेतों के लिए पानी, मुख्य सड़क का रख-रखाव, प्राथमिक विद्यालय का रख-रखाव",
+          "Daily/local problems ke liye capital jaana समय, खर्च aur दूरी se असुविधाजनक",
+          "Isliye स्थानीय शासन (पंचायत) decisions ke liye ज़रूरी"
+        ],
+        "answer": "पानी, सड़क रख-रखाव और विद्यालय रख-रखाव — ये स्थानीय समस्याएँ हैं; हर बार राजधानी जाना व्यावहारिक नहीं, इसलिए पंचायत जैसी स्थानीय सरकार चाहिए।"
+      },
+      "practice": {
+        "easy": [
+          "महात्मा गाँधी का वह प्रसिद्ध वाक्य लिखो जो इस अध्याय में दिया गया है।"
+        ],
+        "medium": [
+          "भारत में लगभग कितने गाँव हैं और जनसंख्या का कितना भाग ग्रामीण क्षेत्रों में रहता है?"
+        ],
+        "hard": [
+          "लक्ष्मणपुर के उदाहरण से समझाओ कि स्थानीय सरकार क्यों आवश्यक है। तीन बिंदु लिखो।"
+        ]
+      },
+      "summary": "भारत मुख्यतः गाँवों का देश है; लक्ष्मणपुर जैसी रोज़मर्रा की ज़रूरतों के लिए राजधानी नहीं, स्थानीय पंचायत चाहिए — अध्याय तीन महत्वपूर्ण प्रश्नों से खुलता है।",
+      "revision_point": "Opening key: असली भारत = गाँव; local needs → local government; remember the three big questions.",
+      "exam_tip": "Exam mein '6,00,000 गाँव' aur 'दो-तिहाई ग्रामीण जनसंख्या' figures zaroor likho — NCERT ke exact numbers impress karte hain.",
+      "source_text_hint": "असली भारत, गाँवों में बसता है।"
+    },
+    {
+      "concept": "पंचायती राज व्यवस्था — त्रिस्तरीय प्रणाली",
+      "say": "Bacchon, ab asli system — पंचायती राज व्यवस्था! Lakshmanpur jaise har gaon mein 'पंचायत' hoti hai — ise ग्रामीण परिषद bhi keh sakte hain. NCERT clearly kehta hai: पंचायत शासन को लोगों के समीप लाती है aur निर्णय लेने की प्रक्रिया mein ग्रामीणों की सक्रिय भागीदारी संभव बनाती है. Isliye पंचायती व्यवस्था, jise पंचायती राज bhi kehte hain, स्व-शासन (self-government) ka ek रूप है. Yeh स्थानीय समस्याओं को हल करने, विकास कार्यों को आगे बढ़ाने, aur सरकारी योजनाओं के लाभ को जनसाधारण तक पहुँचाने mein महत्वपूर्ण भूमिका निभाती है. Ab Picture 11.1 yaad rakhna — ek पिरामिड! Neeche se upar teen star: (1) ग्राम स्तर — ग्राम परिषद / ग्राम पंचायत; (2) खंड स्तर — खंड पंचायत / पंचायत समिति / मंडल परिषद; (3) जिला स्तर — जिला पंचायत / जिला परिषद. Yeh 'त्रिस्तरीय' प्रणाली कहलाती है — three-tier system. In संस्थाएँ ek saath milkar कृषि, आवास, सड़कों का रख-रखाव, जल संसाधनों का प्रबंधन, शिक्षा, स्वास्थ्य, सामाजिक कल्याण, aur सांस्कृतिक गतिविधियों tak — जीवन के सभी पक्षों se jude दायित्वों का निर्वहन करती हैं. Class tip: 'त्रि' matlab three, 'स्तरीय' matlab levels — Gram–Block–District. Agar koi pooche Panchayati Raj kya hai, pehle bolo स्व-शासन, phir teen levels, phir life ke sab sides ke duties. Next concept mein hum pyramid ke bottom — Gram Panchayat — par zoom karenge.",
+      "example": "School ke teen levels socho — class monitor (गाँव), house captain (खंड), school captain (जिला) — chhote se bade tak responsibility badhti hai, jaise त्रिस्तरीय पंचायत।",
+      "board_lines": [
+        "पंचायती राज = स्व-शासन (self-government)",
+        "त्रिस्तरीय: ग्राम → खंड → जिला",
+        "कार्य: कृषि, सड़क, जल, शिक्षा, स्वास्थ्य, कल्याण..."
+      ],
+      "common_mistake": "Students सिर्फ 'ग्राम पंचायत' को ही पूरा पंचायती राज मान लेते हैं — भूल जाते हैं कि खंड और जिला स्तर भी इसी प्रणाली के हिस्से हैं।",
+      "memory_trick": "G-K-J: ग्राम–खंड–जिला — 'गजे' bolke teen levels याद! (गज = हाथी, strong system!)",
+      "gesture_action": "Teen seedhiyan banao haathon se — neeche Gram, beech Block, upar District — 'tri-star!' bolo.",
+      "real_life_examples": [
+        "Village handpump repair = अक्सर ग्राम स्तर; district hospital plan = जिला स्तर",
+        "PMGSY jaise schemes ke paise का आवंटन higher levels se connect hota hai"
+      ],
+      "worked_example": {
+        "problem": "पंचायती राज व्यवस्था को त्रिस्तरीय क्यों कहा जाता है? तीनों स्तरों के नाम लिखिए।",
+        "steps": [
+          "चित्र 11.1: निम्न से उच्च — ग्राम, खंड, जिला",
+          "'त्रि' = तीन; तीन स्तरों पर कार्य = त्रिस्तरीय प्रणाली",
+          "नाम: ग्राम पंचायत; पंचायत समिति/खंड पंचायत; जिला परिषद"
+        ],
+        "answer": "क्योंकि यह ग्राम, खंड और जिला — तीन स्तरों पर कार्य करती है; इसीलिए इसे त्रिस्तरीय प्रणाली कहते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पंचायती राज को स्व-शासन का रूप क्यों कहा जाता है? एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "चित्र 11.1 के अनुसार पंचायती राज के तीन स्तर और उनके वैकल्पिक नाम लिखो।"
+        ],
+        "hard": [
+          "पंचायत जीवन के किन पक्षों से जुड़े दायित्व निभाती है? कम से कम पाँच क्षेत्र लिखो।"
+        ]
+      },
+      "summary": "पंचायती राज स्व-शासन है जो लोगों को शासन के निकट लाता है; यह ग्राम–खंड–जिला की त्रिस्तरीय प्रणाली में कृषि से संस्कृति तक कई कार्यों का निर्वहन करती है।",
+      "revision_point": "Key formula: पंचायत = लोगों के समीप शासन + सक्रिय भागीदारी → स्व-शासन; levels = G–K–J.",
+      "exam_tip": "उत्तर में 'त्रिस्तरीय' शब्द और तीनों स्तरों के सही क्रम (ग्राम→खंड→जिला) ज़रूर लिखो — क्रम उलटा न हो।",
+      "source_text_hint": "यह 'त्रिस्तरीय' प्रणाली कहलाती है।"
+    },
+    {
+      "concept": "ग्राम पंचायत, ग्राम सभा और सरपंच",
+      "say": "Bacchon, ab pyramid ke सबसे निचले aur सबसे महत्वपूर्ण स्तर par aate hain — ग्राम पंचायत. NCERT kehta hai: ग्राम पंचायत ग्रामीण क्षेत्रों में लोगों के सबसे निकट है. Iske सदस्य ग्राम सभा द्वारा सीधे चुने जाते हैं. Gram Sabha kya hai? Yeh मतदाता के रूप में नामांकित गाँव (ya आस-पास के गाँवों) ke वयस्कों का समूह होता है — matlab 18+ adults jo voters hain. ग्राम सभा mein स्त्री एवं पुरुष अपने क्षेत्र से जुड़े सभी मामलों पर विचार-विमर्श करते हैं aur निर्णय लेते हैं. Bahut important point — Gram Sabha sirf men ki meeting nahi; women bhi equally discuss karti hain! हर ग्राम पंचायत ek प्रमुख या अध्यक्ष चुनती है — jise 'सरपंच' या 'प्रधान' कहा जाता है. Gata varshon mein अधिक से अधिक महिलाएँ सरपंच बनी हैं — yeh democracy ka sundar change hai. Board par teen boxes banao: (1) ग्राम सभा = voters' assembly; (2) ग्राम पंचायत = elected body nearest to people; (3) सरपंच/प्रधान = head of Gram Panchayat. Class tip: confusion mat karo — ग्राम सभा चुनावी जनता है, ग्राम पंचायत चुनी हुई संस्था है, सरपंच उसका मुखिया है. Agar exam mein poochhen 'Gram Panchayat members kaise chune jaate hain?' — jawab: ग्राम सभा द्वारा सीधे. Agle concept mein hum आदर्श सरपंचों की असली कहानियाँ sunenge — Maharashtra aur Madhya Pradesh se!",
+      "example": "Class election socho: saari class = ग्राम सभा (voters); class committee = ग्राम पंचायत; class monitor = सरपंच।",
+      "board_lines": [
+        "ग्राम सभा = गाँव के वयस्क मतदाता",
+        "ग्राम पंचायत सदस्य = ग्राम सभा द्वारा सीधे चुने",
+        "सरपंच / प्रधान = ग्राम पंचायत का अध्यक्ष"
+      ],
+      "common_mistake": "Students ग्राम सभा और ग्राम पंचायत को एक ही चीज़ मान लेते हैं — ग्राम सभा मतदाता समूह है; ग्राम पंचायत चुनी हुई संस्था है।",
+      "memory_trick": "S-P-S: सभा चुनती है → पंचायत बनती है → सरपंच मुखिया — 'सपस' chain याद रखो!",
+      "gesture_action": "Poori class ki taraf haath failao (Gram Sabha), chhote circle banao (Panchayat), ek ungli upar (Sarpanch).",
+      "real_life_examples": [
+        "Village Gram Sabha meeting mein road/school issues par open discussion",
+        "Women sarpanch election news — 'अधिक से अधिक महिलाएँ सरपंच' trend"
+      ],
+      "worked_example": {
+        "problem": "ग्राम सभा और सरपंच में क्या अंतर है? प्रत्येक को एक वाक्य में परिभाषित कीजिए।",
+        "steps": [
+          "ग्राम सभा: मतदाता के रूप में नामांकित गाँव के वयस्कों का समूह",
+          "सरपंच/प्रधान: ग्राम पंचायत का प्रमुख या अध्यक्ष",
+          "अंतर: सभा = voters; सरपंच = elected head"
+        ],
+        "answer": "ग्राम सभा गाँव के वयस्क मतदाताओं का समूह है; सरपंच ग्राम पंचायत का चुना हुआ अध्यक्ष/प्रमुख होता है।"
+      },
+      "practice": {
+        "easy": [
+          "ग्राम पंचायत के अध्यक्ष को क्या कहा जाता है?"
+        ],
+        "medium": [
+          "ग्राम पंचायत के सदस्य कैसे चुने जाते हैं? ग्राम सभा की दो विशेषताएँ लिखो।"
+        ],
+        "hard": [
+          "स्पष्ट करो: ग्राम सभा, ग्राम पंचायत और सरपंच — तीनों कैसे जुड़े हैं?"
+        ]
+      },
+      "summary": "ग्राम पंचायत लोगों के सबसे निकट है; इसके सदस्य ग्राम सभा द्वारा सीधे चुने जाते हैं और सरपंच/प्रधान इसका अध्यक्ष होता है — महिलाओं की भागीदारी बढ़ रही है।",
+      "revision_point": "Nearest democracy: Gram Sabha elects Gram Panchayat; Sarpanch/Pradhan is the head.",
+      "exam_tip": "'सीधे चुने जाते हैं' और 'स्त्री एवं पुरुष दोनों विचार-विमर्श' — ये दो वाक्यांश उत्तर में अंक दिलाते हैं।",
+      "source_text_hint": "ग्राम पंचायत, जो ग्रामीण क्षेत्रों में लोगों के सबसे निकट है"
+    },
+    {
+      "concept": "आदर्श सरपंच — तीन प्रेरणादायी उदाहरण",
+      "say": "Bacchon, ab teen असली heroes — आदर्श सरपंच! Pehla: 2017 mein महाराष्ट्र के सोलापुर जिले के तरंगफल गाँव se किन्नर दयानेश्वर कांबले सरपंच चुने गए. Unka आदर्श वाक्य — 'लोक सेवा, ग्राम सेवा' — matlab गाँव की सेवा, जनता की सेवा है. Unhone सरपंच banne ke liye छह अन्य उम्मीदवारों ko हराया. Doosra: मध्यप्रदेश के खानखांडवी गाँव se भील समुदाय ki वंदना बहादुर मैदा — pitrusaattmak मान्यताओं के विरुद्ध jaakar गाँव की पहली महिला सरपंच बनीं. Unhone गाँव की महिलाओं को सभा की बैठकों में आने के लिए प्रेरित किया aur शिक्षा एवं स्वच्छता जैसी गंभीर समस्याओं को उठाया — isse unhe दूर-दूर तक व्यापक पहचान मिली. Vandana ki यात्रा dikhati hai ki महिलाएँ ग्रामीण भारत को बदलने में नेतृत्वकारी भूमिका निभा सकती हैं. Teesra: महाराष्ट्र के अहमदनगर जिले ka गाँव हिवरे बाजार — बार-बार सूखा aur कम कृषि उपज se प्रभावित tha. पोपटराव बागुजी पवार सरपंच banne ke baad अन्ना हजारे ke मॉडल — वर्षा जल-संचयन, जल-संरक्षण, aur लाखों पेड़ लगाना — लागू kiya. ग्रामवासियों ke सहयोग se Hiware Bazaar kuch hi वर्षों mein हरा-भरा और समृद्ध गाँव बन गया. पोपटराव पवार को 2020 में पद्मश्री se सम्मानित किया गया. Class tip: exam mein names + place + one achievement likho. Memory: K-V-P — कांबले (सेवा), वंदना (महिला नेतृत्व), पवार (जल+पेड़+पद्मश्री).",
+      "example": "Agar tumhare gaon mein water scarcity ho, Hiware Bazaar model socho — rainwater harvesting + trees + sabka सहयोग = green village.",
+      "board_lines": [
+        "कांबले: लोक सेवा, ग्राम सेवा (तरंगफल, सोलापुर)",
+        "वंदना मैदा: पहली महिला सरपंच (खानखांडवी, म.प्र.)",
+        "पोपटराव पवार: हिवरे बाजार → पद्मश्री 2020"
+      ],
+      "common_mistake": "Students तीनों उदाहरण मिला देते हैं — जगह और काम याद रखो: कांबले=सेवा का नारा; वंदना=महिला बैठकें+शिक्षा-स्वच्छता; पवार=जल संरक्षण+पेड़।",
+      "memory_trick": "K-V-P: कांबले–वंदना–पवार — 'केवीपी' trio: Service · Women leadership · Water+Trees!",
+      "gesture_action": "Teen ungliyan: pehli 'seva', doosri 'mahila power', teesri 'paani aur ped' — each hero ek ungli!",
+      "real_life_examples": [
+        "School cleanliness drive inspired by Vandana's स्वच्छता focus",
+        "Tree plantation / rainwater pits like Hiware Bazaar model"
+      ],
+      "worked_example": {
+        "problem": "हिवरे बाजार गाँव कैसे समृद्ध बना? संबंधित सरपंच और सम्मान का उल्लेख कीजिए।",
+        "steps": [
+          "समस्या: सूखा और कम कृषि उपज",
+          "समाधान: पोपटराव पवार ने अन्ना हजारे मॉडल — जल-संचयन, जल-संरक्षण, लाखों पेड़",
+          "परिणाम: हरा-भरा समृद्ध गाँव; 2020 में पद्मश्री"
+        ],
+        "answer": "पोपटराव बागुजी पवार ने जल-संचयन, जल-संरक्षण और वृक्षारोपण से हिवरे बाजार को समृद्ध बनाया; उन्हें 2020 में पद्मश्री मिला।"
+      },
+      "practice": {
+        "easy": [
+          "दयानेश्वर कांबले का आदर्श वाक्य क्या था?"
+        ],
+        "medium": [
+          "वंदना बहादुर मैदा ने गाँव में कौन-से बदलाव किए? दो बिंदु लिखो।"
+        ],
+        "hard": [
+          "तीनों आदर्श सरपंचों की एक-एक मुख्य उपलब्धि तालिका में लिखो (नाम–स्थान–कार्य)।"
+        ]
+      },
+      "summary": "कांबले (लोक सेवा), वंदना मैदा (महिला नेतृत्व व शिक्षा-स्वच्छता) और पोपटराव पवार (जल संरक्षण से हिवरे बाजार) दिखाते हैं कि अच्छा सरपंच गाँव बदल सकता है।",
+      "revision_point": "Three case studies = सेवा नारा · पहली महिला सरपंच · जल+पेड़→पद्मश्री.",
+      "exam_tip": "Case study प्रश्न में राज्य/जिला/गाँव का नाम सही लिखो — आधा अंक यहीं कटता है।",
+      "source_text_hint": "लोक सेवा, ग्राम सेवा"
+    },
+    {
+      "concept": "पंचायत सचिव, पटवारी और बाल हितैषी पंचायत",
+      "say": "Bacchon, सरपंच अकेला नहीं चलता! ग्राम पंचायत की सहायता के लिए एक पंचायत सचिव होता है — jo बैठकों के आयोजन aur अभिलेखों के रख-रखाव jaise प्रशासनिक कार्य करता है. Matlab meetings arrange karna, registers-files sambhalna — yeh secretary ka kaam. अधिकांश ग्राम पंचायतों mein ek प्रशासनिक अधिकारी bhi hota hai jise भारत के कई भागों में 'पटवारी' कहा जाता है. पटवारी गाँव के भू-अभिलेखों का रख-रखाव करता है — land records! Kai jagah uske paas पीढ़ियों पुराने मानचित्र bhi hote hain. NCERT poochhta hai — 'आइए विचार करें': क्या पुराने मानचित्र हमारे किसी काम आ सकते हैं? क्या ये अतीत और वर्तमान के बारे में जानकारी दे सकते हैं? Socho — purane maps se zameen boundaries, rivers, forests change samajh aata hai! Ab bahut sundar idea — बाल हितैषी पंचायत. पंचायतों को सभी ग्रामवासियों की बात सुननी होती है — जिसमें बच्चे भी सम्मिलित हैं! बाल हितैषी पंचायत की पहल se बच्चों की भलाई se jude मामलों par स्वयं बच्चों को अपने विचार और राय रखने का अवसर मिलता है. अनेक राज्यों mein नियमित रूप se बच्चों की बाल सभाएँ aur बाल पंचायतों mein भागीदारी को प्रोत्साहित किया गया hai, jahan गाँव के बड़े-बुजुर्ग उनकी समस्याओं के समाधान ढूँढ़ने का प्रयास करते हैं. Example: महाराष्ट्र mein kuch बाल पंचायतों ने बाल-श्रम और बाल-विवाह को समाप्त करने पर कार्य किया — members अभिभावकों aur अन्य वयस्कों ko samjhate hain ki बच्चों को पुनः विद्यालय भेजें, बालिकाओं को पढ़ाएँ, aur पढ़ने की आयु mein विवाह न करें. Class tip: Secretary = meetings+records; Patwari = land records+old maps; Child-friendly = बच्चों की आवाज़ सुनी जाए।",
+      "example": "Agar koi land dispute ho — Sarpanch discussion karega, lekin boundaries confirm karne ke liye पटवारी के भू-अभिलेख aur maps kaam aayenge.",
+      "board_lines": [
+        "पंचायत सचिव = बैठकें + अभिलेख",
+        "पटवारी = भू-अभिलेख + पुराने मानचित्र",
+        "बाल हितैषी पंचायत = बच्चों की बात भी सुनी जाए"
+      ],
+      "common_mistake": "Students सरपंच और पटवारी को एक मान लेते हैं — सरपंच चुना हुआ प्रमुख है; पटवारी भू-अभिलेख रखने वाला प्रशासनिक अधिकारी है।",
+      "memory_trick": "S-P-B: सचिव (meetings) · पटवारी (plots/land) · बाल हितैषी (bachche) — 'सपब' support team!",
+      "gesture_action": "Ek haath se register kholna (secretary), doosre se zameen map dikhana (patwari), phir chhote bacche ki taraf jhukna (listen!).",
+      "real_life_examples": [
+        "Land mutation / property papers — आज भी पटवारी-राजस्व अभिलेख से जुड़े",
+        "School anti-child-labour awareness — बाल पंचायत जैसा काम"
+      ],
+      "worked_example": {
+        "problem": "पटवारी और पंचायत सचिव के कार्य में अंतर स्पष्ट कीजिए।",
+        "steps": [
+          "सचिव: बैठकों का आयोजन और अभिलेखों का रख-रखाव",
+          "पटवारी: गाँव के भू-अभिलेख; कई जगह पीढ़ियों पुराने मानचित्र",
+          "अंतर: सचिव = पंचायत प्रशासन; पटवारी = भूमि रिकॉर्ड अधिकारी"
+        ],
+        "answer": "पंचायत सचिव बैठकें और सामान्य अभिलेख संभालता है; पटवारी गाँव के भू-अभिलेख और पुराने मानचित्र रखता है।"
+      },
+      "practice": {
+        "easy": [
+          "गाँव के भू-अभिलेख कौन रखता है?"
+        ],
+        "medium": [
+          "बाल हितैषी पंचायत बच्चों को क्या अवसर देती है? महाराष्ट्र का एक उदाहरण दो।"
+        ],
+        "hard": [
+          "'आइए विचार करें' — पुराने मानचित्र अतीत और वर्तमान की कौन-सी जानकारी दे सकते हैं? अपने शब्दों में लिखो।"
+        ]
+      },
+      "summary": "सचिव प्रशासनिक सहयोग देता है, पटवारी भू-अभिलेख रखता है, और बाल हितैषी पंचायत बच्चों की आवाज़ को पंचायत तक पहुँचाती है।",
+      "revision_point": "Support + records + child voice: Secretary, Patwari, Child-friendly Panchayat.",
+      "exam_tip": "पटवारी वाले उत्तर में 'भू-अभिलेख' और 'पुराने मानचित्र' दोनों शब्द लिखो।",
+      "source_text_hint": "पटवारी गाँव के भू-अभिलेखों का रख-रखाव करता है।"
+    },
+    {
+      "concept": "बाल संसद और बाल पंचायत की पहल",
+      "say": "Bacchon, ab do powerful examples — बच्चों की democrat! Pehla: पश्चिमी सिक्किम mein सांगखू राधू खांडू ग्राम पंचायत ने बच्चों की आवश्यकताओं और अधिकारों को बहुत अधिक महत्व दिया. Unhone बच्चों की सुरक्षा के लिए विद्यालयों के परिसर की दीवारें बनवाईं; विद्यालयों में रसोईघर बनवाए taaki बच्चों को विद्यालय में ही सफाई से बना मध्याह्न भोजन (mid-day meal) mil sake. In प्रयासों ke कारण इस गाँव को बाल हितैषी ग्राम पंचायत घोषित किया गया. Bahut-सी ग्राम पंचायतों ने बाल हितैषी पहल के लिए पुरस्कार भी पाए हैं. Doosra: राजस्थान — कुछ दशक पूर्व बंकर रॉय द्वारा आरंभ 'बेयरफुट कॉलेज' ki शाखा 'बाल संसद' ने ग्रामीण क्षेत्रों के वंचित वर्ग के बच्चों को शिक्षा aur लोकतांत्रिक भागीदारी se सशक्त बनाया. 8–14 वर्ष के बच्चे रात्रि विद्यालय aur संसद जैसी चुनावों ke माध्यम se शासन की प्रक्रियाओं, लोकतंत्र aur सामाजिक दायित्व ke baare mein सीखते हैं. Unki 'संसद' मतदाता पहचान-पत्र aur प्रचार सहित सभी औपचारिक प्रक्रियाओं का पालन करती है. निर्वाचित प्रतिनिधि 'मंत्रिमंडल' बनाते हैं jo विद्यालय प्रबंधन का निरीक्षण aur सामुदायिक आवश्यकताओं का समर्थन करते हैं. Yeh पहल नेतृत्व के गुण aur सामाजिक जागरूकता विकसित करती है — बच्चे सामाजिक मानदंडों को चुनौती de sakte hain aur परिवर्तन की पैरवी कर सकते हैं. शिक्षा पहुँच, स्वच्छता, सामाजिक समानता jaise मुद्दे उठate hain. बाल संसद को 2001 में वर्ल्ड चिल्ड्रन ऑनररी अवार्ड सहित कई पुरस्कार मिले. NCERT activity: 4–5 students बाल पंचायत banayein, baaki ग्रामवासी — किन विषयों पर चर्चा? चुनौतियाँ? समाधान?",
+      "example": "Tumhari class mein 'बाल संसद' banao — election, voter ID role-play, cabinet for mid-day meal cleanliness — bilkul Barefoot College style!",
+      "board_lines": [
+        "सिक्किम: दीवारें + रसोईघर → बाल हितैषी पंचायत",
+        "राजस्थान: बेयरफुट कॉलेज → बाल संसद (8–14 वर्ष)",
+        "2001: वर्ल्ड चिल्ड्रन ऑनररी अवार्ड"
+      ],
+      "common_mistake": "Students सोचते हैं बच्चे सिर्फ पढ़ते हैं, शासन नहीं सीख सकते — NCERT दिखाता है बाल संसद में चुनाव, मंत्रिमंडल और सामुदायिक मुद्दे वास्तविक प्रशिक्षण हैं।",
+      "memory_trick": "S-R: सिक्किम (सुरक्षा+रसोई) · राजस्थान (रात्रि स्कूल+संसद) — 'सर' bachchon ka democratic training!",
+      "gesture_action": "Wall banane ka gesture, phir thali (mid-day meal), phir voting hand raise — teen steps of child democracy.",
+      "real_life_examples": [
+        "School boundary wall for safety — Sangakhu Radhu Khandu style",
+        "Classroom election for monitor with rules like parliament"
+      ],
+      "worked_example": {
+        "problem": "सांगखू राधू खांडू ग्राम पंचायत को बाल हितैषी क्यों घोषित किया गया? दो कार्य लिखिए।",
+        "steps": [
+          "बच्चों की सुरक्षा: विद्यालय परिसर की दीवारें",
+          "मध्याह्न भोजन: विद्यालयों में रसोईघर — सफाई से बना भोजन",
+          "निष्कर्ष: बच्चों की आवश्यकताएँ और अधिकार प्राथमिकता"
+        ],
+        "answer": "क्योंकि उन्होंने विद्यालय परिसर की दीवारें और रसोईघर बनवाए ताकि सुरक्षा व साफ mid-day meal मिल सके — इसलिए बाल हितैषी ग्राम पंचायत घोषित हुई।"
+      },
+      "practice": {
+        "easy": [
+          "'बाल संसद' किस राज्य और किस संस्था से जुड़ी है?"
+        ],
+        "medium": [
+          "बाल संसद में 8–14 वर्ष के बच्चे लोकतंत्र कैसे सीखते हैं? तीन बिंदु लिखो।"
+        ],
+        "hard": [
+          "कक्षा गतिविधि: बाल पंचायत बनाकर तीन विषय, दो चुनौतियाँ और दो समाधान सुझाओ।"
+        ]
+      },
+      "summary": "सिक्किम की बाल हितैषी पंचायत (दीवारें-रसोई) और राजस्थान की बाल संसद बच्चों को सुरक्षा, भोजन और लोकतांत्रिक भागीदारी से सशक्त बनाती हैं।",
+      "revision_point": "Child voice matters: child-friendly panchayat awards + Bal Sansad elections/cabinet.",
+      "exam_tip": "पुरस्कार वाला तथ्य याद रखो — 2001 वर्ल्ड चिल्ड्रन ऑनररी अवार्ड — case study answers को मज़बूत बनाता है।",
+      "source_text_hint": "सांगखू राधू खांडू गाँव को बाल हितैषी ग्राम पंचायत घोषित किया गया है।"
+    },
+    {
+      "concept": "पंचायत समिति, जिला परिषद और आरक्षण",
+      "say": "Bacchon, ab upar ke do star — पंचायत समिति aur जिला परिषद! ग्राम स्तर se upar, खंड स्तर par पंचायत समिति होती है — yeh ग्राम पंचायत aur जिला परिषद के बीच की कड़ी है. Members स्थानीय लोगों द्वारा चुने जाते हैं, par usme क्षेत्र के गाँवों के सरपंच aur राज्य विधान सभा के स्थानीय सदस्य jaise अन्य सदस्य भी हो सकते हैं. गठन राज्य-दर-राज्य भिन्न हो सकता है, par भूमिका समान रहती है — स्थानीय जनता की भागीदारी मजबूत करना. Yeh सभी ग्राम पंचायतों की विकास योजनाएँ एकत्रित करके उन्हें क्रमशः जिला या राज्य स्तर पर प्रस्तुत करती हैं. Developmental works aur ग्रामीण इलाकों में बारहमासी सड़कों के निर्माण ko badhava dene ke liye प्रधानमंत्री ग्राम सड़क योजना (PMGSY) jaise सरकारी योजनाओं के धनराशि आवंटन mein madad karti hai. 'बारहमासी सड़क' matlab saal bhar chalne wali road — barish mein bhi! सभी तीनों स्तरों par विशेष नियम hain taaki अनुसूचित जाति aur अनुसूचित जनजाति jaise वंचित वर्ग की आवश्यकताएँ पूरी हों aur उनकी समस्याएँ सुनी जा सकें. In संस्थाओं mein एक-तिहाई सीटें महिलाओं के लिए आरक्षित रखने का प्रावधान भी है — 1/3 seats for women! NCERT 'आइए विचार करें': सरकार को वंचित वर्गों की जरूरतों पर अधिक ध्यान क्यों देना चाहिए? Socho — equality aur justice ke bina democracy अधूरी. Yaad rakho: राज्यों में गठन-कार्यों में विविधता हो सकती है kyunki इन संस्थाओं पर राज्यों का अधिकार है, पर लक्ष्य समान — ग्रामवासियों को अपने गाँवों ke प्रबंधन और विकास mein सक्रिय भाग लेने में सक्षम बनाना.",
+      "example": "Agar 10 गाँवों की सड़क योजना एक साथ बनानी हो — Gram Panchayats plans bhejengi, पंचायत समिति इकट्ठा करके जिला/राज्य स्तर पर प्रस्तुत करेगी, PMGSY funding help karegi.",
+      "board_lines": [
+        "पंचायत समिति = ग्राम ↔ जिला की कड़ी",
+        "कार्य: योजनाएँ एकत्र → जिला/राज्य; PMGSY मदद",
+        "आरक्षण: वंचित वर्ग + 1/3 सीटें महिलाएँ"
+      ],
+      "common_mistake": "Students सोचते हैं पंचायत समिति सिर्फ सड़क बनाती है — मुख्य भूमिका योजनाएँ एकत्र कर ऊपर भेजना और भागीदारी मजबूत करना भी है।",
+      "memory_trick": "S-J-A: समिति (कड़ी) · जिला · आरक्षण (1/3 महिला) — 'सजा' strong link!",
+      "gesture_action": "Dono haath se bridge banao (समिति = कड़ी), phir ek-tihai circle women ke liye dikhao.",
+      "real_life_examples": [
+        "Village-to-market all-weather road under PMGSY discussion",
+        "Women ward members in local body elections due to 1/3 reservation"
+      ],
+      "worked_example": {
+        "problem": "पंचायत समिति को ग्राम पंचायत और जिला परिषद के बीच की कड़ी क्यों कहा जाता है? एक सरकारी योजना का उदाहरण दीजिए।",
+        "steps": [
+          "समिति ग्राम पंचायतों की विकास योजनाएँ एकत्र करती है",
+          "उन्हें जिला या राज्य स्तर पर प्रस्तुत करती है — अतः कड़ी/bridge",
+          "उदाहरण: प्रधानमंत्री ग्राम सड़क योजना के लिए धन आवंटन में मदद"
+        ],
+        "answer": "क्योंकि यह ग्राम पंचायतों की योजनाओं को एकत्र कर जिला/राज्य तक पहुँचाती है; उदाहरण — प्रधानमंत्री ग्राम सड़क योजना।"
+      },
+      "practice": {
+        "easy": [
+          "पंचायती राज संस्थाओं में महिलाओं के लिए कितनी सीटें आरक्षित हैं?"
+        ],
+        "medium": [
+          "पंचायत समिति की दो मुख्य भूमिकाएँ लिखो। गठन राज्य-दर-राज्य क्यों भिन्न हो सकता है?"
+        ],
+        "hard": [
+          "केंद्र स्तर और पंचायत स्तर की शासन प्रणाली में दो समानताएँ और दो विभिन्नताएँ सुझाओ (अध्याय 10 का संकेत)।"
+        ]
+      },
+      "summary": "पंचायत समिति ग्राम और जिला के बीच पुल है; तीनों स्तरों पर वंचित वर्गों की सुनवाई और महिलाओं के लिए एक-तिहाई आरक्षण लोकतंत्र को समावेशी बनाता है।",
+      "revision_point": "Block = bridge; collect plans → higher level; SC/ST focus + 1/3 women reservation.",
+      "exam_tip": "'एक-तिहाई सीटें महिलाओं के लिए आरक्षित' — ये exact phrase exam answers में लिखो।",
+      "source_text_hint": "इन संस्थाओं में एक-तिहाई सीटें महिलाओं के लिए आरक्षित रखने का भी प्रावधान है।"
+    },
+    {
+      "concept": "कौटिल्य का प्रशासनिक ढाँचा और अध्याय सार",
+      "say": "Bacchon, last concept — thoda history ka magic! NCERT poochhta hai: आधुनिक भाषा mein in श्रेणियों ko kya naam denge? क्या आश्चर्य की बात नहीं कि बहुत पहले इसी प्रकार की संरचना के बारे में सोचा गया था? शासन पर 'अर्थशास्त्र' ek प्राचीन ग्रंथ hai, lagbhag 2300 वर्ष पहले कौटिल्य (बाद में चाणक्य नाम se bhi jaane gaye) ne likha. Is granth mein राज्य के गठन, संचालन, अर्थव्यवस्था कैसे समृद्ध हो, शासक के कर्तव्य, aur युद्ध कैसे किए जाएँ — विस्तार se bataya gaya hai. शासन-कला के विशेषज्ञ कौटिल्य ne समझाया ki गाँव se लेकर प्रादेशिक राजधानी तक पूरा प्रशासनिक ढाँचा कैसे बनाया जा सकता है. Unka formula board par: राजा प्रत्येक 10 गाँवों पर एक 'संग्रहण' (उप-जिला मुख्यालय); प्रत्येक 100 गाँवों पर 'करवाटिका' (जिला मुख्यालय); प्रत्येक 400 गाँवों पर 'द्रोणमुख'; और प्रत्येक 800 गाँवों पर 'स्थानीय' (प्रांतीय मुख्यालय) स्थापित करे. Dekho — village se provincial capital tak layers! Aaj ke terms mein socho — sub-district, district, bigger hubs, provincial HQ. Ab 'आगे बढ़ने से पहले' teen points revise: (1) ग्रामीण क्षेत्रों में स्थानीय सरकार त्रिस्तरीय व्यवस्था के अंतर्गत गठित; (2) पंचायती राज में लोकतंत्र जनता द्वारा प्रत्यक्ष भागीदारी aur उनके निर्वाचित प्रतिनिधियों दोनों द्वारा कार्य करता है; (3) पंचायती राज संस्थाएँ स्वशासन का अधिकार देती हैं taaki लोग अपने मामले स्वयं सुलझा सकें aur विकासात्मक कार्यों में सहयोग दें. Project ideas from book: तीन स्तर याद करो बिना देखे; सरपंच को प्लास्टिक थैलियों पर पत्र; अच्छा पंचायत सदस्य कैसा हो; school highway crossing problem — कौन-सी संस्था मदद करेगी?",
+      "example": "Kautilya ka 10-village 'संग्रहण' aaj ke block/tehsil-type hub jaisa socho — chhote units ko jodkar bada administration.",
+      "board_lines": [
+        "अर्थशास्त्र · कौटिल्य/चाणक्य · ~2300 वर्ष पहले",
+        "10→संग्रहण · 100→करवाटिका · 400→द्रोणमुख · 800→स्थानीय",
+        "सार: त्रिस्तरीय · प्रत्यक्ष+प्रतिनिधि · स्वशासन"
+      ],
+      "common_mistake": "Students कौटिल्य के चार स्तरों को आज की त्रिस्तरीय पंचायत से एकदम समान मान लेते हैं — विचार मिलता-जुलता है, पर आधुनिक पंचायती राज संवैधानिक/राज्य व्यवस्था है।",
+      "memory_trick": "10-100-400-800: संग्रहण–करवाटिका–द्रोणमुख–स्थानीय — 'दस से आठ सौ तक सीढ़ी'!",
+      "gesture_action": "Haath se chhoti seedhi (10), phir unchi (100), aur unchi (400), sabse unchi (800) — ancient pyramid!",
+      "real_life_examples": [
+        "Today's village → block → district → state capital chain echoes layered admin idea",
+        "Letter to Sarpanch about plastic bags — local self-governance in action"
+      ],
+      "worked_example": {
+        "problem": "कौटिल्य के अनुसार प्रत्येक 10, 100, 400 और 800 गाँवों पर कौन-सी प्रशासनिक इकाइयाँ स्थापित की जाएँ?",
+        "steps": [
+          "10 गाँव = संग्रहण (उप-जिला मुख्यालय)",
+          "100 गाँव = करवाटिका (जिला मुख्यालय); 400 = द्रोणमुख",
+          "800 गाँव = स्थानीय (प्रांतीय मुख्यालय)"
+        ],
+        "answer": "10→संग्रहण; 100→करवाटिका; 400→द्रोणमुख; 800→स्थानीय (प्रांतीय मुख्यालय)।"
+      },
+      "practice": {
+        "easy": [
+          "'अर्थशास्त्र' ग्रंथ के लेखक का नाम और लगभग समय लिखो।"
+        ],
+        "medium": [
+          "आगे बढ़ने से पहले वाले तीन मुख्य बिंदु अपने शब्दों में लिखो।"
+        ],
+        "hard": [
+          "मान लीजिए विद्यालय राजमार्ग पर है और पार करना कठिन है — संभावित समाधान और मदद करने वाली पंचायती राज संस्थाएँ सुझाओ।"
+        ]
+      },
+      "summary": "कौटिल्य के अर्थशास्त्र में गाँव से प्रांत तक स्तरित प्रशासन का प्राचीन विचार है; आज की त्रिस्तरीय पंचायत प्रत्यक्ष भागीदारी और निर्वाचित प्रतिनिधियों से स्वशासन देती है।",
+      "revision_point": "Ancient layers (10–100–400–800) + modern trio (Gram–Block–District) + self-rule summary.",
+      "exam_tip": "कौटिल्य वाले प्रश्न में चारों नाम सही क्रम और संख्याओं (10/100/400/800) के साथ लिखो।",
+      "source_text_hint": "राजा प्रत्येक 10 गाँवों पर एक 'संग्रहण'"
+    }
+  ]
+}
