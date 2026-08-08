@@ -1,0 +1,296 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 627,
+    "chapter_name": "दुःख का अधिकार",
+    "chapter_number": 2,
+    "book_name": "Class 9 Hindi",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Hindi"
+  },
+  "concept_map": {
+    "chapter_overview": "यह पाठ यशपाल की संवेदनशील गद्य रचना है जिसमें एक गरीब माँ के पुत्र-शोक के माध्यम से समाज की दोहरी नैतिकता उजागर होती है. पोशाक, वर्ग और गरीबी यह तय कर देते हैं कि किसे रोने का ‘अधिकार’ मिलता है और किसे नहीं. कक्षा में हम लेखक, पात्र, शैली और आज के जीवन से जुड़ा संदेश bilingual तरीके से समझेंगे — बिना कहानी को रटवाए, सोचने और महसूस करने पर जोर देकर.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Hindi — Chapter 2: दुःख का अधिकार. Socho: agar kisi ke ghar mein dukh ho, toh kya har kisi ko rote hue dekhna ‘allowed’ hota hai? Aaj hum यशपाल जी ke saath market ki us maa ko milenge jiska dukh log samajhna nahi chahte. Dil se suno — yeh sirf story nahi, hamara society mirror hai.",
+    "learning_outcomes": [
+      "यशपाल का संक्षिप्त परिचय और उनकी सामाजिक संवेदना वाली लेखन दृष्टि समझना",
+      "पाठ की पृष्ठभूमि, केंद्रीय विषय और ‘दुःख का अधिकार’ शीर्षक की सार्थकता स्पष्ट करना",
+      "मुख्य पात्रों (माँ, भगवाना, समाज/पड़ोस) की भूमिका और वर्ग-भेद का विश्लेषण करना",
+      "शैली, संदेश और आज के जीवन में समानुभूति/समानता से जोड़कर उत्तर लिखना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "लेखक परिचय — यशपाल"
+      },
+      {
+        "number": 2,
+        "name": "पृष्ठभूमि और केंद्रीय विषय"
+      },
+      {
+        "number": 3,
+        "name": "मुख्य पात्र और उनकी भूमिका"
+      },
+      {
+        "number": 4,
+        "name": "अमीर-गरीब का दोहरा मापदंड"
+      },
+      {
+        "number": 5,
+        "name": "साहित्यिक शैली और तकनीक"
+      },
+      {
+        "number": 6,
+        "name": "नैतिक संदेश और आज की प्रासंगिकता"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "लेखक परिचय — यशपाल",
+      "say": "Bacchon, pehle writer ko jaano — warna story sirf plot ban kar reh jaati hai. Yeh path NCERT Class 9 Hindi (स्पर्श) ka Chapter 2 hai: दुःख का अधिकार. Author hain यशपाल — Hindi ke bahut mazboot kathaakaar, upanyaaskaar aur progressive soch wale lekhak. Unka janm 1903 mein Ferozepur Cantonment mein hua; unhone Lahore mein uchch shiksha paayi aur student life se hi krantikari andolan se jude. Unka niddhan 1976 mein hua. Famous works yaad rakhna useful hai: उपन्यास — झूठा सच, दादा कामरेड, मेरी तेरी उसकी बात; कहानी संग्रह — तर्क का तूफान, ज्ञानदान, फूलों का कुर्ता. Unhe ‘मेरी तेरी उसकी बात’ par Sahitya Akademi award mila. Ab sabse important baat: यशपाल sirf sundar bhasha ke liye nahi padhe jaate — unke lekhan mein वर्ग-संघर्ष, सामाजिक विषमता, अंधविश्वास-विरोध aur pakki मानवीय संवेदना milti hai. Dukh Ka Adhikar mein bhi wahi aankh dikhai deti hai: wo gareebon ke dukh ko ‘chhota’ nahi maante. Classroom tip: exam mein author intro mein birth-year, major works, aur ‘सामाजिक यथार्थ / संवेदना’ teen points zaroor likho. English mein bolo toh — Yashpal writes with a sharp social conscience; he shows how class decides even the right to grieve. Aaj hum unke ise path se seekhenge ki literature sirf entertainment nahi, society ka X-ray bhi hai.",
+      "example": "Jaise doctor X-ray se andar ki chot dikhata hai, waise Yashpal ki kahani society ke andar chhupe class-bias ko dikhati hai — especially jab dukh bhi ‘status’ se judge hota hai.",
+      "board_lines": [
+        "लेखक: यशपाल (1903–1976) | स्पर्श — गद्य",
+        "रचनाएँ: झूठा सच, दादा कामरेड, मेरी तेरी उसकी बात",
+        "विशेषता: सामाजिक यथार्थ + मानवीय संवेदना + व्यंग्य"
+      ],
+      "common_mistake": "Students kabhi-kabhi is path ke lekhak ko galat naam se yaad kar lete hain (kisi anya nibandhkaar se mix). Sahi jawab: यशपाल.",
+      "memory_trick": "Y-S-S: यशपाल → सामाजिक यथार्थ → संवेदना — teen ‘S’ vibes: Social, Sensitive, Sharp.",
+      "gesture_action": "Apne dil par haath rakhkar bolo ‘संवेदना’, phir aankh se society ko dekhne ka gesture — ‘यथार्थ’.",
+      "real_life_examples": [
+        "Newspaper mein gareeb aur ameer ke dukh ki news alag tareeke se cover hoti hai — Yashpal isi bias ko literature mein dikhate hain",
+        "School mein kisi weak student ke rone ko ‘drama’ bolna vs popular student ke rone par sympathy — same double standard"
+      ],
+      "worked_example": {
+        "problem": "यशपाल का संक्षिप्त जीवन-परिचय देते हुए बताइए कि उनकी रचनाओं की मुख्य विशेषता क्या है?",
+        "steps": [
+          "Janm-varsh, shiksha/krantikari background aur niddhan briefly likho",
+          "Do-teen pramukh rachnaon ke naam do",
+          "Visheshata: samajik vishamata, varg-sangharsh, manviya sanvedana — inme se clearly likho"
+        ],
+        "answer": "यशपाल (1903–1976) हिंदी के Progressive कथाकार थे; ‘झूठा सच’, ‘दादा कामरेड’, ‘मेरी तेरी उसकी बात’ प्रमुख रचनाएँ हैं। उनकी विशेषता सामाजिक विषमता का यथार्थ चित्रण और गरीब वर्ग के प्रति गहरी संवेदना है।"
+      },
+      "practice": {
+        "easy": [
+          "दुःख का अधिकार के लेखक का नाम लिखिए।"
+        ],
+        "medium": [
+          "यशपाल की दो प्रमुख रचनाओं के नाम लिखकर उनकी लेखन दृष्टि एक वाक्य में बताइए।"
+        ],
+        "hard": [
+          "यशपाल को केवल कहानीकार क्यों नहीं, सामाजिक चिंतक भी कहा जा सकता है? पाठ की पृष्ठभूमि के आधार पर अपने शब्दों में लिखिए।"
+        ]
+      },
+      "summary": "यशपाल सामाजिक यथार्थ और गहरी संवेदना के लेखक हैं; दुःख का अधिकार उन्हीं की progressive दृष्टि का उदाहरण है।",
+      "revision_point": "Author = यशपाल (1903–1976); keywords: सामाजिक यथार्थ, संवेदना, वर्ग-भेद।",
+      "exam_tip": "लेखक-परिचय में सिर्फ जन्म-मृत्यु मत लिखो — एक पंक्ति ‘सामाजिक विषमता/संवेदना’ जरूर जोड़ो, वरना marks कटते हैं।",
+      "source_text_hint": "दुःख का अधिकार"
+    },
+    {
+      "concept": "पृष्ठभूमि और केंद्रीय विषय",
+      "say": "Ab path ka core samajhte hain — setting aur central theme. Scene bazaar/footpath jaisa hai jahan ek adhed umar ki gareeb mahila kharbooze bechne aayi hai, lekin muh chhipaakar sir ghutnon par rakhkar fafak-fafak kar ro rahi hai. Log usse ghrina aur taane dete hain; kharidne wale bhi door rahte hain. Asli dukh yeh hai: uska jawaan beta — lagbhag 23 saal — saanp ke dasne se mar chuka hai. Ghar ka jo kuch tha, ilaj-oja, daan-dakshina aur antim sanskaar mein kharch ho gaya. Bahu beemar, pote bhookhe — isliye maa ko doosre hi din bazaar aana pada. Central theme clear hai: dukh har insan ko hota hai, lekin society mein dukh manane ka ‘adhikar’ bhi class aur poshak se jud jaata hai. Title ‘दुःख का अधिकार’ isliye powerful hai — yeh poochhta hai ki kya gareeb ko rote hue sharmaana chahiye? English mein: grief is universal, but the right to express grief is denied to the poor. Ek aur layer: andh-vishwas — oja, jhad-phoonk, nagdevta — yeh dikhata hai ki majboori mein log aise raston par bhi kharch kar dete hain. Classroom question: even after losing everything, why must she sell fruit? Answer — hunger doesn’t wait for mourning. Yeh theme sirf ‘sad story’ nahi; yeh equality of human feelings ka demand hai.",
+      "example": "Agar ghar mein shaam ko khana khatam ho aur kal school fees bhi deni ho, toh dukh mein baithe rehna possible nahi — bilkul us maa jaisi majboori.",
+      "board_lines": [
+        "स्थान: बाज़ार/फ़ुटपाथ | घटना: पुत्र की मृत्यु के बाद रोजी",
+        "केंद्रीय विषय: दुःख समान, पर शोक का अधिकार असमान",
+        "शीर्षक सार्थक: गरीब को रोने का भी ‘अनुमति’ नहीं"
+      ],
+      "common_mistake": "Students theme ko sirf ‘bete ki maut’ likh dete hain. Asli point: maut ke baad bhi gareebi shok ka adhikar cheen leti hai aur society taane deti hai.",
+      "memory_trick": "D-A-G: दुःख → अधिकार → गरीबी — title yaad: Dukh ka Adhikar Gareebon ke liye struggle hai.",
+      "gesture_action": "Ek haath dil (dukh), doosra haath ‘stop’ jaisa (society rok rahi hai) — phir dono haath barabar — ‘equal right’.",
+      "real_life_examples": [
+        "Accident ke baad ameer family ko leave/milne-julne ka time milta hai; daily-wage worker agle din kaam par jaata hai",
+        "Hospital mein gareeb parivaar ke rone ko log ‘shor’ bolte hain, VIP ke dukh par silence aur respect"
+      ],
+      "worked_example": {
+        "problem": "पाठ का शीर्षक ‘दुःख का अधिकार’ कहाँ तक सार्थक है? संक्षेप में स्पष्ट कीजिए।",
+        "steps": [
+          "Dono maaon ke dukh ki samanta batao (putra-shok)",
+          "Antar dikhao: sambhrant maa ko shok ka samay/samman; gareeb maa ko bazaar mein taane",
+          "Conclude: title isliye sarthak kyunki gareebi dukh manane ka adhikar bhi cheenti hai"
+        ],
+        "answer": "शीर्षक पूर्णतः सार्थक है क्योंकि पुत्र-शोक दोनों को समान रूप से होता है, पर संभ्रांत महिला को शोक मनाने का समय और सम्मान मिलता है जबकि गरीब माँ को रोजी के लिए बाज़ार जाना पड़ता है और समाज उसे दुःख का अधिकार भी नहीं देता।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का केंद्रीय विषय एक वाक्य में लिखिए।"
+        ],
+        "medium": [
+          "बुढ़िया बेटे की मृत्यु के तुरंत बाद खरबूजे बेचने क्यों गई?"
+        ],
+        "hard": [
+          "‘दुःख समान है, पर दुःख मनाने का अधिकार असमान’ — इस कथन की पुष्टि पाठ के आधार पर कीजिए।"
+        ]
+      },
+      "summary": "बाजार में रोती गरीब माँ के माध्यम से पाठ बताता है कि दुःख सबको होता है, पर शोक का अधिकार वर्ग से बँध जाता है।",
+      "revision_point": "Theme = universal grief + unequal right to mourn; title directly attacks this injustice.",
+      "exam_tip": "शीर्षक-सार्थकता वाले उत्तर में comparison (अमीर माँ vs गरीब माँ) जरूर लाओ — यही examiner का expected angle है।",
+      "source_text_hint": "दुःख का अधिकार"
+    },
+    {
+      "concept": "मुख्य पात्र और उनकी भूमिका",
+      "say": "Characters ko map karte hain — exam mein ‘पात्र-चित्रण’ aata hai. Pehla aur sabse central paatr: खरबूजे बेचने वाली माँ (बुढ़िया/अधेड़ स्त्री). Woh sirf ‘victim’ nahi; uski majboori, mamta aur atal mehnat dikhti hai. Beta mar gaya, phir bhi ghar ke bhookhe bacchon aur beemar bahu ke liye bazaar aati hai — yeh uska character strength hai. Doosra important naam: भगवाना — uska beta, jo shehar ke paas roughly dedh bigha zameen par kachhiyari (sabzi-kheti) karke parivaar chalaata tha. Uski maut se ekmaatra kamane wala chala gaya. Bahu aur pote-poti background mein hain, lekin unki bhookh hi maa ko bazaar khinch laati hai. Phir society ke log / dukaan-paas ke log — yeh collective character hain: taane, ghrina, ‘behayayi’ ke ilzaam — yeh dikhate hain ki community kabhi-kabhi empathy ki jagah judgment deti hai. Aur lekhak khud ek observing consciousness hai: woh dukh samajhna chahta hai, lekin apni poshak/status ke kaaran seedha baithkar poochne mein jhijhak mehsoos karta hai. English tip: the mother embodies forced labour after grief; Bhagwana represents the fragile breadwinner; the crowd represents social cruelty. Classroom activity: teen columns banao — पात्र | स्थिति | पाठ में भूमिका. Yaad rakho: is kahani mein ‘hero’ koi superhero nahi — ordinary gareeb maa hi moral centre hai.",
+      "example": "Jaise kisi family mein ek hi earning member ho aur woh chala jaaye, toh ghar ki budhiya maa ko bhi dukaan/mandi mein kaam karna padta hai — Bhagwana-maa jaisi situation.",
+      "board_lines": [
+        "माँ: पुत्र-शोक + मजबूरी में रोजी — नैतिक केंद्र",
+        "भगवाना: एकमात्र कमाऊ बेटा (कछियारी) — मृत्यु से संकट",
+        "समाज/भीड़: ताने-घृणा | लेखक: संवेदनशील द्रष्टा"
+      ],
+      "common_mistake": "Students sirf maa ko ‘roohi hui aurat’ likhte hain; uski struggle aur responsibility miss kar dete hain. Strong answer mein mamta + majboori dono likho.",
+      "memory_trick": "M-B-S: माँ — भगवाना — समाज. Teen poles: Suffering, Support lost, Social sting.",
+      "gesture_action": "Teen students: ek ‘maa’ (haath aankhon par), ek ‘Bhagwana’ (kaam ka gesture), baaki class ‘crowd’ (ungli uthakar taana).",
+      "real_life_examples": [
+        "Gaon mein kisi mazdoor ke marne par biwi/maa ko jaldi kaam dhoondhna padta hai",
+        "School mein kisi orphan student ki help karne ke bajay log gossip karte hain — crowd wali mentality"
+      ],
+      "worked_example": {
+        "problem": "खरबूजे बेचने वाली स्त्री के चरित्र की दो विशेषताएँ उदाहरण सहित लिखिए।",
+        "steps": [
+          "Pehli visheshata: mamta/putra-shok — rona, behosh hona",
+          "Doosri: jimmedari/sahansheelata — bhookhe bacchon ke liye doosre din bazaar aana",
+          "Dono ko alag points mein example ke saath likho"
+        ],
+        "answer": "(1) संवेदनशील माँ — पुत्र-शोक में फफक-फफककर रोती है। (2) जिम्मेदार संघर्षशील नारी — घर में भूख और बीमारी होने पर दुःख दबाकर खरबूजे बेचने बाज़ार आती है।"
+      },
+      "practice": {
+        "easy": [
+          "भगवाना परिवार का निर्वाह कैसे करता था?"
+        ],
+        "medium": [
+          "लेखक स्त्री से सीधे बात करने में क्यों हिचकता है? अपने शब्दों में बताइए।"
+        ],
+        "hard": [
+          "‘समाज’ को भी इस पाठ का एक पात्र माना जा सकता है — तर्क दीजिए।"
+        ]
+      },
+      "summary": "माँ नैतिक केंद्र है, भगवाना कमाई का आधार, और समाज/भीड़ द्वेष व दोहरे मापदंड का चेहरा है।",
+      "revision_point": "Characters: grieving working mother + lost breadwinner Bhagwana + judgmental crowd + hesitant narrator.",
+      "exam_tip": "पात्र-चित्रण में सिर्फ नाम मत लिखो — ‘भूमिका/विशेषता + पाठ से उदाहरण’ वाला फॉर्मूला use करो।",
+      "source_text_hint": "खरबूजे बेचने वाली स्त्री"
+    },
+    {
+      "concept": "अमीर-गरीब का दोहरा मापदंड",
+      "say": "Yeh concept exam ka favourite hai — contrast. Lekhak apne padose ki ek sambhrant mahila ko yaad karta hai jiska beta bhi mar gaya tha. Us dukh se shehar ke logon ke man dravit ho uthte the; us maa ko shok manane ka time, space aur respect milta tha. Ab usi tarah ka putra-shok is gareeb maa ke paas hai — lekin reaction ulta hai: bazaar mein taane, ghrina, ‘yeh logon ke liye beta-beti, dharm-imaan sab roti ka tukda hai’ jaisi soch. Matlab society kehte hain ki gareeb sirf paise ke peeche hain, unke emotions ‘valid’ nahi. Yashpal is double standard ko be-nakaab karte hain. Poshak bhi yahan symbol ban jaati hai: kapde/status humein batate hain kisi ka ‘darja’, aur kabhi-kabhi wahi poshak humein neeche jhukkar empathy dikhane se rok deti hai — jaise hawa kati patang ko turant zameen par nahi girne deti. English framing: privilege buys the luxury of mourning; poverty forces performance of labour even in grief. Class discussion: kya aaj bhi hospital/funeral mein yeh farq dikhta hai? Haan — VIP shok sabha vs gareeb family ka turant kaam par lautna. Isliye path sirf purane zamane ki kahani nahi; inequality of dignity aaj bhi jeeti-jaagti hai.",
+      "example": "Same exam fail hone par rich student ko ‘rest aur counselling’ milti hai; poor student ko turant tuition/kaam join karna padta hai — dukh same, response unequal.",
+      "board_lines": [
+        "समान दुःख: दोनों माताओं का पुत्र-शोक",
+        "असमान अधिकार: सम्मानित शोक vs बाज़ार के ताने",
+        "प्रतीक: पोशाक/दर्जा = सहानुभूति की दीवार"
+      ],
+      "common_mistake": "Students likhte hain ‘ameer ko dukh nahi hota’. Galat — dukh dono ko hota hai; farq hai adhikar, time aur samman ka.",
+      "memory_trick": "S-U-D: Same dukh — Unequal dignity. Same pain, different permission.",
+      "gesture_action": "Dono haath barabar (same dukh), phir ek haath upar (ameer shok), ek haath neeche dabao (gareeb majboori).",
+      "real_life_examples": [
+        "TV par celebrity ke gham ki nonstop coverage vs mazdoor ke accident ki chhoti news",
+        "Colony mein ameer ghar ke matam par log jama hote hain; jhuggi ke dukh par ignore"
+      ],
+      "worked_example": {
+        "problem": "लेखक को गरीब स्त्री का दुःख देखकर संभ्रांत पड़ोसन की याद क्यों आई?",
+        "steps": [
+          "Dono situations mein putra-mrityu common point likho",
+          "Reaction/samaj ka farq batao",
+          "Lekhak comparison se ‘dukh ka adhikar’ wala sawaal uthata hai — yeh conclude karo"
+        ],
+        "answer": "क्योंकि दोनों माताओं को पुत्र-शोक था, पर संभ्रांत महिला को शोक मनाने का अधिकार और सहानुभूति मिली जबकि गरीब स्त्री को बाज़ार में अपमान सहना पड़ा — इसी विषमता को उजागर करने के लिए लेखक तुलना करता है।"
+      },
+      "practice": {
+        "easy": [
+          "संभ्रांत महिला और गरीब स्त्री के दुःख में क्या समानता है?"
+        ],
+        "medium": [
+          "पोशाक लेखक के अनुसार कब बंधन/अड़चन बन जाती है?"
+        ],
+        "hard": [
+          "‘गरीबी दुःख का अधिकार भी छीन लेती है’ — पाठ के उदाहरणों से इस कथन की व्याख्या कीजिए।"
+        ]
+      },
+      "summary": "पाठ अमीर-गरीब के शोक के दोहरे मापदंड को दिखाता है: दुःख समान, गरिमा और अधिकार असमान।",
+      "revision_point": "Contrast question = same grief + unequal mourning rights; poshak/status as barrier to empathy.",
+      "exam_tip": "तुलनात्मक उत्तर में हमेशा दो कॉलम सोचो — संभ्रांत माँ | गरीब माँ — फिर निष्कर्ष में ‘अधिकार की असमानता’ लिखो।",
+      "source_text_hint": "पोशाक हमें झुक सकने से रोके रहती है"
+    },
+    {
+      "concept": "साहित्यिक शैली और तकनीक",
+      "say": "Ab literature tools dekhte hain — isse answers ‘उच्च स्तर’ ke lagte hain. Yashpal ki style yahan यथार्थवादी (realistic) hai: bazaar, footpath, kharbooze, bhookh — bilkul zameeni details. Bhasha mein Urdu-Hindi mix aur bolchal ke shabd aate hain, jisse scene alive lagta hai. Technique 1: प्रत्यक्ष अवलोकन — lekhak pehle roohi stri dekhta hai, phir dukaan se cause jaanta hai. Technique 2: तुलना/विरोधालंकार जैसा contrast — ameer shok vs gareeb majboori. Technique 3: प्रतीक — poshak = class barrier; kharbooze bechna = survival labour. Technique 4: व्यंग्य की धार — society ke taane aur ‘roti ka tukda’ wali soch par teekha comment. Technique 5: करुणा (pathos) — reader ke mann mein dayaa nahi, justice wali empathy jagti hai. Title itself is ironical-powerful: ‘right to sorrow’ — a right that should be obvious but isn’t. English classroom line: Yashpal uses realism + irony + social contrast to turn a street scene into a moral argument. Board tip: jab ‘भाषा-शैली’ pooche, teen points — सरल-यथार्थ भाषा, करुणा, सामाजिक व्यंग्य. Extra: andh-vishwas (oja/jhad-phoonk) ka zikr society ke knowledge-gap aur majboori ko bhi dikhata hai, sirf superstition mock nahi.",
+      "example": "Jaise photo mein sharp contrast (ujala-andhera) subject ko clear karta hai, waise Yashpal ameer-gareeb shok ka contrast use karke message clear karte hain.",
+      "board_lines": [
+        "शैली: यथार्थवाद + करुणा + व्यंग्य",
+        "तकनीक: अवलोकन, तुलना, प्रतीक (पोशाक/बाज़ार)",
+        "प्रभाव: पाठक में सहानुभूति नहीं — न्याय-बोध"
+      ],
+      "common_mistake": "Students ‘शैली’ mein sirf ‘saral bhasha’ likhkar ruk jaate hain. Better answer: saral-yatharth bhasha + contrast + symbol + social satire.",
+      "memory_trick": "R-C-I: Realism — Contrast — Irony. Yashpal ka toolkit!",
+      "gesture_action": "Camera banakar ‘observe’ karo, phir do ungliyon se ‘compare’, phir title card ki tarah air mein ‘दुःख का अधिकार’ likho.",
+      "real_life_examples": [
+        "Street photography jaisa — chhoti si bazaar scene se bada social truth nikalna",
+        "Debate mein do case studies rakhna (VIP vs mazdoor) — bilkul Yashpal wali contrast technique"
+      ],
+      "worked_example": {
+        "problem": "यशपाल ने इस पाठ में कौन-सी शैली अपनाई है? दो विशेषताएँ लिखिए।",
+        "steps": [
+          "Style name: yatharthvaadi / samajik yatharth",
+          "Feature 1: zameeni detail + karuna",
+          "Feature 2: contrast aur vyangya se sandesh"
+        ],
+        "answer": "यशपाल ने यथार्थवादी शैली अपनाई है जिसमें बाज़ार की जीवंत स्थिति और करुणा है; साथ ही अमीर-गरीब की तुलना तथा समाज पर व्यंग्य से संदेश तीव्र हो जाता है।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ की भाषा-शैली की एक विशेषता लिखिए।"
+        ],
+        "medium": [
+          "‘पोशाक’ इस पाठ में किस बात का प्रतीक बनती है?"
+        ],
+        "hard": [
+          "शीर्षक में निहित व्यंग्य/विडंबना को अपने शब्दों में समझाइए।"
+        ]
+      },
+      "summary": "यशपाल यथार्थ, तुलना और व्यंग्य से एक बाज़ार-दृश्य को सामाजिक अन्याय के तर्क में बदल देते हैं।",
+      "revision_point": "Style kit = realism + contrast + symbolism (poshak) + irony in title.",
+      "exam_tip": "भाषा-शैली वाले प्रश्न में कम से कम एक साहित्यिक उपकरण (प्रतीक/व्यंग्य/तुलना) का नाम अवश्य लिखो।",
+      "source_text_hint": "वायु की लहरें कटी हुई पतंग"
+    },
+    {
+      "concept": "नैतिक संदेश और आज की प्रासंगिकता",
+      "say": "Aakhir mein message — aur yeh sabse zaroori hai kyunki Smart Board class mein hum sirf marks nahi, insaan banana seekhte hain. Moral 1: Dukh manana har vyakti ka manviya adhikar hai — gareebi is adhikar ko cancel nahi kar sakti. Moral 2: Empathy poshak/class dekhkar mat do; pehle insan dekho. Moral 3: Taane aur ‘behayayi’ ke labels aksar kamzor ke dukh ko aur gehra kar dete hain. Moral 4: Survival struggle ko greed mat samjho — kabhi-kabhi roti ke liye rona aur kaam ek saath karna padta hai. Aaj relevance: hospitals, bus stands, villages, cities — har jagah hum dekhte hain ki kuch logon ke aansu ‘respectable’ maane jaate hain, kuch ke aansu ‘nuisance’. Social media par bhi celebrity grief viral hoti hai; anonymous gareeb ka dukh scroll-past. Is path se student seekhe: classmate ke struggle ko judge mat karo; help karo. Exam line: path humеे समानता, संवेदना और सामाजिक न्याय की शिक्षा देता है. English takeaway: dignity in grief is a human right, not a luxury of the rich. Class pledge: aaj se kisi ke rone par pehle ‘kya hua?’ poochhenge, taana nahi denge. Yeh hi Yashpal ka offline classroom legacy hai — rural Smart Board se lekar board exam tak.",
+      "example": "Agar tumhara dost fees na bhar paane ki wajah se chup/udaas ho, toh usse ‘bewajah mood’ mat bolo — pehle uski majboori samjho, madad karo.",
+      "board_lines": [
+        "संदेश: दुःख का अधिकार सबको समान",
+        "शिक्षा: सहानुभूति > पोशाक/दर्जा",
+        "आज: अस्पताल, बस्ती, कक्षा — बिना भेद के संवेदना"
+      ],
+      "common_mistake": "Students message ko sirf ‘gareebon par daya karo’ likh dete hain. Better: daya nahi — सम्मान और समान अधिकार; judgment mat karo.",
+      "memory_trick": "R-E-D: Right to cry — Empathy first — Dignity always.",
+      "gesture_action": "Class ke saath haath milao aur bolo: ‘दुःख में भी सम्मान’ — ek slow respectful nod.",
+      "real_life_examples": [
+        "Pados mein kisi mazdoor ke ghar dukh ho toh madad/khamoshi se saath dena, taane nahi",
+        "School counselling: exam stress mein rone wale student ko weak mat samajhna"
+      ],
+      "worked_example": {
+        "problem": "दुःख का अधिकार पाठ से हमें आज के जीवन के लिए क्या शिक्षा मिलती है?",
+        "steps": [
+          "Core message: dukh manane ka saman adhikar",
+          "Behaviour change: class/poshak dekhkar empathy mat roko",
+          "Modern link: hospital/school/society examples se conclude"
+        ],
+        "answer": "पाठ सिखाता है कि दुःख हर व्यक्ति का मानवीय अधिकार है; हमें पोशाक या गरीबी देखकर किसी के शोक का अपमान नहीं करना चाहिए, बल्कि समान संवेदना और सम्मान देना चाहिए।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का मुख्य नैतिक संदेश एक वाक्य में लिखिए।"
+        ],
+        "medium": [
+          "आज के समाज में इस पाठ की प्रासंगिकता दो उदाहरणों से समझाइए।"
+        ],
+        "hard": [
+          "यदि आप बाज़ार में उस स्त्री के स्थान पर होते, तो समाज से क्या अपेक्षा रखते? पाठ के संदेश से जोड़कर उत्तर दीजिए।"
+        ]
+      },
+      "summary": "संदेश स्पष्ट है — दुःख में भी गरिमा सबका अधिकार है; आज हमें भेदभाव छोड़कर सच्ची सहानुभूति अपनानी चाहिए।",
+      "revision_point": "Message = equal right to grieve + empathy beyond class; relevance alive in modern inequality.",
+      "exam_tip": "‘शिक्षा/संदेश’ वाले उत्तर को सिर्फ नैतिक न बनाओ — पाठ की घटना से एक पंक्ति जोड़कर लिखो, वरना generic लगते हैं।",
+      "source_text_hint": "दुःख होने और शोक करने का अधिकार"
+    }
+  ]
+}
