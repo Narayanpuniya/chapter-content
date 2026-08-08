@@ -1,0 +1,387 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 649,
+    "chapter_name": "अपवाह",
+    "chapter_number": 4,
+    "book_name": "Class 9 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Geography ke Chapter 4 — अपवाह (Drainage) — ko padhenge. Is chapter mein river system, drainage basin, water divide, Himalayan aur Peninsular nadiyon ke antar, Indus-Ganga-Brahmaputra tantra, prayaadvipeeya nadiyan (Narmada, Tapi, Godavari, Mahanadi, Krishna, Kaveri), jheelen, aur nadiyon ka aarthik mahatva tatha pradooshan samjhenge — taaki aap India ke physical map par rivers ko clearly identify kar sako.",
+    "welcome": "Namaste bacchon! Good morning! Aaj Smart Board par Geography ka ek bahut interesting chapter shuru karte hain — अपवाह. Socho: baarish ka paani aakhir kahaan jaata hai? Chhoti-chhoti dhaaraayein milkar bari nadi banati hain, aur nadi jaakar samundar mein milti hai. Aaj hum wahi nadi-tantra, Himalaya ki nadiyan, peninsular rivers, lakes aur unka hamare jeevan mein mahatva samjhenge. Atlas ready rakho — chalo shuru karte hain!",
+    "learning_outcomes": [
+      "अपवाह, अपवाह द्रोणी और जल विभाजक की परिभाषा देना तथा मानचित्र पर पहचानना",
+      "हिमालयी और प्रायद्वीपीय नदियों के अंतर (बारहमासी/मौसमी, लंबाई, अपरदन-निक्षेपण) स्पष्ट करना",
+      "सिंधु, गंगा और ब्रह्मपुत्रा नदी तंत्रों की उत्पत्ति, सहायक नदियाँ और मुहाना बताना",
+      "प्रायद्वीपीय नदियों (नर्मदा, तापी, गोदावरी, महानदी, कृष्णा, कावेरी) की दिशा, डेल्टा/ज्वारनदमुख और द्रोणी राज्यों को याद रखना",
+      "झीलों के प्रकार, महत्त्व तथा नदियों के आर्थिक महत्त्व व प्रदूषण के कारण समझाना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अपवाह, अपवाह द्रोणी और जल विभाजक"
+      },
+      {
+        "number": 2,
+        "name": "भारत में अपवाह तंत्र – हिमालयी और प्रायद्वीपीय नदियाँ"
+      },
+      {
+        "number": 3,
+        "name": "सिंधु नदी तंत्र"
+      },
+      {
+        "number": 4,
+        "name": "गंगा नदी तंत्र"
+      },
+      {
+        "number": 5,
+        "name": "ब्रह्मपुत्रा नदी तंत्र"
+      },
+      {
+        "number": 6,
+        "name": "प्रायद्वीपीय नदियाँ – नर्मदा, तापी, गोदावरी, महानदी, कृष्णा और कावेरी"
+      },
+      {
+        "number": 7,
+        "name": "झीलें – प्रकार और महत्त्व"
+      },
+      {
+        "number": 8,
+        "name": "नदियों का आर्थिक महत्त्व, संरक्षण और प्रदूषण"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अपवाह, अपवाह द्रोणी और जल विभाजक",
+      "say": "Bacchon, pehle basic words clear karte hain — warna aage confused ho jaoge. अपवाह शब्द ek kshetra ke नदी तंत्र ki vyakhya karta hai. Matlab: kisi area mein nadiyan kaise milti hain, kis direction mein bahti hain, aur aakhir kahaan nikal jaati hain — us poore system ko hum drainage ya अपवाह kehte hain. Ab India ka physical map socho. Aap dekhenge ki alag-alag dishaon se chhoti-chhoti dhaaraayein aakar ek saath mil jaati hain aur ek मुख्य नदी banati hain. Ant mein inka nikaas kisi bade जलाशय — jaise झील, समुद्र ya महासागर — mein hota hai. Ab important definition: ek नदी तंत्र dwara jis kshetra ka jal pravahit hota hai, use अपवाह द्रोणी kehte hain — English mein drainage basin. Poori duniya ki sabse badi अपवाह द्रोणी Amazon nadi ki hai — yeh exam mein aksar poocha jaata hai! Ab doosra important term — जल विभाजक. ऊँचा क्षेत्र jaise पर्वत ya उच्च भूमि do padosee अपवाह द्रोणियों ko ek doosre se alag karti hai. Is tarah ki उच्च भूमि ko जल विभाजक kehte hain — water divide. Figure 3.1 mein yahi dikhaya gaya hai. Simple socho: school ki chat se baarish ka pani do taraf girta hai — beech ki ridge water divide hai, aur har taraf ka pani alag basin mein jaata hai. Yaad rakho teen words: अपवाह = river system of an area; अपवाह द्रोणी = area drained by a river system; जल विभाजक = highland separating two basins. India mein Ambala, Indus aur Ganga tantron ke beech water divide par sthit hai — yeh baad mein kaam aayega.",
+      "example": "School playground ke beech ek unchi mitti ki dhari socho — uske dono taraf pani alag-alag naliyon mein jaata hai. Woh dhari = जल विभाजक, aur har taraf ka catchment = अपवाह द्रोणी.",
+      "board_lines": [
+        "अपवाह = किसी क्षेत्र का नदी तंत्र",
+        "अपवाह द्रोणी = नदी तंत्र द्वारा जिस क्षेत्र का जल बहता है (Amazon = विश्व की सबसे बड़ी)",
+        "जल विभाजक = ऊँचा क्षेत्र जो दो अपवाह द्रोणियों को अलग करता है"
+      ],
+      "common_mistake": "Students अपवाह द्रोणी aur जल विभाजक ko mix kar dete hain — basin woh area hai jahaan se pani nadi mein aata hai; water divide woh unchi zameen hai jo do basins ko alag karti hai.",
+      "memory_trick": "B-D-D: Basin = area drained; Divide = highland that Divides; Drainage = the whole river Design of a region.",
+      "gesture_action": "Dono haath se do slopes banao (inverted-V shape), beech ki unchai ko 'जल विभाजक' bolo, aur neeche dono taraf pani bahte hue dikhao — 'दो द्रोणियाँ'",
+      "real_life_examples": [
+        "Pahad ke gaon mein ridge ke ek taraf nala village ki taraf, doosri taraf jungle ki taraf — local water divide",
+        "Roof ki ridge — baarish do gutters mein alag-alag jaati hai, exactly jaise water divide pani ko do basins mein bhejta hai"
+      ],
+      "worked_example": {
+        "problem": "विश्व की सबसे बड़ी अपवाह द्रोणी किस नदी की है? जल विभाजक किसे कहते हैं?",
+        "steps": [
+          "Source se recall: विश्व की सबसे बड़ी अपवाह द्रोणी अमेज़न नदी की है",
+          "ऊँचा क्षेत्र (पर्वत/उच्च भूमि) दो पड़ोसी अपवाह द्रोणियों को अलग करता है",
+          "ऐसी उच्च भूमि को जल विभाजक कहते हैं"
+        ],
+        "answer": "अमेज़न नदी की। जल विभाजक वह ऊँचा क्षेत्र (पर्वत या उच्च भूमि) है जो दो पड़ोसी अपवाह द्रोणियों को एक-दूसरे से अलग करता है।"
+      },
+      "practice": {
+        "easy": [
+          "अपवाह द्रोणी की परिभाषा एक वाक्य में लिखिए।"
+        ],
+        "medium": [
+          "अपवाह और जल विभाजक में अंतर स्पष्ट कीजिए।"
+        ],
+        "hard": [
+          "मानचित्र की सहायता से समझाइए कि जल विभाजक अपवाह द्रोणियों को कैसे नियंत्रित करता है — Ambala का उदाहरण भी दीजिए।"
+        ]
+      },
+      "summary": "अपवाह नदी तंत्र है, अपवाह द्रोणी वह क्षेत्र है जिसका जल उस तंत्र से बहता है, और जल विभाजक दो द्रोणियों को अलग करने वाली ऊँची भूमि है — Amazon विश्व की सबसे बड़ी द्रोणी है।",
+      "revision_point": "Amazon = largest drainage basin; water divide = highland between basins; Ambala on Indus–Ganga divide.",
+      "exam_tip": "Definitions exact likho — examiner 'अपवाह द्रोणी' aur 'जल विभाजक' ke liye textbook language expect karta hai; Amazon ka naam zaroor likho.",
+      "source_text_hint": "एक नदी तंत्रा द्वारा जिस क्षेत्रा का जल प्रवाहित होता है उसे एक अपवाह द्रोणी कहते हैं"
+    },
+    {
+      "concept": "भारत में अपवाह तंत्र – हिमालयी और प्रायद्वीपीय नदियाँ",
+      "say": "Ab India ke अपवाह तंत्र par aate hain. Bharat ke drainage system ka niyantran मुख्यतः भौगोलिक आकृतियों dwara hota hai. Is aadhar par Indian rivers ko do मुख्य वर्गों mein baanta gaya hai — एक: हिमालय की नदियाँ, दो: प्रायद्वीपीय नदियाँ. Ye dono alag kyun hain? Kyunki ye do alag geographical regions se utpann hoti hain. Himalayan rivers mostly बारहमासी hoti hain — matlab year round paani rehta hai. Kyun? Kyunki inhe वर्षा ke alawa ऊँचे पर्वतों se पिघलने वाले हिम se bhi jal milta hai. Himalaya ki do मुख्य नदियाँ — सिंधु aur ब्रह्मपुत्रा — is parvat shreni ke उत्तरी भाग se nikalte hain. In nadiyon ne pahadon ko kaatkar गार्ज banaye hain. Yeh nadiyan apne उद्गम se समुद्र tak लम्बा रास्ता tay karti hain. Upper course mein तीव्र अपरदन karti hain aur saath mein भारी मात्रा में सिल्ट एवं बालू le jaati hain. Middle aur lower parts mein विसर्प, गोखुर झील aur flood plains mein depositional features banati hain, aur पूर्ण विकसित डेल्टा bhi. Figure 3.3 mein nadi ki alag-alag अवस्थाएँ dikhai gayi hain — स्रोत, ऊपरी भाग, मध्य भाग, निचला भाग, विसर्प, गोखुर झील, डेल्टा. Ab peninsular rivers: अधिकतर मौसमी hoti hain kyunki flow वर्षा par depend karta hai. Dry season mein bari nadiyon ka jal bhi chhoti dhaaraon jaisa ho jaata hai. Himalayan rivers ki tulna mein ye कम लंबी aur छिछली hain. Phir bhi kuch नर्मदा-तापी jaisi नदियाँ वैद्रीय उच्चभूमि se nikal kar पश्चिम ki taraf bahti hain. अधिकतर प्रायद्वीपीय नदियाँ पश्चिमी घाट se nikal kar बंगाल की खाड़ी ki taraf bahti hain. Board par comparison table zaroor likho — exam favourite hai!",
+      "example": "Himalayan nadi = school ki permanent water tank + rain; Peninsular nadi = sirf monsoon mein bharne wala school tank — dry months mein nearly empty.",
+      "board_lines": [
+        "दो वर्ग: हिमालयी नदियाँ | प्रायद्वीपीय नदियाँ",
+        "हिमालयी = बारहमासी (वर्षा + हिम); लंबी; गार्ज, विसर्प, गोखुर झील, डेल्टा",
+        "प्रायद्वीपीय = मौसमी (वर्षा पर निर्भर); छोटी/छिछली; अधिकतर पश्चिमी घाट → बंगाल की खाड़ी"
+      ],
+      "common_mistake": "Students sochte hain saari Indian rivers perennial hain — galat! Peninsular rivers mostly seasonal hain; dry season mein flow bahut kam ho jaata hai.",
+      "memory_trick": "H-P: Himalayan = Always (Himalaya ice + rain); Peninsular = Rain only (monsoon dependent).",
+      "gesture_action": "Ek haath se 'ice melting + rain' dikhao (Himalayan year-round), doosre haath se sirf 'umbrella/monsoon' gesture (Peninsular seasonal)",
+      "real_life_examples": [
+        "Ganga mein winter mein bhi paani dikhta hai — glacier + snow melt support",
+        "Summer mein Maharashtra/Karnataka ki chhoti nadiyan nearly dry dikhti hain — rainfall dependence"
+      ],
+      "worked_example": {
+        "problem": "हिमालयी और प्रायद्वीपीय नदियों में कोई तीन अंतर लिखिए।",
+        "steps": [
+          "जल स्रोत: हिमालयी = वर्षा + हिमपिघलन (बारहमासी); प्रायद्वीपीय = मुख्यतः वर्षा (मौसमी)",
+          "लंबाई/गहराई: हिमालयी लंबी एवं गहरी; प्रायद्वीपीय अपेक्षाकृत छोटी एवं छिछली",
+          "आकृतियाँ: हिमालयी गार्ज, विसर्प, गोखुर झील, पूर्ण डेल्टा बनाती हैं; प्रायद्वीपीय अधिकतर पश्चिमी घाट से पूर्व की ओर बहती हैं"
+        ],
+        "answer": "(1) हिमालयी बारहमासी, प्रायद्वीपीय मौसमी (2) हिमालयी लंबी/गहरी, प्रायद्वीपीय छोटी/छिछली (3) हिमालयी तीव्र अपरदन व विकसित डेल्टा; प्रायद्वीपीय अधिकतर पश्चिमी घाट → बंगाल की खाड़ी।"
+      },
+      "practice": {
+        "easy": [
+          "भारत की नदियों के दो मुख्य वर्गों के नाम लिखिए।"
+        ],
+        "medium": [
+          "हिमालयी नदियाँ बारहमासी क्यों होती हैं?"
+        ],
+        "hard": [
+          "नदी की ऊपरी, मध्य और निचली अवस्थाओं में बनने वाली आकृतियों (गार्ज, विसर्प, गोखुर झील, डेल्टा) को क्रम में समझाइए।"
+        ]
+      },
+      "summary": "भारत की नदियाँ हिमालयी (बारहमासी, लंबी, गार्ज-डेल्टा) और प्रायद्वीपीय (मौसमी, छोटी, अधिकतर पश्चिमी घाट से पूर्व की ओर) — दो वर्गों में बँटी हैं।",
+      "revision_point": "Perennial vs seasonal; Himalayan = snow+rain; Peninsular = rain; most Peninsular rivers: Western Ghats → Bay of Bengal.",
+      "exam_tip": "Comparison table (3–5 points) bana kar yaad karo — 'अंतर स्पष्ट कीजिए' type questions almost हर साल aate hain.",
+      "source_text_hint": "हिमालय की अधिकतर नदियाँ बारहमासी नदियाँ होती हैं"
+    },
+    {
+      "concept": "सिंधु नदी तंत्र",
+      "say": "Ab teen bade Himalayan systems — pehla: सिंधु नदी तंत्र. सिंधु, गंगा तथा ब्रह्मपुत्रा Himalaya se nikalne wali प्रमुख नदियाँ hain. Yeh lambi hain aur bahut si सहायक नदियाँ inmein milti hain. किसी नदी तथा उसकी सहायक नदियों को नदी तंत्र कहा जाता है. Indus ka उद्गम मानसरोवर झील ke निकट तिब्बत mein hai. West ki taraf bahti hui yeh nadi India mein लद्दाख se pravesh karti hai. Is भाग mein yeh bahut sundar दर्शनीय गार्ज banati hai. Yahin सहायक नदियाँ jaise जास्कर, नूबरा, श्योक तथा हुंज़ा milti hain. Phir Baluchistan aur Gilgit se bahte hue Attock mein pahadi kshetra se bahar nikalti hai. सतलुज, ब्यास, रावी, चेनाब तथा झेलम — yeh paanch Panjab ki nadiyan — Pakistan mein मिठानकोट ke paas Indus mein mil jaati hain. Uske baad south ki taraf bahti hai aur अंत में कराची se पूर्व की ओर अरब सागर mein mil jaati hai. Indus ke मैदान ka ढाल bahut धीमा hai. सिंधु द्रोणी ka एक तिहाई se kuch अधिक भाग India ke जम्मू-कश्मीर, लद्दाख, हिमाचल तथा पंजाब mein hai, baaki Pakistan mein. Length roughly 2,900 km — विश्व की लंबी नदियों mein se ek. Important fact for exams: सिंधु जल समझौता (1960) ke anusaar India is नदी प्रक्रम ke सिर्फ 20 प्रतिशत जल ka upyog kar sakta hai — yeh जल पंजाब, हरियाणा एवं राजस्थान ke दक्षिण-पश्चिम भागों mein सिंचाई ke liye use hota hai. Memory tip: Indus tributaries — Jhelum, Chenab, Ravi, Beas, Satluj — 'JCRBS' ya 'Jeete Raho Beas Satluj'!",
+      "example": "Panjab ke kisan fields ko socho — Indus system ka water (treaty ke 20% share se) yahan irrigation ke liye bahut important hai.",
+      "board_lines": [
+        "उद्गम: तिब्बत – मानसरोवर झील के निकट → लद्दाख → अरब सागर (कराची के पूर्व)",
+        "सहायक: जास्कर, नूबरा, श्योक, हुंज़ा; पंजाब की — सतलुज, ब्यास, रावी, चेनाब, झेलम (मिठानकोट)",
+        "लंबाई ~2900 किमी; भारत में द्रोणी ~1/3+; Indus Water Treaty 1960 → भारत केवल 20% जल"
+      ],
+      "common_mistake": "Students Indus ko Ganga se milne wali nadi samajh lete hain — Indus alag system hai, Arab Sea mein girti hai, Bay of Bengal mein nahi.",
+      "memory_trick": "Indus five friends: Jhelum-Chenab-Ravi-Beas-Satluj meet near Mithankot — 'JCRBS join Indus'.",
+      "gesture_action": "Map par Tibet → Ladakh → south to Karachi ka path ungli se trace karo; paanch ungliyan dikhakar 'पाँच पंजाब नदियाँ' bolo",
+      "real_life_examples": [
+        "Ladakh tourism photos mein Indus gorge dikhta hai — deep scenic valley",
+        "Punjab-Haryana canals — Indus system water se irrigation (treaty share)"
+      ],
+      "worked_example": {
+        "problem": "सिंधु जल समझौता (1960) के अनुसार भारत सिंधु नदी प्रक्रम के जल का कितना प्रतिशत उपयोग कर सकता है? यह जल मुख्यतः कहाँ प्रयुक्त होता है?",
+        "steps": [
+          "Treaty year: 1960",
+          "India share: केवल 20 प्रतिशत जल",
+          "Use: पंजाब, हरियाणा एवं राजस्थान के दक्षिण-पश्चिम भागों में सिंचाई"
+        ],
+        "answer": "केवल 20 प्रतिशत। मुख्यतः पंजाब, हरियाणा और राजस्थान के दक्षिण-पश्चिम भागों में सिंचाई के लिए।"
+      },
+      "practice": {
+        "easy": [
+          "सिंधु नदी का उद्गम स्थान लिखिए।"
+        ],
+        "medium": [
+          "सिंधु में मिलने वाली पाँच प्रमुख पंजाबी सहायक नदियों के नाम लिखिए।"
+        ],
+        "hard": [
+          "सिंधु नदी तंत्र का मार्ग तिब्बत से अरब सागर तक संक्षेप में लिखिए तथा द्रोणी के भारतीय भाग के राज्य बताइए।"
+        ]
+      },
+      "summary": "सिंधु तिब्बत के मानसरोवर के निकट से निकलकर लद्दाख होते हुए अरब सागर में गिरती है; ~2900 किमी लंबी है; 1960 संधि से भारत केवल 20% जल उपयोग कर सकता है।",
+      "revision_point": "Source near Mansarovar; ends Arabian Sea; JCRBS at Mithankot; Treaty 1960 → 20% for India.",
+      "exam_tip": "Indus Water Treaty + 20% + irrigation states — short-note/MCQ favourite; tributary list spell carefully (झेलम, चेनाब, रावी, ब्यास, सतलुज).",
+      "source_text_hint": "सिंधु नदी का उद्गम मानसरोवर झील के निकट तिब्बत में है"
+    },
+    {
+      "concept": "गंगा नदी तंत्र",
+      "say": "Doosra bada system — गंगा नदी तंत्र. Ganga ki मुख्य धारा 'भागीरथी' गंगोत्री हिमानी se nikalte hai, aur अलकनंदा उत्तराखण्ड ke देवप्रयाग mein isse milti hai — yahi sangam famous hai. हरिद्वार ke paas Ganga pahadi भाग chhod kar मैदानी भाग mein pravesh karti hai. Himalaya se nikalne wali bahut si nadiyan Ganga mein milti hain — प्रमुख: यमुना, घाघरा, गंडक तथा कोसी. यमुना यमुनोत्री हिमानी se nikalte hai, Ganga ke दाहिने किनारे ke समानांतर bahti hai aur इलाहाबाद (Prayagraj) mein Ganga mein mil jaati hai. घाघरा, गंडक, कोसी Nepal Himalaya se aati hain — inse har saal उत्तरी मैदान mein बाढ़ aati hai, jaan-maal ka nuksaan hota hai, lekin yeh मिट्टी ko उपजाऊ bhi banati hain. Peninsular highlands se aane wali मुख्य सहायक नदियाँ: चंबल, बेतवा तथा सोन — yeh अर्ध-शुष्क क्षेत्रों se nikalte hain, length kam, paani bhi kam. Left aur right bank tributaries se bharpoor hokar Ganga पूर्व दिशा mein West Bengal ke फरक्का tak bahti hai — yahi Ganga delta ka सबसे उत्तरी बिंदु hai. Yahaan nadi do भागों mein bant jaati hai: भागीरथी-हुगली (वितरिका) south ki taraf bahti hui Bay of Bengal mein milti hai; मुख्य धारा south hote hue Bangladesh mein jaati hai jahaan ब्रह्मपुत्रा milti hai, aur ant mein मेघना ke naam se samundar mein milti hain. Inka delta — सुंदरवन डेल्टा — सुंदरी पादप se naam, विश्व का सबसे बड़ा एवं तेजी से वृद्धि करने वाला डेल्टा, Royal Bengal Tiger yahan milte hain. Ganga ki length 2,500 km se adhik. Ambala, Indus-Ganga water divide par hai. Ambala se Sundarban tak मैदान ~1,800 km, lekin ढाल में गिरावट मुश्किल से 300 मीटर — matlab हर 6 किमी पर सिर्फ 1 मीटर! Isliye बड़े-बड़े विसर्प ban jaate hain. Namami Gange — pollution kam karna aur conservation/rejuvenation — yaad rakho.",
+      "example": "Prayagraj mein Ganga-Yamuna sangam — textbook ka classic meeting point; Farakka se pehle river splits towards Hooghly and Bangladesh.",
+      "board_lines": [
+        "भागीरथी (गंगोत्री) + अलकनंदा (देवप्रयाग) → गंगा; मैदान में प्रवेश: हरिद्वार",
+        "सहायक: यमुना, घाघरा, गंडक, कोसी | प्रायद्वीपीय: चंबल, बेतवा, सोन",
+        "फरक्का → भागीरथी-हुगली + मुख्य धारा→बांग्लादेश→मेघना; सुंदरवन डेल्टा; लंबाई >2500 किमी"
+      ],
+      "common_mistake": "Students sochte hain Ganga seedha Bay of Bengal mein 'Ganga' naam se girti hai — actually Bangladesh mein Brahmaputra se milkar Meghna ke naam se milti hai; Hooghly ek distributary hai.",
+      "memory_trick": "Ganga friends: Yamuna (right bank twin) + Ghaghara-Gandak-Kosi (flood+fertility) + Chambal-Betwa-Son (peninsular). Delta = Sundari → Sundarban.",
+      "gesture_action": "Left hand Himalayan tributaries, right hand peninsular tributaries, phir fingers split at Farakka — 'दो धाराएँ: हुगली और मुख्य'",
+      "real_life_examples": [
+        "Haridwar mein pahad se plain mein Ganga ka entry — pilgrimage aur geography dono",
+        "Bihar floods from Kosi/Ghaghara — damage + fertile silt paradox"
+      ],
+      "worked_example": {
+        "problem": "अंबाला से सुंदरवन तक मैदान की लंबाई लगभग 1800 किमी है, परंतु ढाल में गिरावट लगभग 300 मीटर है। प्रति 6 किमी पर ढाल में गिरावट कितनी है? इसका नदी पर क्या प्रभाव पड़ता है?",
+        "steps": [
+          "गिरावट 300 मी / लंबाई 1800 किमी",
+          "300 ÷ 1800 = 1/6 मीटर प्रति किमी → हर 6 किमी पर 1 मीटर",
+          "धीमा ढाल → बड़े-बड़े विसर्प बनते हैं"
+        ],
+        "answer": "प्रति 6 किमी पर केवल 1 मीटर गिरावट। परिणामस्वरूप गंगा में अनेक बड़े विसर्प बन जाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "भागीरथी और अलकनंदा कहाँ मिलती हैं?"
+        ],
+        "medium": [
+          "सुंदरवन डेल्टा का नामकरण क्यों हुआ? इसकी दो विशेषताएँ लिखिए।"
+        ],
+        "hard": [
+          "गंगा नदी तंत्र की बाएँ/दाहिने किनारे की प्रमुख सहायक नदियों तथा फरक्का के बाद की धाराओं को समझाइए।"
+        ]
+      },
+      "summary": "गंगा गंगोत्री-अलकनंदा संगम से मैदान में हरिद्वार पहुँचती है, अनेक सहायक नदियों से भरकर फरक्का पर बँटती है और सुंदरवन डेल्टा बनाती है; धीमा ढाल विसर्प बनाता है।",
+      "revision_point": "Devprayag sangam; Yamuna at Prayagraj; Farakka split; Sundarban; Ambala divide; slope 1 m / 6 km → meanders.",
+      "exam_tip": "Map work: Devprayag, Haridwar, Prayagraj, Farakka, Sundarban label karna seekho; 'मेघना' naam exam mein trap question ban sakta hai.",
+      "source_text_hint": "गंगा की मुख्य धारा 'भागीरथी' गंगोत्राी हिमानी से निकलती है तथा अलकनंदा उत्तराखण्ड के देवप्रयाग में इससे मिलती हैं"
+    },
+    {
+      "concept": "ब्रह्मपुत्रा नदी तंत्र",
+      "say": "Teesra Himalayan giant — ब्रह्मपुत्रा नदी तंत्र. Brahmaputra tibbat ki मानसरोवर झील ke पूर्व se nikalte hai — Indus aur Satluj ke स्रोतों ke काफी नजदीक. Length Indus se कुछ अधिक hai, lekin इसका अधिकतर मार्ग भारत से बाहर है. Yeh Himalaya ke समानांतर पूर्व की ओर bahti hai. नामचा बारवा शिखर (7,757 मीटर) ke paas pahunchkar English ke 'U' letter jaisa मोड़ banati hai aur Arunachal Pradesh mein गार्ज ke through India enter karti hai. Yahaan इसे दिहाँग kehte hain; दिबांग, लोहित, केनुला aur anya सहायक नदियाँ milkar Assam mein ब्रह्मपुत्रा banati hain. Tibet mein इसे सांगपो kehte hain, Bangladesh mein जमुना. Tibet cold aur dry hai — isliye wahan जल एवं सिल्ट कम. India mein high rainfall zone se guzarti hai — जल एवं सिल्ट बढ़ जाते हैं. Assam mein yeh अनेक धाराओं mein बहकर गुंफित नदी (braided) ban jaati hai aur bahut se नदीय द्वीप banati hai. World ka सबसे बड़ा नदीय द्वीप — माजुली — yahi Brahmaputra banata hai; textbook poochti hai 'क्या आपको याद है?'. Har saal वर्षा ऋतु mein banks se upar bahti hai aur Assam tatha Bangladesh mein भारी बाढ़ laati hai. उत्तर भारत ki anya nadiyon ke विपरीत, Brahmaputra mein सिल्ट निक्षेपण bahut adhik hota hai — isse नदी की सतह बढ़ जाती है aur yeh बार-बार अपना मार्ग बदलती है. Yaad rakho: Sangpo (Tibet) → Dihang (Arunachal) → Brahmaputra (Assam) → Jamuna (Bangladesh) → Meghna with Ganga.",
+      "example": "Majuli island Assam mein — Brahmaputra ke braided channels ke beech bana huge river island; silt ke wajah se river course badalta rehta hai.",
+      "board_lines": [
+        "उद्गम: तिब्बत (मानसरोवर के पूर्व) → सांगपो → नामचा बारवा U-मोड़ → अरुणाचल (दिहाँग) → असम (ब्रह्मपुत्रा) → बांग्लादेश (जमुना)",
+        "सहायक: दिबांग, लोहित, केनुला आदि; गुंफित नदी + नदीय द्वीप (माजुली)",
+        "अधिक सिल्ट → तल ऊँचा → मार्ग परिवर्तन; वर्षा ऋतु में असम/बांग्लादेश में बाढ़"
+      ],
+      "common_mistake": "Students Brahmaputra ko sirf Assam ki nadi samajhte hain — asal mein zyada tar path Tibet mein hai; naam bhi badalte hain: Tsangpo/Sangpo, Dihang, Jamuna.",
+      "memory_trick": "Name-change trip: Sangpo → Dihang → Brahmaputra → Jamuna. Silt Superstar = course changer + Majuli maker.",
+      "gesture_action": "Finger se eastward parallel Himalaya, phir U-turn gesture at Namcha Barwa, phir Assam mein braided fingers for multiple channels",
+      "real_life_examples": [
+        "News mein Assam floods almost every monsoon — Brahmaputra overflow",
+        "Majuli shrinking/shifting discussions — heavy silt and channel change"
+      ],
+      "worked_example": {
+        "problem": "ब्रह्मपुत्रा नदी तिब्बत और भारत में जल-सिल्ट की मात्रा में क्यों भिन्न व्यवहार करती है? बाढ़ और मार्ग परिवर्तन से संबंध बताइए।",
+        "steps": [
+          "तिब्बत शीत एवं शुष्क → जल एवं सिल्ट कम",
+          "भारत में उच्च वर्षा क्षेत्र → जल एवं सिल्ट बढ़ जाते हैं",
+          "अधिक सिल्ट निक्षेपण → नदी तल ऊँचा → बार-बार मार्ग परिवर्तन; वर्षा ऋतु में बाढ़"
+        ],
+        "answer": "तिब्बत शुष्क होने से जल-सिल्ट कम; भारत में भारी वर्षा से दोनों बढ़ते हैं। अधिक सिल्ट तल ऊँचा कर मार्ग बदलवाती है और असम/बांग्लादेश में भयंकर बाढ़ लाती है।"
+      },
+      "practice": {
+        "easy": [
+          "ब्रह्मपुत्रा को तिब्बत और बांग्लादेश में क्या कहा जाता है?"
+        ],
+        "medium": [
+          "ब्रह्मपुत्रा भारत में कहाँ और कैसे प्रवेश करती है?"
+        ],
+        "hard": [
+          "ब्रह्मपुत्रा अन्य उत्तर भारतीय नदियों से सिल्ट निक्षेपण में कैसे भिन्न है? इसके परिणाम लिखिए।"
+        ]
+      },
+      "summary": "ब्रह्मपुत्रा तिब्बत से सांगपो के रूप में निकलकर U-मोड़ के बाद भारत में दिहाँग/ब्रह्मपुत्रा बनती है; अधिक सिल्ट से गुंफित धारा, माजुली द्वीप, बाढ़ और मार्ग परिवर्तन होते हैं।",
+      "revision_point": "Sangpo–Dihang–Brahmaputra–Jamuna; Namcha Barwa U-bend; braided + Majuli; heavy silt → shifting course.",
+      "exam_tip": "Name changes + Majuli + silt/path change — 3-mark short notes ke liye ready points likho.",
+      "source_text_hint": "ब्रह्मपुत्रा को तिब्बत में सांगपो एवं बांग्लादेश में जमुना कहा जाता है"
+    },
+    {
+      "concept": "प्रायद्वीपीय नदियाँ – नर्मदा, तापी, गोदावरी, महानदी, कृष्णा और कावेरी",
+      "say": "Ab peninsular India ki nadiyan — chapter ka heavy map section! प्रायद्वीपीय भारत mein मुख्य जल विभाजक पश्चिमी घाट banata hai, jo पश्चिमी तट ke निकट उत्तर से दक्षिण स्थित hai. अधिकतर मुख्य नदियाँ — महानदी, गोदावरी, कृष्णा तथा कावेरी — पूर्व की ओर bahti hain aur बंगाल की खाड़ी mein girti hain; मुहाने par डेल्टा banati hain. पश्चिम ki taraf bahne wali अनेक छोटी धाराएँ hain. सिर्फ दो बड़ी नदियाँ — नर्मदा एवं तापी — पश्चिम bahti hain aur ज्वारनदमुख (estuary) banati hain, delta nahi. Peninsular basins आकार में अपेक्षाकृत छोटी hain. नर्मदा: उद्गम मध्य प्रदेश — अमरकंटक पहाड़ी; पश्चिम की ओर भ्रंश घाटी mein bahti hai; Jabalpur ke paas संगमरमर की चट्टानों mein deep gorge; तीव्र ढाल par धुँआधार प्रपात. Auxiliary nadiyan bahut chhoti, mostly समकोण par milti hain; basin MP aur Gujarat. 'नमामि देवि नर्मदे' conservation yojana. तापी: उद्गम MP ke Betul जिले mein सतपुड़ा; Narmada ke समानांतर भ्रंश घाटी; length kam; basin MP, Gujarat, Maharashtra. West-flowing smaller: साबरमती, माही, भारतपुत्रा, पेरियार. गोदावरी: सबसे बड़ी प्रायद्वीपीय नदी; Nashik (Maharashtra) Western Ghats; ~1,500 km; Bay of Bengal; सबसे बड़ा peninsular drainage; basin 50% Maharashtra + MP, Odisha, Andhra; tributaries पूर्णा, वर्धा, प्राणहिता, मांजरा, वेनगंगा, पेनगंगा — 'दक्षिण गंगा'. महानदी: Chhattisgarh highlands → Odisha → Bay of Bengal; 860 km; basin Maharashtra, Chhattisgarh, Jharkhand, Odisha. कृष्णा: Mahabaleshwar ke paas Western Ghats; ~1,400 km; tributaries तुंगभद्रा, कोयना, घाटप्रभा, मुसी, भीमा; basin MH, Karnataka, Andhra. कावेरी: ब्रह्मगिरी (Western Ghats) → Tamil Nadu Kuddalore south → Bay of Bengal; 760 km; अमरावती, भवानी, हेमावती, काबिनी; basin TN, Kerala, Karnataka; शिवसमुंद्रम् जलप्रपात — भारत में दूसरा सबसे बड़ा; power to Mysore, Bangalore, Kolar. Chhoti east-flowing: दामोदर, ब्राह्मणी, वैतरणी, सुवर्णरेखा. Board rule: West = Narmada+Tapi = estuary; East big four = deltas!",
+      "example": "Jabalpur trip photos mein Narmada marble gorge aur Dhuandhar waterfall — textbook features zinda dikhte hain.",
+      "board_lines": [
+        "पश्चिमी घाट = मुख्य जल विभाजक | पूर्व→डेल्टा: महानदी, गोदावरी, कृष्णा, कावेरी",
+        "पश्चिम→ज्वारनदमुख: नर्मदा (अमरकंटक, धुँआधार), तापी (बेतुल/सतपुड़ा)",
+        "गोदावरी = दक्षिण गंगा (~1500 किमी); कावेरी → शिवसमुंद्रम् (दूसरा सबसे बड़ा जलप्रपात)"
+      ],
+      "common_mistake": "Students Narmada-Tapi ko bhi delta banane wali samajhte hain — galat! Yeh west-flowing hain aur estuary (ज्वारनदमुख) banati hain, delta nahi.",
+      "memory_trick": "East BIG-K: Mahanadi, Godavari, Krishna, Kaveri → Bay + Delta. West NT: Narmada-Tapi → Arabian Sea + Estuary. Godavari = Dakshin Ganga.",
+      "gesture_action": "Class ke left (west) ko Narmada-Tapi fingers, right (east) ko four fingers for M-G-K-K; estuary vs delta alag se act out",
+      "real_life_examples": [
+        "Western Ghats monsoon — east-flowing rivers ko water milta hai",
+        "Shivasamudram hydropower — Kaveri falls se Mysuru/Bengaluru/Kolar ko bijli"
+      ],
+      "worked_example": {
+        "problem": "नर्मदा और गोदावरी की तुलना कीजिए — उद्गम, दिशा, मुहाने की आकृति और द्रोणी।",
+        "steps": [
+          "नर्मदा: अमरकंटक (MP), पश्चिम, ज्वारनदमुख, भ्रंश घाटी; द्रोणी MP-गुजरात",
+          "गोदावरी: नासिक/पश्चिमी घाट, पूर्व, डेल्टा, सबसे बड़ी प्रायद्वीपीय; द्रोणी MH-MP-ओडिशा-आंध्र",
+          "निष्कर्ष: दिशा और मुहाना आकृति मुख्य अंतर हैं"
+        ],
+        "answer": "नर्मदा पश्चिम बहकर ज्वारनदमुख बनाती है; गोदावरी पूर्व बहकर डेल्टा बनाती है और प्रायद्वीप की सबसे बड़ी नदी/'दक्षिण गंगा' है।"
+      },
+      "practice": {
+        "easy": [
+          "पश्चिम की ओर बहने वाली दो बड़ी प्रायद्वीपीय नदियों के नाम लिखिए।"
+        ],
+        "medium": [
+          "गोदावरी को 'दक्षिण गंगा' क्यों कहा जाता है?"
+        ],
+        "hard": [
+          "पूर्व तथा पश्चिम की ओर बहने वाली प्रमुख प्रायद्वीपीय नदियों की दिशा, मुहाना आकृति (डेल्टा/ज्वारनदमुख) और एक-एक विशेषता तालिका में लिखिए।"
+        ]
+      },
+      "summary": "पश्चिमी घाट मुख्य जल विभाजक है; पूर्व की नदियाँ डेल्टा बनाती हैं, नर्मदा-तापी पश्चिम बहकर ज्वारनदमुख बनाती हैं; गोदावरी सबसे बड़ी प्रायद्वीपीय नदी है।",
+      "revision_point": "Western Ghats divide; East four = deltas; Narmada-Tapi = rift valley + estuary; Godavari = Dakshin Ganga; Shivasamudram on Kaveri.",
+      "exam_tip": "Map labelling + 'डेल्टा बनाम ज्वारनदमुख' difference almost guaranteed; lengths: Godavari ~1500, Krishna ~1400, Mahanadi 860, Kaveri 760.",
+      "source_text_hint": "नर्मदा एवं तापी, दो ही बड़ी नदियाँ हैं जो कि पश्चिम की तरपफ बहती हैं और ज्वारनदमुख का निर्माण करती हैं"
+    },
+    {
+      "concept": "झीलें – प्रकार और महत्त्व",
+      "say": "Ab lakes — झीलें. Kashmir valley ki Dal Lake, houseboats, shikara — aapne suni hi hongi. Earth ke surface ke गर्त वाले भागों mein jahaan जल जमा ho jaata hai, use झील kehte hain. Bade size wali lakes ko sometimes समुद्र bhi kehte hain — Caspian, Dead Sea, Aral Sea. India mein lakes size aur features mein alag-alag hain. अधिकतर स्थायी hoti hain; kuch sirf वर्षा ऋतु mein paani rakhti hain — jaise inland drainage wale अर्धशुष्क क्षेत्रों ki basin lakes. Formation: kuch हिमानियों एवं बर्फ चादर se, kuch वायु, नदियों एवं मानवीय क्रियाओं se. एक विसर्प नदी बाढ़ वाले क्षेत्रों mein cut hokar गोखुर झील (oxbow) banati hai. Spit aur bar (रोधिका) तटीय क्षेत्रों mein लैगून banate hain — चिल्का, पुलीकट, कोलेरू. Inland seasonal example: राजस्थान की सांभर झील — लवण जल, नमक निर्माण. मीठे पानी की अधिकांश झीलें Himalayan region mein — mainly glacial. Jammu-Kashmir ki वूलर झील भूगर्भीय क्रियाओं se bani — भारत की सबसे बड़ी मीठे पानी वाली प्राकृतिक झील. Anya: Dal, भीमताल, नैनीताल, लोकताक, बड़ापानी. Human-made: नदियों par बाँध — गुरु गोबिंद सागर (भाखड़ा-नंगल परियोजना). Importance of lakes: nadi ke बहाव ko सुचारु banati hain; heavy rain mein बाढ़ रोकती hain; सूखे mein flow balance; जलविद्युत; जलवायु सामान्य; जलीय पारितंत्र; प्राकृतिक सुंदरता, पर्यटन, मनोरंजन. Activity idea: atlas se natural vs man-made lakes ki list banao. Fresh water fact from chapter: Earth surface ~71% water, lekin 97% लवणीय; sirf 3% fresh, jiska 3/4 हिमानी mein hai!",
+      "example": "Sambar Lake Rajasthan — seasonal salt lake jahaan namak banaya jaata hai; Chilika Odisha — coastal lagoon for birds and fishing.",
+      "board_lines": [
+        "झील = धरातल के गर्त में जमा जल | गोखुर झील ← विसर्प कटान; लैगून ← स्पिट/बार (चिल्का, पुलीकट, कोलेरू)",
+        "सांभर = लवण/मौसमी; वूलर = सबसे बड़ी मीठी प्राकृतिक झील; गुरु गोबिंद सागर = मानव निर्मित",
+        "लाभ: बाढ़ नियंत्रण, सूखे में संतुलन, जलविद्युत, जलवायु, पारितंत्र, पर्यटन"
+      ],
+      "common_mistake": "Students Wular ko lagoon samajh lete hain — Wular tectonic/geological origin ki largest freshwater natural lake hai; Chilika-Pulicat lagoons hain.",
+      "memory_trick": "Oxbow = river meander cut; Lagoon = coast (Chilika); Salt = Sambar; Fresh giant = Wular; Dam lake = Guru Gobind Sagar.",
+      "gesture_action": "Arm se meander curve banao aur cut karke oxbow circle dikhao; phir coastal bar gesture se lagoon; salt-shaker mime for Sambar",
+      "real_life_examples": [
+        "Nainital/Bhimtal tourism — glacial/mountain lakes attract visitors",
+        "Bhakra-Nangal / Guru Gobind Sagar — dam se bani lake, power + irrigation"
+      ],
+      "worked_example": {
+        "problem": "गोखुर झील और लैगून झील में अंतर लिखिए। एक-एक भारतीय उदाहरण दीजिए।",
+        "steps": [
+          "गोखुर: विसर्प के कटने से बाढ़ मैदान में बनती है",
+          "लैगून: तटीय स्पिट/बार से समुद्र का भाग अलग होकर बनता है",
+          "उदाहरण जोड़ें"
+        ],
+        "answer": "गोखुर झील नदी के विसर्प कटान से बनती है (बाढ़ मैदान); लैगून तटीय रोधिका/स्पिट से बनता है — उदाहरण: गोखुर (सामान्य बाढ़ मैदान), लैगून — चिल्का/पुलीकट/कोलेरू।"
+      },
+      "practice": {
+        "easy": [
+          "भारत की सबसे बड़ी मीठे पानी वाली प्राकृतिक झील कौन-सी है?"
+        ],
+        "medium": [
+          "सांभर झील की दो विशेषताएँ लिखिए।"
+        ],
+        "hard": [
+          "झीलों के मानव के लिए कोई चार लाभ लिखिए तथा प्राकृतिक व मानव-निर्मित झीलों के दो-दो उदाहरण दीजिए।"
+        ]
+      },
+      "summary": "झीलें गर्तों में जमा जल हैं — गोखुर, लैगून, हिमानी, विवर्तनिक और बाँध-निर्मित प्रकारों सहित; वूलर सबसे बड़ी मीठी प्राकृतिक झील है और झीलें बाढ़-सूखा संतुलन से पर्यटन तक लाभ देती हैं।",
+      "revision_point": "Wular = largest freshwater natural; Sambar = salt; Chilika/Pulicat/Kolleru = lagoons; oxbow from meanders; lakes regulate flood/drought.",
+      "exam_tip": "Types + one example each table banao; 'महत्त्व' ke 5 points ratto — 3/5 mark questions common.",
+      "source_text_hint": "यह भारत की सबसे बड़ी मीठे पानी वाली प्रावृफतिक झील है"
+    },
+    {
+      "concept": "नदियों का आर्थिक महत्त्व, संरक्षण और प्रदूषण",
+      "say": "Last important section — nadiyan sirf map pe lines nahi, economy ki life-line hain. पूरे मानव इतिहास mein rivers ka अत्यधिक महत्त्व raha hai. Nadiyon ka जल मूल प्राकृतिक संसाधन hai aur अनेक मानवीय क्रियाकलापों ke liye अनिवार्य. Isliye प्राचीन काल se nadiyon ke तट अधिवासियों ko आकर्षित karte rahe — gaon ab बडे शहर ban chuke hain. India jaisa desh jahaan अधिकांश जनसंख्या कृषि par depend karti hai, wahan सिंचाई, नौसंचालन, जलविद्युत निर्माण mein nadiyon ka mahatva bahut adhik hai. National River Conservation Plan (NRCP): desh mein नदी सफाई 1985 mein Ganga Action Plan (GAP) se shuru; 1995 mein NRCP ke under anya rivers ko joda gaya. उद्देश्य: नदियों ke जल mein प्रदूषण kam karke जल गुणवत्ता सुधारना. Ab नदी प्रदूषण: घरेलू, औद्योगिक तथा कृषि में बढ़ती माँग se quality प्रभावित. Zyada जल निकासी se नदी का आयतन घटता है. Doosri taraf industries ka pollution aur अपरिष्कृत कचरा nadi mein milta rehta hai — yeh सिर्फ quality nahi, नदी की स्वतः स्वच्छीकरण क्षमता ko bhi affect karta hai. Example: उचित जल प्रवाह mein Ganga ka जल लगभग 20 किमी क्षेत्र mein pehle बडे शहरों की गंदगी ko तनु karke समाहित kar sakta tha. Lekin बढ़ते औद्योगीकरण एवं शहरीकरण se yeh possible nahi, aur अनेक नदियों mein pollution बढ़ता जा रहा है. Isliye cleaning programmes zaroori hain — Namami Gange (प्रदूषण कम करना + संरक्षण/कायाकल्प) chapter mein pehle bhi aaya. Class activity: apne state ke nadi-kinare cities ki list banao. Message clear hai — rivers ne civilization basayi, lekin agar hum unhe ganda karenge toh irrigation, drinking water, ecosystems sab khatre mein. Smart Board pe likho: Use wisely + Keep clean = future secure.",
+      "example": "Agar gaon ki nadi mein factory waste aur sewage seedha daal diya jaye, toh paani peene layak nahi rehta — bilkul wahi industrial-urban pollution textbook describe karti hai.",
+      "board_lines": [
+        "महत्त्व: सिंचाई, नौसंचालन, जलविद्युत, बस्तियाँ/शहर",
+        "NRCP: GAP 1985 → विस्तार 1995; उद्देश्य — प्रदूषण कम, जल गुणवत्ता सुधार",
+        "प्रदूषण कारण: अधिक निकासी + औद्योगिक/अपरिष्कृत कचरा → स्वतः सफाई क्षमता घटती है"
+      ],
+      "common_mistake": "Students sochte hain nadiyan hamesha khud saaf ho jaati hain — textbook kehta hai self-purification capacity limited hai; excess pollution aur kam flow se yeh fail ho jaati hai (Ganga 20 km example).",
+      "memory_trick": "3I + P: Irrigation, Inland navigation, hydel Power + Pollution control (GAP→NRCP→Namami Gange).",
+      "gesture_action": "Ek haath se 'paani nikaalna' (over-extraction), doosre se 'ganda daalna' (waste), phir dono se 'nadi kamzor' — phir cleaning broom gesture for NRCP",
+      "real_life_examples": [
+        "Riverfront cities — Varanasi, Patna, Ahmedabad — historical settlement on banks",
+        "Local canal irrigation from river projects supporting village agriculture"
+      ],
+      "worked_example": {
+        "problem": "गंगा पहले बड़े शहरों की गंदगी को लगभग कितने किलोमीटर क्षेत्र में तनु कर सकती थी? आज यह क्षमता क्यों कम हो गई है?",
+        "steps": [
+          "Textbook figure: लगभग 20 किमी क्षेत्र में तनुकरण/समाहित करने की क्षमता",
+          "आवश्यकता: समुचित जल प्रवाह",
+          "आज: औद्योगीकरण एवं शहरीकरण + अधिक निकासी/प्रदूषण → क्षमता प्रभावित"
+        ],
+        "answer": "लगभग 20 किमी। बढ़ते औद्योगीकरण, शहरीकरण, अधिक जल निकासी और अपरिष्कृत कचरे के कारण नदी की स्वतः स्वच्छीकरण क्षमता कम हो गई है।"
+      },
+      "practice": {
+        "easy": [
+          "राष्ट्रीय नदी संरक्षण योजना का मुख्य उद्देश्य क्या है?"
+        ],
+        "medium": [
+          "नदियों के अर्थव्यवस्था में कोई तीन महत्त्व लिखिए।"
+        ],
+        "hard": [
+          "नदी प्रदूषण के कारण और परिणाम समझाइए। NRCP/Ganga Action Plan का संक्षिप्त उल्लेख कीजिए।"
+        ]
+      },
+      "summary": "नदियाँ सिंचाई, नौसंचालन और जलविद्युत के लिए आवश्यक हैं; GAP/NRCP जैसी योजनाएँ प्रदूषण घटाती हैं, पर अधिक निकासी और औद्योगिक कचरे से नदियों की स्वतः सफाई क्षमता कम हो रही है।",
+      "revision_point": "Rivers → irrigation, navigation, hydel; GAP 1985 → NRCP 1995; over-extraction + untreated waste destroy self-cleansing (Ganga ~20 km).",
+      "exam_tip": "Economic importance (3 points) + pollution causes (2–3) + GAP/NRCP year — short notes mein yeh combo full marks dilata hai.",
+      "source_text_hint": "नदियों का जल मूल प्रावृफतिक संसाधन है तथा अनेक मानवीय क्रियाकलापों के लिए अनिवार्य है"
+    }
+  ]
+}
