@@ -1,0 +1,296 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 748,
+    "chapter_name": "मनःपूतं समाचरेत्",
+    "chapter_number": 6,
+    "book_name": "Class 9 Sanskrit",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Sanskrit"
+  },
+  "concept_map": {
+    "chapter_overview": "यह षष्ठः पाठः ‘मनःपूतं समाचरेत्’ मनुस्मृति, गीता, नीतिशतक, पञ्चतन्त्र आदि से चुने सुभाषितों का संग्रह है. पाठ सिखाता है कि हर काम पवित्र मन से करना चाहिए — दृष्टि, वस्त्र, वाणी और मन सब शुद्ध हों. Practice, effort, viveka aur exam-style अन्वय/शब्दार्थ के साथ हम इन श्लोकों को जीवन में उतारना सीखेंगे.",
+    "welcome": "नमस्ते प्रियच्छात्राः! Smart Board par aaj Class 9 Sanskrit — षष्ठः पाठः: मनःपूतं समाचरेत्. Pehle socho: kisi bhi kaam se pehle kya chahiye? Sirf plan? Method? Full attention? Sab sahi — lekin agar मन ही मलिन हो, तो फल भी दूषित हो जाता है. Aaj hum pure मन से जीने के सुभाषित पढ़ेंगे — ready ho? चलो शुरू करते हैं!",
+    "learning_outcomes": [
+      "पाठ के शीर्षक ‘मनःपूतं समाचरेत्’ का अर्थ और केंद्रीय संदेश स्पष्ट करना",
+      "आठ प्रमुख सुभाषितों का अन्वय, सरल अर्थ और स्रोत याद रखना",
+      "महत्वपूर्ण शब्दार्थ (पूतम्, अस्तेयम्, उद्योगिनम्, विमृश्यकारिणम् आदि) और व्याकरण-रूप पहचानना",
+      "अभ्यास, उद्योग, विवेक और धर्म-लक्षणों को परीक्षा उत्तर तथा जीवन-उदाहरणों से जोड़ना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "पाठ परिचय — शुद्ध मन से आचरण"
+      },
+      {
+        "number": 2,
+        "name": "श्लोक १ — शुद्ध जीवन के चार सूत्र"
+      },
+      {
+        "number": 3,
+        "name": "श्लोक २ — धर्म के दस लक्षण"
+      },
+      {
+        "number": 4,
+        "name": "श्लोक ३-४ — श्रेष्ठ का अनुकरण और अभ्यास"
+      },
+      {
+        "number": 5,
+        "name": "श्लोक ५-६ — विघ्न, उद्योग और पुरुषार्थ"
+      },
+      {
+        "number": 6,
+        "name": "श्लोक ७-८ — परीक्षा, विवेक और जीवन-संदेश"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "पाठ परिचय — शुद्ध मन से आचरण",
+      "say": "Bacchon, pehle classroom dialogue samajhte hain — yahi path ka entry gate hai. आचार्य पूछते हैं: किमपि कार्यं करणीयम् अस्ति चेत् आदौ किम् आवश्यकम्? Yani kisi bhi kaam se pehle kya zaroori hai? Students jawab dete hain — विचिन्त्य कार्यकरणम् (soch-samajhkar kaam), उचितविधिना कार्यकरणम् (sahi tarike se), पूर्णमनसा कार्यकरणम् (poore man se). Sab sahi bolte hain. Phir teacher gehra sawaal uthate hain: अगर मनः एव मलिनं स्यात्, उद्देश्यम् एव अनुचितं स्यात् — agar mind hi ganda ho aur purpose hi galat ho — तो कोई भी कार्य सम्यक् कैसे होगा? फल भी दूषित ही होगा. इसलिए अस्माभिः सर्वाणि कार्याणि पवित्रेण मनसा करणीयानि — hum sab kaam pavitra man se karein. Etadev shikshayati prastutah pathah ‘मनःपूतं समाचरेत्’ iti — yahi is षष्ठः पाठः ka naam aur message hai. English mein: purity of intention decides the quality of action. Yeh path sirf ek story nahi; vividha granthon se संकलित सुभाषित हैं — मनुस्मृति, गीता, नीतिशतक, पञ्चतन्त्र, मालविकाग्निमित्र, किरातार्जुनीयम्. Student sahi kehta hai: एतानि सुभाषितानि न केवलं पठनाय अपितु जीवने आचरणाय सन्ति — padhne ke liye nahi, jeene ke liye. Classroom tip: exam mein introduction mein ‘षष्ठः पाठः’, title अर्थ (मन को पवित्र करके आचरण करे), aur ‘सुभाषित-संग्रह’ teen points zaroor likho. Aaj ka promise: har shlok ko अन्वय → अर्थ → जीवन-उदाहरण se jodenge.",
+      "example": "Key line: ‘अत एव अस्माभिः सर्वाणि कार्याणि पवित्रेण मनसा करणीयानि’ — इसलिए हमें सभी काम पवित्र मन से करने चाहिए.",
+      "board_lines": [
+        "षष्ठः पाठः — मनःपूतं समाचरेत् (पवित्र मन से आचरण करे)",
+        "आदौ आवश्यकम्: विचार + उचित विधि + पूर्ण मन",
+        "संदेश: मलिन मन → दूषित फल | सुभाषित = जीवन में आचरण के लिए"
+      ],
+      "common_mistake": "Students title ko sirf ‘man saaf rakho’ likh dete hain; pura point hai — मन की शुद्धि के बिना उचित विधि और मेहनत भी फल दूषित कर देती है.",
+      "memory_trick": "M-P-S: मन → पवित्र → समाचरण. Title yaad: Manah-Pootam Samacharet = Mind Pure, then Act.",
+      "gesture_action": "Apne dil/dimaag par haath rakhkar bolo ‘मनः पूतम्’, phir seedhe khade hokar chalne ka gesture — ‘समाचरेत्’.",
+      "real_life_examples": [
+        "Exam mein cheat karke number aa jayein, par intention galat — manah malin, phal bhi moral sense mein dooshit",
+        "School ke safai abhiyaan mein sirf photo ke liye jhadu pakadna vs sach mein saaf rakhne ka irada — yahi ‘पवित्र मन’ ka farq"
+      ],
+      "worked_example": {
+        "problem": "पाठ का नाम ‘मनःपूतं समाचरेत्’ क्यों रखा गया? कक्षा-संवाद के आधार पर दो वाक्यों में लिखिए।",
+        "steps": [
+          "संवाद याद करो: कार्य से पहले विचार, उचित विधि और पूर्ण मन ज़रूरी हैं",
+          "शिक्षक का तर्क जोड़ो: यदि मन मलिन/उद्देश्य अनुचित हो तो कार्य और फल दोनों दूषित",
+          "निष्कर्ष: इसलिए पाठ पवित्र मन से आचरण सिखाता है — यही शीर्षक है"
+        ],
+        "answer": "पाठ सिखाता है कि सभी कार्य पवित्र मन से करने चाहिए; मलिन मन या अनुचित उद्देश्य से किया गया कार्य सम्यक् नहीं होता, इसलिए शीर्षक ‘मनःपूतं समाचरेत्’ सार्थक है।"
+      },
+      "practice": {
+        "easy": [
+          "षष्ठः पाठः का नाम क्या है? एक वाक्य में अर्थ भी लिखिए।"
+        ],
+        "medium": [
+          "आचार्य के अनुसार यदि मन मलिन हो तो कार्य का फल कैसा होता है? पाठ के आधार पर लिखिए।"
+        ],
+        "hard": [
+          "‘सुभाषितानि न केवलं पठनाय अपितु जीवने आचरणाय सन्ति’ — इस कथन की सार्थकता अपने शब्दों में स्पष्ट कीजिए।"
+        ]
+      },
+      "summary": "पाठ का केन्द्र यही है — हर काम से पहले मन शुद्ध हो; सुभाषित केवल पाठ नहीं, आचरण के सूत्र हैं।",
+      "revision_point": "Title = मनःपूतं समाचरेत्; core = पवित्रेण मनसा कार्याणि करणीयानि.",
+      "exam_tip": "परिचय वाले उत्तर में स्रोतों के नाम (मनुस्मृति/गीता आदि) में से दो जरूर लिखो — examiner ‘सुभाषित-संग्रह’ expect करता है।",
+      "source_text_hint": "मनःपूतं समाचरेत्"
+    },
+    {
+      "concept": "श्लोक १ — शुद्ध जीवन के चार सूत्र",
+      "say": "Ab pehla shlok — yeh path ka signature line hai, मनुस्मृति ६.४६ se. श्लोक: दृष्टिपूतं नयसेत् पादं वस्त्रपूतं जलं पिबेत्। सत्यपूतां वदेत् वाचं मनः पूतं समाचरेत्॥ अन्वय clearly: दृष्टिपूतं पादं नयसेत् — aankh se dekhkar (safe/clean jagah) pair rakhe; वस्त्रपूतं जलं पिबेत् — kapde se chhanakar/saaf karke pani piye; सत्यपूतां वाचं वदेत् — satya se pavitra ki hui vaani bole; मनः पूतं समाचरेत् — man ko pavitra rakhkar acharan kare. Word power: पूतम् = शुद्धम् (√पू + क्त); नयसेत् = थापयेत्/rakhe (विधि लिङ् — should place); वाचम् = वाणीम्. English frame: purify what you see before you step, what you drink, what you speak, and finally how you act from the mind. Char filters yaad rakho — दृष्टि, वस्त्र, सत्य, मन. Yeh sirf hygiene nahi; moral hygiene bhi hai. Classroom demo: chalk se board par 4 boxes — Eye → Foot, Cloth → Water, Truth → Speech, Pure Mind → Conduct. Common exam angle: ‘कीदृशीं वाणीं वदेत्?’ Answer — सत्यपूताम्. Aur ‘कथं समाचरेत्?’ — मनः पूतं (शुद्ध मन से). Note the verb pattern: नयसेत्, पिबेत्, वदेत्, समाचरेत् — sab विधि लिङ् / प्रेरणार्थक ‘should’ sense. Rural school tip: jale mein kapda/filter, raste mein dekhkar chalna — yeh shlok aaj bhi practical hai. Moral: bahar ki shuddhi tab tak adhoori jab tak andar ka मन पूत न हो — title isi last pad se aata hai.",
+      "example": "दृष्टिपूतं नयसेत् पादम् = आँख से देखकर (शुद्ध/सुरक्षित स्थान पर) पैर रखे; मनः पूतं समाचरेत् = शुद्ध मन से आचरण करे.",
+      "board_lines": [
+        "दृष्टि-पूत पाद | वस्त्र-पूत जल | सत्य-पूत वाक् | मनः-पूत आचार",
+        "पूतम् = शुद्धम् | नयसेत् = रखे (विधि)",
+        "स्रोत: मनुस्मृति ६.४६ — चार शुद्धियाँ → जीवन शुद्ध"
+      ],
+      "common_mistake": "Students ‘वस्त्रपूतं जलम्’ ko sirf ‘kapde se pani’ literal rakhte hain aur exam mein ‘filtered/clean water’ wala sense miss kar dete hain; saath hi title wale ‘मनः पूतम्’ ko chhod dete hain.",
+      "memory_trick": "D-V-S-M: दृष्टि → वस्त्र → सत्य → मन. ‘Dekho-Vastra-Sach-Man’ — four पूत filters.",
+      "gesture_action": "Pehle aankh pe ungli (दृष्टि), pair rakhne ka step (पाद), imaginary cloth filter (जल), muh se ‘सत्य’, phir dil par haath (मन).",
+      "real_life_examples": [
+        "Kuan/handpump ka pani kapde ya filter se chhaan kar peena — वस्त्रपूतं जलं पिबेत् aaj bhi relevant",
+        "WhatsApp forward bina check kiye failana vs सच बोलना — सत्यपूतां वाचम्"
+      ],
+      "worked_example": {
+        "problem": "‘दृष्टिपूतं नयसेत् पादं…’ श्लोक का अन्वय लिखकर हिंदी अर्थ दीजिए।",
+        "steps": [
+          "क्रियापद क्रम से लगाओ: नयसेत्, पिबेत्, वदेत्, समाचरेत्",
+          "विशेषण-विशेष्य जोड़ो: दृष्टिपूतं-पादम्, वस्त्रपूतं-जलम्, सत्यपूतां-वाचम्, मनः पूतम्",
+          "सरल अर्थ लिखो: देखकर पैर रखे, छानकर जल पीए, सत्य बोले, शुद्ध मन से चले"
+        ],
+        "answer": "अन्वय: दृष्टिपूतं पादं नयसेत्, वस्त्रपूतं जलं पिबेत्, सत्यपूतां वाचं वदेत्, मनः पूतं समाचरेत्। अर्थ: आँख से देखकर पैर रखे, वस्त्र से शुद्ध करके जल पीए, सत्य से पवित्र वाणी बोले और शुद्ध मन से आचरण करे।"
+      },
+      "practice": {
+        "easy": [
+          "श्लोक १ के अनुसार कैसी वाणी बोलनी चाहिए?"
+        ],
+        "medium": [
+          "‘नयसेत्’ और ‘पूतम्’ का अर्थ लिखिए; बताइए नयसेत् किस लकार/अर्थ में है।"
+        ],
+        "hard": [
+          "चारों ‘पूत’ सूत्रों को आज के विद्यार्थी-जीवन से जोड़कर एक अनुच्छेद में समझाइए।"
+        ]
+      },
+      "summary": "श्लोक १ चार शुद्धियाँ सिखाता है — दृष्टि, जल, वाणी और मन; शीर्षक अंतिम सूत्र से आता है।",
+      "revision_point": "Four पूत: दृष्टि, वस्त्र, सत्य, मन + verbs नयसेत्/पिबेत्/वदेत्/समाचरेत्.",
+      "exam_tip": "श्लोक-आधारित प्रश्नों में क्रियापद और विशेषण अलग-अलग पूछे जाते हैं — ‘कीदृशं पादम्/कीदृशं जलम्/कीदृशीं वाचम्’ table बनाकर याद करो।",
+      "source_text_hint": "दृष्टिपूतं नयसेत् पादं"
+    },
+    {
+      "concept": "श्लोक २ — धर्म के दस लक्षण",
+      "say": "Doosra shlok bhi मनुस्मृति se hai (६.९२) — धर्म की definition list ki tarah. श्लोक: धृतिः क्षमा दमोऽस्तेयं शौचमिन्द्रियनिग्रहः। धीर्विद्या सत्यमक्रोधो दशकं धर्मलक्षणम्॥ अन्वय: धृतिः, क्षमा, दमः, अस्तेयम्, शौचम्, इन्द्रियनिग्रहः, धीः, विद्या, सत्यम्, अक्रोधः — इति दशकं धर्मलक्षणं (भवति). Das lakshan count karo saath-saath: 1 धृति (dhairya/fortitude), 2 क्षमा (forgiveness), 3 दम (indriya-man ka control), 4 अस्तेय (chori na karna), 5 शौच (purity), 6 इन्द्रियनिग्रह (sense-restraint), 7 धी (buddhi/understanding), 8 विद्या (knowledge), 9 सत्य (truth), 10 अक्रोध (anger-freedom). शब्दकोश se: अस्तेयम् = न स्तेयम् (नञ्-तत्पुरुष) — not stealing; दमः = इन्द्रियाणां मनसः च नियन्त्रणम्; शौचम् = पवित्रता/पवित्र्यम्. English: Dharma here is not ritual alone — it is a ten-point character checklist. Classroom trick: do groups of five — ‘inner strength’ (धृति क्षमा दम अस्तेय शौच) aur ‘mind refinement’ (इन्द्रियनिग्रह धी विद्या सत्य अक्रोध). Exam mein fill-blank aata hai: धीर्विद्या सत्यमक्रोधो ……… धर्मलक्षणम् — answer दशकम्. Moral link pehle shlok se: बाह्य शुद्धि + ये दस गुण = पूरा धर्म. Rural example: kisi ne galti ki toh क्षमा; gussa aaye toh अक्रोध; doosre ka samaan na lena = अस्तेय — yahi dharma daily life mein. Yaad rakho spelling traps: अस्तेयम् (asteyam) vs अस्तेयम् students sometimes ‘asteyam/astheyam’ mix karte hain — ‘न चोरी’ meaning se pakdo.",
+      "example": "दशकं धर्मलक्षणम् = धर्म के दस लक्षण; अस्तेयम् = चोरी न करना (Not stealing).",
+      "board_lines": [
+        "10 लक्षण: धृति क्षमा दम अस्तेय शौच | इन्द्रियनिग्रह धी विद्या सत्य अक्रोध",
+        "अस्तेयम् = न स्तेयम् | दमः = इन्द्रिय+मन वश | शौचम् = पवित्रता",
+        "स्रोत: मनुस्मृति ६.९२ — धर्म = चरित्र-गुणों का समूह"
+      ],
+      "common_mistake": "Students ‘दम’ और ‘इन्द्रियनिग्रह’ को एक ही समझ लेते हैं; दोनों related हैं पर list में अलग-अलग गिने गए हैं — दस पूरे गिनो.",
+      "memory_trick": "D-K-D-A-S + I-D-V-S-A: ‘Dhairya Kshama Dam Asteya Shauch’ + ‘Indriya Dhee Vidya Satya Akrodh’ — 5+5 = दशकम्.",
+      "gesture_action": "Dono haathon ki das ungliyan dikhao aur har lakshan par ek ungli fold/count karo — ‘दशकं धर्मलक्षणम्’.",
+      "real_life_examples": [
+        "Class mein gusse mein notebook phenkna vs अक्रोध अपनाकर शांति से बात करना",
+        "Dost ki pen bina pooche rakh lena — अस्तेय तोड़ना; लौटाना/पूछना — धर्म पालन"
+      ],
+      "worked_example": {
+        "problem": "धर्मस्य लक्षणानि कानि? पाठ के श्लोक के आधार पर लिखिए।",
+        "steps": [
+          "श्लोक २ याद कर अन्वय लिखो",
+          "दस नाम क्रम से गिनकर लिखो",
+          "एक पंक्ति में जोड़ो — ये सब मिलकर धर्मलक्षण हैं"
+        ],
+        "answer": "धृति, क्षमा, दम, अस्तेय, शौच, इन्द्रियनिग्रह, धी, विद्या, सत्य और अक्रोध — ये दस धर्म के लक्षण हैं।"
+      },
+      "practice": {
+        "easy": [
+          "‘अस्तेयम्’ और ‘शौचम्’ का हिंदी अर्थ लिखिए।"
+        ],
+        "medium": [
+          "रिक्त स्थान पूर कीजिए: धीर्विद्या सत्यमक्रोधो .................... धर्मलक्षणम्।"
+        ],
+        "hard": [
+          "दस धर्म-लक्षणों में से किन्हीं पाँच को चुनकर विद्यालय-जीवन के उदाहरण सहित समझाइए।"
+        ]
+      },
+      "summary": "धर्म यहाँ अनुष्ठान भर नहीं — धैर्य, क्षमा, संयम, अस्तेय, शौच आदि दस गुणों का नाम है।",
+      "revision_point": "दशकं धर्मलक्षणम् — 10 traits; अस्तेयम्/दमः/शौचम् key vocab.",
+      "exam_tip": "नाम लिखने वाले प्रश्न में क्रम गड़बड़ाए तो भी दस पूरे लिखो; काट-छाँट से बचने के लिए 5+5 समूह याद रखो।",
+      "source_text_hint": "दशकं धर्मलक्षणम्"
+    },
+    {
+      "concept": "श्लोक ३-४ — श्रेष्ठ का अनुकरण और अभ्यास",
+      "say": "Ab do powerful ideas — role model aur practice. श्लोक ३ (गीता ३.२१): यद्यदाचरति श्रेष्ठः तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥ अन्वय: श्रेष्ठः यत् यत् आचरति, इतरः जनः तत् तत् एव (आचरति)। सः यत् प्रमाणं कुरुते, लोकः तत् अनुवर्तते। Matlab: jo bhi aadarsh/leader karta hai, baaki log wahi follow karte hain; jo standard woh set karta hai, society usi ko follow karti hai. शब्द: अनुवर्तते = अनुसरति / follows (अनु + √वृत्). Exam Q: लोकः कस्य आचरणम् अनुकरोति? — श्रेष्ठस्य. श्लोक ४ (सुभाषितरत्नभाण्डागार): अभ्यासेन क्रियाः सर्वाः अभ्यासात् सकलाः कलाः। अभ्यासाद् ध्यानमौनादि किमभ्यास्य दुष्करम्॥ अन्वय: सर्वाः क्रियाः अभ्यासेन (सिध्यन्ति); सकलाः कलाः अभ्यासात्; ध्यानमौनादि अपि अभ्यासात्; अभ्यास्य दुष्करं किम्? — Practice se saari kriya aur kala siddh; dhyan-maun bhi; abhyasi ke liye kya mushkil? Board line from path: अभ्यासाद् जायते सिद्धः. English bridge: excellence is contagious, and skill is habitual. Classroom link: monitor/teacher agar time par aaye toh class bhi seekhti hai — श्रेष्ठस्य प्रभावः. Homework/maths mushkil lage toh roz thoda अभ्यास — ‘किमभ्यास्य दुष्करम्’. Grammar note: अनुवर्तते लट् प्रथम पुरुष एकवचन; क्रियाः/कलाः बहुवचन — agreement dekho. Moral pair: pehle right example choose karo (श्रेष्ठ), phir roz dohraao (अभ्यास) — tabhi मनःपूतं समाचरेत् jeevan mein utarta hai, sirf yaad rakhne se nahi.",
+      "example": "लोकस्तदनुवर्तते = समाज उसी का अनुसरण करता है; अभ्यासात् सकलाः कलाः = अभ्यास से सब कलाएँ सिद्ध होती हैं.",
+      "board_lines": [
+        "श्रेष्ठः यत् आचरति → इतरो जनः तदेव | प्रमाणं → लोकः अनुवर्तते",
+        "अभ्यास → क्रियाएँ + कलाएँ + ध्यान/मौन | किमभ्यास्य दुष्करम्?",
+        "गीता ३.२१ + सुभाषित — Example + Practice = Culture"
+      ],
+      "common_mistake": "Students ‘श्रेष्ठः’ ko sirf raja/neta samajhte hain; path mein yeh koi bhi aadarsh vyakti ho sakta hai — teacher, parent, team captain.",
+      "memory_trick": "S-A: श्रेष्ठ → अनुकरण; अभ्यास → सिद्धि. ‘See the Best, Sweat the Rest’.",
+      "gesture_action": "Ek student ‘श्रेष्ठ’ banakar seedha chale, baaki peeche ‘अनुवर्तते’; phir sab milkar 5 baar imaginary scale practice — ‘अभ्यास’.",
+      "real_life_examples": [
+        "Agar class monitor litter nahi phenkta, poori class clean rehti hai — श्रेष्ठस्य आचरणम्",
+        "Roz 20 minutes Sanskrit shlok dohrana — कला/स्मृति अभ्यास से आती है"
+      ],
+      "worked_example": {
+        "problem": "‘सकलाः कलाः कस्मात् सिध्यन्ति?’ पूर्णवाक्येन उत्तरं लिखत।",
+        "steps": [
+          "श्लोक ४ का प्रश्न रूप पहचानो — कस्मात् = किससे",
+          "अन्वय से उत्तर चुनो — अभ्यासात्",
+          "पूर्ण वाक्य बनाओ"
+        ],
+        "answer": "सकलाः कलाः अभ्यासात् सिध्यन्ति।"
+      },
+      "practice": {
+        "easy": [
+          "लोकः किसके आचरण का अनुसरण करता है?"
+        ],
+        "medium": [
+          "‘अनुवर्तते’ धातु/रूप समझाते हुए श्लोक ३ का भावार्थ दो वाक्यों में लिखिए।"
+        ],
+        "hard": [
+          "गीता के ‘श्रेष्ठ-अनुकरण’ और सुभाषित के ‘अभ्यास’ को जोड़कर एक विद्यार्थी के चरित्र-निर्माण पर अनुच्छेद लिखिए।"
+        ]
+      },
+      "summary": "अच्छे लोग उदाहरण बनते हैं और समाज अनुसरण करता है; बार-बार अभ्यास से हर क्रिया-कला सिद्ध होती है।",
+      "revision_point": "अनुवर्तते = follows; सिद्धि का मंत्र = अभ्यास; श्रेष्ठ का आचरण = लोकप्रमाण.",
+      "exam_tip": "प्रश्न ‘कस्य आचरणम्’ हो तो उत्तर में सिर्फ ‘श्रेष्ठस्य’ मत लिखो — पूर्णवाक्य: लोकः श्रेष्ठस्य आचरणम् अनुकरोति/अनुवर्तते।",
+      "source_text_hint": "यद्यदाचरति श्रेष्ठः"
+    },
+    {
+      "concept": "श्लोक ५-६ — विघ्न, उद्योग और पुरुषार्थ",
+      "say": "Yeh twin shlok motivation engine hain. श्लोक ५ (नीतिशतकम् २७) teen tarah ke log batata hai: नीचैः विघ्नभयेन (कार्यं) न प्रारभ्यते — inferior/cowardly people rukaawat ke dar se shuru hi nahi karte; मध्याः प्रारभ्य विघ्नविहताः विरमन्ति — average log shuru karke rukaawat aate hi chhod dete hain; उत्तमजनाः प्रारभ्य विघ्नैः पुनः पुनरपि प्रतिहन्यमानाः न परित्यजन्ति — uttam log baar-baar ruke, phir bhi kaam nahi chhodte. शब्द: नीचैः = अधम लोगों द्वारा; विघ्नविहताः = विघ्नों से हत; प्रतिहन्यमानाः = बाधित/obstructed; विरमन्ति = छोड़ते हैं. श्लोक ६ (पञ्चतन्त्र — मित्रभेद): उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः — Lakshmi udyogi/purush-singh ke paas aati hai; दैवेन देयमिति कापुरुषा वदन्ति — coward kehte hain ‘bhagya dega’; दैवं निहत्य कुरु पौरुषम् आत्मशक्त्या — bhagya ko side karke apni shakti se paurush karo; यत्नेन कृते यदि न सिध्यति कोऽत्र दोषः — mehnat ke baad bhi na bane toh dosh kahan? शब्द: उद्योगिनम् = प्रयत्नशील को; कापुरुषाः = कायर/अधम; निहत्य = अतिक्रम्य (ल्यप्); यत्नेन = श्रम से. English: Don’t fear obstacles; don’t outsource success to luck — effort is dignity. Board fill: दैवं निहत्य कुरु …… आत्मशक्त्या → पौरुषम्. Exam set: लक्ष्मीः कम् उपैति? — उद्योगिनं पुरुषसिंहम्; उत्तमजनाः किं न कुर्वन्ति? — कार्यं न परित्यजन्ति. Life link: board exam, kheti, sport — pehli haar par rukna = मध्यम; try again = उत्तम. Path ka energy: मन पूत + उद्योग = real समाचार/समाचरण.",
+      "example": "उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः = लक्ष्मी उद्योगी सिंह-पुरुष के पास आती है; उत्तमजनाः न परित्यजन्ति = उत्तम लोग कार्य नहीं छोड़ते.",
+      "board_lines": [
+        "नीच: शुरू नहीं | मध्य: शुरू→छोड़ | उत्तम: विघ्न पर भी नहीं छोड़ते",
+        "लक्ष्मीः → उद्योगिनम् | कापुरुषाः → ‘दैव देगा’",
+        "दैवं निहत्य कुरु पौरुषम् — प्रयास के बाद दोष नहीं"
+      ],
+      "common_mistake": "Students ‘दैवम्’ ko hamesha ‘Bhagwan’ samajh kar answer bigaad dete hain; yahan दैवम् = विधि/भाग्य (luck), aur path कहता है भाग्य पर निर्भर मत रहो.",
+      "memory_trick": "N-M-U ladder: नीच → मध्य → उत्तम. Aur L-U-P: लक्ष्मी उद्योगिनं पुरुषसिंहम्.",
+      "gesture_action": "Teen poses: haath peeche (नीच—shuru nahi), haath aage phir rukna (मध्य), girkar uthna (उत्तम); phir biceps dikhao — ‘पौरुषम्’.",
+      "real_life_examples": [
+        "Cycle seekhte hue baar girna — उत्तमजन की तरह फिर कोशिश",
+        "‘Number naseeb se aate hain’ kehna vs रोज पढ़ना — कापुरुष vs उद्योगी"
+      ],
+      "worked_example": {
+        "problem": "उत्तमजनाः कार्यं प्रारभ्य किं न कुर्वन्ति? पूर्णवाक्येन उत्तरं लिखत।",
+        "steps": [
+          "श्लोक ५ का अंतिम भाग पढ़ो — न परित्यजन्ति",
+          "विषय स्पष्ट करो — कार्य त्याग नहीं करते",
+          "पूर्ण वाक्य लिखो"
+        ],
+        "answer": "उत्तमजनाः कार्यं प्रारभ्य (विघ्नैः प्रतिहन्यमानाः अपि) कार्यं न परित्यजन्ति।"
+      },
+      "practice": {
+        "easy": [
+          "लक्ष्मीः कम् उपैति?"
+        ],
+        "medium": [
+          "नीच, मध्य और उत्तम जनों में विघ्न आने पर क्या अंतर है? तीन बिंदुओं में लिखिए।"
+        ],
+        "hard": [
+          "‘दैवं निहत्य कुरु पौरुषमात्मशक्त्या’ — भावार्थ लिखकर बताइए कि यह श्लोक भाग्यवाद का खंडन कैसे करता है।"
+        ]
+      },
+      "summary": "डर से न रुकें, विघ्न पर न छोड़ें; लक्ष्मी उद्योगी के पास आती है — भाग्य नहीं, पुरुषार्थ राह है।",
+      "revision_point": "तीन पुरुष-भेद + उद्योगिनं…लक्ष्मीः + दैवं निहत्य पौरुषम्.",
+      "exam_tip": "भावार्थ में ‘तीन प्रकार के व्यक्ति’ table बनाकर लिखो — examiner को comparison पसंद है; सिर्फ एक पंक्ति मत लिखना।",
+      "source_text_hint": "उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः"
+    },
+    {
+      "concept": "श्लोक ७-८ — परीक्षा, विवेक और जीवन-संदेश",
+      "say": "Last twin — critical thinking aur careful action. श्लोक ७ (मालविकाग्निमित्रम् १.२): पुराणमित्येव न साधु सर्वं न चापि काव्यं नवमित्यवद्यम्। सन्तः परीक्ष्यान्यतरद् भजन्ते मूढः परप्रत्ययनेयबुद्धिः॥ अन्वय: पुराणम् इति सर्वं साधु न; काव्यं नवम् इति अवद्यं न; सन्तः परीक्ष्य अन्यतरत् भजन्ते; मूढः परप्रत्ययनेयबुद्धिः (भवति). Matlab: sirf purana hone se sab achha nahi; sirf naya hone se kavya/idea bura nahi. Sajjan जाँच करके अच्छा अपनाते हैं; moolh doosron ki raay se khinchta hai. शब्द: अवद्यम् = निम्नस्तरीय/inferior; भजन्ते = स्वीकारते हैं; परप्रत्ययनेयबुद्धिः = दूसरों द्वारा निर्देशित बुद्धि वाला; सन्तः = सज्जनाः. श्लोक ८ (किरातार्जुनीयम् २.३०): सहसा विदधीत न क्रियाम् — जल्दबाजी में काम न करे; अविवेकः परमापदां पदम् — अविवेक सबसे बड़ी विपत्ति का स्थान; गुणलुब्धाः समपदः स्वयमेव विमृश्यकारिणं वृणते — ऐश्वर्य/सम्पदा गुण चाहने वाली लक्ष्मी खुद सोच-समझकर काम करने वाले का आश्रय लेती है. शब्द: विदधीत = कुर्यात् (विधिलिङ्); विमृश्यकारिणम् = चिन्तयित्वा कार्यं करोति तम्; वृणते = आश्रय लेते हैं; आपदाम् = विपत्तीनाम्. English: Test before you trust; think before you leap. Path close: मन पूत + धर्म लक्षण + श्रेष्ठ अभ्यास + उद्योग + परीक्षा/विवेक = complete life syllabus. Revision map for board: 8 shlokas → purity, dharma-10, example, practice, persistence, effort, critical choice, thoughtful action. Exam fill: अविवेकः परमापदां पदम्; सन्तः परीक्ष्य अन्यतरद् भजन्ते; समपदः विमृश्यकारिणं वृणते. Final message for rural Smart Board class: books purane-naye dono kaam ke ho sakte hain — स्वयं परीक्षा करो; gussa/jaldi mein decision mat lo; aur hamesha पूत मन से समाचरण करो.",
+      "example": "अविवेकः परमापदां पदम् = अविवेक सबसे बड़ी आपदाओं का स्थान है; सन्तः परीक्ष्य अन्यतरद् भजन्ते = सज्जन जाँचकर उचित अपनाते हैं.",
+      "board_lines": [
+        "पुराना ≠ स्वतः अच्छा | नया ≠ स्वतः बुरा — सन्तः परीक्ष्य भजन्ते",
+        "मूढः = परप्रत्ययनेयबुद्धिः | सहसा क्रियां न विदधीत",
+        "अविवेकः → आपद् | विमृश्यकारी → समपदः वृणते"
+      ],
+      "common_mistake": "Students ‘पुराणम्’ ko sirf ‘पुराण ग्रंथ’ samajh lete hain; yahan सामान्य अर्थ है ‘पुरातन/पुराना’ — old is not automatically good.",
+      "memory_trick": "P-B / A-V: परीक्षा→भजन (accept); अविवेक→विपत्ति. ‘Pause-Probe-Proceed’ = विमृश्यकारिन्.",
+      "gesture_action": "Ek haath ‘stop’ (सहसा न), doosra haath sochne ka temple-tap (विमृश्य), phir thumbs-up ‘परीक्ष्य भजन्ते’.",
+      "real_life_examples": [
+        "Mobile app/viral remedy sirf isliye adopt karna ki ‘sab kar rahe’ — मूढः परप्रत्ययनेयबुद्धिः",
+        "Bina sochke loan/fee decision vs teacher-parents se पूछकर योजना — विमृश्यकारिन् vs सहसा क्रिया"
+      ],
+      "worked_example": {
+        "problem": "रिक्त स्थान पूरयत — ‘............................................ परमापदां पदम्’। भाव भी एक वाक्य में लिखिए।",
+        "steps": [
+          "श्लोक ८ याद करो — अविवेकः परमापदां पदम्",
+          "रिक्त में अविवेकः भ्रो",
+          "भाव: बिना विवेक के काम आपदा लाता है"
+        ],
+        "answer": "अविवेकः परमापदां पदम्। भावार्थ: अविवेक सबसे बड़ी विपत्तियों का कारण/स्थान है, इसलिए कार्य सहसा नहीं करना चाहिए।"
+      },
+      "practice": {
+        "easy": [
+          "सन्तः क्या करके अन्यतरत् स्वीकार करते हैं?"
+        ],
+        "medium": [
+          "‘परप्रत्ययनेयबुद्धिः’ का समास/अर्थ समझाकर मूढ और सन्त में अंतर लिखिए।"
+        ],
+        "hard": [
+          "पाठ के सभी प्रमुख संदेशों (मनःशुद्धि, धर्मलक्षण, अभ्यास, उद्योग, परीक्षा, विवेक) को जोड़कर ‘मनःपूतं समाचरेत्’ शीर्षक की सार्थकता पर निबंधात्मक उत्तर लिखिए।"
+        ]
+      },
+      "summary": "सज्जन जाँचकर चुनते हैं; अविवेक आपदा है — सोच-समझकर कर्म करो, यही पाठ का अंतिम जीवन-संदेश है।",
+      "revision_point": "परीक्ष्य भजन्ते ≠ परप्रत्यय; सहसा न विदधीत; अविवेकः परमापदां पदम्.",
+      "exam_tip": "अंतिम दीर्घ उत्तर में ८ श्लोकों के keywords की एक सूची दे दो — शुद्ध मन, दशक धर्म, श्रेष्ठ, अभ्यास, उत्तमजन, उद्योग, परीक्षा, विवेक — इससे पूर्णता दिखती है।",
+      "source_text_hint": "अविवेकः परमापदां पदम्"
+    }
+  ]
+}
