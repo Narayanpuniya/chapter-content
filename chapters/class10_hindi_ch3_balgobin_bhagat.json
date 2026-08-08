@@ -1,0 +1,296 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 1140,
+    "chapter_name": "बालगोबिन भगत",
+    "chapter_number": 3,
+    "book_name": "Class 10 Hindi",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 10",
+    "subject": "Hindi"
+  },
+  "concept_map": {
+    "chapter_overview": "रामवृक्ष बेनीपुरी का यह रेखाचित्र बालगोबिन भगत जैसे विलक्षण ग्रामीण चरित्र के माध्यम से बताता है कि असली साधुत्व वेश-भूषा में नहीं, ईमानदारी, संगीत-साधना और मानवीय सरोकारों में होता है। A householder-farmer who lives by Kabir’s simple truth becomes a living symbol of folk culture and collective joy. पाठ सामाजिक रूढ़ियों पर भी हल्का लेकिन साफ़ प्रहार करता है — खासकर मृत्यु, विधवा-जीवन और दिखावे वाले धर्म पर।",
+    "welcome": "नमस्ते बच्चों! Smart Board par aaj Class 10 Hindi — क्षितिज Chapter 3: बालगोबिन भगत. Socho — क्या साधु वही होता है जिसके लंबे बाल, जटा और भगवा कपड़े हों? या वो भी साधु हो सकता है जो खेत में धान रोपे, परिवार रखे, फिर भी झूठ न बोले और कबीर के गीत गाता रहे? आज हम exactly यही सवाल रामवृक्ष बेनीपुरी के साथ समझेंगे। दिल से सुनो — ये सिर्फ पुरानी कहानी नहीं, तुम्हारे गाँव की सच्चाई भी हो सकती है!",
+    "learning_outcomes": [
+      "लेखक रामवृक्ष बेनीपुरी का संक्षिप्त परिचय और उनकी साहित्यिक विशेषताएँ समझना",
+      "रेखाचित्र की पृष्ठभूमि, केंद्रीय विषय और ‘साधु’ की नई परिभाषा स्पष्ट करना",
+      "बालगोबिन भगत तथा परिवार के पात्रों का चरित्र-चित्रण और महत्व पहचानना",
+      "शैली, नैतिक संदेश और आज के जीवन में सादगी-ईमानदारी से जोड़कर उत्तर लिखना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "लेखक परिचय — रामवृक्ष बेनीपुरी"
+      },
+      {
+        "number": 2,
+        "name": "पृष्ठभूमि और केंद्रीय विषय — साधुत्व का नया अर्थ"
+      },
+      {
+        "number": 3,
+        "name": "मुख्य पात्र — बालगोबिन भगत और परिवार"
+      },
+      {
+        "number": 4,
+        "name": "साहित्यिक शैली — रेखाचित्र और शब्द-चित्र"
+      },
+      {
+        "number": 5,
+        "name": "नैतिक संदेश और सामाजिक रूढ़ियों पर प्रहार"
+      },
+      {
+        "number": 6,
+        "name": "आज के विद्यार्थी जीवन से जुड़ाव"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "लेखक परिचय — रामवृक्ष बेनीपुरी",
+      "say": "Bacchon, pehle writer ko jaano — warna path sirf events ban kar reh jaata hai. Yeh NCERT Class 10 Hindi (क्षितिज) ka Chapter 3 hai: बालगोबिन भगत. Author hain रामवृक्ष बेनीपुरी. Unka janm Bihar ke Muzaffarpur zile ke Benipur gaon mein san 1899 mein hua. Bachpan mein hi mata-pita ka nidhan ho gaya, isliye early life abhaav, sangharsh aur mehnat se guzri. Dasvi tak shiksha ke baad 1920 mein woh rashtriya swadhinata andolan se actively jude; kai baar jail bhi gaye. Unka dehant 1968 mein hua. Soft skill tip: exam mein ‘जीवन संघर्ष + स्वतंत्रता आंदोलन + पत्रकारिता’ teen keywords zaroor likho. Benipuri ji 15 saal ki umar se hi patrikaon mein chhapne lage — bahut pratibhashali patrakar the. Unhone Tarun Bharat, Kisan Mitra, Balak, Yuvak, Yogi, Janta, Janvani aur Nayi Dhara jaise kai dainik-saptahik-masik patraon ka sampadan kiya. Gady ki vividh vidhaon mein unki pratishtha hai; poora sahitya Benipuri Rachnavali ke aath khandon mein prakashit hai. Important works yaad rakho: पतितों के देश में (उपन्यास), चिता के फूल (कहानी), अम्बपाली (नाटक), माटी की मूरतें (रेखाचित्र), पैरों में पंख बाँधकर (यात्रा-वृत्तांत), जंजीरें और दीवारें (संस्मरण). Unki rachnaon mein swadhinata ki chetna, manushyata ki chinta aur itihas ki yuganuroop vyakhya milti hai. Specific style ke kaaran unhe ‘कलम का जादूगर’ kaha jaata hai. English mein bolo toh — Benipuri paints rural humanity with magical prose; he is not just a storyteller, he is a freedom-era conscience. ‘बालगोबिन भगत’ unke रेखाचित्र tradition ka shining example hai.",
+      "example": "Jaise koi teacher sirf syllabus nahi, apni mehnat aur sachchai se class ko inspire karta hai — waise Benipuri ji ne apne sangharsh aur deshbhakti se literature ko jeevant banaya.",
+      "board_lines": [
+        "रामवृक्ष बेनीपुरी: जन्म 1899 (बेनीपुर, मुज़फ़्फ़रपुर); निधन 1968",
+        "पत्रकार + स्वतंत्रता सेनानी | ‘कलम का जादूगर’",
+        "रचनाएँ: माटी की मूरतें, अम्बपाली, पतितों के देश में"
+      ],
+      "common_mistake": "Students kabhi author ko galat naam se yaad kar lete hain ya sirf ‘kahani-lekhak’ likh dete hain; sahi: रामवृक्ष बेनीपुरी — रेखाचित्रकार, पत्रकार, नाटककार, स्वतंत्रता सेनानी.",
+      "memory_trick": "B-M-K: बेनीपुरी — मुज़फ़्फ़रपुर — कलम का जादूगर. Teen letters: Birthplace, Magic pen, Manushyata.",
+      "gesture_action": "Ek haath se kalam pakadne ka gesture, doosra haath dil par — ‘कलम + मनुष्यता’.",
+      "real_life_examples": [
+        "School magazine edit karna — Benipuri ji ke patrakar jeevan jaisa chhota version",
+        "Pareeksha ke dauran bhi satya aur mehnat se aage badhna — unke jeevan-sangharsh ka practical lesson"
+      ],
+      "worked_example": {
+        "problem": "रामवृक्ष बेनीपुरी का संक्षिप्त परिचय देते हुए बताइए कि उन्हें ‘कलम का जादूगर’ क्यों कहा जाता है?",
+        "steps": [
+          "Janm-sthan, varsh, swadhinata andolan aur niddhan briefly likho",
+          "Do-teen pramukh rachnaon ke naam do",
+          "Style point: vividh gady vidhaen + manviya/swadhinata chetna — isi wajah se ‘कलम का जादूगर’"
+        ],
+        "answer": "रामवृक्ष बेनीपुरी (1899–1968) बिहार के बेनीपुर गाँव में जन्मे स्वतंत्रता सेनानी, पत्रकार और विशिष्ट गद्यकार थे। ‘माटी की मूरतें’, ‘अम्बपाली’, ‘पतितों के देश में’ आदि उनकी प्रमुख रचनाएँ हैं। विशिष्ट शैली और जादुई शब्द-शक्ति के कारण उन्हें ‘कलम का जादूगर’ कहा जाता है।"
+      },
+      "practice": {
+        "easy": [
+          "बालगोबिन भगत के लेखक का नाम लिखिए।"
+        ],
+        "medium": [
+          "बेनीपुरी जी की किन्हीं तीन रचनाओं के नाम लिखकर विधा भी बताइए।"
+        ],
+        "hard": [
+          "बेनीपुरी की रचनाओं में स्वाधीनता की चेतना और मनुष्यता की चिंता कैसे झलकती है? संक्षेप में लिखिए।"
+        ]
+      },
+      "summary": "रामवृक्ष बेनीपुरी (1899–1968) स्वतंत्रता संग्राम से जुड़े ‘कलम के जादूगर’ हैं; बालगोबिन भगत उनके रेखाचित्र की जीवंत मिसाल है।",
+      "revision_point": "Author = रामवृक्ष बेनीपुरी; keywords: बेनीपुर 1899, पत्रकार, कलम का जादूगर, रेखाचित्र।",
+      "exam_tip": "लेखक-परिचय में सिर्फ जन्म-मृत्यु मत लिखो — एक पंक्ति ‘कलम का जादूगर / मनुष्यता की चिंता’ जरूर जोड़ो।",
+      "source_text_hint": "विशिष्ट शैलीकार होने के कारण उन्हें ‘कलम का जादूगर’"
+    },
+    {
+      "concept": "पृष्ठभूमि और केंद्रीय विषय — साधुत्व का नया अर्थ",
+      "say": "Ab path ka core samajhte hain — setting aur central theme. Yeh रचना रेखाचित्र hai, matlab ek real-feeling character portrait. Scene gramin Bihar/North-India jaisa hai — kheti, pokhra, aashaadh ki rimjhim, bhado ki raat, magh ki bhor. Beech mein khade hain बालगोबिन भगत: grihasth, thodi kheti, beta-patohu, saaf-suthra makaan — phir bhi lekhak unhe saccha saadhu maante hain. Kyunki saadhu hone ka matlab sirf jata-joot, bhagwa kapda ya ashram nahi hota. Asli base hota hai — human concerns: sachchai, ahinsa-sa vyavhaar, Kabir ke ‘साहब’ par shraddha, aur jeevan ko sangeet-seva bana dena. Central theme crystal clear hai: बाह्य अनुष्ठान नहीं, आंतरिक आचरण साधु बनाता है। Path folk culture aur collective chetna ka bhi symbol banata hai — jab bhagat gaate hain, poora gaon taal mein jhoom uthta hai. Saath hi social rudiyaan par prahaar: beti/patohu ko vidhwa rakhkar ‘sewa’ lene ke bajay unhe doosri shaadi ka adhikar dena, putra-mrityu par shor-sharaaba ke bajay atmiya vishwas se gaan — yeh conventional mourning se alag hai. English mein: sainthood is ethics in action, not costume. Classroom question: Can a farmer be a saint? Answer from text — yes, if his life matches truth, simplicity and love. Yeh theme aaj bhi powerful hai kyunki hum ab bhi logon ko kapdon, titles aur Instagram-look se judge karte hain.",
+      "example": "School mein ‘perfect student’ wahi nahi jo neat uniform pehne — wahi hai jo homework mein help kare, jhoot na bole, aur weak classmate ko respect de. Outer look se andar ka character alag ho sakta hai.",
+      "board_lines": [
+        "विधा: रेखाचित्र | परिवेश: ग्रामीण खेत-संस्कृति",
+        "केंद्रीय विषय: साधु = मानवीय सरोकार, न कि वेश",
+        "प्रतीक: लोक संस्कृति + सामूहिक चेतना + रूढ़ि-विरोध"
+      ],
+      "common_mistake": "Students theme ko sirf ‘bhagat gaate the’ likh dete hain. Asli point: grihasth hote hue bhi unka jeevan saadhu-definition ko khara utarta hai; music us character ka medium hai.",
+      "memory_trick": "S-M-K: साधुत्व — मानवीय सरोकार — कबीर. Yaad rakho: Saint = Moral + Kabir, not Makeup.",
+      "gesture_action": "Pehle kapdon ko dikhane jaisa gesture (बाहर), phir dil par haath (अंदर) — bolo: ‘साधु अंदर से!’",
+      "real_life_examples": [
+        "Mandir mein lambi mala pehenkar bhi galat kaam karna vs seedha mazdoor jo roz imaandari se kaam kare — kaun zyada ‘saadhu’?",
+        "Gaon ke kirtan/bhajan ke dauran sabke saath milkar gaana — collective joy wahi hai jo path dikhata hai"
+      ],
+      "worked_example": {
+        "problem": "लेखक बालगोबिन भगत को साधु क्यों मानते हैं, जबकि वे गृहस्थ थे? स्पष्ट कीजिए।",
+        "steps": [
+          "Pehle misconception hatao — saadhu = sirf vesh/ashram nahi",
+          "Bhagat ke aacharan ke points: sachchai, Kabir-shraddha, paraaya haq na chhoona, sangeet-sadhana",
+          "Conclude: manviya sarokaar hi unhe saadhu sabit karte hain"
+        ],
+        "answer": "लेखक उन्हें साधु इसलिए मानते हैं क्योंकि साधुत्व का आधार वेशभूषा नहीं बल्कि जीवन के मानवीय सरोकार हैं। भगत कबीर के मार्ग पर चलते थे, झूठ नहीं बोलते थे, खरा व्यवहार रखते थे और अपने श्रम-फल को भी श्रद्धा से जोड़ते थे — अतः गृहस्थ होते हुए भी वे सच्चे साधु थे।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ की विधा क्या है — कहानी, निबंध या रेखाचित्र?"
+        ],
+        "medium": [
+          "‘साधु की पहचान पहनावे से नहीं होती’ — पाठ के आधार पर दो तर्क दीजिए।"
+        ],
+        "hard": [
+          "बालगोबिन भगत रेखाचित्र मनुष्यता और लोक संस्कृति का प्रतीक कैसे है? अपने शब्दों में लिखिए।"
+        ]
+      },
+      "summary": "पाठ का केंद्र यह है कि असली साधुत्व आचरण और मनुष्यता में है; वेश और बाह्य अनुष्ठान गौण हैं।",
+      "revision_point": "Theme = inner sainthood + folk joy + critique of hollow ritual; genre = रेखाचित्र।",
+      "exam_tip": "‘साधु क्यों?’ वाले प्रश्न में definition pehle do, phir 3–4 aachar-points, ant mein ‘hence grihasth + saadhu’ conclude karo.",
+      "source_text_hint": "वेशभूषा या बाह्य अनुष्ठानों से कोई संन्यासी नहीं होता"
+    },
+    {
+      "concept": "मुख्य पात्र — बालगोबिन भगत और परिवार",
+      "say": "Characters ko map karte hain — exam mein ‘पात्र-चित्रण’ bahut aata hai. Central figure: बालगोबिन भगत. Medium height, gore-chitte, saath ke aas-paas; safed baal, hamesha chamakta Ramanandi chandan, tulsi-mala, kamr mein langoti-matr, kabirpanthi-si topi, jaade mein kaali kamli. Lekin yeh sirf photo nahi — character hai. Woh Kabir ko ‘साहब’ maante hain, unke geet gaate hain, kabhi jhoot nahi bolte, do-took baat karte hain, kisi se bekaar jhagda nahi, kisi ki cheez bina poochhe nahi chhoote. Kheti se jo paidawar hoti, pehle math/derbaar mein ‘भेंट’ le jaate, phir prasad-roop mein jo milta usi se ghar chalta. Unka mitha gaan — khanjari ke saath — gaon ko jagaata, jodta aur nachaata hai. Beta: iklauta, thoda sust aur ‘boda’-sa, lekin bhagat usi ko zyada pyaar/nigraani ke haqdar maante hain — yeh unki empaty dikhata hai. Patohu: subhag, sushil, ghar ki prabandhika — bhagat ko duniyaadari se niyukt karti hai. Beta ki maut par bhagat rote nahi; geet gaate hain, aatma-paramatma milan ko anand maante hain. Phir shraddh ke baad patohu ko bhai ke saath bhej dete hain taaki uski doosri shaadi ho — khud akela rehna pasand, lekin ladki ke jeevan ko band nahi karna. English tip: Bhagat = ethical centre; son = vulnerability that invites care; daughter-in-law = dignity versus social custom. Classroom activity: teen columns — पात्र | गुण | घटना। Moral centre hamesha bhagat hi rehte hain — ordinary farmer, extraordinary soul.",
+      "example": "Jaise class mein ek ‘average’ student ko teacher extra care deta hai kyunki usse support chahiye — waise bhagat apne sust bete ko aur zyada muhabbat dete hain.",
+      "board_lines": [
+        "भगत: गृहस्थ किसान + कबीर-भक्त + संगीत-साधक",
+        "बेटा: एकमात्र, कमज़ोर — अधिक स्नेह का पात्र",
+        "पतोहू: सुशील प्रबंधिका; विधवा रखकर नहीं रोकी गई"
+      ],
+      "common_mistake": "Students bhagat ko sirf ‘gaane wala budha’ likhte hain; unki imaandari, Kabir-nistha, putra-prem aur rudi-virodhi decision miss kar dete hain.",
+      "memory_trick": "B-G-P: भगत — गुण (सत्य/संगीत) — परिवार. Character map: Belief, Goodness, Protective fairness.",
+      "gesture_action": "Khanjari bajane jaisa haath-gesture, phir dono haath aage karke ‘ईमानदारी’ — music + morals.",
+      "real_life_examples": [
+        "Gaon mein koi buzurg roz prabhat-bhajan karke bacchon ko positive energy deta hai",
+        "Ghar mein bahu/beti ko majboori mein rokne ke bajay uske bhavishya ka sochna — bhagat wala fair decision"
+      ],
+      "worked_example": {
+        "problem": "खेतीबारी से जुड़े गृहस्थ बालगोबिन भगत अपनी किन चारित्रिक विशेषताओं के कारण साधु कहलाते थे?",
+        "steps": [
+          "Vesh se alag hoker aacharan ke points chuno",
+          "Kam se kam chaar traits likho: sachchai, Kabir-marga, paraaya haq na lena, madhur/nishkam jeevan",
+          "Har trait ko short example se jodo"
+        ],
+        "answer": "वे झूठ नहीं बोलते थे, कबीर को साहब मानकर उनके आदेश पर चलते थे, खरा और दो-टूक व्यवहार रखते थे, पराई वस्तु नहीं छूते थे तथा अपने श्रम को श्रद्धा से जोड़ते थे — इन्हीं चारित्रिक विशेषताओं के कारण गृहस्थ होते हुए भी साधु कहलाते थे।"
+      },
+      "practice": {
+        "easy": [
+          "बालगोबिन भगत किस संत को ‘साहब’ मानते थे?"
+        ],
+        "medium": [
+          "भगत की पतोहू उन्हें अकेले क्यों नहीं छोड़ना चाहती थी?"
+        ],
+        "hard": [
+          "बेटे की मृत्यु पर भगत की प्रतिक्रिया से उनके व्यक्तित्व की कौन-सी विशेषताएँ उभरती हैं? विश्लेषण कीजिए।"
+        ]
+      },
+      "summary": "भगत सत्य, कबीर-श्रद्धा और संगीत से भरे गृहस्थ-साधु हैं; परिवार के प्रसंग उनके प्रेम और रूढ़ि-विरोध को गहराई देते हैं।",
+      "revision_point": "Character keywords: कबीर-भक्त, ईमानदार, संगीत-मस्त, पुत्र-स्नेही, रूढ़ि-विरोधी।",
+      "exam_tip": "पात्र-चित्रण में appearance (2 lines) + nature (4 points) + one incident — yahi full-marks formula hai.",
+      "source_text_hint": "बालगोबिन भगत मँझोले कद के गोरे-चिट्टे आदमी थे"
+    },
+    {
+      "concept": "साहित्यिक शैली — रेखाचित्र और शब्द-चित्र",
+      "say": "Ab style samajhte hain — isi se Benipuri ‘कलम का जादूगर’ lagte hain. Path रेखाचित्र hai: na pure novel jaisa lambi plot, na dry essay. Ek character ko itni jinda brush-strokes se banaya gaya hai ki reader usse mil chuka ho. Lekhak khud narrator-witness hai — kabhi magh ki thand mein pokhre par pahunchta hai, kabhi putra-mrityu par ghar jaakar dang reh jaata hai. Sabse zabardast tool: शब्द-चित्र / imagery. Aashaadh — khet mein ropani, bacche keechad mein uchhalte, auraten med par, purvai hawa, aur beech mein bhagat ka swar jo poore mahaul ko taaal mein baandh deta hai. Bhado ki andheri raat — jheengur, dadur, khanjari, aur achanak bijli-si geet-lakiren. Magh ki bhor — taare, lohi, kuhaasa, kaali kamli, pasine ki boonden. Yeh seasons sirf calendar nahi; mood aur music ke stages hain. Language mein Hinglish nahi, lekin classroom mein hum bolenge: sensory writing — aankh, kaan, twacha sab active. Kabir ke pad natural dialogue/spiritual soundtrack ban jaate hain. Contrast bhi technique hai: ghar mein patohu ka rona vs bhagat ka gaan; logon ka ‘pagal toh nahi?’ vs unka pakka vishwas. English tip: Benipuri turns biography into cinema for the ears. Exam mein ‘शैली’ poochhe to likho — रेखाचित्र, दृश्य-श्रव्य बिंब, लोक-संगीत का समावेश, प्रथम-पुरुष द्रष्टा, ग्रामीण मुहावरा.",
+      "example": "Jaise mobile ka video bina dialogue ke bhi mahaul dikha deta hai — Benipuri ke paragraph aankhon ke saamne film chala dete hain, sirf shabdon se.",
+      "board_lines": [
+        "विधा: रेखाचित्र | द्रष्टा: लेखक स्वयं (प्रथम पुरुष)",
+        "तकनीक: ऋतुओं के शब्द-चित्र + लोक-संगीत",
+        "प्रभाव: चरित्र सजीव; गाँव की झाँकी जीवंत"
+      ],
+      "common_mistake": "Students style ko sirf ‘bhasha saral hai’ likhkar chhod dete hain. Strong answer mein रेखाचित्र, बिंब-विधान, संगीत और द्रष्टा-शैली alag-alag points hon.",
+      "memory_trick": "R-I-S: रेखाचित्र — Imagery — संगीत. Style formula: Sketch + Senses + Song.",
+      "gesture_action": "Aankh, kaan, phir gaane ka gesture — teen senses count karke bolo ‘शब्द-चित्र!’",
+      "real_life_examples": [
+        "Barish ke din khet/school ground ki smell aur awaazen yaad karo — wahi sensory detail Benipuri likhte hain",
+        "Gaon ke jagran/kirtan mein ek awaaz se sabke kadam taal mein aa jaana — path ki music-technique ka live version"
+      ],
+      "worked_example": {
+        "problem": "धान की रोपाई के समय भगत की स्वर-लहरियाँ माहौल को कैसे चमत्कृत कर देती थीं? शब्द-चित्र प्रस्तुत कीजिए।",
+        "steps": [
+          "Setting set karo: aashaadh, khet, keechad, bacche, auraten, halwahe",
+          "Bhagat ki ropani + gaan ko centre mein lao",
+          "Prabhav likho: bacche jhoomte, auraten gunhunati, pair taal se — music = magic"
+        ],
+        "answer": "आषाढ़ की रिमझिम में गाँव खेतों में जुटा होता है। कीचड़ में लिथड़े भगत धान रोपते-रोपते कबीर के पद गाते हैं। उनकी स्वर-लहरियाँ बच्चों को झुमा देती हैं, मेंड़ पर औरतों को गुनगुनाने पर मजबूर करती हैं और हलवाहों-रोपनीहारों के काम में भी एक अजीब लय भर देती हैं — मानो संगीत जादू बन गया हो।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ में भगत किस वाद्य के साथ गाते थे?"
+        ],
+        "medium": [
+          "लेखक ने माघ की सुबह का वर्णन क्यों प्रभावशाली कहा जा सकता है? दो बिंदु लिखिए।"
+        ],
+        "hard": [
+          "बेनीपुरी की शैली को ‘कलम का जादू’ कहना कहाँ तक उचित है? पाठ की किसी एक ऋतु-छवि के आधार पर उत्तर दीजिए।"
+        ]
+      },
+      "summary": "बेनीपुरी रेखाचित्र में ऋतुओं, संगीत और द्रष्टा-दृष्टि से भगत को तथा पूरे गाँव को सजीव शब्द-चित्र बना देते हैं।",
+      "revision_point": "Style = रेखाचित्र + seasonal imagery + Kabir-song texture + first-person witness.",
+      "exam_tip": "शैली वाले उत्तर में कम से कम एक दृश्य (रोपाई/प्रभाती/संध्या) quote-idea ke saath apne shabdon mein chitro; sirf adjectives mat likho.",
+      "source_text_hint": "बालगोबिन भगत का यह संगीत है या जादू"
+    },
+    {
+      "concept": "नैतिक संदेश और सामाजिक रूढ़ियों पर प्रहार",
+      "say": "Ab deepest layer — moral message. Path kehti hai: saccha dharma dikhawa nahi, discipline of truth hai. Bhagat ke niyam chhote lagte hain — paraaya khet tak shouch ke liye nahi — lekin yeh detail batati hai ki ethics micro-level par jeete jaate hain. Doosra message: death par victory of faith. Beta marne par woh paagal nahi; unka vishwas bolta hai ki aatma mil gayi, isliye utsav-bhaav. Yeh grief ko deny nahi karta, balki shok ko shraddha mein badalta hai. Teesra aur exam-hot point: social customs ko challenge. Action-karma mein tul nahi; aag patohu se dilwana; shraddh ke baad patohu ko ghar mein ‘sewa’ ke liye nahi rokna, balki doosri shaadi ka raasta kholna — yeh us daur ki rudi ke khilaaf bada kadam hai. Moh aur prem ka antar bhi yahin se clear hota hai: moh pakadta hai, prem azaadi deta hai. Bhagat bete se pyaar karte the, lekin us pyaar ko possessiveness nahi banne dete; patohu ke liye bhi practical freedom choose karte hain. Unki maut bhi character-consistent — Ganga-yatra, bhiksha nahi, geet aur neem-vrat, ant mein shareer reh jaata hai, masti jeeti rehti hai. English: the essay teaches ethical minimalism, fearless faith, and reformist compassion. Classroom debate: Is sending the widow away cruelty or liberation? Text leans to liberation with dignity.",
+      "example": "Agar kisi friend ka mobile toot jaye aur tum rote-rote uska naya phone chheen lo vs usse khud sambhalne do — pehla moh/control, doosra prem/respect. Bhagat doosra rasta chunte hain.",
+      "board_lines": [
+        "संदेश: सत्य-आचरण > दिखावटी धर्म",
+        "मृत्यु पर विश्वास की विजय; शोक ≠ केवल रोना",
+        "रूढ़ि-विरोध: विधवा जीवन की बेड़ियाँ तोड़ना (प्रेम ≠ मोह)"
+      ],
+      "common_mistake": "Students samajhte hain bhagat ‘hard-hearted’ the kyunki unhone patohu bhej di. Asli reading: unhone uske future ko apni budhape ki suvidha se upar rakha — prem without moh.",
+      "memory_trick": "M-P-R: मोह हटाओ — प्रेम रखो — रूढ़ि तोड़ो. Message triangle: Morals, Prem, Reform.",
+      "gesture_action": "Ek haath se ‘ पकड़’ (मोह) todne ka gesture, doosra haath aashirwad jaisa khol do — ‘प्रेम = स्वतंत्रता’.",
+      "real_life_examples": [
+        "Pariksha fail hone par sirf rona vs seekh-kar dubara mehnat — vishwas se uthna bhagat wala attitude",
+        "Ghar mein ladkiyon ki padhai/shaadi ke faisle unki marzi se — rudi todne ka aaj ka roop"
+      ],
+      "worked_example": {
+        "problem": "‘मोह और प्रेम में अंतर होता है’ — भगत के जीवन की किस घटना से यह सिद्ध होता है?",
+        "steps": [
+          "Putra-mrityu aur uske baad patohu wala prasad chuno",
+          "Moh define karo: apne sukh/sewa ke liye pakadna",
+          "Prem dikhao: bhagat ne budhape ki majboori ke bajay patohu ke jeevan-adhaar ko chuna"
+        ],
+        "answer": "बेटे की मृत्यु के बाद पतोहू उन्हें अकेला नहीं छोड़ना चाहती थी, पर भगत ने उसे भाई के साथ भेजकर दूसरी शादी का आदेश दिया। यदि मोह होता तो वे सेवा के लिए उसे रोक लेते; प्रेम ने उन्हें उसके भविष्य की स्वतंत्रता देने पर उतारा — इसी से मोह और प्रेम का अंतर सिद्ध होता है।"
+      },
+      "practice": {
+        "easy": [
+          "भगत ने बेटे की मृत्यु पर पतोहू को रोने के बजाय क्या करने को कहा?"
+        ],
+        "medium": [
+          "पाठ के आधार पर दो प्रसंग लिखिए जहाँ भगत प्रचलित सामाजिक मान्यताओं को नहीं मानते।"
+        ],
+        "hard": [
+          "बालगोबिन भगत का जीवन आज के आडंबरपूर्ण धार्मिक व्यवहार पर क्या टिप्पणी करता है? तर्क सहित लिखिए।"
+        ]
+      },
+      "summary": "पाठ सिखाता है कि धर्म सत्य में है, शोक विश्वास से जीता जाता है, और सच्चा प्रेम मोह की जंजीरें तोड़कर दूसरे को मुक्त करता है।",
+      "revision_point": "Message = truth over ritual; faith over fear; love over possession; reform over custom.",
+      "exam_tip": "रूढ़ि-विरोध वाले प्रश्न में कम से कम दो events (मृत्यु-गायन + पतोहू विदाई) zaroor do — ek event se answer अधूरा लगता है।",
+      "source_text_hint": "मैं कभी-कभी सोचता, यह पागल तो नहीं हो गए"
+    },
+    {
+      "concept": "आज के विद्यार्थी जीवन से जुड़ाव",
+      "say": "Last concept — relevance. Kyu padhein aaj? Kyunki teenage life bhi ‘vesh vs value’ ka exam hai. Brand shoes, viral reels, perfect bio — yeh bahri pehchaan hai. Bhagat poochhte hain: tumhari daily honesty kaisi hai? Homework copy karna, friend ke saath false promise, online par show-off — yeh chhote jhoot bhi character todte hain. Unki routine sikhati hai discipline: subah nadi-snan, prabhati, kheti, sandhya-gaan — consistency hi sadhana hai. Tumhare liye version: fixed study hours, phone-limit, roz thoda sangeet/exercise, weekend par grandparents se folk songs — culture alive rahe. Collective joy bhi lesson hai: jab class ek saath kala-pradarshan ya van-mahotsav karti hai, energy badhti hai — bilkul khet ki ropani wala magic. Empathy angle: weak classmate ko bully nahi, support — bhagat apne ‘boda’ bete ko zyada pyaar dete the. Loss handle karna: marks girna, kisi apne ka door hona — sirf breakdown nahi, faith + effort se khade hona. Social courage: galat custom ko ‘sab aise hi karte hain’ kehkar mat apnao; sochkar fair decision lo. English takeaway: Be a householder of duties and a saint of values. Rural students ke liye yeh path mirror hai; city students ke liye window — dono ke liye compass. Smart Board se uthte waqt ek pledge: ‘Aaj ek jhoot kam, ek madad zyada.’",
+      "example": "Agar group project mein ek member weak hai, usse hataane ke bajay uski strength pe kaam do — yahi bhagat wala ‘zyada nigraani aur muhabbat’ wala attitude hai.",
+      "board_lines": [
+        "आज का पाठ: दिखावा < ईमानदार आदतें",
+        "Discipline = रोज़ की छोटी साधना (पढ़ाई/स्वास्थ्य/संगीत)",
+        "Pledge: कमज़ोर का साथ + रूढ़ि पर सवाल + सामूहिक खुशी"
+      ],
+      "common_mistake": "Students kehte hain ‘yeh purana gaon ka path hai, aaj kaam nahi aata’. Asli baat: honesty, empathy, anti-showoff values har generation mein exam se bade marks dete hain.",
+      "memory_trick": "A-E-I-O-U: आदत — ईमान — इकट्ठा आनंद — ओह! रूढ़ि तोड़ो — उच्च विचार. Vowels of a good student life.",
+      "gesture_action": "Class ke saath ek clap-taal banao, phir silence mein dil par haath — ‘सामूहिक संगीत + व्यक्तिगत सत्य’.",
+      "real_life_examples": [
+        "School assembly mein bhajan/prayer ko rote nahi, feeling se gaana — bhagat ki music-sadhana ka student version",
+        "Pados mein kisi vidhwa/akeli mahila ki madad vs unhe gossip ka topic banana — choose dignity"
+      ],
+      "worked_example": {
+        "problem": "बालगोबिन भगत का चरित्र आज के विद्यार्थियों को कौन-से तीन जीवन-मूल्य सिखाता है? उदाहरण सहित लिखिए।",
+        "steps": [
+          "Teen values chuno: honesty, discipline/art-sadhana, empathy+fairness",
+          "Har value ko path se short link do",
+          "School-life example se conclude karo"
+        ],
+        "answer": "(1) ईमानदारी — पराया हक न लेना हमें नकल/छल से दूर रखता है। (2) अनुशासित साधना — उनकी नियमित संगीत- दिनचर्या पढ़ाई की नियमितता सिखाती है। (3) संवेदना व न्याय — कमज़ोर बेटे के प्रति स्नेह और पतोहू को स्वतंत्र करना हमें सहपाठियों का साथ देने और गलत रीति न अपनाने की प्रेरणा देता है।"
+      },
+      "practice": {
+        "easy": [
+          "भगत के जीवन से आपको मिलने वाला एक गुण लिखिए।"
+        ],
+        "medium": [
+          "क्या ‘साधु’ की पहचान आज यूनिफ़ॉर्म/पद से होनी चाहिए? अपने विद्यालय-अनुभव से उत्तर दीजिए।"
+        ],
+        "hard": [
+          "‘ग्राम्य संस्कृति की जो झलक पाठ में मिलती है वह आपके आसपास से कैसे भिन्न/समान है?’ तुलनात्मक उत्तर लिखिए।"
+        ]
+      },
+      "summary": "पाठ आज हमें सिखाता है कि साधुत्व रोज़ की ईमानदारी है — दिखावे से नहीं, अनुशासन, संवेदना और साहसिक न्याय से बनता है।",
+      "revision_point": "Apply: honesty daily, support the weak, question unfair customs, keep collective joy alive.",
+      "exam_tip": "‘आज की प्रासंगिकता’ में generic ‘हमें अच्छा बनना चाहिए’ mat likho — school/home ke 2 concrete examples se answer ko real banao.",
+      "source_text_hint": "यह पाठ सामाजिक रूढ़ियों पर भी प्रहार करता है"
+    }
+  ]
+}
