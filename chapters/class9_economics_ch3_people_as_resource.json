@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 642,
+    "chapter_name": "संसाधन के रूप में लोग",
+    "chapter_number": 3,
+    "book_name": "Class 9 Economics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Economics"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum जनसंख्या को सिर्फ दायित्व नहीं, बल्कि परिसंपत्ति — मानव संसाधन — ke roop mein समझेंगे. शिक्षा, प्रशिक्षण और स्वास्थ्य में निवेश से मानव पूँजी बनती है; सकल–विलास की कहानी, आर्थिक क्षेत्रक, महिलाओं का कार्य, जनसंख्या की गुणवत्ता और शिक्षा/साक्षरता के आँकड़े इसी विचार को गहरा करते हैं।",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Economics — Chapter 3: संसाधन के रूप में लोग. Socho: क्या बड़े परिवार सिर्फ मुँह हैं खाने वाले, या हाथ भी हैं काम करने वाले? Aaj hum seekhenge ki शिक्षा और स्वास्थ्य se लोग कैसे देश की असली पूँजी बन जाते हैं. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "जनसंख्या को मानव संसाधन और मानव पूँजी के रूप में परिभाषित व समझाना",
+      "शिक्षा–स्वास्थ्य निवेश, अच्छा चक्र/दुष्चक्र और जापान उदाहरण से मानव पूँजी निर्माण समझाना",
+      "आर्थिक क्रियाओं को प्राथमिक–द्वितीयक–तृतीयक तथा बाज़ार/गैर-बाज़ार में वर्गीकृत करना",
+      "जनसंख्या की गुणवत्ता और भारत में शिक्षा/साक्षरता के रुझान व नीतियों को याद रखना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "संसाधन के रूप में लोग — परिचय"
+      },
+      {
+        "number": 2,
+        "name": "मानव पूँजी निर्माण"
+      },
+      {
+        "number": 3,
+        "name": "सकल और विलास की कहानी"
+      },
+      {
+        "number": 4,
+        "name": "मानव संसाधन में निवेश — अच्छा चक्र, दुष्चक्र और जापान"
+      },
+      {
+        "number": 5,
+        "name": "आर्थिक क्रियाकलाप — प्राथमिक, द्वितीयक और तृतीयक क्षेत्रक"
+      },
+      {
+        "number": 6,
+        "name": "बाज़ार एवं गैर-बाज़ार क्रियाएँ और महिलाओं का कार्य"
+      },
+      {
+        "number": 7,
+        "name": "जनसंख्या की गुणवत्ता"
+      },
+      {
+        "number": 8,
+        "name": "शिक्षा — साक्षरता और सरकारी प्रयास"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "संसाधन के रूप में लोग — परिचय",
+      "say": "Namaste bacchon! Smart Board par aaj Class 9 Economics ka Chapter 3 shuru karte hain — संसाधन के रूप में लोग, yani People as Resource. Bahut log sochte hain ki भारत की बड़ी जनसंख्या सिर्फ एक दायित्व है — खाना, स्कूल, स्वास्थ्य की समस्या. Lekin NCERT humse ek naya nazar maangta hai: जनसंख्या को अर्थव्यवस्था पर सिर्फ बोझ मत समझो; उसे परिसंपत्ति, asset, ke roop mein bhi dekho. People as Resource ka matlab hai — desh ke कार्यरत लोगों ko unke वर्तमान उत्पादन कौशल और क्षमताओं ke sandarbh mein describe karna. Jab hum जनसंख्या ko उत्पादक पहलू se dekhte hain, toh focus hota hai unke योगदान की क्षमता par — Gross National Product, GNP, banane mein. Doosre resources jaise land aur capital ki tarah, population bhi ek resource hai — एक मानव संसाधन. Yeh विशाल जनसंख्या ka positive aspect hai, jise hum negative problems dekhte waqt often ignore kar dete hain. Doctor, teacher, engineer, aur darzi — yeh sab economy ke liye assets hain kyunki unke skills se production aur services badhti hain. Yaad rakho: लोग = सिर्फ संख्या नहीं, बल्कि कौशल और क्षमता का भंडार. Aaj se socho — har educated, healthy person desh ki productive power badhata hai.",
+      "example": "गाँव का डॉक्टर बीमार किसान को ठीक करता है, तो किसान वापस खेत में काम कर पाता है — डॉक्टर की कुशलता अर्थव्यवस्था के लिए परिसंपत्ति है।",
+      "board_lines": [
+        "People as Resource = कार्यरत लोगों की उत्पादन कौशल व क्षमता",
+        "जनसंख्या = दायित्व नहीं, मानव संसाधन (asset)",
+        "उत्पादक पहलू → GNP में योगदान की क्षमता"
+      ],
+      "common_mistake": "Students सोचते हैं कि बड़ी जनसंख्या हमेशा सिर्फ समस्या है — NCERT कहता है कि सही निवेश से वही जनसंख्या परिसंपत्ति बन सकती है।",
+      "memory_trick": "P-A-R: People Are Resource — लोग बोझ नहीं, संसाधन हैं!",
+      "gesture_action": "दोनों हाथ फैलाकर बड़ी भीड़ दिखाओ, फिर मुट्ठी बंद करके 'asset/खजाना' का इशारा करो।",
+      "real_life_examples": [
+        "स्कूल की टीचर बच्चों को पढ़ाती है — उसका कौशल देश की मानव संसाधन शक्ति है",
+        "इंजीनियर पुल बनाता है — कौशल + ज्ञान = उत्पादक योगदान"
+      ],
+      "worked_example": {
+        "problem": "'संसाधन के रूप में लोग' का क्या अर्थ है? एक वाक्य में स्पष्ट कीजिए।",
+        "steps": [
+          "NCERT परिभाषा याद करो: कार्यरत लोगों का वर्णन वर्तमान उत्पादन कौशल और क्षमताओं के संदर्भ में",
+          "उत्पादक पहलू जोड़ो — GNP सृजन में योगदान की क्षमता",
+          "उत्तर में 'मानव संसाधन' शब्द अवश्य लिखो"
+        ],
+        "answer": "संसाधन के रूप में लोग का अर्थ है किसी देश के कार्यरत लोगों को उनके वर्तमान उत्पादन कौशल और क्षमताओं के संदर्भ में देखना — अर्थात् जनसंख्या को मानव संसाधन मानना।"
+      },
+      "practice": {
+        "easy": [
+          "जनसंख्या को मानव संसाधन क्यों कहा जाता है?"
+        ],
+        "medium": [
+          "उत्पादक पहलू से जनसंख्या को देखने का क्या लाभ है? GNP से जोड़कर समझाओ।"
+        ],
+        "hard": [
+          "बड़ी जनसंख्या के नकारात्मक और सकारात्मक दोनों पहलुओं को NCERT के अनुसार लिखो। डॉक्टर/अध्यापक उदाहरण से परिसंपत्ति सिद्ध करो।"
+        ]
+      },
+      "summary": "संसाधन के रूप में लोग का अर्थ है जनसंख्या को सिर्फ दायित्व नहीं, बल्कि कौशलयुक्त मानव संसाधन — परिसंपत्ति — मानना।",
+      "revision_point": "People as Resource = productive skills of working people; population can be an asset.",
+      "exam_tip": "परिभाषा में 'उत्पादन कौशल और क्षमता' तथा 'सकल राष्ट्रीय उत्पाद' शब्द ज़रूर लिखो — examiner यही ढूँढ़ता है।",
+      "source_text_hint": "संसाधन के रूप में लोग वर्तमान उत्पादन कौशल और क्षमताओं के संदर्भ में किसी देश के कार्यरत लोगों का वर्णन करने का एक तरीका है"
+    },
+    {
+      "concept": "मानव पूँजी निर्माण",
+      "say": "Bacchon, ab sabse important idea — मानव पूँजी और मानव पूँजी निर्माण. Jab शिक्षा, प्रशिक्षण और चिकित्सा सेवाओं mein investment hota hai, tabhi जनसंख्या human capital mein badal jaati hai. Human capital kya hai? NCERT kehta hai — मानव पूँजी कौशल और उनमें निहित उत्पादन के ज्ञान का स्टॉक है. Matlab skills + productive knowledge jo logon mein base hota hai. Jab is existing human resource ko aur शिक्षा तथा स्वास्थ्य se develop kiya jaata hai, hum ise मानव पूँजी निर्माण, human capital formation, kehte hain. Yeh भौतिक पूँजी निर्माण ki tarah desh ki उत्पादक शक्ति badhata hai. Investment in human capital — education, training, health — physical capital ki tarah return deta hai: zyada educated/trained logon ki higher productivity se zyada income, aur healthier logon ki higher productivity. Green Revolution ek dramatic example hai — better knowledge/technology ne scarce land ki productivity tezi se badhai. IT revolution dikhata hai ki physical machinery se zyada human capital ka mahatva badh gaya. High income se sirf educated-healthy logon ko hi nahi, society ko bhi indirect benefit milta hai. Human capital land aur physical capital se somehow superior hai — kyunki human resource hi land aur capital ka use kar sakta hai; land-capital apne aap useful nahi.",
+      "example": "किसान को नई सिंचाई तकनीक का प्रशिक्षण मिला तो वही ज़मीन से पहले से ज़्यादा पैदावार हुई — ज्ञान रूपी आगत ने भूमि की उत्पादकता बढ़ाई (हरित क्रांति जैसा)।",
+      "board_lines": [
+        "मानव पूँजी = कौशल + उत्पादन ज्ञान का स्टॉक",
+        "शिक्षा + प्रशिक्षण + स्वास्थ्य → मानव पूँजी निर्माण",
+        "उदाहरण: हरित क्रांति, सूचना प्रौद्योगिकी क्रांति"
+      ],
+      "common_mistake": "Students मानव पूँजी को सिर्फ पैसा/रुपया समझ लेते हैं — यह रुपये जैसा नहीं, कौशल और ज्ञान का भंडार है।",
+      "memory_trick": "E-T-H: Education–Training–Health — तीनों मिलाओ, Human Capital बनाओ!",
+      "gesture_action": "सर पर किताब (शिक्षा), हाथों से औज़ार चलाना (प्रशिक्षण), दिल पर हाथ (स्वास्थ्य) — फिर तीनों जोड़कर 'पूँजी' दिखाओ।",
+      "real_life_examples": [
+        "कंप्यूटर कोर्स करके नौकरी पाना — शिक्षा/प्रशिक्षण से आय बढ़ना",
+        "टीकाकरण और नियमित स्वास्थ्य जाँच से काम पर कम अनुपस्थिति — स्वास्थ्य निवेश"
+      ],
+      "worked_example": {
+        "problem": "मानव पूँजी किसे कहते हैं? मानव पूँजी निर्माण कैसे होता है?",
+        "steps": [
+          "परिभाषा: कौशल और उत्पादन के ज्ञान का स्टॉक",
+          "निर्माण: शिक्षा, प्रशिक्षण और स्वास्थ्य सेवाओं में निवेश",
+          "एक पंक्ति में जोड़ो कि इससे उत्पादक शक्ति बढ़ती है"
+        ],
+        "answer": "मानव पूँजी कौशल और उनमें निहित उत्पादन के ज्ञान का स्टॉक है। शिक्षा, प्रशिक्षण और स्वास्थ्य में निवेश द्वारा विद्यमान मानव संसाधन का विकास मानव पूँजी निर्माण कहलाता है।"
+      },
+      "practice": {
+        "easy": [
+          "मानव पूँजी की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "मानव पूँजी भूमि और भौतिक पूँजी से श्रेष्ठ क्यों मानी जाती है?"
+        ],
+        "hard": [
+          "हरित क्रांति और सूचना प्रौद्योगिकी क्रांति — दोनों उदाहरणों से सिद्ध करो कि ज्ञान/मानव पूँजी उत्पादकता कैसे बढ़ाती है।"
+        ]
+      },
+      "summary": "शिक्षा–प्रशिक्षण–स्वास्थ्य में निवेश से जनसंख्या मानव पूँजी बनती है; यही मानव पूँजी निर्माण देश की उत्पादक शक्ति बढ़ाता है।",
+      "revision_point": "Human capital = stock of skills + knowledge; formed via education, training, health.",
+      "exam_tip": "परिभाषा + तीन निवेश माध्यम (शिक्षा, प्रशिक्षण, स्वास्थ्य) + एक उदाहरण (हरित क्रांति/IT) लिखो — 3–5 अंक के लिए पर्याप्त।",
+      "source_text_hint": "जब शिक्षा, प्रशिक्षण और चिकित्सा सेवाओं में निवेश किया जाता है तो वही जनसंख्या मानव पूँजी में बदल जाती है"
+    },
+    {
+      "concept": "सकल और विलास की कहानी",
+      "say": "Ab ek kahani se samajhte hain — दो मित्र, विलास और सकल, एक ही गाँव सेमापुर में रहते थे. Sakal ki umar 12 saal thi. Maa Sheela ghar ka kaam karti thi, pita Boota Chaudhary khet mein kaam karte the. Sakal ghar ke kaam mein madad karta, chhote bhai Jeetu aur behen Seetu ki dekhbhal karta. Uncle Shyam matric pass tha lekin berozgar. Boota aur Sheela chahte the ki Sakal padhe — unhone usko village school mein daal diya. Usne Higher Secondary pass ki. Phir pita ne loan leke computer vocational course karwaya. Sakal mehnati tha, course poora kiya, private firm mein job mili, naya software design kiya jisse firm ki sales badhi, boss ne promotion diya. Yeh hi human capital hai! Ab Vilas — 11 saal, same village. Pita Mahesh machhuaara the, Vilas ke 2 saal ki umar mein mar gaye. Maa Geeta zamindar ke talab se machli kharidkar mandi mein bechti, din bhar sirf ₹150. Vilas गठिया ka patient bana, doctor dikhane ke paise nahi, school nahi gaya, padhai mein ruchi nahi. Maa ke saath khana pakata, bhai Mohan ki dekhbhal. Baad mein maa bimar, koi madad nahi — Vilas bhi machli bechne laga, kam kamai. Antar clear hai: Sakal school gaya, healthy raha, computer degree, private firm job, higher productivity. Vilas school nahi, arthritis, no doctor, same low-skill work as mother, unskilled wage. Education ne Sakal ke labour ki quality badhai — productivity up, country growth mein yogdan, usko salary return mili.",
+      "example": "सकल = स्कूल + स्वास्थ्य + कंप्यूटर कोर्स → अच्छी नौकरी; विलास = बिना स्कूल/डॉक्टर → माँ जैसा अकुशल काम और कम आय।",
+      "board_lines": [
+        "सकल: शिक्षा + स्वास्थ्य → उच्च उत्पादकता + वेतन",
+        "विलास: शिक्षा/स्वास्थ्य नहीं → अकुशल श्रम, कम आय",
+        "शिक्षा श्रम की गुणवत्ता बढ़ाती है"
+      ],
+      "common_mistake": "Students सोचते हैं कि दोनों की किस्मत अलग थी — वास्तव में अंतर शिक्षा और स्वास्थ्य सेवा के निवेश का है।",
+      "memory_trick": "Sakal = Skill + School; Vilas = Vague future (bina invest) — S vs V याद रखो!",
+      "gesture_action": "बाईं तरफ चढ़ते सीढ़ी के इशारे (सकल ऊपर जा रहा), दाईं तरफ एक जगह खड़े रहना (विलास रुका हुआ)।",
+      "real_life_examples": [
+        "ITI/कंप्यूटर कोर्स करके मैकेनिक या डेटा एंट्री जॉब — सकल जैसा रास्ता",
+        "बिना पढ़े परिवार का पारंपरिक कम वेतन वाला काम जारी रखना — विलास जैसा चक्र"
+      ],
+      "worked_example": {
+        "problem": "सकल और विलास के बीच दो प्रमुख अंतर लिखिए और बताइए कि इससे मानव पूँजी कैसे सिद्ध होती है।",
+        "steps": [
+          "अंतर 1: शिक्षा — सकल स्कूल/कंप्यूटर कोर्स, विलास स्कूल नहीं गया",
+          "अंतर 2: स्वास्थ्य — सकल स्वस्थ, विलास गठिया + डॉक्टर नहीं",
+          "निष्कर्ष: शिक्षा–स्वास्थ्य निवेश → उच्च उत्पादकता/आय = मानव पूँजी"
+        ],
+        "answer": "सकल शिक्षित व स्वस्थ होकर उच्च उत्पादकता वाली नौकरी पा सका; विलास बिना शिक्षा–स्वास्थ्य के अकुशल कम आय वाला काम करता रहा। इससे सिद्ध होता है कि शिक्षा और स्वास्थ्य में निवेश मानव पूँजी बनाता है।"
+      },
+      "practice": {
+        "easy": [
+          "सकल को नौकरी कैसे मिली? एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "विलास की आय कम क्यों रही? शिक्षा और स्वास्थ्य से जोड़कर समझाओ।"
+        ],
+        "hard": [
+          "दोनों कहानियों से सिद्ध करो कि मानव संसाधन में निवेश भूमि और पूँजी में निवेश की तरह प्रतिफल देता है।"
+        ]
+      },
+      "summary": "सकल की शिक्षा–स्वास्थ्य ने उत्पादकता और आय बढ़ाई; विलास के अभाव ने अकुशल कम आय वाला जीवन छोड़ा — यही मानव पूँजी का जीवंत प्रमाण है।",
+      "revision_point": "Sakal vs Vilas = education+health investment vs none → productivity and income gap.",
+      "exam_tip": "तुलनात्मक प्रश्न में बिंदुवार लिखो: शिक्षा, स्वास्थ्य, कौशल, आय, उत्पादकता — टेबल फॉर्मेट marks लाता है।",
+      "source_text_hint": "सकल के मामले में कई वर्षों की शिक्षा ने उसके श्रम की गुणवत्ता बढ़ाई"
+    },
+    {
+      "concept": "मानव संसाधन में निवेश — अच्छा चक्र, दुष्चक्र और जापान",
+      "say": "Bacchon, story ke baad theory strong karte hain. मानव संसाधन में शिक्षा और चिकित्सा सेवा द्वारा निवेश se भविष्य में उच्च प्रतिफल mil sakte hain — jaise land aur capital mein investment. Ek baccha jiski education aur health par invest hua ho, future mein high income aur society ko bada contribution de sakta hai. Interesting observation: शिक्षित माँ-बाप apne bachchon ki education par zyada invest karte hain — kyunki unhone khud education ka mahatva feel kiya. Woh nutrition aur स्वच्छता ke prati bhi alert rehte hain, school education aur good health ka dhyan rakhte hain. Isse एक अच्छा चक्र, virtuous cycle, ban jaata hai. Ulta — स्वयं अशिक्षित aur अस्वच्छता/सुविधावंचित parents एक दुष्चक्र, vicious cycle, bana dete hain aur bachchon ko bhi same deprivation mein rakhte hain. Japan jaise deshon ne natural resources kam hone ke bawajood human resources par invest kiya — especially education aur health. Woh required natural resources import karte hain. Logon ne land aur capital ka efficient use kiya; jo कौशल और प्रौद्योगिकी develop hui, usi se yeh desh धनी/विकसित bane. Toh yaad rakho: natural resource kam ho toh bhi human capital se wealth ban sakti hai. India mein bhi decades tak huge population ko liability maana gaya — lekin education for all, health for all, workers ka modern technology training, scientific research — in investments se ise productive asset banaya ja sakta hai.",
+      "example": "शिक्षित माता-पिता बच्चे को स्कूल भेजते और पोषण देते हैं → बच्चा आगे पढ़कर अच्छी आय पाता है → फिर अपने बच्चों पर निवेश करता है — अच्छा चक्र।",
+      "board_lines": [
+        "शिक्षा + स्वास्थ्य निवेश → उच्च भविष्य प्रतिफल",
+        "अच्छा चक्र (virtuous) vs दुष्चक्र (vicious)",
+        "जापान: प्राकृतिक संसाधन कम, मानव संसाधन निवेश → विकसित"
+      ],
+      "common_mistake": "Students सोचते हैं कि देश तभी अमीर बनता है जब खनिज/तेल हो — जापान दिखाता है कि मानव पूँजी भी विकास का मुख्य इंजन हो सकती है।",
+      "memory_trick": "V-V: Virtuous = Vidyawan parents; Vicious = Vanchit cycle — V se yaad!",
+      "gesture_action": "ऊपर की ओर घूमता चक्र (अच्छा चक्र) और नीचे की ओर गिरता चक्र (दुष्चक्र) हाथों से दिखाओ।",
+      "real_life_examples": [
+        "पढ़े-लिखे परिवार में अगली पीढ़ी भी कॉलेज जाती है — अच्छा चक्र",
+        "बिना स्कूल वाले माता-पिता के बच्चे अक्सर जल्दी काम पर लग जाते हैं — दुष्चक्र का खतरा"
+      ],
+      "worked_example": {
+        "problem": "जापान जैसे देश प्राकृतिक संसाधनों के अभाव के बावजूद विकसित कैसे बने?",
+        "steps": [
+          "याद करो: उन्होंने मानव संसाधन — शिक्षा और स्वास्थ्य — में निवेश किया",
+          "आवश्यक प्राकृतिक संसाधन आयात किए",
+          "लोगों ने भूमि/पूँजी का कुशल उपयोग और प्रौद्योगिकी विकसित की"
+        ],
+        "answer": "जापान ने शिक्षा और स्वास्थ्य में भारी निवेश कर मानव संसाधन विकसित किया; आवश्यक प्राकृतिक संसाधन आयात किए और कुशलता व प्रौद्योगिकी से भूमि व पूँजी का कुशल उपयोग कर धनी/विकसित बने।"
+      },
+      "practice": {
+        "easy": [
+          "अच्छा चक्र और दुष्चक्र क्या हैं? एक-एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "शिक्षित माता-पिता बच्चों की शिक्षा पर अधिक निवेश क्यों करते हैं?"
+        ],
+        "hard": [
+          "सिद्ध कीजिए कि विशाल जनसंख्या आवश्यक नहीं कि दायित्व हो — निवेश के मार्ग बताइए।"
+        ]
+      },
+      "summary": "शिक्षा–स्वास्थ्य निवेश अच्छा चक्र बनाता है; अभाव दुष्चक्र बनाता है — जापान सिद्ध करता है कि मानव संसाधन निवेश से विकास संभव है।",
+      "revision_point": "Virtuous vs vicious cycle; Japan = invest in people, import nature, become rich.",
+      "exam_tip": "जापान उदाहरण 3–5 अंक के 'कैसे विकसित बने' प्रश्नों में बहुत आता है — शिक्षा+स्वास्थ्य+कुशल उपयोग तीन बिंदु लिखो।",
+      "source_text_hint": "जापान जैसे देशों ने मानव संसाधन पर निवेश किया है। उनके पास कोई प्राकृतिक संसाधन नहीं था"
+    },
+    {
+      "concept": "आर्थिक क्रियाकलाप — प्राथमिक, द्वितीयक और तृतीयक क्षेत्रक",
+      "say": "Ab activities classify karte hain. Vilas machli bechta tha, Sakal firm mein job — alag-alag कामकलाप. NCERT teen major sectors batata hai. प्राथमिक क्षेत्रक: कृषि, वानिकी, पशुपालन, मत्स्यपालन, मुर्गीपालन, खनन एवं उत्खनन. द्वितीयक क्षेत्रक: विनिर्माण — matlab manufacturing, raw material se finished goods. तृतीयक क्षेत्रक: व्यापार, परिवहन, संचार, बैंकिंग, बीमा, शिक्षा, स्वास्थ्य, पर्यटन सेवाएँ इत्यादि. Is sector ki activities se वस्तुएँ और सेवाएँ produce hoti hain aur राष्ट्रीय आय mein मूल्य-वर्धन hota hai. Aisi क्रियाएँ आर्थिक क्रियाएँ kehlati hain. Activity practice: Vilas gaon ke bazaar mein machli bechta hai — economic. Vilas family ke liye khana pakata hai — non-economic side par discuss hoga aage. Sakal private firm mein kaam — economic. Sakal chhote bhai-behen ki dekhbhal — unpaid care. Classification tip: nature se seedha nikaalna = primary; factory mein banana = secondary; service dena = tertiary. Doctor, teacher tertiary; factory worker secondary; farmer/machhuaara primary. Figure 2.3 jaise pictures se bhi sectors pehchano. Yaad rakho: teen sectors milkar national income mein value add karte hain — isi liye inhe economic activities kehte hain jab production of goods/services ho rahi ho.",
+      "example": "मछुआरा मछली पकड़े (प्राथमिक) → फैक्टरी में डिब्बाबंद मछली बने (द्वितीयक) → ट्रक और दुकान बेचे (तृतीयक)।",
+      "board_lines": [
+        "प्राथमिक: कृषि, वानिकी, पशु/मत्स्य/मुर्गी पालन, खनन",
+        "द्वितीयक: विनिर्माण (manufacturing)",
+        "तृतीयक: व्यापार, बैंक, शिक्षा, स्वास्थ्य, पर्यटन…"
+      ],
+      "common_mistake": "Students मछली बेचने को सिर्फ तृतीयक मान लेते हैं — पकड़ना प्राथमिक है; बाज़ार में बेचना व्यापार/सेवा पक्ष से जुड़ सकता है। संदर्भ देखो।",
+      "memory_trick": "P-D-T: Primary–Nature, Dwitiya–Factory, Tertiary–Service — 'प्रकृति–डब्बा–सेवा'!",
+      "gesture_action": "ज़मीन से उठाना (प्राथमिक), हाथों से बनाना (द्वितीयक), सेवा देते हुए झुकना/सहायता (तृतीयक)।",
+      "real_life_examples": [
+        "गाँव में गेहूँ की कटाई — प्राथमिक; आटा चक्की — द्वितीयक; किराने की दुकान — तृतीयक",
+        "स्कूल टीचर और नर्स — तृतीयक क्षेत्रक की सेवाएँ"
+      ],
+      "worked_example": {
+        "problem": "निम्नलिखित को क्षेत्रक में वर्गीकृत कीजिए: (i) कोयला खनन (ii) कपड़ा मिल (iii) बैंक कर्मचारी।",
+        "steps": [
+          "कोयला खनन = प्रकृति से निष्कर्षण → प्राथमिक",
+          "कपड़ा मिल = विनिर्माण → द्वितीयक",
+          "बैंक कर्मचारी = सेवा → तृतीयक"
+        ],
+        "answer": "(i) प्राथमिक (ii) द्वितीयक (iii) तृतीयक।"
+      },
+      "practice": {
+        "easy": [
+          "तीन प्रमुख क्षेत्रकों के नाम लिखो।"
+        ],
+        "medium": [
+          "प्राथमिक और तृतीयक क्षेत्रक में दो-दो उदाहरण देकर अंतर स्पष्ट करो।"
+        ],
+        "hard": [
+          "अपने इलाके की पाँच गतिविधियों की सूची बनाकर प्रत्येक को सही क्षेत्रक में रखो और बताओ वे राष्ट्रीय आय में मूल्य-वर्धन कैसे करती हैं।"
+        ]
+      },
+      "summary": "आर्थिक क्रियाकलाप तीन क्षेत्रकों — प्राथमिक, द्वितीयक, तृतीयक — में बँटते हैं; ये वस्तु/सेवा उत्पादन से राष्ट्रीय आय में मूल्य जोड़ते हैं।",
+      "revision_point": "Primary=nature extract; Secondary=manufacturing; Tertiary=services; all can add national income value.",
+      "exam_tip": "वर्गीकरण प्रश्नों में परिभाषा कम, उदाहरण ज़्यादा — हर क्षेत्रक के कम से कम तीन उदाहरण याद रखो।",
+      "source_text_hint": "विभिन्न क्रियाकलापों को तीन प्रमुख क्षेत्रकों-प्राथमिक, द्वितीयक और तृतीयक में वर्गीकृत किया गया है"
+    },
+    {
+      "concept": "बाज़ार एवं गैर-बाज़ार क्रियाएँ और महिलाओं का कार्य",
+      "say": "Bacchon, economic activities ke do hissa hain — बाज़ार क्रियाएँ और गैर-बाज़ार क्रियाएँ. बाज़ार क्रियाओं mein वेतन या लाभ ke uddeshya se ki gayi activities ke liye पारिश्रमिक ka payment hota hai — goods/services ka production including government service. गैर-बाज़ार क्रियाएँ = स्व-उपभोग ke liye production; primary products ka consumption/processing aur अचल संपत्तियों ka स्वलेखा उत्पादन. Historical-cultural reasons se ghar mein labour division: usually women ghar ka kaam, men fields. Sakal ki maa Sheela khana pakati, bartan, kapde, safai, bachchon ki dekhbhal — payment nahi milta. Pita Boota khet mein kaam, bazaar mein bechta, family ke liye paise kamata. Sheela ki unpaid services national income mein nahi jodi jaati. Jab Vilas ki maa Geeta machli bechkar income kamati thi — tab women ko payment milta hai jab woh labour market mein enter karti hain. Education person ke available economic opportunities ka better use karwati hai; education aur skills market mein income ke major determinants hain. Most women ke paas kam education aur low skills — men se kam पारिश्रमिक, job security kam, legal protection kam, irregular employment, low income; maternity leave, childcare, social security aksar nahi. Lekin उच्च शिक्षा और उच्च कौशल wali women ko men ke barabar salary milti hai. Organised sector mein teaching aur medicine unhe attract karte hain; kuch women administrative aur scientific-technological services mein bhi aayi hain.",
+      "example": "शीला घर में खाना बनाती है — भुगतान नहीं, राष्ट्रीय आय में नहीं; गीता बाज़ार में मछली बेचती है — भुगतान मिलता है, यह बाज़ार क्रिया है।",
+      "board_lines": [
+        "बाज़ार क्रिया = वेतन/लाभ हेतु पारिश्रमिक",
+        "गैर-बाज़ार = स्व-उपभोग हेतु उत्पादन",
+        "घरेलू अवैतनिक सेवाएँ प्रायः राष्ट्रीय आय में नहीं"
+      ],
+      "common_mistake": "Students सोचते हैं कि घर का काम आर्थिक महत्व नहीं रखता — महत्व है, पर भुगतान न होने से अक्सर राष्ट्रीय आय में नहीं गिना जाता।",
+      "memory_trick": "B-G: बाज़ार = पैसा (Bazaar=Buck); गैर = घर का बिना पे (Ghar/Gratis)।",
+      "gesture_action": "एक हाथ में नोट दिखाकर 'बाज़ार', दोनों हाथ जोड़कर घर का काम दिखाकर 'गैर-बाज़ार/अवैतनिक'।",
+      "real_life_examples": [
+        "माँ का घर का काम vs किराना दुकान में काम करने वाली महिला की मज़दूरी",
+        "उच्च शिक्षा प्राप्त महिला डॉक्टर/अध्यापिका — पुरुषों के बराबर वेतन का उदाहरण"
+      ],
+      "worked_example": {
+        "problem": "बताइए आर्थिक हैं या गैर-आर्थिक / बाज़ार या गैर-बाज़ार: (a) विलास बाज़ार में मछली बेचता है (b) विलास परिवार के लिए खाना पकाता है।",
+        "steps": [
+          "(a) बेचना → पारिश्रमिक/आय उद्देश्य → बाज़ार आर्थिक क्रिया",
+          "(b) परिवार के लिए पकाना → स्व-उपभोग/अवैतनिक → गैर-बाज़ार",
+          "दोनों में अंतर भुगतान और बाज़ार उद्देश्य से स्पष्ट करो"
+        ],
+        "answer": "(a) बाज़ार आर्थिक क्रिया (आय हेतु)। (b) गैर-बाज़ार क्रिया (परिवार हेतु अवैतनिक/स्व-उपभोग)।"
+      },
+      "practice": {
+        "easy": [
+          "बाज़ार क्रिया और गैर-बाज़ार क्रिया में एक अंतर लिखो।"
+        ],
+        "medium": [
+          "शीला की घरेलू सेवाएँ राष्ट्रीय आय में क्यों नहीं जोड़ी जातीं?"
+        ],
+        "hard": [
+          "महिलाओं को प्रायः कम पारिश्रमिक क्यों मिलता है? उच्च शिक्षा/कौशल वाली महिलाओं की स्थिति कैसे अलग है?"
+        ]
+      },
+      "summary": "बाज़ार क्रियाओं में भुगतान होता है; घरेलू अवैतनिक सेवाएँ अक्सर राष्ट्रीय आय से बाहर रहती हैं — शिक्षा–कौशल महिलाओं की आय और सुरक्षा सुधारते हैं।",
+      "revision_point": "Market=paid for wage/profit; non-market=self-consumption; unpaid domestic work often outside national income.",
+      "exam_tip": "शीला बनाम गीता का उदाहरण लिखो — examiner unpaid domestic work vs market work clearly देखना चाहता है।",
+      "source_text_hint": "परिवार के लिए दी गई सेवाओं के बदले महिलाओं को भुगतान नहीं किया जाता। उनकी सेवाओं को राष्ट्रीय आय में नहीं जोड़ा जाता"
+    },
+    {
+      "concept": "जनसंख्या की गुणवत्ता",
+      "say": "Ab aate hain जनसंख्या की गुणवत्ता par. NCERT kehta hai — population ki quality तीन चीज़ों par depend karti hai: (1) साक्षरता-दर, (2) जीवन-प्रत्याशा se निरूपित व्यक्तियों का स्वास्थ्य, aur (3) देश के लोगों द्वारा प्राप्त कौशल निर्माण. Yeh quality अंततः देश की संवृद्धि-दर determine karti hai. साक्षर और स्वस्थ जनसंख्या परिसंपत्तियाँ होती हैं. Socho Sakal — early years ki education ne baad mein good job aur salary di; education uske liye important input thi — naye क्षितिज, nayi आकांक्षाएँ, life values. Education sirf individual ko nahi, society ke development mein bhi yogdan deti hai — national income aur सांस्कृतिक समृद्धि badhati hai, प्रशासन की कार्य-क्षमता badhati hai. National Education Policy 1986 ka message bhi yahi hai — व्यक्ति एक सकारात्मक परिसंपत्ति और कीमती राष्ट्रीय संसाधन hai jise carefully गतिशीलता ke saath संजोना, पोषित और विकसित karna chahiye; har व्यक्ति ki development problems alag hoti hain, isliye education ki उत्प्रेरक भूमिका बड़ी संवेदनशीलता se prepare aur implement honi chahiye. Class tip: jab bhi 'quality of population' poochhein, teen pillars likho — literacy, health/life expectancy, skill formation. Quantity alag baat hai (kitne log), quality alag (kitne capable aur productive). High quality population = asset for growth rate. Yaad rakho: bina quality ke sirf संख्या देश को आगे नहीं ले जाती.",
+      "example": "दो देशों की जनसंख्या संख्या बराबर हो, पर एक में साक्षरता, स्वास्थ्य और कौशल ऊँचे हों तो उसकी संवृद्धि दर प्रायः बेहतर होगी।",
+      "board_lines": [
+        "गुणवत्ता = साक्षरता + स्वास्थ्य (जीवन-प्रत्याशा) + कौशल",
+        "साक्षर व स्वस्थ जनसंख्या = परिसंपत्ति",
+        "गुणवत्ता → देश की संवृद्धि-दर"
+      ],
+      "common_mistake": "Students जनसंख्या की संख्या को ही गुणवत्ता मान लेते हैं — गुणवत्ता साक्षरता, स्वास्थ्य और कौशल से मापी जाती है।",
+      "memory_trick": "L-H-S: Literacy–Health–Skills — जनसंख्या की गुणवत्ता का LHS फॉर्मूला!",
+      "gesture_action": "तीन उंगलियाँ उठाओ — L, H, S — और फिर ऊपर की ओर तीर दिखाकर 'संवृद्धि' बोलो।",
+      "real_life_examples": [
+        "गाँव में साक्षर युवा कौशल प्रशिक्षण लेकर बेहतर मज़दूरी पाते हैं",
+        "टीकाकरण और पोषण से स्वस्थ बच्चे स्कूल में बेहतर प्रदर्शन करते हैं"
+      ],
+      "worked_example": {
+        "problem": "जनसंख्या की गुणवत्ता किन बातों पर निर्भर करती है? यह देश के लिए क्यों महत्वपूर्ण है?",
+        "steps": [
+          "तीन आधार लिखो: साक्षरता-दर, जीवन-प्रत्याशा/स्वास्थ्य, कौशल निर्माण",
+          "जोड़ो: साक्षर-स्वस्थ जनसंख्या परिसंपत्ति",
+          "महत्व: संवृद्धि-दर निर्धारित करती है"
+        ],
+        "answer": "जनसंख्या की गुणवत्ता साक्षरता-दर, जीवन-प्रत्याशा से निरूपित स्वास्थ्य और कौशल निर्माण पर निर्भर करती है। यह अंततः देश की संवृद्धि-दर निर्धारित करती है; साक्षर व स्वस्थ जनसंख्या परिसंपत्ति होती है।"
+      },
+      "practice": {
+        "easy": [
+          "जनसंख्या की गुणवत्ता के तीन निर्धारक लिखो।"
+        ],
+        "medium": [
+          "शिक्षा व्यक्ति और समाज दोनों को कैसे लाभ पहुँचाती है? दो-दो बिंदु लिखो।"
+        ],
+        "hard": [
+          "राष्ट्रीय शिक्षा नीति, 1986 के अंश के अनुसार व्यक्ति को राष्ट्रीय संसाधन क्यों कहा गया है? शिक्षा की भूमिका स्पष्ट करो।"
+        ]
+      },
+      "summary": "जनसंख्या की गुणवत्ता साक्षरता, स्वास्थ्य और कौशल से बनती है — यही देश की संवृद्धि और परिसंपत्ति का आधार है।",
+      "revision_point": "Quality of population = literacy + health (life expectancy) + skills → growth rate.",
+      "exam_tip": "परिभाषा में तीनों घटक एक साथ लिखो; सिर्फ 'शिक्षा' लिखने से अंक कटते हैं।",
+      "source_text_hint": "जनसंख्या की गुणवत्ता साक्षरता-दर, जीवन-प्रत्याशा से निरूपित व्यक्तियों के स्वास्थ्य और देश के लोगों द्वारा प्राप्त कौशल निर्माण पर निर्भर करती है"
+    },
+    {
+      "concept": "शिक्षा — साक्षरता और सरकारी प्रयास",
+      "say": "Last big section — शिक्षा. Education national income, cultural richness aur administrative efficiency badhati hai. Primary education mein public access, retention aur quality ka provision; girls par special focus. Navodaya Vidyalaya har जिले mein; vocational streams for high school; education plan outlay pehli पंचवर्षीय योजना ke ₹151 crore se 2020-21 mein ₹99,300 crore. GDP ke percentage mein education expenditure 1951-52 ke 0.64% se 2019-20 mein 3.1% (budget estimate); 2020-21 mein documents ke anusar 2.8%. Literacy rate 1951 ke 18% se 2018 mein 85% tak badhi. Literacy har citizen ka right bhi hai aur duties/rights sahi se nibhane ke liye जरूरी bhi. Phir bhi gaps: पुरुषों में साक्षरता महिलाओं से करीब 16% अधिक; नगरीय क्षेत्रों में ग्रामीण से करीब 14.2% अधिक. 2011: Kerala ke kuch जिलों mein 94%, Bihar mein 62%. Primary school system bahut गाँवों तक फैला, lekin निम्न स्तर और पढ़ाई छोड़ने की उच्च दर ne कमज़ोर kiya. समग्र शिक्षा — pre-school se class 12 tak; equal opportunity aur equal learning outcomes; SDG ke anuroop inclusive quality education. Mid-day meal — attendance, retention, nutrition improve. Higher education: 12th plan mein 18–23 age group enrolment 2020-21 mein 27% tak — world average ke kareeb; strategy: access, quality, state curriculum flexibility, vocationalisation, IT network, distance/formal/informal education. Discuss: 1951 se literacy badhi? Highest year? Why male literacy higher? How calculate literacy? Your 2025 forecast?",
+      "example": "मध्याह्न भोजन योजना से बच्चे स्कूल आते हैं, उपस्थिति और पोषण दोनों सुधरते हैं — शिक्षा के विस्तार को धारण से जोड़ने का प्रयास।",
+      "board_lines": [
+        "साक्षरता: 1951 ≈ 18% → 2018 ≈ 85%",
+        "व्यय↑: ₹151 करोड़ → ₹99,300 करोड़ (2020-21)",
+        "समग्र शिक्षा + मध्याह्न भोजन → पहुँच, धारण, पोषण"
+      ],
+      "common_mistake": "Students सिर्फ साक्षरता प्रतिशत याद रखते हैं, पर लिंग/ग्रामीण-शहरी/राज्य अंतर भूल जाते हैं — examiner अक्सर अंतर पूछता है।",
+      "memory_trick": "18 → 85: 'उन्नीस सौ इक्यावन से अठारह, दो हज़ार अठारह में पचासी' — साक्षरता की सीढ़ी!",
+      "gesture_action": "हाथ नीचे से ऊपर उठाते हुए साक्षरता ग्राफ़ दिखाओ; फिर लड़का-लड़की दोनों तरफ बराबर ऊँचाई का इशारा (लैंगिक समानता)।",
+      "real_life_examples": [
+        "नवोदय विद्यालय — जिले के मेधावी बच्चों के लिए आवासीय स्कूल",
+        "स्कूल में मिड-डे मील — बच्चे दोपहर का भोजन स्कूल में पाते हैं"
+      ],
+      "worked_example": {
+        "problem": "भारत में साक्षरता-दर में सुधार के दो प्रमाण और दो चुनौतियाँ लिखिए।",
+        "steps": [
+          "प्रमाण: 1951 के 18% से 2018 में 85%; शिक्षा व्यय और समग्र शिक्षा/मिड-डे मील जैसे प्रयास",
+          "चुनौतियाँ: पुरुष-महिला अंतर (~16%), ग्रामीण-शहरी अंतर (~14.2%), राज्य अंतर (केरल 94% vs बिहार 62%), ड्रॉपआउट/निम्न गुणवत्ता",
+          "उत्तर बिंदुवार लिखो"
+        ],
+        "answer": "प्रमाण: साक्षरता 18% (1951) से 85% (2018); शिक्षा पर व्यय और योजनाओं में भारी वृद्धि। चुनौतियाँ: लिंग व ग्रामीण-शहरी अंतर, राज्य-स्तरीय असमानता, पढ़ाई छोड़ना और शिक्षा की गुणवत्ता।"
+      },
+      "practice": {
+        "easy": [
+          "1951 और 2018 की साक्षरता-दर लिखो।"
+        ],
+        "medium": [
+          "समग्र शिक्षा योजना का मुख्य उद्देश्य क्या है?"
+        ],
+        "hard": [
+          "आरेख/रुझान के आधार पर बताओ: पुरुषों की साक्षरता महिलाओं से अधिक क्यों है? भारत में साक्षरता-दर सुधारने के तीन सरकारी उपाय सुझाओ/याद करो।"
+        ]
+      },
+      "summary": "शिक्षा व्यय और योजनाओं से साक्षरता बढ़ी है, पर लिंग–क्षेत्र–राज्य अंतर और ड्रॉपआउट चुनौती हैं; समग्र शिक्षा व मध्याह्न भोजन सुधार के औज़ार हैं।",
+      "revision_point": "Literacy 18%→85%; spend up; gaps remain; Samagra Shiksha + MDM key policies.",
+      "exam_tip": "आँकड़े exact याद रखो: 18%, 85%, 16% लिंग अंतर, 14.2% शहरी-ग्रामीण, केरल 94%, बिहार 62%, व्यय 151 करोड़→99,300 करोड़।",
+      "source_text_hint": "इससे साक्षरता-दर 1951 के 18 प्रतिशत से बढ़कर 2018 में 85 प्रतिशत हो गई है"
+    }
+  ]
+}
