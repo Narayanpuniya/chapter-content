@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 618,
+    "chapter_name": "व्यापार से साम्राज्य तक",
+    "chapter_number": 3,
+    "book_name": "Class 8 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 8",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 8 History ke Chapter 3 — व्यापार से साम्राज्य तक — padhenge. Is chapter mein dikhaya gaya hai ki aurangzeb ke baad Mughal shakti kaise kamzor hui, aur East India Company pehle sirf ek chhoti trading company thi. Phir Bengal mein factory, farman, Plassey, Buxar aur Diwani ke zariye woh kaise trade se territory tak pahunchi — Residents aur Subsidiary Alliance ke saath.",
+    "welcome": "Good morning, class! Aaj Smart Board par ek bahut important story shuru karte hain — व्यापार से साम्राज्य तक. Socho: ek company pehle kapda, mirch aur elaichi kharidne aayi thi… aur ek din usi company ne poore Bengal ka revenue control kar liya! Kaise hua yeh badlav? Aaj hum wahi journey samjhenge — step by step, classroom style. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "Aurangzeb ke baad Mughal power ke kamzor hone aur regional riyasaton ke uday ko explain karna",
+      "1600 ke charter se East India Company ke aane aur European companies ki competition ko samajhna",
+      "Bengal mein factory, farman, Nawabs ke saath conflict, Plassey aur Buxar ke results batana",
+      "Diwani, puppet Nawabs, ‘Nabobs’, Residents aur Subsidiary Alliance se Company rule expand hone ko link karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "मुग़ल शक्ति का पतन और अंग्रेज़ों का उदय"
+      },
+      {
+        "number": 2,
+        "name": "पूर्व में ईस्ट इंडिया कंपनी का आना"
+      },
+      {
+        "number": 3,
+        "name": "यूरोपीय कंपनियों की प्रतिस्पर्धा और हथियारों वाला व्यापार"
+      },
+      {
+        "number": 4,
+        "name": "ईस्ट इंडिया कंपनी बंगाल में व्यापार शुरू करती है"
+      },
+      {
+        "number": 5,
+        "name": "व्यापार से युद्धों तक – बंगाल के नवाबों से टकराव"
+      },
+      {
+        "number": 6,
+        "name": "प्लासी का युद्ध"
+      },
+      {
+        "number": 7,
+        "name": "प्लासी के बाद – कठपुतली नवाब, बक्सर और दीवानी"
+      },
+      {
+        "number": 8,
+        "name": "नबॉब और कंपनी का फैलता शासन"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "मुग़ल शक्ति का पतन और अंग्रेज़ों का उदय",
+      "say": "Bacchon, chapter shuru karte hain ek bade sawaal se. Mughal badshahon mein Aurangzeb aakhiri shaktishali badshah the. Unhone vartaman Bharat ke ek bahut bade hisse par control sthapit kar liya tha. Lekin 1707 mein unki mrityu ke baad bahut saare Mughal subedars aur bade-bade zamindar apni taakat dikhane lage. Unhone apni kshetriya riyasatein kaayam kar liin. Jaise-jaise vividh bhagon mein taakatwar kshetriya riyasatein saamne aane lagiin, Delhi adhik dinon tak prabhavi kendra ke roop mein nahi rah saki. Ab important turn: atharahvin sadi ke uttarardh tak political horizon par Angrezon ke roop mein ek nayi taakat ubharne lagi thi. Kya aap jaante hain ki Angrez pehle-pahal ek chhoti-si vyaparik company ke roop mein Bharat aaye the, aur yahaan ke ilakon par kabze mein unki zyada dilchaspi nahi thi? Toh phir aisa kaise hua ki ek din ve is vishal samrajya ke swami ban baithe? Isi chapter mein hum dekhenge ki yeh kaise hua. Ek aur baat yaad rakho — Aurangzeb ke baad koi Mughal badshah itna taakatwar nahi hua, lekin ek prateek ke roop mein Mughal badshahon ka mahatva bana raha. Jab 1857 mein British shasan ke viruddha bhari vidroh shuru hua, toh vidrohiyon ne Mughal badshah Bahadur Shah Zafar ko hi apna neta maan liya. Jab vidroh kuchal diya gaya, toh Company ne Bahadur Shah Zafar ko desh chhodne ke liye majboor kar diya aur unke beton ko Zafar ke saamne hi maar daala. Pehla idea clear: Mughal centre kamzor → regional powers ↑ → Angrez nayi force.",
+      "example": "School mein principal ke jaane ke baad agar har class teacher alag-alag rules chalaane lage, toh school ka centre kamzor ho jaata hai — bilkul jaise Delhi ke baad regional riyasatein strong ho gayiin.",
+      "board_lines": [
+        "1707: Aurangzeb ki mrityu → Mughal centre kamzor",
+        "Subedars + zamindars → kshetriya riyasatein",
+        "18th century uttarardh: Angrez nayi political taakat"
+      ],
+      "common_mistake": "Students sochte hain Aurangzeb ke turant baad hi Angrez poora Bharat jeet gaye — galat. Pehle regional powers aayiin; Angrez pehle traders the, baad mein power bane.",
+      "memory_trick": "A-R-E: Aurangzeb ends → Regions rise → English emerge.",
+      "gesture_action": "Pehle dono haath se ‘strong crown’ dikhao (Aurangzeb), phir haath tod kar alag-alag sides mein failao (regional powers), phir ek chhota trade bag uthakar aage badho (Company).",
+      "real_life_examples": [
+        "Badi dukaan chain ka head office weak hone par local managers apni dukaan alag chalaane lagen — centre ka control kam",
+        "Village panchayat ka sarpanch weak ho toh alag-alag groups apni taakat dikhate hain"
+      ],
+      "worked_example": {
+        "problem": "‘Aurangzeb ke baad Mughal badshahon ka koi mahatva nahi raha.’ Sahi ya galat? Reason do.",
+        "steps": [
+          "Source recall: koi badshah Aurangzeb jitna taakatwar nahi hua",
+          "Lekin prateek ke roop mein Mughal badshah mahatvapurna rahe",
+          "1857 mein vidrohiyon ne Bahadur Shah Zafar ko neta maana — isliye statement galat"
+        ],
+        "answer": "Galat. Power kam thi, lekin Mughal badshah prateek ke roop mein important rahe; 1857 mein Bahadur Shah Zafar ko neta maana gaya."
+      },
+      "practice": {
+        "easy": [
+          "Aurangzeb ki mrityu kis saal hui?"
+        ],
+        "medium": [
+          "Aurangzeb ke baad Delhi prabhavi kendra kyun nahi rah saka? Do points likho."
+        ],
+        "hard": [
+          "Explain karo: Angrez pehle chhoti trading company the, phir bhi 18th century ke uttarardh mein nayi political taakat kaise ban gaye — chapter ke opening ke aadhar par."
+        ]
+      },
+      "summary": "1707 ke baad Mughal centre kamzor hua, regional riyasatein ubhariin, aur 18th century ke uttarardh mein Angrez nayi political force ban kar aaye.",
+      "revision_point": "1707 → Mughal decline; regional powers rise; English emerge later as new force; 1857 mein Bahadur Shah Zafar still a symbol.",
+      "exam_tip": "Opening 3-mark mein hamesha teen points: Aurangzeb last strong emperor; regional riyasatein; English as new power — sequence mein likho.",
+      "source_text_hint": "मुग़ल बादशाहों में औरंगज़ेब आख़िरी शक्तिशाली बादशाह थे"
+    },
+    {
+      "concept": "पूर्व में ईस्ट इंडिया कंपनी का आना",
+      "say": "Ab section — पूर्व में ईस्ट इंडिया कंपनी का आना. San 1600 mein East India Company ne England ki maharani Elizabeth I se charter yani ijazatnama haasil kar liya. Isse Company ko poorab se vyapar karne ka ekadhikar mil gaya. Matlab: England ki koi aur vyaparik company is ilake mein East India Company se hod nahi kar sakti thi. Is charter ke sahare Company samudra paar jakar naye ilakon ko khangaal sakti thi, wahan se sasti keemat par cheezein kharid kar unhein Europe mein oonchi keemat par bech sakti thi. Company ko doosri Angrezi companies se pratispardha ka koi bhay nahi tha. Us zamane mein vanijyik companies pratispardha se bachkar hi munafa kama sakti thiin. Lekin yeh shahi dastavez doosri European taakaton ko poorab ke bazaaron mein aane se nahi rok sakta tha. Jab tak England ke jahaaz Africa ke pashchim tat ko chhoote hue Cape of Good Hope ka chakkar lagaakar Hind Mahasagar paar karte, tab tak Portuguese ne Bharat ke pashchimi tat par apni upasthiti darj kara di thi. Ve Goa mein apna thikana bana chuke the. Portugal ke khoji yatri Vasco da Gama ne 1498 mein pehli baar Bharat tak pahunchne ke is samudri marg ka pata lagaya tha. Satrahvin shatabdi ki shuruaat tak Dutch bhi Hind Mahasagar mein vyapar ki sambhavnayein talashne lage the. Kuch hi samay baad French vyapari bhi saamne aa gaye. Board tip: Charter = monopoly only against other English traders, not against Portuguese/Dutch/French.",
+      "example": "School canteen mein agar sirf ek student ko chip packets bechne ka monopoly mile — doosre students nahi bech sakte — lekin bahar se koi aur dukaan aa sakti hai. Bilkul jaise Company ka charter sirf English rivals rokta tha.",
+      "board_lines": [
+        "1600: Queen Elizabeth I → Charter / ijazatnama to EIC",
+        "Charter = English monopoly for Eastern trade (not against other Europeans)",
+        "Portuguese (Goa; Vasco da Gama 1498) → then Dutch → then French"
+      ],
+      "common_mistake": "Students sochte hain 1600 ke charter ne saari duniya ki companies ko rok diya — galat. Yeh sirf England ki doosri companies ko rokta tha; Portuguese, Dutch, French aaye.",
+      "memory_trick": "C-P-D-F: Charter 1600 → Portuguese first → Dutch → French.",
+      "gesture_action": "Ek student ko ‘Queen’ banao jo ‘charter paper’ de; doosre students Portuguese/Dutch/French banakar alag taraf se aayein — dikhao ki charter unhe nahi rokta.",
+      "real_life_examples": [
+        "Ek brand ko city mein exclusive dealership mile, lekin foreign brands phir bhi aa sakte hain",
+        "Class monitor ko ek kaam ka exclusive right — lekin dusri class ke students alag kaam kar sakte hain"
+      ],
+      "worked_example": {
+        "problem": "East India Company ko 1600 mein kya mila, aur iska matlab kya tha? Doosri European powers isse kaise affect nahi huiin?",
+        "steps": [
+          "1600 mein Queen Elizabeth I se charter/ijazatnama mila",
+          "Iska matlab England ki koi aur trading company Eastern trade mein compete nahi kar sakti thi",
+          "Lekin yeh document Portuguese, Dutch, French ko nahi rok sakta tha"
+        ],
+        "answer": "Company ko Eastern trade ka English monopoly mila; doosri European taakatein is charter se bound nahi thiin, isliye Portuguese (Goa), Dutch aur French aaye."
+      },
+      "practice": {
+        "easy": [
+          "East India Company ne charter kis saal aur kis queen se haasil kiya?"
+        ],
+        "medium": [
+          "Charter/ijazatnama ka matlab apne shabdon mein likho. Yeh kis pratispardha se bachata tha?"
+        ],
+        "hard": [
+          "Vasco da Gama (1498), Portuguese settlement at Goa, aur Dutch-French entry — timeline banaakar batao ki Company ko European competition kyun face karni padi."
+        ]
+      },
+      "summary": "1600 ke charter se EIC ko English monopoly mila, lekin Portuguese, Dutch aur French jaise European rivals poorab ke bazaar mein aa hi gaye.",
+      "revision_point": "1600 Charter = no other English rival; Vasco da Gama 1498; Portuguese in Goa; then Dutch & French.",
+      "exam_tip": "‘What was the Charter of 1600?’ mein do hissen likho: (1) English monopoly (2) other Europeans not stopped.",
+      "source_text_hint": "सन् 1600 में ईस्ट इंडिया कंपनी ने इंगलैंड की महारानी एलिज़ाबेथ प्रथम से चार्टर"
+    },
+    {
+      "concept": "यूरोपीय कंपनियों की प्रतिस्पर्धा और हथियारों वाला व्यापार",
+      "say": "Ab sabse interesting tension — competition. Samasya yeh thi ki saari companies ek jaisi cheezein hi kharidna chahti thiin. Europe ke bazaaron mein Bharat ke bane baarik sooti kapde aur resham ki zabardast maang thi. Inke alawa kali mirch, long, elaichi aur dalchini ki bhi zabardast maang rahti thi. European companies ke beech is badhti pratispardha se Bharatiya bazaaron mein in cheezon ki keematein badhne lagiin aur unse milne wala munafa girne laga. Ab in vyaparik companies ke phalne-phoolne ka yahi ek raasta tha ki ve apni pratispardhi companies ko khatam kar dein. Lihaza, bazaaron par kabze ki is hod ne vyaparik companies ke beech ladaiyon ki shuruaat kar di. Satrahvin aur atharahvin sadi mein jab bhi mauka milta, koi-si ek company kisi doosri company ke jahaaz doobo deti, raaste mein rukavatein khadi kar deti, aur maal se lade jahaazon ko aage badhne se rok deti. Yeh vyapar hathiyaron ki madad se chal raha tha aur vyaparik chowkiyon ko kilebandi ke zariye surakshit rakha jaata tha. Apni bastiyon ko kileband karne aur vyapar mein munafa kamane ki in koshishon ke kaaran sthaniya shasakhon se bhi takrav hone lage. Is prakar, vyapar aur rajniti ko ek-doosre se alag rakhna Company ke liye mushkil hota ja raha tha. Yaad rakho keyword: vanijyik — aisa vyavasayik udyam jismein cheezein sasti keemat par kharidkar aur zyada keemat par bechkar, yani mukhya roop se vyapar ke zariye munafa kamaya jaata hai. Jab trade + guns + forts mil gaye, politics door nahi rahi.",
+      "example": "Do ice-cream sellers ek hi gali mein same flavour bechein toh price war hoti hai; agar dono force use karke ek doosre ko hataayein — trade fight mein badal jaati hai. European companies mein yahi hua.",
+      "board_lines": [
+        "Demand: fine cotton, silk, pepper, cloves, cardamom, cinnamon",
+        "Competition ↑ → Indian prices ↑ → European profits ↓",
+        "Solution tried: eliminate rivals → armed trade + fortified posts → clash with local rulers"
+      ],
+      "common_mistake": "Students sochte hain companies sirf shanti se trade karti thiin — source clearly kehta hai trade hathiyaron ki madad se chal raha tha aur chowkiyan kileband thiin.",
+      "memory_trick": "T-F-F: Trade + Forts + Fight. Competition ne trade ko armed fight bana diya.",
+      "gesture_action": "Do students ko rival companies banao — pehle ‘buy cloth/spices’ act, phir haath se ‘block the ship’ gesture, phir imaginary fort walls banakar local ruler se face-off.",
+      "real_life_examples": [
+        "Do wholesale shops same vegetable market mein — prices up for farmers’ goods if both fight for stock",
+        "School fair stalls same item bechein toh rivalry badhti hai; rules todna = conflict"
+      ],
+      "worked_example": {
+        "problem": "European companies ke beech competition badhne se munafa kyun girne laga? Aur companies ne kya raasta apnaya?",
+        "steps": [
+          "Sab companies same goods (cloth, silk, spices) kharidna chahti thiin",
+          "Demand pressure se Indian market prices badhe → profits gire",
+          "Companies ne rivals ko khatam karne, ships sink/block karne, forts banane ka raasta apnaya"
+        ],
+        "answer": "Same goods ki hod se prices badhe aur profit gira; companies ne armed competition aur fortified trading posts se rivals hatane ki koshish ki, jisse local rulers se bhi clash hua."
+      },
+      "practice": {
+        "easy": [
+          "Europe mein Bharat se kaun-kaun si cheezon ki zabardast maang thi? Kam se kam chaar naam likho."
+        ],
+        "medium": [
+          "Kyun kaha jaata hai ki ‘yeh vyapar hathiyaron ki madad se chal raha tha’? Do examples do."
+        ],
+        "hard": [
+          "‘Vyapar aur rajniti ko alag rakhna mushkil ho gaya’ — competition, forts aur local rulers se takrav ko jodkar paragraph likho."
+        ]
+      },
+      "summary": "Same goods ki European competition ne prices badha diye, profits gira diye; companies ne armed trade aur forts se rivals hataye, jisse local politics mein entry ho gayi.",
+      "revision_point": "Competition → higher Indian prices → lower profits → eliminate rivals → armed trade + forts → clash with rulers.",
+      "exam_tip": "Cause-effect chain likho: competition → price rise → profit fall → wars between companies — examiner sequencing pasand karta hai.",
+      "source_text_hint": "यह व्यापार हथियारों की मदद से चल रहा था"
+    },
+    {
+      "concept": "ईस्ट इंडिया कंपनी बंगाल में व्यापार शुरू करती है",
+      "say": "Ab dekhte hain Bengal story. Pehli English factory 1651 mein Hugli nadi ke kinare shuru hui. Company ke vyapari yahin se apna kaam chalate the. In vyapariyon ko us zamane mein ‘factor’ kaha jaata tha. Is factory mein warehouse tha jahaan niryat hone wali cheezein jama ki jaati thiin. Yahin par uske daftar the jinmein Company ke afsar baithte the. Jaise-jaise vyapar phaila, Company ne saudagaron aur vyapariyon ko factory ke aaspaas aakar basne ke liye prerit kiya. 1696 tak Company ne is aabadi ke charon taraf ek kila banana shuru kar diya tha. Do saal baad usne Mughal afsaron ko rishwat dekar teen gaavon ki zamindari bhi kharid li. Inmein se ek gaon Kalikata tha jo baad mein Calcutta bana — ab Kolkata kaha jaata hai. Company ne Mughal samrat Aurangzeb ko is baat ke liye bhi taiyar kar liya ki woh Company ko bina shulk chukaaye vyapar karne ka farman jaari kar de. Farman matlab ek shahi aadesh. Company zyada se zyada riyayatein haasil karne aur pehle se maujood adhikaron ka zyada se zyada fayda uthane mein lagi hui thi. Example: Aurangzeb ke farman se keval Company ko hi shulk-mukt vyapar ka adhikar mila tha. Company ke jo afsar private trade chalate, unhein yeh chhoot nahi thi. Lekin unhone bhi shulk chukane se inkaar kar diya. Isse Bengal mein rajswa wasooli bahut kam ho gayi. Aise mein bhala Bengal ke Nawab Murshid Quli Khan virodh kyun na karte? Clear lesson: trade concession → misuse by private officers → Nawab angry.",
+      "example": "School mein agar team ko free bus pass mile, lekin team ke friends bhi bina ticket ghumne lagen — school fees collection gir jaaye; principal naraz hoga. Farman misuse bilkul aisa hi tha.",
+      "board_lines": [
+        "1651: first English factory on Hugli; factors + warehouse + offices",
+        "1696 fort; then zamindari of 3 villages (incl. Kalikata → Calcutta)",
+        "Aurangzeb’s farman: duty-free trade for Company (misused by private officers)"
+      ],
+      "common_mistake": "Students sochte hain farman se Company ke har afsar ko private trade par bhi duty-free haq mil gaya — galat. Farman sirf Company ke liye tha; private officers ne galat tareeke se shulk nahi diya.",
+      "memory_trick": "F-F-F: Factory 1651 → Fort 1696 → Farman (duty-free) → Fight with Nawab begins.",
+      "gesture_action": "Ek kone mein ‘warehouse’ box rakho, charon taraf chalk se ‘fort wall’ banao, phir ‘farman paper’ dikhakar ‘no tax’ gesture karo — aur Nawab student protest kare.",
+      "real_life_examples": [
+        "Municipal market mein shop ke aaspaas sellers basna — trade hub banana",
+        "Tax exemption sirf registered cooperative ko mile, lekin members privately misuse karein"
+      ],
+      "worked_example": {
+        "problem": "Murshid Quli Khan Company ka virodh kyun karne lage? Farman ke misuse ko explain karke likho.",
+        "steps": [
+          "Aurangzeb ke farman se sirf Company ko shulk-mukt trade mila",
+          "Private trading officers ne bhi shulk dene se inkaar kiya",
+          "Bengal ki rajswa wasooli kam hui → Nawab ne virodh kiya"
+        ],
+        "answer": "Kyunki farman ka fayda private officers ne galat uthaya, shulk nahi diya, Bengal revenue gir gaya — isliye Murshid Quli Khan virodh karne lage."
+      },
+      "practice": {
+        "easy": [
+          "Pehli English factory kab aur kahaan shuru hui?"
+        ],
+        "medium": [
+          "Kalikata/Calcutta Company ke haath kaise aaya? Zamindari aur fort ke steps likho."
+        ],
+        "hard": [
+          "Farman kya tha? Yeh sirf Company ko kyun mila tha, aur private trade misuse se Nawab-Company conflict kaise bani?"
+        ]
+      },
+      "summary": "1651 ki Hugli factory se shuru karke Company ne fort, Calcutta ki zamindari aur Aurangzeb ka duty-free farman haasil kiya; private officers ke misuse se Bengal revenue gira aur Nawab naraz hue.",
+      "revision_point": "1651 factory → 1696 fort → 3 villages/Calcutta → Aurangzeb farman (Company only) → private misuse → Murshid Quli Khan protests.",
+      "exam_tip": "Dates 1651 aur 1696 yaad rakho; farman definition alag se likho — ‘शाही आदेश’.",
+      "source_text_hint": "पहली इंग्लिश फैक्टरी 1651 में हुगली नदी के किनारे शुरू हुई"
+    },
+    {
+      "concept": "व्यापार से युद्धों तक – बंगाल के नवाबों से टकराव",
+      "say": "Section — व्यापार से युद्धों तक. Atharahvin sadi ki shuruaat mein Company aur Bengal ke Nawabs ka takrav kaafi badh gaya tha. Aurangzeb ki mrityu ke baad Bengal ke Nawabs apni taakat dikhane lage the — us samay doosri kshetriya taakaton ki stithi bhi aisi hi thi. Murshid Quli Khan ke baad Ali Vardi Khan aur uske baad Sirajuddaulah Bengal ke Nawab bane. Yeh sabhi shaktishali shasak the. Unhone Company ko riyayatein dene se mana kar diya. Vyapar ka adhikar dene ke badle Company se nazarane maange, use sikke dhalne ka adhikar nahi diya, aur uski kilebandi ko badhane se rok diya. Company par dhokhadhadi ka aarop lagate hue unhone daleel di ki uski wajah se Bengal sarkar ki rajswa wasooli kam hoti ja rahi hai aur Nawabs ki taakat kamzor pad rahi hai. Company tax chukane ko taiyar nahi thi; uske afsaron ne apmanjanak chitthiyan likhiin aur Nawabs v unke adhikariyon ko apmanit karne ka prayas kiya. Company ka kehna tha ki sthaniya adhikariyon ki betuki maangen se Company ka vyapar tabah ho raha hai. Vyapar tabhi phal-phool sakta hai jab sarkar shulk hata le. Company ko is baat ka bhi yakeen tha ki apna vyapar phailane ke liye use apni aabadi badhani hogi, gaon kharidne honge aur kilon ka punarnirman karna hoga. Yeh takrav dinodin gambhir hote gaye; antatah in takravon ki parinati Plassey ke prasiddh yuddh ke roop mein hui. Classroom tip: dono sides ke arguments alag-alag likho — Nawab vs Company — exam mein comparison aata hai.",
+      "example": "Do neighbours — ek kehta ‘tum wall mat badhao aur rent do’, doosra kehta ‘mujhe expand karna hai, tax hatao’ — baat badhkar badi ladai ban jaati hai. Nawab-Company clash bilkul aisa.",
+      "board_lines": [
+        "Nawabs: Murshid Quli Khan → Ali Vardi Khan → Sirajuddaulah",
+        "Nawab demands: nazrana, no minting right, stop fortification; accuse revenue loss",
+        "Company wants: fewer duties, more settlements, rebuild forts → conflict → Plassey"
+      ],
+      "common_mistake": "Students sirf Plassey yaad rakhte hain aur pehle ka long conflict skip kar dete hain — Plassey sudden nahi tha; yeh growing clash ka result tha.",
+      "memory_trick": "N-C-P: Nawabs refuse concessions → Company expands & refuses tax → Plassey comes.",
+      "gesture_action": "Class ko do teams mein baanto — Nawab team ‘Stop fort! Pay tax!’ bole, Company team ‘Remove duty! Buy villages!’ bole — tension act out karo.",
+      "real_life_examples": [
+        "Shopkeeper vs municipality — license fee, building extension, complaints dono taraf",
+        "Sports team vs school — team wants more ground/facilities; school wants fees and rules"
+      ],
+      "worked_example": {
+        "problem": "Bengal ke Nawabs ne Company ko kaun-kaun si riyayatein dene se mana kiya? Company ke arguments kya the?",
+        "steps": [
+          "Nawabs: nazrana maanga, minting right nahi diya, fortification rok di",
+          "Unka charge: Company se revenue gir raha hai, Nawab power weak ho rahi hai",
+          "Company: local demands se trade spoil; duties hatao; settlements aur forts badhao"
+        ],
+        "answer": "Nawabs ne free concessions, minting aur fort expansion refuse kiya; Company ne kaha trade ke liye duties kam/hatana aur settlement-fort expansion zaroori hai — clash badha."
+      },
+      "practice": {
+        "easy": [
+          "Murshid Quli Khan ke baad Bengal ke do Nawabs ke naam likho."
+        ],
+        "medium": [
+          "Nawabs ne Company par kaunse aarop lagaye? Do points."
+        ],
+        "hard": [
+          "‘Vyapar se yuddh tak’ — Nawab aur Company dono ke stand ko table banaakar compare karo aur batao yeh clash Plassey tak kaise pahuncha."
+        ]
+      },
+      "summary": "18th century shuruaat mein strong Bengal Nawabs ne Company ki riyayatein rok diin; Company ne tax aur restrictions ka virodh kiya — growing clash Plassey tak pahuncha.",
+      "revision_point": "Strong Nawabs (Murshid Quli → Ali Vardi → Sirajuddaulah) vs expanding Company demands = road to Plassey.",
+      "exam_tip": "Comparison question ke liye do columns banao: Nawab Complaints | Company Complaints — easy 5 marks.",
+      "source_text_hint": "व्यापार से युद्धों तक"
+    },
+    {
+      "concept": "प्लासी का युद्ध",
+      "say": "Ab famous battle — प्लासी का युद्ध. 1756 mein Ali Vardi Khan ki mrityu ke baad Sirajuddaulah Bengal ke Nawab bane. Company ko Sirajuddaulah ki taakat se kaafi bhay tha. Company ek aisa kathputli Nawab chahti thi jo use vyaparik riyayatein aur suvidhayein aasani se de. Usne Sirajuddaulah ke pratidwandwiyon mein se kisi ko Nawab banane ki koshish ki, lekin kaamyabi nahi mili. Jawab mein Sirajuddaulah ne hukum diya ki Company political mamalon mein taang adana band kare, kilebandi roke aur baqayda rajswa chukaaye. Jab dono paksh peeche nahi hate, toh apne 30,000 sipahiyon ke saath Nawab ne Kasim Bazar ki English factory par hamla bol diya — afsar giraftar, godam band, hathiyar chheen liye, jahaaz gher liye. Phir Calcutta ke kile par kabza kiya. Yeh khabar sunte hi Madras se Robert Clive ke netritva mein Company sena rawana hui; naval fleet ki madad bhi mili. Lambi sauda-baazi ke baad, 1757 mein Clive ne Plassey ke maidan mein Sirajuddaulah ke khilaaf netritva kiya. Nawab ki haar ka ek bada karan senapati Mir Jafar ki karguzariyan thiin — uski tukdiyon ne yuddh mein hissa nahi liya. Clive ne waada kiya tha ki Sirajuddaulah ko hataakar Mir Jafar ko Nawab banaya jayega. Plassey isliye important hai kyunki Bharat mein yeh Company ki pehli badi jeet thi. Fun classroom fact: asal naam Palashi tha; Angrezon ne Plassey kar diya. Palash ke laal phoolon se naam pada — unse Holi ka gulal banta hai. Board tip: year 1757, Clive, Siraj, Mir Jafar betrayal — yeh chaar keywords hamesha saath likho.",
+      "example": "Cricket match mein agar team ka captain pehle se rival se mil jaaye aur fielding na kare — haar almost pakki. Mir Jafar ka betrayal bilkul aisa hi decisive tha.",
+      "board_lines": [
+        "1756: Sirajuddaulah Nawab; attacks Kasim Bazar factory; takes Calcutta",
+        "1757 Plassey: Robert Clive vs Sirajuddaulah; Mir Jafar betrays (no fight)",
+        "Result: Company ki pehli badi jeet; Sirajuddaulah mara; Mir Jafar Nawab"
+      ],
+      "common_mistake": "Students sochte hain Plassey sirf military strength se jeeta gaya — source clearly Mir Jafar ke betrayal ko bada karan batata hai.",
+      "memory_trick": "S-C-M-P: Siraj strong → Clive comes → Mir Jafar betrays → Plassey 1757 win.",
+      "gesture_action": "Teen roles: Siraj (advance), Clive (counter), Mir Jafar (baith kar haath band — ‘no fight’) — class ko betrayal moment clearly dikhao.",
+      "real_life_examples": [
+        "Group project mein ek member secretly doosri team se mil jaaye — result reverse",
+        "Debate competition mein judge bias se winner badal sakta hai — internal betrayal jaisa effect"
+      ],
+      "worked_example": {
+        "problem": "Plassey ke yuddh mein Sirajuddaulah ki haar ke mukhya karan kya the? Kam se kam do points likho.",
+        "steps": [
+          "Company ne pehle rival Nawab banana chaaha; fail hone par military response aaya (Clive + naval support)",
+          "Mir Jafar ko Nawab banane ke waade se mila liya gaya",
+          "Mir Jafar ki tukdiyon ne yuddh mein hissa nahi liya — decisive betrayal"
+        ],
+        "answer": "Haar ka bada karan Mir Jafar ka saath chhodna/betrayal tha; saath hi Clive ke netritva aur Company ke military-naval response ne jeet dilayi. Plassey = Company ki pehli badi jeet."
+      },
+      "practice": {
+        "easy": [
+          "Plassey ka yuddh kis saal hua aur Company sena ka neta kaun tha?"
+        ],
+        "medium": [
+          "Sirajuddaulah ne Company ko kaun-kaun se hukum diye the? Teen points."
+        ],
+        "hard": [
+          "‘Plassey Company ki pehli badi jeet kyun maani jaati hai?’ — pehle ke events (Kasim Bazar, Calcutta, Mir Jafar) ke saath explain karo. Palashi naam ka fact bhi likho."
+        ]
+      },
+      "summary": "1757 mein Plassey par Clive ne Sirajuddaulah ko haraya; Mir Jafar ke betrayal se Company ki Bharat mein pehli badi jeet hui aur Mir Jafar Nawab bana.",
+      "revision_point": "1756 Siraj → Kasim Bazar/Calcutta → 1757 Plassey (Clive) → Mir Jafar betrayal → first major Company victory.",
+      "exam_tip": "Plassey answer mein hamesha year 1757, Clive, Sirajuddaulah, Mir Jafar betrayal — yeh chaar keywords zaroor likho.",
+      "source_text_hint": "आख़िरकार 1757 में रॉबर्ट क्लाइव ने प्लासी के मैदान में"
+    },
+    {
+      "concept": "प्लासी के बाद – कठपुतली नवाब, बक्सर और दीवानी",
+      "say": "Plassey ke baad Sirajuddaulah ko maar diya gaya aur Mir Jafar Nawab bana. Company abhi bhi seedha shasan sambhalne ko taiyar nahi thi — mool uddeshya vyapar phailana tha. Agar sthaniya shasakhon ki madad se bina ladai lade kaam ho sake, toh rajya seedhe kabze mein lene ki kya zaroorat? Lekin kathputli Nawab bhi hamesha Company ke isharon par nahi chalte the; unhein praja ki nazar mein samman aur samprabhuta ka dikhava karna padta tha. Jab Mir Jafar ne virodh kiya, Company ne use hataakar Mir Qasim ko Nawab bana diya. Jab Mir Qasim pareshan karne laga, toh Buxar ki ladai (1764) mein usko bhi haraya gaya, Bengal se bahar kiya gaya, aur Mir Jafar ko dobara Nawab banaya gaya. Ab Nawab ko har mahine paanch lakh rupaye Company ko chukane the. Company aur paisa, aur ilake, aur kamai chahti thi. 1765 mein Mir Jafar ki mrityu tak Company ke irade badal chuke the. Clive ne elaan kiya: ab ‘humein khud hi Nawab banana padega.’ Aakhirkaar 1765 mein Mughal samrat ne Company ko Bengal ka Diwan niyukt kar diya. Diwani se Company ko Bengal ke vishal rajswa sansadhanon par control mil gaya. Pehle Indian goods Britain se laaye sona-chandi se kharidne padte the; Plassey ke baad Britain se sona nikaasi kam hui, aur Diwani ke baad sona laane ki zaroorat hi nahi rahi. Ab Bharatiya aamdani se hi Company kapda kharid sakti thi, fauj sambhal sakti thi, aur Calcutta mein kile-daftar bana sakti thi. Yeh turning point hai — trade company se revenue controller tak.",
+      "example": "Shop pehle sirf maal bechti thi; phir manager badalti rahi; aakhir mein shop hi poora rent collection control karne lagi — bilkul Company ka Diwani moment.",
+      "board_lines": [
+        "Puppet Nawabs: Mir Jafar → Mir Qasim → Mir Jafar again",
+        "1764 Buxar; then Mir Jafar pays ₹5 lakh/month",
+        "1765 Diwani of Bengal → Company controls revenue; no need for British gold/silver"
+      ],
+      "common_mistake": "Students Plassey ke baad turant ‘Company ne seedha shasan shuru kar diya’ likh dete hain — pehle puppet Nawabs try kiye, phir Buxar, phir 1765 Diwani.",
+      "memory_trick": "J-Q-J-D: Jafar → Qasim → Jafar again → Diwani 1765.",
+      "gesture_action": "Ek student ko ‘puppet Nawab’ banao jise threads se nachaya jaaye; phir threads todkar Clive bole ‘hum khud Nawab banenge’; phir ‘Diwani certificate’ do.",
+      "real_life_examples": [
+        "Company pehle local dealer se kaam chalaaye, dealers unreliable hon toh khud distribution le le",
+        "Hostel committee pehle monitors se kaam le, fail hone par khud mess accounts sambhale"
+      ],
+      "worked_example": {
+        "problem": "1765 ki Diwani Company ke liye kyun itni mahatvapurna thi? Trade financing se jodkar likho.",
+        "steps": [
+          "Pehle Indian goods Britain se laaye sona-chandi se kharidne padte the",
+          "Diwani se Bengal revenue resources Company control mein aa gaye",
+          "Ab Indian income se hi cloth purchase, army aur Calcutta construction chal sakte the"
+        ],
+        "answer": "Diwani ne Bengal ka vishal revenue Company ko diya; Britain se gold/silver laane ki zaroorat khatam, aur Company apne trade-military expenses India ki aamdani se chala saki."
+      },
+      "practice": {
+        "easy": [
+          "Buxar ki ladai kis saal hui?"
+        ],
+        "medium": [
+          "Clive ne kyun kaha ‘humein khud hi Nawab banana padega’?"
+        ],
+        "hard": [
+          "Plassey se Diwani tak ki journey flowchart mein likho: puppet Nawabs, Buxar, monthly payment, Diwani, aur Britain se sona band hone ka connection."
+        ]
+      },
+      "summary": "Plassey ke baad puppet Nawabs fail hue; Buxar (1764) ke baad pressure badha; 1765 Diwani se Company Bengal revenue control karke khud financing karne lagi.",
+      "revision_point": "Mir Jafar/Mir Qasim cycle → Buxar 1764 → ‘we must become Nawab’ → Diwani 1765 = revenue power.",
+      "exam_tip": "Diwani question mein teen points: (1) Mughal emperor appointed Company Diwan (2) revenue control (3) stopped drain of British gold/silver.",
+      "source_text_hint": "आख़िरकार 1765 में मुग़ल सम्राट ने कंपनी को ही बंगाल प्रांत का दीवान"
+    },
+    {
+      "concept": "नबॉब और कंपनी का फैलता शासन",
+      "say": "Aakhiri hissa — Company officers ‘Nabob’ kaise bane, aur shasan kaise phaila. Nawab banne ka matlab tha Company ke paas ab satta-taakat thi, aur fayde bhi. Har employee Nawabs ki tarah jeene ke khwab dekhne laga. Plassey ke baad Bengal ke asal Nawabs ko majboor kiya gaya ki ve Company afsaron ko private tohfe mein zameen aur bahut saara paisa dein. Khud Robert Clive ne behisaab daulat jama ki. 1743 mein 18 saal ki umar mein woh Madras aaya; 1767 mein do baar Governor banne ke baad jab hamesha ke liye Bharat chhoda, uski daulat 401,102 pounds ke barabar thi. Doosre tenure mein use corruption khatam karne ka kaam mila tha, lekin 1772 mein British Parliament mein use khud corruption aaropon par safai deni padi. Buri toh kiya gaya, lekin 1774 mein usne atmahatya kar li. Jo daulat lekar Britain laute, unhein ‘Nabob’ kaha gaya — ‘Nawab’ ka English version; unka mazaak bhi udaya gaya jaise naye ameer. Ab failta shasan: 1757–1857 mein Company ne aksar kisi anjaan ilake mein seedha military attack pehle nahi kiya. Pehle political, economic aur diplomatic means use kiye. Buxar (1764) ke baad Indian riyasaton mein Residents tainat hue — Company ke political/business representatives jo interests protect aur aage badhate the. Resident ke zariye Company andaruni mamlon mein dakhli dene lagi — agla raja kaun, kis pad par kaun. Kai baar ‘Subsidiary Alliance’ thop di; jo riyasat maan leti, use apni swatantra senayein rakhne ka adhikar nahi milta tha. Nabobs = wealth; Residents + Subsidiary Alliance = expansion tools.",
+      "example": "Koi student school festival ke baad sudden expensive gadgets le aaye aur log use ‘naya ameer’ bolein — Britain mein returned Company men ko ‘Nabob’ kehna bilkul aisa tha.",
+      "board_lines": [
+        "‘Nabob’ = English form of Nawab; Company men returned rich (Clive ≈ £401,102)",
+        "After Buxar: Residents in Indian states → interfere in succession/appointments",
+        "Subsidiary Alliance: accept = no right to keep independent armies"
+      ],
+      "common_mistake": "Students sochte hain Company ne har rajya pehle se seedha fauj se jeeta — source kehta hai aksar pehle political-economic-diplomatic means, Residents aur Subsidiary Alliance use hue.",
+      "memory_trick": "N-R-S: Nabobs (wealth) → Residents (interference) → Subsidiary Alliance (no own army).",
+      "gesture_action": "Ek student pockets bhar kar ‘Nabob walk’ kare; doosra ‘Resident’ banakar king ke kaano mein advice de; teesra riyasat ki ‘army’ cards jama karke Company ko de de (Subsidiary Alliance).",
+      "real_life_examples": [
+        "Advisor/coach school team ke selection mein itna intervene kare ki captain sirf naam ka rahe — Resident-style influence",
+        "Small club ko security ke liye badi agency se agreement — apni security team nahi rakh sakte"
+      ],
+      "worked_example": {
+        "problem": "Subsidiary Alliance maan lene wali riyasat ko kaunsa mukhya adhikar nahi milta tha? Residents ka kaam kya tha?",
+        "steps": [
+          "Source: jo riyasat Subsidiary Alliance maan leti, use swatantra senayein rakhne ka adhikar nahi",
+          "Residents = Company ke political/business representatives",
+          "Unka kaam Company interests protect/advance karna; andaruni mamlon mein dakhli"
+        ],
+        "answer": "Subsidiary Alliance ke baad independent army ka adhikar nahi milta tha. Residents Company ke pratinidhi the jo interests aage badhate aur state affairs mein intervene karte the."
+      },
+      "practice": {
+        "easy": [
+          "‘Nabob’ shabd kis Hindi/Urdu shabd se bana tha?"
+        ],
+        "medium": [
+          "Robert Clive ki daulat aur corruption inquiry ke baare mein do facts likho."
+        ],
+        "hard": [
+          "1757–1857 mein Company ne Indian states par kabza karne se pehle kaunse political/diplomatic tools use kiye? Residents aur Subsidiary Alliance ko explain karke likho."
+        ]
+      },
+      "summary": "Company officers ‘Nabob’ ban kar ameer hue; Company ne Residents aur Subsidiary Alliance jaise tools se, aksar seedhe attack ke bina, Indian riyasaton mein apna shasan phailaya.",
+      "revision_point": "Nabobs = returned rich Company men; Residents intervene; Subsidiary Alliance = no independent army.",
+      "exam_tip": "Expansion methods question mein hamesha likho: ‘rarely direct attack first’ + Residents + Subsidiary Alliance — NCERT language ke qareeb raho.",
+      "source_text_hint": "बक्सर की लड़ाई (1764) के बाद कंपनी ने भारतीय रियासतों में रेज़िडेंट तैनात कर दिये"
+    }
+  ]
+}
