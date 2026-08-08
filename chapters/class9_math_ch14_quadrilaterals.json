@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 692,
+    "chapter_name": "चतुर्भुज",
+    "chapter_number": 14,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 14 — चतुर्भुज (Quadrilaterals) — ke properties of parallelogram section ko padhenge. Ismein Theorem 8.1 se 8.7 tak parallelogram ke opposite sides, opposite angles, diagonals ke rules aur unke converses hain; phir rectangle-rhombus examples, Exercise 8.1 style questions, aur Mid-point Theorem (Theorem 8.8) aata hai. Yeh sab proofs ASA/SSS/CPCT aur parallel lines ke alternate-interior angles par based hain.",
+    "welcome": "Good morning, class! Smart Board par aaj ek bahut powerful geometry chapter shuru karte hain — चतुर्भुज. Class 8 mein tumne quadrilateral types padhe the; aaj hum prove karenge ki parallelogram ke diagonals, opposite sides aur opposite angles mein kya magic hai. Paper cut activity se shuru karke theorems tak jayenge — ready ho? Notebook aur scale nikaalo!",
+    "learning_outcomes": [
+      "Parallelogram ke diagonal se bane do congruent triangles ko ASA se prove karna (Theorem 8.1)",
+      "Opposite sides/angles equal hone ke theorems aur unke converses ko statement + reason ke saath likhna",
+      "Diagonals bisect each other (aur converse) se parallelogram identify karna",
+      "Rectangle, rhombus aur Mid-point Theorem (MN parallel to third side, MN = half of third side) ko exam style mein apply karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "समांतर चतुर्भुज का विकर्ण – दो सर्वांगसम त्रिभुज"
+      },
+      {
+        "number": 2,
+        "name": "सम्मुख भुजाएँ बराबर और उसका विलोम"
+      },
+      {
+        "number": 3,
+        "name": "सम्मुख कोण बराबर और उसका विलोम"
+      },
+      {
+        "number": 4,
+        "name": "विकर्ण एक-दूसरे को समद्विभाजित करते हैं"
+      },
+      {
+        "number": 5,
+        "name": "आयत और समचतुर्भुज – उदाहरण 1 व 2"
+      },
+      {
+        "number": 6,
+        "name": "समांतर चतुर्भुज के अनुप्रयोग – उदाहरण 3 से 5"
+      },
+      {
+        "number": 7,
+        "name": "प्रश्नावली 8.1 – प्रमुख प्रश्न-प्रकार"
+      },
+      {
+        "number": 8,
+        "name": "मध्य-बिंदु प्रमेय (Mid-point Theorem)"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "समांतर चतुर्भुज का विकर्ण – दो सर्वांगसम त्रिभुज",
+      "say": "Bacchon, pehle yaad karo — ek chaturabhuj (quadrilateral) mein char bhujayein, char kon aur char shirsh hote hain. Class 8 mein tum types padh chuke ho. Aaj special focus hai samantar chaturabhuj (parallelogram) par — jismein sammukh bhujayon ke dono yugm parallel hote hain, matlab AB parallel DC aur AD parallel BC. NCERT ek zabardast activity deta hai: kaagaz par ek parallelogram banao, kaato, phir ek diagonal ke along dobara kaato. Tumhe do triangles milenge. Ab ek triangle ko doosre par rakho — zarurat pade toh ghumao bhi. Kya dikhta hai? Dono triangles sarvaangasam (congruent) hain! Kitne bhi parallelogram banao, har baar ek diagonal use do congruent triangles mein baant deta hai. Ab is activity ko theorem banaate hain. Pramey 8.1: Kisi samantar chaturabhuj ka ek vikarn use do sarvaangasam tribhujon mein vibhajit karta hai. Proof: Parallelogram ABCD, diagonal AC. Humein dikhana hai triangle ABC congruent triangle CDA. Dekho — AB parallel DC aur AC ek tiryak rekha (transversal) hai, isliye angle BAC equals angle DCA — yeh ekantar kon (alternate interior angles) hain. Similarly, AD parallel BC aur AC transversal se angle DAC equals angle BCA. Aur AC equals CA — ubhayanishth (common). Toh ASA rule se triangle ABC congruent triangle CDA. Matlab diagonal AC ne parallelogram ko do congruent triangles mein divide kar diya. Yeh pehla strong result hai — aage ke sab properties isi foundation par khade hain. Board par ASA ke teen points clearly likhna mat bhoolna!",
+      "example": "Copy book ka cover roughly parallelogram jaisa lagta hai — diagonal khinch kar do triangles banao; paper cut karke unhe overlap karo, dono match karenge.",
+      "board_lines": [
+        "Samantar chaturabhuj: AB || DC, AD || BC",
+        "Pramey 8.1: Vikarn AC -> triangle ABC congruent triangle CDA",
+        "Proof: alternate angles + common AC -> ASA"
+      ],
+      "common_mistake": "Students sirf 'triangles congruent hain' likh dete hain bina ASA ke teen reasons (alternate angles + common side) ke — examiner marks kaat deta hai.",
+      "memory_trick": "P-D-A: Parallelogram -> Diagonal -> ASA. 'PDA' yaad rakho — Diagonal se Proof ASA se!",
+      "gesture_action": "Donon haathon se ek parallelogram shape banao, phir ek ungli se diagonal 'kaato', aur do palms ko overlap karke congruence dikhao.",
+      "real_life_examples": [
+        "School gate ke parallelogram frame mein cross-bar (diagonal) do triangular panels banata hai",
+        "Classroom desk top ko diagonal se fold/cut karke two matching triangles milna"
+      ],
+      "worked_example": {
+        "problem": "Parallelogram PQRS mein diagonal PR khincha gaya. Likho ki triangle PQR congruent triangle RSP kis rule se, aur teen corresponding equal parts mention karo.",
+        "steps": [
+          "PQ || SR, PR transversal -> angle QPR = angle SRP (alternate interior angles)",
+          "PS || QR, PR transversal -> angle SPR = angle QRP (alternate interior angles); PR common",
+          "ASA se triangle PQR congruent triangle RSP; CPCT se corresponding sides/angles equal"
+        ],
+        "answer": "triangle PQR congruent triangle RSP by ASA (two pairs of alternate angles + common PR)."
+      },
+      "practice": {
+        "easy": [
+          "Samantar chaturabhuj ki paribhasha likho."
+        ],
+        "medium": [
+          "Pramey 8.1 ka kathan likhkar ASA ke teen binduon se upapatti ke mukhya charan likho."
+        ],
+        "hard": [
+          "Yadi ABCD samantar chaturabhuj hai aur vikarn BD khincha gaya hai, to triangle ABD congruent triangle CDB siddh karo (purna karan sahit)."
+        ]
+      },
+      "summary": "Parallelogram ka ek diagonal use do congruent triangles mein baantta hai — proof alternate angles + common diagonal se ASA rule par based hai.",
+      "revision_point": "Theorem 8.1 = Diagonal -> 2 congruent triangles by ASA (alternate angles + common side).",
+      "exam_tip": "Proof mein hamesha 'ekantar kon' aur 'ubhayanishth bhuja' words clearly likho — marks language-based hote hain.",
+      "source_text_hint": "प्रमेय 8.1 रू किसी समांतर चतुर्भुज का एक विकर्ण उसे दो सर्वांगसम त्रिभुजों में विभाजित करता है।"
+    },
+    {
+      "concept": "सम्मुख भुजाएँ बराबर और उसका विलोम",
+      "say": "Ab activity continue — parallelogram ABCD ki opposite sides measure karo. NCERT kehti hai tum paoge AB = CD aur AD = BC. Yeh naya property hai. Pramey 8.2: Ek samantar chaturabhuj mein sammukh bhujayein barabar hoti hain. Kyun? Kyunki Theorem 8.1 se diagonal do congruent triangles banata hai, aur unke corresponding parts (CPCT) equal hote hain. Isliye AB = CD aur AD = BC. Bahut simple bridge hai — congruence se sides equal. Ab important classroom question: iska vilom (converse) kya hai? Teacher tip — jo theorem mein 'given' hota hai, converse mein use prove karte hain; jo theorem prove karta hai, converse mein woh given maana jaata hai. Theorem 8.2 ko aise likh sakte ho: 'Agar ek chaturabhuj parallelogram hai, toh uski opposite sides ke har pair equal hote hain.' Isliye converse: Pramey 8.3: Yadi ek chaturabhuj ki sammukh bhujayon ka pratyek yugm barabar ho, to wah ek samantar chaturabhuj hota hai. Proof sketch: ABCD mein AB = CD aur AD = BC. Diagonal AC khincho. Ab SSS se triangle ABC congruent triangle CDA (teen sides equal: AB=CD, BC=DA, AC common). CPCT se alternate angles equal -> AB || DC aur AD || BC. Isliye ABCD parallelogram. NCERT poochti hai 'kyon?' — answer SSS + CPCT + alternate angles se parallel. Yaad rakho: equal opposite sides implies parallelogram; aur parallelogram implies equal opposite sides. Dono directions true hain — yeh if-and-only-if type relationship hai sides ke liye. Board par 8.2 aur 8.3 ko ek table mein likho: Given vs To Prove swap!",
+      "example": "Notebook ke opposite edges almost equal length ke hote hain — agar measure karke dono pairs equal milen, structure parallelogram jaisa behave karega.",
+      "board_lines": [
+        "Pramey 8.2: Parallelogram => opposite sides equal (AB=CD, AD=BC)",
+        "Reason: diagonal => congruent triangles => CPCT",
+        "Pramey 8.3 (vilom): opposite sides equal => parallelogram (SSS + alternate angles)"
+      ],
+      "common_mistake": "Students converse ko same statement samajh lete hain — 'sides equal' given hai converse mein, parallelogram prove karna hai; seedha 'kyunki parallelogram hai' mat likho!",
+      "memory_trick": "O-S-E: Opposite Sides Equal — aur converse mein 'Equal Sides => Parallelogram' — OSE bolke yaad rakho.",
+      "gesture_action": "Do opposite fingers se opposite sides ko 'equal length' dikhao, phir haath ghumakar 'ulta' (converse) direction signal karo.",
+      "real_life_examples": [
+        "Sliding window frame — opposite rods same length, frame parallelogram rehta hai",
+        "Cricket pitch boundary markers as opposite equal segments forming a parallelogram plot"
+      ],
+      "worked_example": {
+        "problem": "Chaturabhuj ABCD mein AB = 7 cm, CD = 7 cm, AD = 5 cm, BC = 5 cm. Kya ABCD parallelogram hai? Kaunsi theorem?",
+        "steps": [
+          "Opposite sides: AB = CD = 7 cm aur AD = BC = 5 cm — har yugm equal",
+          "Theorem 8.3 apply: opposite sides ke dono pairs equal => parallelogram",
+          "Optional proof path: diagonal AC, SSS congruence, then alternate angles => sides parallel"
+        ],
+        "answer": "Haan, ABCD parallelogram hai — Theorem 8.3 se."
+      },
+      "practice": {
+        "easy": [
+          "Pramey 8.2 ka kathan likho."
+        ],
+        "medium": [
+          "Pramey 8.2 aur 8.3 mein 'diya hai' aur 'siddh karna hai' ko talika mein likho."
+        ],
+        "hard": [
+          "ABCD mein AB = CD aur AD = BC hai. Vikarn AC khinchkar siddh karo ki ABCD samantar chaturabhuj hai (SSS + CPCT)."
+        ]
+      },
+      "summary": "Parallelogram mein opposite sides equal hote hain (Th. 8.2), aur converse bhi true hai — opposite sides equal implies parallelogram (Th. 8.3).",
+      "revision_point": "Sides: Parallelogram <=> opposite sides equal (8.2 <-> 8.3).",
+      "exam_tip": "Converse proofs mein pehle congruence rule (SSS) likho, phir CPCT se angles, phir 'alternate angles equal => lines parallel' — teen-layer structure marks late hai.",
+      "source_text_hint": "प्रमेय  8.2 रू एक समांतर चतुर्भुज में सम्मुख भुजाएँ बराबर होती हैं।"
+    },
+    {
+      "concept": "सम्मुख कोण बराबर और उसका विलोम",
+      "say": "Ab NCERT poochti hai — kya same result opposite angles ke liye bhi nikaal sakte hain? Activity: ek parallelogram banao, angles measure karo. Tum dekoge opposite angles ke har pair equal hain — angle A equals angle C aur angle B equals angle D. Kai parallelograms se repeat karo; har baar same. Isse milta hai Pramey 8.4: Ek samantar chaturabhuj mein sammukh kon barabar hote hain. Intuition: consecutive angles between parallel sides co-interior hote hain toh unka sum 180 degree hota hai; aur opposite angles equal nikal aate hain. Ab bada sawaal — kya iska converse bhi true hai? NCERT clearly kehti hai: Haan! Chaturabhuj ke angle-sum property (360 degree) aur parallel lines cut by transversal ke properties use karke converse prove hota hai. Pramey 8.5: Yadi ek chaturabhuj mein sammukh konon ka pratyek yugm barabar ho, to wah ek samantar chaturabhuj hota hai. Matlab agar angle A equals angle C aur angle B equals angle D, toh ABCD parallelogram. Classroom tip: sides wale theorems (8.2-8.3) aur angles wale (8.4-8.5) parallel families hain — dono mein statement plus converse. Exam mein aksar 'dikhaiye ki opposite angles equal hain' ya 'opposite angles equal hain toh parallelogram prove karo' aata hai. Measurement activity se intuition banao, proof se marks pakdo. Yaad: opposite angles equal if and only if parallelogram. Consecutive angles of parallelogram supplementary (180 degree) bhi related idea hai jo baad ke rectangle proofs mein kaam aayega. Numbers se practice karo — ek angle diya ho toh baaki teen jaldi nikaal sakte ho.",
+      "example": "Classroom wall clock ke rhombus ya parallelogram shaped logo mein opposite corners same opening dikhte hain — opposite angles match.",
+      "board_lines": [
+        "Pramey 8.4: Parallelogram => opposite angles equal (A=C, B=D)",
+        "Activity: measure angles of several parallelograms",
+        "Pramey 8.5 (vilom): opposite angles equal => parallelogram"
+      ],
+      "common_mistake": "Students consecutive angles ko opposite angles samajh lete hain — opposite means A with C, B with D; consecutive means A-B, B-C, etc.",
+      "memory_trick": "O-A-E: Opposite Angles Equal — 'OAE' bolke yaad rakho!",
+      "gesture_action": "Do opposite corners par ungliyan rakhkar 'same' signal do; phir adjacent corners par '180 degree' semicircle gesture.",
+      "real_life_examples": [
+        "Folding laundry rack (parallelogram linkage) — opposite corner angles match as it opens",
+        "Whiteboard stand with X-shaped parallelogram legs — opposite angles stay equal while adjusting height"
+      ],
+      "worked_example": {
+        "problem": "Parallelogram ABCD mein angle A = 70 degree. Angle B, angle C, angle D find karo.",
+        "steps": [
+          "Opposite angles: angle C = angle A = 70 degree (Theorem 8.4)",
+          "Consecutive angles between parallel sides supplementary: angle A + angle B = 180 => angle B = 110 degree",
+          "Opposite: angle D = angle B = 110 degree (check: 70+110+70+110 = 360)"
+        ],
+        "answer": "angle B = 110 degree, angle C = 70 degree, angle D = 110 degree."
+      },
+      "practice": {
+        "easy": [
+          "Pramey 8.4 ka kathan likho."
+        ],
+        "medium": [
+          "Samantar chaturabhuj mein yadi ek kon 85 degree hai to shesh teen kon gyat karo."
+        ],
+        "hard": [
+          "Pramey 8.5 ka arth apne shabdon mein likho aur batao ki vilom siddh karne mein kon-yog gun kyun upyogi hai."
+        ]
+      },
+      "summary": "Parallelogram mein opposite angles equal hote hain (Th. 8.4), aur converse bhi satya hai — opposite angles equal implies parallelogram (Th. 8.5).",
+      "revision_point": "Angles: Parallelogram <=> opposite angles equal; consecutive angles sum to 180 degree.",
+      "exam_tip": "Numerical angle questions mein pehle opposite equal, phir consecutive supplementary — do rules se saare angles nikal aate hain.",
+      "source_text_hint": "प्रमेय 8.4 रू एक समांतर चतुर्भुज में सम्मुख कोण बराबर होते हैं।"
+    },
+    {
+      "concept": "विकर्ण एक-दूसरे को समद्विभाजित करते हैं",
+      "say": "Ab teesra bada property — diagonals. Parallelogram ABCD banao, dono diagonals AC aur BD khincho; woh O par intersect karen. OA, OB, OC, OD measure karo. NCERT kehti hai tum dekoge OA = OC aur OB = OD. Matlab O dono diagonals ka midpoint hai — diagonals ek-doosre ko samadvibhajit (bisect) karte hain. Kai parallelograms se activity repeat karo; har baar same. Pramey 8.6: Samantar chaturabhuj ke vikarn ek doosre ko (paraspar) samadvibhajit karte hain. Ab converse — agar kisi chaturabhuj ke diagonals ek-doosre ko bisect karen, kya woh parallelogram hoga? Haan! Pramey 8.7: Yadi ek chaturabhuj ke vikarn ek doosre ko samadvibhajit karen, to wah ek samantar chaturabhuj hota hai. Proof idea (aakriti 8.5): diya hai OA = OC aur OB = OD. Triangle AOB aur triangle COD mein — OA=OC, OB=OD, aur vertically opposite angle AOB equals angle COD. Isliye SAS se triangle AOB congruent triangle COD. CPCT se alternate angles equal => AB || DC. Similarly dusre pair se AD || BC. Hence ABCD parallelogram. NCERT text mein triangle AOD congruent triangle COB style bhi dikhaya gaya hai — same spirit: bisected segments plus congruence implies opposite sides parallel. Yeh theorem exams mein bahut favorite hai — 'diagonals bisect implies parallelogram prove karo'. Teen properties yaad rakho as a family: opposite sides, opposite angles, diagonals bisect — aur har ek ka converse. Caution: bisect ka matlab halves equal, diagonals khud equal hona alag baat hai!",
+      "example": "Do sticks ko beech se ek nail se jodo (jaise scissors) — intersection midpoint par hai toh figure parallelogram linkage jaisa khulta hai.",
+      "board_lines": [
+        "Pramey 8.6: Parallelogram => diagonals bisect each other (OA=OC, OB=OD)",
+        "Pramey 8.7 (vilom): diagonals bisect each other => parallelogram",
+        "Proof idea: triangle AOB congruent COD (SAS) -> alternate angles -> sides parallel"
+      ],
+      "common_mistake": "Students sochte hain diagonals hamesha equal bhi hote hain — nahi! General parallelogram mein diagonals bisect hote hain, equal tab hote hain jab rectangle ya square ho.",
+      "memory_trick": "D-B-P: Diagonals Bisect => Parallelogram. 'DBP' yaad — Diagonals Bisect Property!",
+      "gesture_action": "Do pencils ko cross karke beech se pakdo — dikhao ki har pencil ka half-half barabar hai (bisect).",
+      "real_life_examples": [
+        "Collapsible clothes drying stand — crossed bars bisect each other at pivot",
+        "Scissors mechanism / lazy tongs — mid-joint bisects the crossed arms"
+      ],
+      "worked_example": {
+        "problem": "Chaturabhuj ABCD ke diagonals AC aur BD O par milte hain. Agar AO = 4 cm, OC = 4 cm, BO = 3 cm, OD = 3 cm, toh ABCD kaunsa figure hai? Reason do.",
+        "steps": [
+          "OA = OC aur OB = OD => diagonals ek-doosre ko bisect karte hain",
+          "Theorem 8.7 apply: diagonals bisect => parallelogram",
+          "Extra data nahi (jaise right angle / equal sides) => specifically parallelogram (not necessarily rectangle/rhombus)"
+        ],
+        "answer": "ABCD ek samantar chaturabhuj (parallelogram) hai — Theorem 8.7 se."
+      },
+      "practice": {
+        "easy": [
+          "Pramey 8.6 ka kathan likho."
+        ],
+        "medium": [
+          "Siddh kijiye ki samantar chaturabhuj ke vikarn ek-doosre ko samadvibhajit karte hain — upapatti ke mukhya teen charan likho."
+        ],
+        "hard": [
+          "ABCD mein vikarn ek-doosre ko O par samadvibhajit karte hain. Triangle AOD congruent triangle COB siddh karke dikhao ki ABCD samantar chaturabhuj hai."
+        ]
+      },
+      "summary": "Parallelogram ke diagonals ek-doosre ko bisect karte hain (Th. 8.6), aur converse bhi true hai (Th. 8.7) — yeh identify karne ka powerful test hai.",
+      "revision_point": "Diagonals bisect each other <=> parallelogram; equal diagonals alag property hai (rectangle).",
+      "exam_tip": "'Bisect' aur 'equal' ko confuse mat karo — bisect means halves; equal diagonals means rectangle proof (Exercise Q1).",
+      "source_text_hint": "प्रमेय 8.6 रू समांतर चतुर्भुज के विकर्ण एक दूसरे को ;परस्परद्ध समद्विभाजित करते हैं।"
+    },
+    {
+      "concept": "आयत और समचतुर्भुज – उदाहरण 1 व 2",
+      "say": "Ab examples — pehle aayat (rectangle). Definition yaad karo: rectangle woh parallelogram hai jiska ek kon samkon (90 degree) ho. Udaharan 1: Darshaiye ki ek aayat ka pratyek kon ek samkon hota hai. Let ABCD rectangle, angle A = 90 degree. AD || BC aur AB transversal => consecutive interior angles sum 180: angle A + angle B = 180 => angle B = 90. Opposite angles of parallelogram equal => angle C = angle A = 90, angle D = angle B = 90. Hence har angle 90 degree. Simple lekin exam mein clean writing chahiye. Udaharan 2: Darshaiye ki ek samchaturabhuj ke vikarn paraspar lamb hote hain. Rhombus ABCD — sab sides equal: AB = BC = CD = DA. Diagonals AC, BD O par milte hain. Triangle AOB aur triangle BOC mein: AO = OC (diagonals of parallelogram bisect — rhombus bhi parallelogram hai), BO common, AB = BC (rhombus). SSS se triangle AOB congruent triangle BOC. CPCT se angle AOB equals angle BOC. Par yeh linear pair hain, sum 180. Isliye 2 times angle AOB = 180 => angle AOB = 90. Hence diagonals of rhombus perpendicular. NCERT SSS aur linear pair clearly use karti hai. Classroom tip: Rectangle equals parallelogram plus one right angle implies all right; Rhombus equals parallelogram plus equal sides implies diagonals perpendicular. Square dono properties combine karta hai. Proof steps number karke likho — examiner ko flow chahiye.",
+      "example": "Classroom window (rectangle) ke charon kone set-square se 90 degree check karo; diamond-shaped rangoli (rhombus) ke diagonals cross par perpendicular dikhenge.",
+      "board_lines": [
+        "Rectangle = parallelogram with one angle = 90 => all angles = 90",
+        "Rhombus: all sides equal; diagonals bisect (as parallelogram)",
+        "Rhombus diagonals perpendicular: SSS + linear pair => 90"
+      ],
+      "common_mistake": "Students rectangle mein sirf 'definition se sab 90' likh dete hain bina co-interior 180 proof ke — NCERT Example 1 poora reason maangta hai.",
+      "memory_trick": "R-90, Rh-perp: Rectangle -> all 90; Rhombus -> diagonals perpendicular. 'R ninety, Rh cross'!",
+      "gesture_action": "Set-square se 'L' shape dikhao (rectangle angles); phir do ungliyan plus-sign banaakar rhombus diagonals perpendicular dikhao.",
+      "real_life_examples": [
+        "Door frame / window — rectangle, har kone 90 degree",
+        "Kite jaisa rhombus design (equal sides) — diagonals cross at right angles"
+      ],
+      "worked_example": {
+        "problem": "(a) Rectangle PQRS mein angle P = 90. Dikhao angle R = 90. (b) Rhombus ABCD mein diagonals O par milte hain. SSS ke liye triangle AOB aur triangle COB mein kaunse teen equal parts?",
+        "steps": [
+          "(a) Opposite angles of parallelogram: angle R = angle P = 90",
+          "(b) AO = CO (diagonals bisect), BO common, AB = CB (rhombus sides)",
+          "SSS => congruence => CPCT angles at O equal => with linear pair get 90"
+        ],
+        "answer": "(a) angle R = 90 (opposite angles). (b) AO=CO, BO common, AB=CB — SSS."
+      },
+      "practice": {
+        "easy": [
+          "Aayat ki paribhasha likho (samantar chaturabhuj ke roop mein)."
+        ],
+        "medium": [
+          "Udaharan 1 ki tarah siddh karo ki aayat ke sabhi kon 90 degree hote hain."
+        ],
+        "hard": [
+          "Samchaturabhuj ke vikarn paraspar lamb hote hain — SSS aur rekhiya yugm se purna upapatti likho."
+        ]
+      },
+      "summary": "Rectangle mein ek right angle se saare angles 90 ban jaate hain; rhombus mein equal sides plus bisecting diagonals se diagonals perpendicular prove hote hain.",
+      "revision_point": "Rectangle => all angles 90; Rhombus => diagonals perpendicular (SSS + linear pair).",
+      "exam_tip": "Rhombus proof mein 'rhombus is a parallelogram' likhna mat bhoolo — tabhi diagonals bisect wala fact use kar sakte ho.",
+      "source_text_hint": "उदाहरण 1 रू दर्शाइए कि एक आयत का प्रत्येक कोण एक समकोण होता है।"
+    },
+    {
+      "concept": "समांतर चतुर्भुज के अनुप्रयोग – उदाहरण 3 से 5",
+      "say": "Ab teen application examples — thode tough, lekin pattern clear hai. Udaharan 3: Isosceles triangle ABC with AB = AC. Exterior angle at A ka bisector AD hai, aur CD parallel BA. Prove: (i) angle DAC equals angle BCA, (ii) ABCD parallelogram. Idea: isosceles implies base angles equal; exterior angle equals sum of remote interiors equals 2 times base angle; bisector se half equals base angle implies alternate angles imply the needed parallel pair; with given CD parallel BA we get parallelogram. Udaharan 4: Do parallel lines l aur m ko transversal t points A, B par kaatati hai. Interior angles ke bisectors se bana chaturabhuj rectangle hota hai. Key steps: alternate angles equal implies unke halves equal implies bisectors parallel pairs banate hain implies parallelogram; phir adjacent half-angles ka sum 90 (kyunki linear pair 180 ka half) implies one angle 90 implies rectangle. Udaharan 5: Parallelogram ke angles ke bisectors ek rectangle banate hain! Points P, Q, R, S angle-bisectors ke intersections. Triangle mein half of (angle A + angle D) equals half of 180 equals 90, phir triangle angle sum se vertex 90. Opposite angles equal implies parallelogram with right angles implies rectangle. Pattern yaad rakho: applications mein pehle congruence ya equal angles, phir parallel, phir special type (rectangle). Board par flow chart banao — given to equal angles to parallel lines to parallelogram or rectangle. Yeh examples Exercise ke liye warm-up hain.",
+      "example": "Railway track (parallel lines) par ek crossing road (transversal) — interior angles ke bisector lines socho; theory kehta hai unse rectangle figure banega.",
+      "board_lines": [
+        "Ex 3: isosceles + exterior bisector + parallel => parallelogram",
+        "Ex 4: parallel lines + transversal; interior bisectors => rectangle",
+        "Ex 5: angle bisectors of parallelogram => rectangle"
+      ],
+      "common_mistake": "Example 4/5 mein students parallelogram prove karke ruk jaate hain — last step 'ek kon 90 implies rectangle' likhna zaroori hai.",
+      "memory_trick": "B-R: Bisectors -> Rectangle. Angle bisectors (Ex 4 and 5) ka end-goal aksar Rectangle!",
+      "gesture_action": "Parallel tracks dikhao do haathon se, teesri ungli transversal; phir corners par 'half-half' bisector strokes se rectangle box banao.",
+      "real_life_examples": [
+        "Road crossing parallel drains — angle bisector construction on map for rectangular plot",
+        "Picture frame corner bisectors meeting — related to rectangle angle properties"
+      ],
+      "worked_example": {
+        "problem": "Parallelogram ABCD mein angle A + angle D = 180. Agar in angles ke bisectors S par milte hain, toh triangle ASD mein angle ASD kitna hoga?",
+        "steps": [
+          "Bisectors: angle DAS = (1/2) angle A, angle ADS = (1/2) angle D",
+          "angle DAS + angle ADS = (1/2)(angle A + angle D) = (1/2)*180 = 90",
+          "Triangle angle sum: angle ASD = 180 - 90 = 90"
+        ],
+        "answer": "angle ASD = 90 degree (jaise Example 5 mein)."
+      },
+      "practice": {
+        "easy": [
+          "Udaharan 5 ka nishkarsh ek vakya mein likho."
+        ],
+        "medium": [
+          "Do samantar rekhaon ko tiryak rekha kaatati hai — antah konon ke samadvibhajakon se bana chaturabhuj kyun aayat hai? Do mukhya karan likho."
+        ],
+        "hard": [
+          "Udaharan 3 ke bhag (i) aur (ii) ki upapatti apne shabdon mein charanbaddh likho."
+        ]
+      },
+      "summary": "Examples 3-5 dikhate hain kaise equal angles, bisectors aur parallel lines milkar parallelogram/rectangle prove karte hain — application layer of the chapter.",
+      "revision_point": "Bisectors of interior/parallelogram angles -> often a rectangle; always prove parallel first, then 90 degree.",
+      "exam_tip": "Long examples mein intermediate results number karo (1), (2) — NCERT bhi aise hi karti hai; examiner follow kar paata hai.",
+      "source_text_hint": "उदाहरण 5 रू दर्शाइए कि एक समांतर चतुर्भुज के कोणों के समद्विभाजक एक आयत"
+    },
+    {
+      "concept": "प्रश्नावली 8.1 – प्रमुख प्रश्न-प्रकार",
+      "say": "Ab Prashnavali 8.1 — yahi se exam questions aate hain. Pattern samajho, ratne ki zarurat kam. Q1: Agar parallelogram ke diagonals equal hon, dikhao woh rectangle hai — equal diagonals plus parallelogram implies rectangle. Q2: Square ke diagonals equal hote hain aur ek-doosre ko samkon par bisect karte hain — square equals rectangle plus rhombus properties combine. Q3: Parallelogram ABCD mein diagonal AC, angle A ko bisect kare — dikhao yeh angle C ko bhi bisect kare aur ABCD rhombus hai (equal adjacent sides). Q4: Rectangle jismein diagonal dono angles A aur C ko bisect kare implies square; dusra diagonal B aur D ko bhi bisect karega. Q5: Diagonal BD par points E, F with DE = BF — congruence chains triangle AED congruent triangle CFB etc., finally AEFB parallelogram. Q6: Parallelogram se diagonal par perpendiculars equal hote hain (height idea). Q7: Isosceles trapezium ABCD with AB || DC aur AD = BC — base angles equal, diagonals equal; hint: AB extend karke C se AD ke parallel line. Smart Board tip: har question pehle 'kaunsi theorem ya example se related' socho — 8.1 se 8.7 aur Examples 1-2. Practice mein figure zaroor banao, bina figure ke proof adhura lagta hai. Common trap: rhombus vs square vs rectangle conditions mix kar dena. Checklist: equal diagonals? right angle? equal sides? bisecting angles? — har tick ek special type ki taraf le jaata hai. Roz ek prove question practice karo.",
+      "example": "Q1 jaisa: parallelogram window frame ke dono diagonals measure karke equal milen toh corners practically 90 degree check karo — rectangle!",
+      "board_lines": [
+        "Q1: diagonals equal + parallelogram => rectangle",
+        "Q2-Q4: square/rhombus/rectangle — diagonal and angle-bisector tests",
+        "Q5-Q7: congruence on diagonal + isosceles trapezium (hint construction)"
+      ],
+      "common_mistake": "Q3/Q4 mein 'angle bisector diagonal' se turant square likh dena — pehle adjacent sides equal (rhombus) prove karo, phir rectangle/square conditions lagao.",
+      "memory_trick": "R-Rh-S ladder: equal diagonals -> Rectangle; equal sides -> Rhombus; both + 90 -> Square.",
+      "gesture_action": "Board par teen boxes: Rectangle / Rhombus / Square — students ko question number us box mein stick karne do (sorting game).",
+      "real_life_examples": [
+        "Carrom board (square) — diagonals equal aur perpendicular bisectors",
+        "Isosceles trapezium flower bed — non-parallel sides equal, base angles equal"
+      ],
+      "worked_example": {
+        "problem": "Parallelogram ABCD mein AC = BD. Likho kyun ABCD rectangle hai — teen steps outline.",
+        "steps": [
+          "Diagonals equal: AC = BD (given); ABCD parallelogram (given)",
+          "Use congruence of triangles formed by equal diagonals (or properties after bisection at O)",
+          "Show one angle is 90 degree => ABCD rectangle (Exercise 8.1 Q1 type)"
+        ],
+        "answer": "Equal diagonals wala parallelogram rectangle hota hai (Exercise 8.1 Q1)."
+      },
+      "practice": {
+        "easy": [
+          "Prashnavali 8.1 ke prashn 2 ka kathan likho."
+        ],
+        "medium": [
+          "Yadi samantar chaturabhuj ke vikarn barabar hon to wah aayat hai — upapatti ki ruprekha likho."
+        ],
+        "hard": [
+          "Samalamb ABCD mein AB || DC aur AD = BC. Sanket-nirman (E bindu) se dikhao ki vikarn AC = BD."
+        ]
+      },
+      "summary": "Exercise 8.1 parallelogram special types (rectangle, rhombus, square) aur trapezium/congruence applications practice karwati hai — theorem toolkit apply karo.",
+      "revision_point": "Equal diagonals => rectangle; angle-bisecting diagonal => rhombus/square path; isosceles trapezium => equal diagonals.",
+      "exam_tip": "Har 'dikhaiye' question mein pehle neat figure, phir Given/To Prove, phir steps — presentation se 1 mark bachta hai.",
+      "source_text_hint": "iz'ukoyh 8.1"
+    },
+    {
+      "concept": "मध्य-बिंदु प्रमेय (Mid-point Theorem)",
+      "say": "Last powerful result — madhya-bindu pramey. Section 8.2. Activity: triangle ABC banao. Sides AB aur AC ke mid-points M aur N mark karo. MN join karo. MN aur BC measure karo; angle AMN aur angle ABC bhi. NCERT kehti hai tum paoge MN equals half of BC aur angle AMN equals angle ABC, isliye MN parallel BC. Kai triangles se repeat — same result. Pramey 8.8: Kisi tribhuj ki kinhi do bhujayon ke madhya-binduon ko milane wala rekha-khand teesri bhuja ke samantar hota hai. (Aur length half hoti hai — activity se clear.) Proof hint (aakriti 8.16): M, N mid-points of AB, AC; through C, draw CK parallel BA. Show triangle AMN congruent triangle CKN by ASA, get MN = NK aur related equal segments, hence BCKM parallelogram, so MN parallel BC. Yeh theorem Class 9-10 geometry ka supertool hai — mid-points dikhen toh turant parallel aur half socho. Converse bhi hota hai (line through mid-point parallel to third side bisects second side) — lekin is source text mein focus Theorem 8.8 statement plus activity plus ASA hint par hai. Classroom closing: parallelogram properties plus mid-point theorem equals aaj ka complete toolkit. Revision mein 8.1 se 8.8 tak statements ek page par likho! Numericals mein half length seedha nikaalo. Figure mein mid-points clearly mark karna mat bhoolna — examiner figure se shuru karta hai.",
+      "example": "Triangle shaped sandwich ko do sides ke mid-points se cut karo — cutting edge base ke parallel aur aadhi length ka hoga.",
+      "board_lines": [
+        "M, N mid-points of AB, AC => MN || BC",
+        "Also MN = (1/2) BC (from activity)",
+        "Pramey 8.8: mid-points join || third side (ASA hint -> parallelogram)"
+      ],
+      "common_mistake": "Students sirf MN || BC likhkar half length bhool jaate hain — activity dono results deti hai; exams mein aksar dono poochhe jaate hain.",
+      "memory_trick": "M-P-H: Mid-points -> Parallel -> Half. 'Mid-Point Highway' — seedha third side ke parallel, aadhi lambai!",
+      "gesture_action": "Teen students se triangle banao; do sides ke beech wale students haath milayen — unki line base ke parallel dikhe.",
+      "real_life_examples": [
+        "Triangular roof truss — mid-point bracing parallel to base beam",
+        "Flag folded from mid-points of two edges — crease parallel to third edge"
+      ],
+      "worked_example": {
+        "problem": "Triangle ABC mein AB = 10 cm, AC = 12 cm, BC = 14 cm. M aur N mid-points hain AB aur AC ke. MN ki lambai kitni?",
+        "steps": [
+          "Mid-point Theorem / activity result: MN || BC aur MN = (1/2) BC",
+          "BC = 14 cm => MN = 7 cm",
+          "AB, AC lengths MN nikalne ke liye zaroori nahi (extra data)"
+        ],
+        "answer": "MN = 7 cm."
+      },
+      "practice": {
+        "easy": [
+          "Madhya-bindu pramey (Pramey 8.8) ka kathan likho."
+        ],
+        "medium": [
+          "Triangle PQR mein S aur T bhujayon PQ aur PR ke madhya-bindu hain. Yadi QR = 18 cm to ST gyat karo aur ST tatha QR ka sambandh likho."
+        ],
+        "hard": [
+          "Aakriti 8.16 ke sanket se samjhao ki triangle AMN congruent triangle CKN (ASA) ke baad BCKM samantar chaturabhuj kaise banta hai aur MN || BC kaise milta hai."
+        ]
+      },
+      "summary": "Triangle ki do bhujayon ke mid-points ko milane wala segment teesri bhujay ke parallel hota hai aur uski aadhi lambai ka hota hai — Mid-point Theorem (8.8).",
+      "revision_point": "Mid-points join => parallel to third side and equal to half of third side.",
+      "exam_tip": "Figure mein mid-points clearly mark karo (M,N) aur 'given mid-point' se pehle theorem name likho — examiner ko path dikhna chahiye.",
+      "source_text_hint": "प्रमेय 8.8 रू किसी त्रिभुज की किन्ही दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा के समांतर होता है।"
+    }
+  ]
+}
