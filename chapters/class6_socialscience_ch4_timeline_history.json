@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 429,
+    "chapter_name": "इतिहास की समय-रेखा एवं उसके स्रोत",
+    "chapter_number": 4,
+    "book_name": "Class 6 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum seekhenge ki इतिहास human ke अतीत ka अध्ययन hai, aur अतीत तथा वर्तमान ke beech ek अनवरत संवाद. Hum पृथ्वी par जीवन ke विकास ki समय-रेखा, समय ki गणना (सा.सं.पू. aur सा.सं.), शताब्दी–सहस्राब्दी, aur इतिहास ke विविध स्रोत — पुरातात्विक, साहित्यिक, कलात्मक aur मौखिक — samjhenge. National Museum jaise संग्रहालयों mein rakhi वस्तुएँ humari history samajhne mein madad karti hain.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 6 Social Science ka Chapter 4 — इतिहास की समय-रेखा एवं उसके स्रोत. Socho: tumhari sabse purani memory kaunsi hai? Paanch-chheh saal pehle ki baatein bhi tumhara अतीत hain! Aaj hum seekhenge ki scientists aur historians अतीत ko kaise padhte hain, calendar kaise chalta hai, aur पुरानी चीज़ें — सिक्के, बर्तन, शिलालेख — humse kya story kehti hain. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "इतिहास ko अतीत–वर्तमान के संवाद ke roop mein samajhna aur पृथ्वी पर जीवन की समय-रेखा ke pramukh चरण identify karna",
+      "भू-विज्ञान, जीवाश्म विज्ञान, मानव विज्ञान aur पुरातत्व विज्ञान ka role explain karna",
+      "सा.सं.पू./सा.सं. (BCE/CE) se years गिनना, शून्य वर्ष wali गलती avoid karna, aur शताब्दी–सहस्राब्दी apply karna",
+      "इतिहास के स्रोतों (पुरातात्विक, साहित्यिक, कलात्मक, मौखिक) ko pehchanna aur unse अतीत का पुनर्निर्माण samajhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "इतिहास क्या है? अतीत और वर्तमान का संवाद"
+      },
+      {
+        "number": 2,
+        "name": "पृथ्वी पर जीवन की समय-रेखा"
+      },
+      {
+        "number": 3,
+        "name": "अतीत का अध्ययन – चार विज्ञान"
+      },
+      {
+        "number": 4,
+        "name": "समय की गणना – सा.सं.पू. और सा.सं."
+      },
+      {
+        "number": 5,
+        "name": "शून्य वर्ष की समस्या और गणना का नियम"
+      },
+      {
+        "number": 6,
+        "name": "समय-रेखा, शताब्दी और सहस्राब्दी"
+      },
+      {
+        "number": 7,
+        "name": "भारतीय पंचांग और पारंपरिक तिथिपत्र"
+      },
+      {
+        "number": 8,
+        "name": "इतिहास के स्रोत और पुनर्निर्माण"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "इतिहास क्या है? अतीत और वर्तमान का संवाद",
+      "say": "Bacchon, pehle ek bahut sundar baat — E.H. Carr ne kaha: इतिहास \"अतीत एवं वर्तमान के मध्य एक अनवरत संवाद है।\" Matlab history sirf purani dates yaad karna nahi — aaj ke समाज aur कल (बीते समय) ke समाज ke beech baatcheet hai. Hum अतीत ke आलोक mein hi वर्तमान समाज ko पूर्णतः समझ सकते हैं. NCERT kehta hai: इतिहास = मानव के अतीत का अध्ययन. Ab socho — tumhari apne अतीत ki sabse purani स्मृति kaunsi hai? Shayad paanch ya chheh saal pehle tak — woh sab tumhara अतीत hai! Aur अतीत ko samajhne se वर्तमान विश्व samajhne mein madad milti hai. Science class mein tum seekhoge ki पृथ्वी ka bahut लम्बा इतिहास hai, jismein hum मनुष्यों ka इतिहास नवीनतम aur chhota-sa भाग hai. Important questions chapter mein: (1) हम ऐतिहासिक काल की गणना किस प्रकार करते हैं? (2) इतिहास को समझने के लिए विभिन्न स्रोत कैसे सहायता करते हैं? (3) आदिमानव किस प्रकार रहते थे? National Museum, नई दिल्ली jaise संग्रहालयों mein अतीत se related वस्तुएँ — मूर्ति, सिक्के, आभूषण — संरक्षित ki jaati hain jo इतिहास समझने में सहायक हैं. Class tip: jab bhi 'history' aaye, pehle bolo — past aur present ka dialogue!",
+      "example": "Tumhari childhood ki pehli school memory — woh tumhara अतीत hai; usse aaj tum school customs better samajhte ho — past–present dialogue.",
+      "board_lines": [
+        "इतिहास = मानव के अतीत का अध्ययन",
+        "E.H. Carr: अतीत एवं वर्तमान का अनवरत संवाद",
+        "संग्रहालय: मूर्ति, सिक्के, आभूषण → इतिहास समझने में सहायक"
+      ],
+      "common_mistake": "Students sochte hain इतिहास sirf kings aur wars hai — NCERT kehta hai yeh अतीत–वर्तमान ka संवाद hai, poora human past.",
+      "memory_trick": "H-P-P: History = Past + Present dialogue. Carr ke quote se yaad rakho!",
+      "gesture_action": "Ek haath peeche (अतीत), ek haath aage (वर्तमान), phir dono haath milao — संवाद dikhao.",
+      "real_life_examples": [
+        "National Museum, नई दिल्ली mein पुरानी मूर्तियाँ aur सिक्के dekhkar अतीत समझना",
+        "Family album ke पुराने फोटो se ghar ka इतिहास जानना"
+      ],
+      "worked_example": {
+        "problem": "E.H. Carr ke anusar इतिहास kya hai? Ek sentence mein likho aur samjhao ki अतीत समझने se वर्तमान कैसे समझते हैं।",
+        "steps": [
+          "Quote yaad karo: अतीत एवं वर्तमान के मध्य अनवरत संवाद",
+          "Link: अतीत ke आलोक mein वर्तमान समाज पूर्णतः समझ सकते हैं",
+          "Apne words mein ek short example jodo (family/school memory)"
+        ],
+        "answer": "इतिहास अतीत एवं वर्तमान के मध्य एक अनवरत संवाद है; अतीत को समझकर ही हम आज के समाज को बेहतर समझ सकते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "इतिहास की परिभाषा NCERT के अनुसार एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "E.H. Carr के कथन को अपने शब्दों में समझाओ।"
+        ],
+        "hard": [
+          "संग्रहालय में रखी वस्तुएँ इतिहास समझने में कैसे सहायक हैं? दो उदाहरण देकर लिखो।"
+        ]
+      },
+      "summary": "इतिहास मानव के अतीत का अध्ययन है और अतीत–वर्तमान का अनवरत संवाद; संग्रहालय की वस्तुएँ इसे समझने में मदद करती हैं।",
+      "revision_point": "History = study of human past = continuous dialogue between past and present (E.H. Carr).",
+      "exam_tip": "परिभाषा के साथ Carr का quote और संग्रहालय का एक उदाहरण जरूर लिखो — marks बढ़ते हैं।",
+      "source_text_hint": "इतिहास \"अतीत एवं वर्तमान के मध्य एक अनवरत संवाद है"
+    },
+    {
+      "concept": "पृथ्वी पर जीवन की समय-रेखा",
+      "say": "Bacchon, ab Picture 4.1 ki baat — पृथ्वी पर जीवन के विकास/उद्भव के कुछ प्रमुख चरणों की समय-रेखा. NCERT clearly kehta hai: पृथ्वी ka इतिहास बहुत लंबा hai; हम मानवों का इतिहास उसमें नवीनतम aur एक छोटा-सा भाग hai. Timeline roughly aise samjho: अरबों वर्ष पूर्व पृथ्वी bani (लगभग 4.54 billion years). Phir वातावरणीय ऑक्सीजन, जीवाणु, प्रथम कोशिकाएँ, स्पंज एवं कवक, प्रवाल, मछली/कशेरुकी, उभयचर, कीट, सरीसृप, डायनासोर, पक्षी, स्तनपायी, फूल एवं मधुमक्खियाँ — करोडों वर्ष पूर्व ke stages. Years ago scale par: आदिमानव लगभग 10,000,000 वर्ष पूर्व; अग्नि लगभग 1,000,000 वर्ष पूर्व; होमो सेपियंस (मानव) लगभग 300,000 वर्ष पूर्व; लेखन सिर्फ लगभग 6,500 वर्ष पूर्व! Dekho kitna chhota hai writing ka hissa — human history ke andar bhi. Timeline par points major events को चिह्नित करते हैं. Class mein yaad rakho: Earth history = billions of years; dinosaurs millions of years ago; modern humans hundreds of thousands; writing sirf thousands. Isliye jab koi bole 'history bahut purani hai' — haan, lekin Earth ke muqable mein humari written history bilkul nayi hai. Board tip: 4.54 → oxygen → life forms → आदिमानव → अग्नि → Homo sapiens → लेखन.",
+      "example": "लेखन सिर्फ लगभग 6,500 वर्ष पुराना है, जबकि पृथ्वी लगभग 4.54 अरब वर्ष पुरानी — matlab books bahut 'nayi' cheez hain!",
+      "board_lines": [
+        "पृथ्वी ≈ 4.54 अरब वर्ष; मानव इतिहास = छोटा नवीनतम भाग",
+        "आदिमानव ~1 करोड़ वर्ष; अग्नि ~10 लाख; होमो सेपियंस ~3 लाख",
+        "लेखन ≈ 6,500 वर्ष पूर्व — बहुत हाल का चरण"
+      ],
+      "common_mistake": "Students sochte hain dinosaurs aur humans ek saath rehte the — timeline dikhati hai dinosaurs bahut pehle, humans baad mein.",
+      "memory_trick": "E-A-F-H-W: Earth → आदिमानव → Fire → Homo sapiens → Writing. Badi se chhoti timeline!",
+      "gesture_action": "Haath failao poora (Earth history), phir sirf ungli tip dikhao (human history) — 'chhota hissa' feel karo.",
+      "real_life_examples": [
+        "Science museum ki life-evolution display — bacteria se lekin humans tak",
+        "School timeline poster: dinosaurs pehle, writing last"
+      ],
+      "worked_example": {
+        "problem": "चित्र 4.1 के अनुसार लेखन और होमो सेपियंस में से कौन पहले आया? लगभग कितने वर्ष पूर्व?",
+        "steps": [
+          "Timeline padho: होमो सेपियंस ≈ 300,000 वर्ष पूर्व",
+          "लेखन ≈ 6,500 वर्ष पूर्व",
+          "Compare: 300,000 > 6,500 → humans pehle, writing bahut baad"
+        ],
+        "answer": "होमो सेपियंस पहले (≈3,00,000 वर्ष पूर्व); लेखन बाद में (≈6,500 वर्ष पूर्व)।"
+      },
+      "practice": {
+        "easy": [
+          "पृथ्वी पर जीवन की समय-रेखा से दो प्रमुख चरण लिखो।"
+        ],
+        "medium": [
+          "क्यों कहा जाता है कि मानवों का इतिहास पृथ्वी के इतिहास का छोटा भाग है? उदाहरण दो।"
+        ],
+        "hard": [
+          "अग्नि, आदिमानव और लेखन को सही समय क्रम में लिखो और प्रत्येक के लगभग वर्ष बताओ।"
+        ]
+      },
+      "summary": "पृथ्वी का इतिहास अरबों वर्ष लंबा है; आदिमानव, अग्नि, होमो सेपियंस और लेखन उसके बाद के छोटे चरण हैं।",
+      "revision_point": "Earth ~4.54 bn yrs → आदिमानव → fire → Homo sapiens (~3 lakh) → writing (~6500).",
+      "exam_tip": "समय-रेखा प्रश्न में हमेशा 'पहले–बाद' क्रम लिखो; सिर्फ संख्या याद मत करो — क्रम ज्यादा जरूरी है।",
+      "source_text_hint": "चित्र 4.1 — पृथ्वी पर जीवन के विकास/उद्भव के कुछ प्रमुख चरणों की समय-रेखा"
+    },
+    {
+      "concept": "अतीत का अध्ययन – चार विज्ञान",
+      "say": "Bacchon, अनेक लोग पृथ्वी के इतिहास का अध्ययन करते हैं. Kuch log पृथ्वी की सतह के नीचे के रहस्यों को जानने के लिए प्रशिक्षित होते हैं — woh humara अतीत samajhne mein madad karte hain. NCERT char specialists batata hai — Picture 4.2.1 se 4.2.4. (1) भू-विज्ञानी: पृथ्वी के भौतिक स्वरूपों — मृदा, पत्थर, पहाड़ियाँ, पर्वत, नदियाँ, महासागर — ka अध्ययन. (2) जीवाश्म विज्ञानी: जीवाश्म के रूप में करोड़ों वर्ष पूर्व के पेड़ों, पशुओं एवं मानवों के अवशेषों ka अध्ययन. जीवाश्म = जीव-जंतुओं के पदचिह्न या पौधों के अवशेष चिह्न जो मृदा अथवा शिलाओं की परतों के बीच संरक्षित पाए जाते हैं. (3) मानव विज्ञानी: मानव समाजों एवं संस्कृतियों का अतीत से लेकर वर्तमान तक अध्ययन. (4) पुरातत्व विज्ञानी: मानव, पौधों एवं पशुओं द्वारा छोड़े गए अवशेष — उपकरण, घड़े, पात्र, मनके, मूर्तियाँ, खिलौने, हड्डियाँ, दाँत, जले हुए अनाज, घरों एवं ईंटों के हिस्से — का उत्खनन करके अतीत का अध्ययन. Yaad rakho: geology = Earth forms; palaeontology = fossils; anthropology = societies/cultures; archaeology = digging objects. Class tip: agar 'खुदाई/उत्खनन' aaye → पुरातत्व; agar 'जीवाश्म/पदचिह्न' → जीवाश्म विज्ञान; agar 'मिट्टी-पत्थर-पर्वत' → भू-विज्ञान; agar 'समाज-संस्कृति' → मानव विज्ञान.",
+      "example": "पुरानी हड्डी या बर्तन खोदकर निकालना = पुरातत्व; चट्टान में दबे पत्ते/हड्डी के चिह्न = जीवाश्म विज्ञान।",
+      "board_lines": [
+        "भू-विज्ञान: मृदा, पत्थर, पर्वत, नदी, महासागर",
+        "जीवाश्म विज्ञान: करोड़ों वर्ष पुराने अवशेष/पदचिह्न",
+        "मानव विज्ञान: समाज व संस्कृति; पुरातत्व: उत्खनन (उपकरण, बर्तन, हड्डियाँ…)"
+      ],
+      "common_mistake": "Students पुरातत्व और जीवाश्म विज्ञान मिला देते हैं — fossils naturally preserved marks/remains; archaeology digs human-made aur biological leftovers as sources.",
+      "memory_trick": "G-F-A-A: Geology, Fossils, Anthropology, Archaeology — चार दोस्त अतीत पढ़ते हैं!",
+      "gesture_action": "Char corners point karo: zameen chhoo (भू), fossil shape (जीवाश्म), logon ko circle (मानव), khodne ka action (पुरातत्व).",
+      "real_life_examples": [
+        "News mein Harappa-type उत्खनन — पुरातत्व विज्ञानी",
+        "Dinosaur fossil museum — जीवाश्म विज्ञानी"
+      ],
+      "worked_example": {
+        "problem": "कोई वैज्ञानिक प्राचीन घड़े, मनके और जले हुए अनाज की खुदाई कर अतीत पढ़ रहा है। वह मुख्यतः कौन-सा विज्ञानी है?",
+        "steps": [
+          "Objects list: घड़े, मनके, जले अनाज — human/plant leftovers",
+          "Method: उत्खनन (digging)",
+          "Match NCERT: पुरातत्व विज्ञानी"
+        ],
+        "answer": "पुरातत्व विज्ञानी — क्योंकि वह उत्खनन द्वारा उपकरणों, बर्तनों आदि अवशेषों से अतीत का अध्ययन करता है।"
+      },
+      "practice": {
+        "easy": [
+          "चार विज्ञानों के नाम लिखो जो अतीत समझने में मदद करते हैं।"
+        ],
+        "medium": [
+          "जीवाश्म की परिभाषा लिखो और जीवाश्म विज्ञानी क्या अध्ययन करता है?"
+        ],
+        "hard": [
+          "भू-विज्ञानी और पुरातत्व विज्ञानी के कार्य में दो अंतर उदाहरण सहित लिखो।"
+        ]
+      },
+      "summary": "भू-विज्ञान, जीवाश्म विज्ञान, मानव विज्ञान और पुरातत्व विज्ञान — चार रास्ते जिनसे हम पृथ्वी और मानव के अतीत को समझते हैं।",
+      "revision_point": "GFAA: Geology (Earth), Fossils, Anthropology (culture), Archaeology (excavation).",
+      "exam_tip": "Match-the-following में कीवर्ड पकड़ो: उत्खनन→पुरातत्व, जीवाश्म→जीवाश्म विज्ञान, समाज→मानव विज्ञान, पर्वत/मृदा→भू-विज्ञान।",
+      "source_text_hint": "भू-विज्ञानी … जीवाश्म विज्ञानी … मानव विज्ञानी … पुरातत्व विज्ञानी"
+    },
+    {
+      "concept": "समय की गणना – सा.सं.पू. और सा.सं.",
+      "say": "Ab important sawaal: इतिहास में समय की गणना किस प्रकार की जाती है? हर समाज एवं संस्कृति के पास समय गिनने की अपनी प्रणालियाँ रही हैं. प्रमुख घटनाएँ — किसी व्यक्ति विशेष का जन्म अथवा किसी शासक के शासन का आरंभ — एक नए युग का आरंभ माना जाता रहा है. युग = समय का एक निश्चित कालखंड. आज विश्व-भर में सामान्यतः ग्रेगोरियन कैलेंडर (तिथिपत्र) use hota hai; saath hi त्योहारों एवं मांगलिक कार्यों के लिए हिंदू, मुस्लिम, यहूदी, चीनी आदि अन्य तिथिपत्र भी. पश्चिम में, ईसा मसीह के जन्म वर्ष से calendar शुरू माना जाता है. Uske baad ke years ko English mein AD kehte the (Anno Domini — Latin), ab Common Era ya CE. Example: भारत 1947 में स्वतंत्र हुआ — 1947 ई. / ई. सन् 1947 / 1947 CE. ईसा के जन्म की पारंपरिक तिथि से पहले के years उल्टे (अवरोही) क्रम में गिने जाते हैं — pehle BC, ab Before Common Era (BCE). NCERT book mein: BCE = सामान्य संवत् पूर्व (सा.सं.पू.); CE = सामान्य संवत् (सा.सं.). Example: 560 सा.सं.पू. ≈ गौतम बुद्ध के जन्म की अनुमानित तिथि. ग्रेगोरियन कैलेंडर: 365 दिन = 12 माह; हर चार वर्ष अधिवर्ष (leap); शताब्दी वर्ष (1800, 1900, 2000) leap tabhi jab 400 se divide hon — isliye inmein sirf 2000 leap year hai. मांगलिक = अनुकूल/भाग्य लाने वाला शुभ समय.",
+      "example": "भारत की स्वतंत्रता 1947 सा.सं. (CE); बुद्ध का जन्म लगभग 560 सा.सं.पू. (BCE).",
+      "board_lines": [
+        "सा.सं. = CE (Common Era); सा.सं.पू. = BCE (Before Common Era)",
+        "पुराने नाम: AD ≈ सा.सं.; BC ≈ सा.सं.पू.",
+        "ग्रेगोरियन: 365 दिन, leap हर 4 वर्ष; 2000 लीप, 1900 नहीं"
+      ],
+      "common_mistake": "Students AD/BC aur CE/BCE ko alag systems samajhte hain — same dating idea, naye naam zyada neutral hain.",
+      "memory_trick": "Poo = Previous (सा.सं.पू. = pehle); CE = Current Era counting forward.",
+      "gesture_action": "Zero point pe khade ho (ईसा जन्म); peeche chalo counting BCE, aage chalo counting CE.",
+      "real_life_examples": [
+        "School diary / government forms par year 2024 CE / सा.सं.",
+        "त्योहार की तारीख पंचांग/हिंदू कैलेंडर se, school exam date ग्रेगोरियन se"
+      ],
+      "worked_example": {
+        "problem": "NCERT में 1947 को कैसे लिखा जा सकता है? BCE/CE और सा.सं. शब्दों से समझाओ।",
+        "steps": [
+          "1947 ईसा के जन्म के बाद है → CE / सा.सं.",
+          "Book style: 1947 सा.सं. या 1947 ई. / ई. सन् 1947",
+          "English: 1947 CE (pehle AD bhi kehte the)"
+        ],
+        "answer": "1947 सा.सं. (सामान्य संवत्) या 1947 CE; इसे 1947 ई. भी लिखा जा सकता है।"
+      },
+      "practice": {
+        "easy": [
+          "सा.सं.पू. और सा.सं. का पूरा रूप लिखो।"
+        ],
+        "medium": [
+          "AD/BC और CE/BCE में क्या समानता है? एक उदाहरण दो।"
+        ],
+        "hard": [
+          "ग्रेगोरियन कैलेंडर में 1900 लीप वर्ष क्यों नहीं है, पर 2000 है? नियम लिखो।"
+        ]
+      },
+      "summary": "आज सामान्यतः ग्रेगोरियन कैलेंडर चलता है; सा.सं.पू. (BCE) और सा.सं. (CE) से ऐतिहासिक वर्षों की गणना होती है।",
+      "revision_point": "सा.सं.पू. = BCE (pehle); सा.सं. = CE (baad); AD/BC = purane English labels.",
+      "exam_tip": "उत्तर में दोनों लिखो — जैसे 560 सा.सं.पू. (BCE) — examiner ko clarity milti hai।",
+      "source_text_hint": "बी.सी.ई. के लिए सामान्य संवत पूर्व (सा.सं.पू.) तथा सी.ई. के लिए सामान्य संवत (सा.सं.)"
+    },
+    {
+      "concept": "शून्य वर्ष की समस्या और गणना का नियम",
+      "say": "Bacchon, yeh hisaab thoda tricky hai — ध्यान से सुनो! ग्रेगोरियन तिथिपत्र में कोई भी वर्ष 'शून्य' के रूप में चिह्नित नहीं किया गया है. वर्ष 1 सा.सं., 1 सा.सं.पू. के तुरंत बाद आता है — beech mein year 0 nahi hai. NCERT activity: 2 सा.सं.पू. से 2 सा.सं. तक समय-रेखा बनाओ — tum dekhoगे शून्य वर्ष की अनुपस्थिति के कारण इन दो तिथियों के मध्य केवल 3 वर्ष होंगे. Rule: किसी भी सा.सं.पू. तथा सा.सं. की तिथियों के बीच वर्षों की गणना करते समय हमें सदैव दोनों को जोड़कर उनके योग में से 1 घटा देना चाहिए. Formula: BCE + CE − 1 = years between/ago (is type of span). Example: 2 + 2 − 1 = 3. Buddha example: मान लीजिए आज 2024 सा.सं. है, जन्म 560 सा.सं.पू. — तो 560 + 2024 − 1 = 2583 वर्ष पूर्व. Kyun −1? Kyunki year zero missing hai — agar seedha add karoge toh ek year extra count ho jaata hai. Class practice: kuch aur pairs try karo — jaise 100 सा.सं.पू. se 100 सा.सं. = 100+100−1=199 years. Exam mein yeh formula gold hai! Timeline figure 4.3 bhi dekho — 3,00,000 सा.सं.पू. se lekar आज तक events: हिम युग, शैल चित्रकारी, कृषि, बुद्ध, अशोक, सिंधु-सरस्वती, ईसा का जन्म, aur hum is कालखंड में हैं.",
+      "example": "बुद्ध 560 सा.सं.पू., आज 2024 सा.सं. → 560+2024−1 = 2583 वर्ष पूर्व।",
+      "board_lines": [
+        "Year 0 नहीं है: 1 सा.सं.पू. के तुरंत बाद 1 सा.सं.",
+        "नियम: सा.सं.पू. + सा.सं. − 1",
+        "उदाहरण: 2+2−1=3; बुद्ध: 560+2024−1=2583"
+      ],
+      "common_mistake": "Students सिर्फ जोड़ देते हैं (560+2024=2584) और −1 भूल जाते हैं — एक वर्ष ज्यादा निकल आता है।",
+      "memory_trick": "Add both, minus ONE — because ZERO is gone!",
+      "gesture_action": "Do ungliyan dikhao (BCE aur CE), jodo, phir ek ungli hatao (−1).",
+      "real_life_examples": [
+        "Age gap across 'zero point' — jaise BC/CE spanning ages in history books",
+        "Class mein chalkboard timeline: …3 BCE, 2 BCE, 1 BCE, 1 CE, 2 CE… (no 0)"
+      ],
+      "worked_example": {
+        "problem": "यदि कोई घटना 100 सा.सं.पू. में हुई और हम 2025 सा.सं. में हैं, तो वह लगभग कितने वर्ष पूर्व हुई?",
+        "steps": [
+          "Formula: सा.सं.पू. + सा.सं. − 1",
+          "100 + 2025 − 1 = 2124",
+          "Answer units: वर्ष पूर्व"
+        ],
+        "answer": "2124 वर्ष पूर्व (100+2025−1)।"
+      },
+      "practice": {
+        "easy": [
+          "2 सा.सं.पू. से 2 सा.सं. के बीच कितने वर्ष हैं? सूत्र से हल करो।"
+        ],
+        "medium": [
+          "बुद्ध का जन्म 560 सा.सं.पू. मानकर 2024 सा.सं. में कितने वर्ष पूर्व हुआ — गणना दिखाओ।"
+        ],
+        "hard": [
+          "क्यों सा.सं.पू. और सा.सं. जोड़ने के बाद 1 घटाना पड़ता है? शून्य वर्ष से जोड़कर समझाओ।"
+        ]
+      },
+      "summary": "कैलेंडर में शून्य वर्ष नहीं है; सा.सं.पू. और सा.सं. के बीच वर्षों के लिए दोनों जोड़कर 1 घटाएँ।",
+      "revision_point": "BCE + CE − 1 = years (no year zero).",
+      "exam_tip": " numerically गणना वाले प्रश्न में हमेशा सूत्र लिखो — सा.सं.पू.+सा.सं.−1 — step marks मिलते हैं।",
+      "source_text_hint": "दोनों को जोड़कर उनके योग में से 1 को घटा देना चाहिए"
+    },
+    {
+      "concept": "समय-रेखा, शताब्दी और सहस्राब्दी",
+      "say": "समय-रेखा एक सुविधाजनक उपकरण है क्योंकि यह किसी विशेष अवधि में तिथियों और घटनाओं के अनुक्रम को दिखाती है. Simplified timeline par मानव सभ्यता के आरंभ से वर्तमान तक यात्रा दिखती है; बिंदु प्रमुख ऐतिहासिक घटनाओं को चिह्नित करते हैं. ध्यान: समय-रेखा पर बिंदुकृत हिस्सा छोड़े गए कालखंड को दर्शाता है — वरना timeline लगभग 3 मीटर लंबी हो जाती! Timeline बिना exact dates के भी क्रम बताती है — उदाहरण: बुद्ध का जन्म, ईसा मसीह के जन्म से पहले हुआ था. अब दो बड़े शब्द. (1) शताब्दी = 100 वर्षों का कालखंड. इतिहास में 1 सा.सं. से प्रत्येक सौ वर्षों के लिए शताब्दी गिनी जाती है. वर्तमान में हम 21वीं शताब्दी में हैं — 2001 से आरंभ होकर 2100 तक. सा.सं.पू. में उल्टा: 1 सा.सं.पू. से पीछे — तीसरी शताब्दी सा.सं.पू. = 300 से 201 सा.सं.पू. (2) सहस्राब्दी = 1000 वर्षों का कालखंड. 1 सा.सं. से: हम तीसरी सहस्राब्दी में हैं — 2001 सा.सं. से 3000 सा.सं. तक. सा.सं.पू. सहस्राब्दी भी 1 सा.सं.पू. से पीछे: 1 सहस्राब्दी सा.सं.पू. = 1 से 1000 सा.सं.पू. Activity: 1900 सा.सं. से आज तक family timeline — दादा-दादी, माता-पिता, अपनी जन्मतिथि; 20वीं शताब्दी का आरंभ व अंतिम वर्ष भी अंकित करो. Figure 4.3 events: अंतिम हिम युग का अंत, स्थायी निवास व कृषि, तांबे का धातुकर्म, मिट्टी के बर्तन, मेसोपोटामिया का प्रथम नगर, सिंधु-सरस्वती सभ्यता, बुद्ध, अशोक, ईसा का जन्म, 2000 सा.सं.",
+      "example": "हम 21वीं शताब्दी (2001–2100) और तीसरी सहस्राब्दी (2001–3000) में हैं।",
+      "board_lines": [
+        "समय-रेखा = घटनाओं का क्रम (points; dotted = skipped time)",
+        "शताब्दी = 100 वर्ष; अब 21वीं (2001–2100)",
+        "सहस्राब्दी = 1000 वर्ष; अब तीसरी (2001–3000)"
+      ],
+      "common_mistake": "Students 2000 ko 21st century ka start maan lete hain — NCERT: 21वीं 2001 se shuru; 20वीं = 1901–2000.",
+      "memory_trick": "Century = 100 (C for Century/सौ); Millennium = 1000 (M for Mega-thousand).",
+      "gesture_action": "Ek ungli se line draw karo (timeline); 100 ke liye do haath clap once, 1000 ke liye badi wave.",
+      "real_life_examples": [
+        "Family wall timeline: grandparents → parents → you from 1900 to today",
+        "News: '21st century technology' = 2001 ke baad ka zamana"
+      ],
+      "worked_example": {
+        "problem": "तीसरी शताब्दी सा.सं.पू. में कौन से वर्ष शामिल हैं? 21वीं शताब्दी सा.सं. कब से कब तक है?",
+        "steps": [
+          "BCE centuries count backward from 1 सा.सं.पू.",
+          "3rd century BCE = 300–201 सा.सं.पू.",
+          "21st century CE = 2001–2100 सा.सं."
+        ],
+        "answer": "तीसरी शताब्दी सा.सं.पू.: 300–201 सा.सं.पू.; 21वीं शताब्दी: 2001–2100 सा.सं."
+      },
+      "practice": {
+        "easy": [
+          "शताब्दी और सहस्राब्दी की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "क्या बुद्ध का जन्म ईसा से पहले हुआ? समय-रेखा से बिना संख्या याद किए कैसे पता चलेगा?"
+        ],
+        "hard": [
+          "आठवीं सहस्राब्दी सा.सं.पू. को कैसे चिह्नित करोगे? गणना का तरीका समझाओ।"
+        ]
+      },
+      "summary": "समय-रेखा घटनाक्रम दिखाती है; शताब्दी 100 वर्ष और सहस्राब्दी 1000 वर्ष का कालखंड है — सा.सं.पू. में गिनती पीछे की ओर जाती है।",
+      "revision_point": "Timeline = order; Century=100 (now 21st: 2001–2100); Millennium=1000 (now 3rd: 2001–3000).",
+      "exam_tip": "शताब्दी/सहस्राब्दी में 'आरंभ वर्ष–अंतिम वर्ष' दोनों लिखो; सिर्फ '21वीं' लिखना अधूरा उत्तर है।",
+      "source_text_hint": "शताब्दी – यह किसी भी 100 वर्षों का कालखंड है"
+    },
+    {
+      "concept": "भारतीय पंचांग और पारंपरिक तिथिपत्र",
+      "say": "Bacchon, kya aap jaante ho भारत में पारंपरिक तिथिपत्र कैसे बनते रहे हैं? NCERT 'ध्यान रखें' box mein batata hai: अनेक भारतीय तिथिपत्र महीनों एवं दिनों के निर्धारण के लिए सूर्य एवं चंद्रमा की स्थिति पर निर्भर करते हैं. पंचांग तालिकाओं की एक पुस्तक है जिसमें प्रत्येक माह के दिनों के साथ-साथ संबंधित खगोलीय आँकड़ों को सूचीबद्ध किया जाता है. Example: सूर्यग्रहण, चंद्रग्रहण, सूर्योदय एवं सूर्यास्त जैसी घटनाओं का सटीक आकलन. मौसम के पूर्वानुमान, त्योहारों की तिथियों और समय-निर्धारण आदि के लिए आज भी भारत में पंचांग का बड़े स्तर पर उपयोग होता है. Toh do systems saath-saath: ग्रेगोरियन — school, office, world dates; पंचांग/पारंपरिक — festivals, maanglik muhurat, eclipse timing. मांगलिक का मतलब अनुकूल या भाग्य लाने वाला शुभ समय — jaise एक मांगलिक शुरुआत. Chapter ke shuru mein bhi kaha gaya: त्योहारों की तिथियों एवं अन्य मांगलिक कार्यों के लिए हिंदू, मुस्लिम, यहूदी, चीनी आदि कैलेंडर भी use hote hain. Class tip: jab exam mein 'पंचांग' aaye — teen points: (1) सूर्य-चंद्र आधारित (2) खगोलीय आँकड़े/ग्रहण (3) त्योहार व मौसम. Yeh India-specific cultural source of timekeeping hai — history of calendar bhi history ka hissa hai!",
+      "example": "Diwali/EID ki date har saal Gregorian calendar par shift hoti hai kyunki traditional lunar/solar-lunar calendars alag chalte hain — panchang se decide.",
+      "board_lines": [
+        "भारतीय तिथिपत्र: सूर्य व चंद्रमा की स्थिति पर आधारित",
+        "पंचांग = दिनों + खगोलीय आँकड़ों की तालिका-पुस्तक",
+        "उपयोग: ग्रहण, त्योहार, मौसम पूर्वानुमान, मांगलिक समय"
+      ],
+      "common_mistake": "Students sochte hain भारत में सिर्फ ग्रेगोरियन चलता है — daily life mein पंचांग त्योहारों के लिए आज भी बहुत इस्तेमाल होता है।",
+      "memory_trick": "Panchang = Pan + Chang? Better: सूरज-चाँद + त्योहार + ग्रहण = पंचांग!",
+      "gesture_action": "Ek haath se sooraj circle, doosre se chand crescent — phir book kholne ka action (पंचांग).",
+      "real_life_examples": [
+        "घर में पंचांग/कैलेंडर से त्योहार की तारीख देखना",
+        "News mein सूर्यग्रहण/चंद्रग्रहण ka time announce — astronomical data"
+      ],
+      "worked_example": {
+        "problem": "पंचांग क्या है? आज भारत में इसके दो उपयोग लिखो।",
+        "steps": [
+          "Definition: तालिकाओं की पुस्तक — दिन + खगोलीय आँकड़े",
+          "Use 1: त्योहारों की तिथियाँ / मांगलिक समय",
+          "Use 2: सूर्य/चंद्र ग्रहण, सूर्योदय-सूर्यास्त, मौसम पूर्वानुमान"
+        ],
+        "answer": "पंचांग खगोलीय आँकड़ों वाली तालिका-पुस्तक है; त्योहारों की तिथियाँ और ग्रहण/मौसम आकलन इसके प्रमुख उपयोग हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पंचांग की एक पंक्ति में परिभाषा लिखो।"
+        ],
+        "medium": [
+          "भारतीय पारंपरिक तिथिपत्र किस पर निर्भर करते हैं? ग्रेगोरियन से एक अंतर बताओ।"
+        ],
+        "hard": [
+          "क्यों आधुनिक भारत में ग्रेगोरियन और पंचांग दोनों उपयोगी हैं? दो स्थितियाँ देकर लिखो।"
+        ]
+      },
+      "summary": "भारतीय पंचांग सूर्य-चंद्र आधारित खगोलीय तालिका है जो त्योहारों, ग्रहणों और मांगलिक समय-निर्धारण में आज भी काम आता है।",
+      "revision_point": "Panchang = solar-lunar tables → festivals, eclipses, weather, muhurat.",
+      "exam_tip": "पंचांग वाले उत्तर में 'सूर्य एवं चंद्रमा' और एक उपयोग (त्योहार/ग्रहण) जरूर लिखो।",
+      "source_text_hint": "'पंचांग' तालिकाओं की एक पुस्तक है जिसमें प्रत्येक माह के दिनों के साथ-साथ संबंधित खगोलीय आँकड़ों"
+    },
+    {
+      "concept": "इतिहास के स्रोत और पुनर्निर्माण",
+      "say": "अंतिम बड़ा topic: इतिहास के स्रोत क्या-क्या हैं? स्रोत = कोई स्थान, व्यक्ति, लेख अथवा वस्तु जिसके माध्यम से हम अतीत की किसी घटना अथवा कालखंड से संबंधित जानकारी एकत्र करते हैं. Activity: तीन पीढ़ियों की वंशावली — माता-पिता, दादा-दादी, नाना-नानी, परदादा… नाम, व्यवसाय, जन्म-स्थान, aur सूचना के स्रोत. Socho — छायाचित्र, डायरी, पहचान-पत्र, ya sirf स्मृतियाँ? घर के पुराने सिक्के, पुस्तकें, वस्त्र, आभूषण, बर्तन, पुराने भवन — हर वस्तु एक कहानी बताती है, जैसे जिग्सॉ पहेली के हिस्से. याद रखो: इतिहास में पहेली के कुछ हिस्से गायब रह सकते हैं! स्रोत diagram (पृष्ठ 67): पुरातात्विक — उत्खनन, टीला, उपकरण-हथियार, मूर्तियाँ-आभूषण, स्मारक, सिक्के, मृद्भांड-खिलौने, निवास व शवाधान, मानव-पशु-पौधों के अवशेष; साहित्यिक — पांडुलिपि, लोक साहित्य, वेद एवं इतिहास, वैज्ञानिक-तकनीकी लेख, कविता-नाटक, ऐतिहासिक लेख, कहानियाँ, यात्रा वृत्तांत, ऐतिहासिक वृत्तांत, वंशावली, भारतीय साहित्य, विदेशी विवरण, ताम्रपत्र, शिलालेख; कलात्मक — चित्रकला, मूर्तिकला, पट्टिका (पैनल); मौखिक स्रोत भी. इतिहासकार अधिक से अधिक स्रोत संकलित करते हैं — कभी स्रोत एक-दूसरे की पुष्टि (puzzle pieces match), कभी विपरीत सूचना — तब तय करना पड़ता है किस पर अधिक विश्वास करें. योगदान: इतिहासकार, पुरातत्व विज्ञानी, पुरालेखशास्त्री (प्राचीन अभिलेख पढ़ते हैं), मानव विज्ञानी, साहित्य-भाषा विशेषज्ञ; पिछले 50 वर्षों में वैज्ञानिक अध्ययन — प्राचीन जलवायु, रासायनिक अध्ययन, आनुवंशिकी — नए पूरक स्रोत. आधुनिक इतिहास (पिछली 2–3 शताब्दियाँ) में समाचार-पत्र; recent decades में इलेक्ट्रॉनिक मीडिया (TV, Internet).",
+      "example": "Family tree: दादा का नाम फोटो/डायरी से, परदादा का काम दादा की स्मृति से — alag sources, ek history.",
+      "board_lines": [
+        "स्रोत = स्थान/व्यक्ति/लेख/वस्तु → अतीत की जानकारी",
+        "प्रकार: पुरातात्विक · साहित्यिक · कलात्मक · मौखिक (+ विज्ञान, अखबार, मीडिया)",
+        "पुनर्निर्माण = कई स्रोत जोड़ना; कभी मेल, कभी विरोध → विश्वास तय करना"
+      ],
+      "common_mistake": "Students sochte hain इतिहास सिर्फ किताबों से आता है — NCERT: सिक्के, शिलालेख, उत्खनन, मौखिक स्मृतियाँ sab sources hain; kuch pieces missing bhi ho sakte hain.",
+      "memory_trick": "A-L-A-O: Archaeological, Literary, Artistic, Oral — चार बड़े स्रोत-समूह!",
+      "gesture_action": "Jigsaw puzzle ki tarah imaginary pieces jodo; ek piece missing chhod do — 'incomplete history' dikhao.",
+      "real_life_examples": [
+        "पुराना सिक्का या राशन कार्ड — वस्तु/दस्तावेज as source",
+        "दादी की सुनाई कहानी — मौखिक स्रोत"
+      ],
+      "worked_example": {
+        "problem": "एक इतिहासकार 1500 वर्ष पुराने राजा के बारे में शिलालेख और विदेशी यात्री का विवरण पढ़ता है; दोनों में कुछ बातें उलटी हैं। उसे क्या करना चाहिए?",
+        "steps": [
+          "Recall: स्रोत कभी पुष्टि, कभी विपरीत सूचना देते हैं",
+          "More sources collect karo; decide किस पर अधिक विश्वास",
+          "पुनर्निर्माण carefully — missing pieces मानकर"
+        ],
+        "answer": "अधिक स्रोत संकलित कर तुलना करनी चाहिए और तय करना चाहिए किस स्रोत पर अधिक विश्वास किया जाए; इतिहास का पुनर्निर्माण सावधानी से होता है।"
+      },
+      "practice": {
+        "easy": [
+          "इतिहास के स्रोत की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "पुरातात्विक और साहित्यिक स्रोत के दो-दो उदाहरण लिखो।"
+        ],
+        "hard": [
+          "आधुनिक इतिहास के लिए समाचार-पत्र और इलेक्ट्रॉनिक मीडिया क्यों महत्वपूर्ण स्रोत हैं? वैज्ञानिक अध्ययनों का एक उदाहरण भी दो।"
+        ]
+      },
+      "summary": "इतिहास के स्रोत पुरातात्विक, साहित्यिक, कलात्मक और मौखिक होते हैं; इतिहासकार कई स्रोतों से अतीत का पुनर्निर्माण करते हैं — पहेली के कुछ हिस्से गायब भी हो सकते हैं।",
+      "revision_point": "Sources = ALAO + science/newspapers/media; jigsaw may be incomplete; historians reconstruct carefully.",
+      "exam_tip": "स्रोत वाले प्रश्न में कम से कम तीन श्रेणियाँ + एक-एक उदाहरण लिखो; 'पहेली/गायब हिस्से' वाली बात conclusion में अच्छी लगती है।",
+      "source_text_hint": "कोई स्थान, व्यक्ति, लेख अथवा वस्तु जिसके माध्यम से हम अतीत की किसी घटना अथवा कालखंड से संबंधित जानकारी एकत्र करते हैं"
+    }
+  ]
+}
