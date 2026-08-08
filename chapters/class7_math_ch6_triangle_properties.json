@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 731,
+    "chapter_name": "त्रिभुज और उसके गुण",
+    "chapter_number": 6,
+    "book_name": "Class 7 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 7",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Namaste! Aaj hum NCERT Class 7 Mathematics ke Chapter 6 — त्रिभुज और उसके गुण — padhenge. Pehle triangle ke teen sides, teen angles aur teen vertices (छः अवयव) clearly naam denge; phir sides aur angles ke basis par classification. Uske baad माध्यिका (median) aur शीर्षलंब (altitude), बाह्य कोण का गुण, aur अंतःकोणों का योग गुण (sum = 180°) — sab paper-folding activities aur numericals se samjhenge.",
+    "welcome": "Arre class, Smart Board ready? Aaj Geometry ka favourite chapter — त्रिभुज और उसके गुण! Socho — roof truss, set-square, road warning board, sandwich ka slice — har jagah triangles. Teacher physically nahi hain is subject ke liye, lekin main tumhare saath bilkul school wali Hinglish mein padhaunga. Copy-pencil ready? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "त्रिभुज के छः अवयव (तीन भुजाएँ, तीन कोण) naam dena aur सम्मुख भुजा/कोण/शीर्ष identify karna",
+      "भुजाओं aur कोणों ke आधार पर त्रिभुजों का वर्गीकरण (विषमबाहु, समद्विबाहु, समबाहु; न्यून, समकोण, अधिक)",
+      "माध्यिका aur शीर्षलंब define karke draw karna; जानना कि माध्यिका हमेशा अंदर होती है, शीर्षलंब कभी-कभी बाहर",
+      "बाह्य कोण गुण (exterior = sum of two remote interiors) aur अंतःकोण योग गुण (∠A+∠B+∠C=180°) se unknown angles nikalna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "भूमिका – त्रिभुज और उसके अवयव"
+      },
+      {
+        "number": 2,
+        "name": "त्रिभुजों का वर्गीकरण"
+      },
+      {
+        "number": 3,
+        "name": "त्रिभुज की माध्यिकाएँ"
+      },
+      {
+        "number": 4,
+        "name": "त्रिभुज के शीर्षलंब"
+      },
+      {
+        "number": 5,
+        "name": "माध्यिका और शीर्षलंब – विशेषताएँ"
+      },
+      {
+        "number": 6,
+        "name": "बाह्य कोण एवं इसका गुण"
+      },
+      {
+        "number": 7,
+        "name": "बाह्य कोण गुण के अनुप्रयोग"
+      },
+      {
+        "number": 8,
+        "name": "अंतःकोणों का योग गुण"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "say": "Bacchon, pehle soft revision — tum pehle se jaante ho ki त्रिभुज teen रेखाखंडों se bani ek बंद सरल आकृति hai. Uske teen शीर्ष, teen भुजाएँ aur teen कोण hote hain. Yeh छः चीज़ें — three sides plus three angles — triangle ke छः अवयव kehlate hain. Dekho आकृति 6.1 jaisa ∆ABC. Ismein भुजाएँ: AB, BC, CA. कोण: ∠BAC, ∠ABC, ∠BCA. शीर्ष: A, B, C. Ab bahut important idea — सम्मुख. शीर्ष A ki सम्मुख भुजा BC hai — matlab jo side vertex A ke bilkul opposite hai. Same logic: भुजा AB ke सम्मुख कोण kaunsa? Jo angle opposite AB hai, woh ∠C yani ∠ACB. Try activity book se: ∆PQR mein शीर्ष Q ki सम्मुख भुजा PR; ∆DEF mein भुजा DE ka सम्मुख कोण ∠F; ∆XYZ mein भुजा XZ ka सम्मुख शीर्ष Y. Classroom tip: vertex ko finger se dabao, opposite wali side dikhao — woh सम्मुख भुजा. Naming mein middle letter vertex hota hai — ∠ABC mein B vertex. Daily life: set-square ke teen corners teen vertices; school roof ke slanted frame ke teen sticks teen sides. Pehle figure carefully labels padho, phir six elements list karo. Galat naam mat do — side AB alag, angle at A alag. Jab opposite side pucho, pehle vertex identify karo. Yeh foundation clear hogi toh median, altitude, exterior angle sab soft lagenge. Copy mein ek triangle draw karke six elements ke naam likho — daily drill. Smart Board par highlight: vertices red, sides blue, angles green — visual memory strong ho jaati hai. Ab next concept mein classification seekhenge — sides aur angles ke basis par triangles kitne prakar ke hote hain.",
+      "example": "Blackboard par chalk se ∆ABC banao — corners A, B, C = शीर्ष; chalk lines AB, BC, CA = भुजाएँ; har corner ka khula pan = कोण. Finger A par rakho toh opposite side BC सम्मुख भुजा.",
+      "board_lines": [
+        "त्रिभुज = 3 रेखाखंडों से बनी बंद सरल आकृति",
+        "छः अवयव: भुजाएँ AB, BC, CA | कोण ∠A, ∠B, ∠C | शीर्ष A, B, C",
+        "सम्मुख: शीर्ष A ↔ भुजा BC; भुजा AB ↔ कोण C"
+      ],
+      "common_mistake": "Bahut bacche सम्मुख भुजा galat batate hain — sochte hain A ki opposite side AB hai. Nahi! Opposite of vertex A hamesha BC hoti hai — jo A ko touch nahi karti.",
+      "memory_trick": "V-O-S: Vertex Opposite Side. Jo vertex dabao, usse door wali side सम्मुख. A→BC, B→CA, C→AB.",
+      "gesture_action": "Teen ungliyon se triangle shape banao; ek ungli vertex dabao, doosri se opposite side point karo — सम्मुख भुजा",
+      "real_life_examples": [
+        "Traffic warning triangle / set-square — teen corners aur teen edges clearly dikhte hain",
+        "Sandwich ya pizza slice triangular cut — teen sides, teen tip points (vertices)"
+      ],
+      "worked_example": {
+        "problem": "∆ABC ke छः अवयवों (तीन भुजाओं तथा तीन कोणों) के नाम लिखिए। Also: भुजा AC ke सम्मुख कोण ka naam batao.",
+        "steps": [
+          "Sides: AB, BC, CA",
+          "Angles: ∠BAC (∠A), ∠ABC (∠B), ∠BCA (∠C)",
+          "भुजा AC (yani CA) ko touch nahi karta woh vertex B — isliye सम्मुख कोण = ∠ABC"
+        ],
+        "answer": "भुजाएँ AB, BC, CA; कोण ∠A, ∠B, ∠C. भुजा AC का सम्मुख कोण = ∠B (∠ABC)"
+      },
+      "practice": {
+        "easy": [
+          "∆ABC mein शीर्ष C ki सम्मुख भुजा kaunsi hai?"
+        ],
+        "medium": [
+          "∆PQR mein: (i) शीर्ष Q ki सम्मुख भुजा (ii) भुजा PR ka सम्मुख कोण likho."
+        ],
+        "hard": [
+          "Ek figure mein vertices X, Y, Z marked hain. Table banao: har शीर्ष | सम्मुख भुजा | us भुजा ka सम्मुख कोण — teen rows complete karo."
+        ]
+      },
+      "summary": "Triangle ke teen sides, teen angles, teen vertices hote hain; सम्मुख भुजा/कोण opposite vertex/side se identify hote hain.",
+      "revision_point": "Six elements + V-O-S: A opposite BC, B opposite CA, C opposite AB.",
+      "exam_tip": "1-mark naming sawaal mein pehle figure ke labels padho; opposite side hamesha woh jo vertex ko touch nahi karti.",
+      "source_text_hint": "आप देख चुके हैं कि त्रिभुज, तीन रेखाखंडों से बनी एक बंद सरल आकृति है"
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "say": "Ab classification — वर्गीकरण — do tareeke se hota hai. Pehla: भुजाओं के आधार पर. Agar teenon sides alag-alag lengths ki hain, toh विषमबाहु त्रिभुज (scalene). Agar do sides equal hain, toh समद्विबाहु (isosceles). Agar teenon sides equal, toh समबाहु (equilateral). Doosra: कोणों के आधार पर. Agar teenon angles acute (90 se chhote) hain, न्यून कोण त्रिभुज (acute-angled). Agar ek angle bilkul 90 degree, समकोण त्रिभुज (right-angled). Agar ek angle 90 se bada, अधिक कोण त्रिभुज (obtuse-angled). Book kehti hai — upar bataye gaye sab prakar ke triangles ke aakaar kaagaz se kaat kar samples banao, doston se compare karo. आकृति 6.2 mein figures A, B, C, D ko classify karna padta hai — pehle sides dekho (equal marks?), phir angles (right-angle square mark? obtuse dikh raha?). Important: ek triangle ek saath dono lists mein aata hai — jaise समद्विबाहु + समकोण possible hai. Classroom activity: paper se teen scalene, teen isosceles, teen equilateral cut karo; phir alag se acute, right, obtuse shapes. Fold karke equal sides check karo. Naming confuse mat karo — विषम = sab alag; समद्वि = do same; सम = teen same. Angles: न्यून = sharp pointed feel; सम = L corner; अधिक = blunt wide corner. Exam mein figure dekhte hi pehle equal-side marks aur right-angle mark dhundo. Rural school tip: khet ke triangular plots, school roof panels — sides measure karke type batao. Ab next — median, matlab opposite side ke midpoint se joining line.",
+      "example": "Set-square: 45°-45°-90° wala समद्विबाहु समकोण; 30°-60°-90° wala विषमबाहु समकोण. Equilateral paper cut — teen sides equal, teen angles 60° — समबाहु + न्यून.",
+      "board_lines": [
+        "भुजाओं पर: विषमबाहु | समद्विबाहु | समबाहु",
+        "कोणों पर: न्यून कोण | समकोण | अधिक कोण त्रिभुज",
+        "एक ही ∆ दोनों वर्गीकरणों में आ सकता है (उदा. समद्विबाहु समकोण)"
+      ],
+      "common_mistake": "Students sochte hain समबाहु sirf sides se classify hota hai aur angles ignore karte hain — actually equilateral hamesha acute bhi hota hai (har angle 60°), lekin exam mein dono bases alag-alag poochhe jaate hain.",
+      "memory_trick": "S-I-E sides: Scalene All Different, Isosceles Identical pair, Equilateral Equal all. A-R-O angles: Acute All <90, Right one 90, Obtuse one >90.",
+      "gesture_action": "Teen sticks alag length (scalene), do same length (isosceles), teen same (equilateral) se triangle banao; phir arms se acute/right/obtuse corner dikhao",
+      "real_life_examples": [
+        "Road side warning triangle aksar समबाहु jaisa; carpenter set-square समकोण",
+        "Kite ke triangular panels — kabhi समद्विबाहु, kabhi विषमबाहु"
+      ],
+      "worked_example": {
+        "problem": "आकृति 6.2 jaisi socho: ek triangle mein sides 5 cm, 5 cm, 6 cm aur ek angle 90°. भुजाओं और कोणों दोनों आधारों पर classify karo.",
+        "steps": [
+          "Do sides equal (5=5) → समद्विबाहु",
+          "Ek angle 90° → समकोण त्रिभुज",
+          "Combined name: समद्विबाहु समकोण त्रिभुज"
+        ],
+        "answer": "भुजाओं पर: समद्विबाहु; कोणों पर: समकोण त्रिभुज"
+      },
+      "practice": {
+        "easy": [
+          "विषमबाहु aur समबाहु त्रिभुज mein मुख्य अंतर ek line mein likho."
+        ],
+        "medium": [
+          "Kya ek अधिक कोण त्रिभुज समबाहु ho sakta hai? Why/why not?"
+        ],
+        "hard": [
+          "Teen triangles: (i) sides 3,4,5 with right angle (ii) sides 6,6,6 (iii) angles 20°,30°,130°. Har ek ko sides + angles dono bases par classify karo."
+        ]
+      },
+      "summary": "Triangles sides se विषमबाहु/समद्विबाहु/समबाहु aur angles se न्यून/समकोण/अधिक mein classify hote hain.",
+      "revision_point": "Sides: scalene / isosceles / equilateral. Angles: acute / right / obtuse. Dono alag poochho.",
+      "exam_tip": "Figure classification mein pehle tick marks (equal sides) aur square mark (90°) dekho — answer turant clear ho jaata hai.",
+      "source_text_hint": "भुजाओं के आधर पर: विषमबाहु, समद्विबाहु तथा समबाहु त्रिभुज"
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "say": "Ab aate hain माध्यिका — median — par. Pehle yaad karo: kisi रेखाखंड ka लंब समद्विभाजक paper folding se kaise milta hai. Book activity: kaagaz se ∆ABC kaato (आकृति 6.3). Koi ek side lo, maano BC. Paper fold karke BC ka perpendicular bisector dhundo. Fold ki crease BC ko D par kaatti hai — D midpoint hai BC ka. Ab vertex A ko D se milao. रेखाखंड AD, jo BC ke मध्य बिंदु D ko सम्मुख शीर्ष A se milata hai, triangle ki ek माध्यिका hai. Ab sides AB aur CA lekar do aur medians kheenchho — total teen medians. Definition board par: माध्यिका, त्रिभुज के एक शीर्ष को, सम्मुख भुजा के मध्य बिंदु से मिलाती है. Think-discuss-write: (1) Ek triangle mein kitni medians? Teen — har vertex se ek. (2) Kya median poori tarah triangle ke andar hoti hai? Haan — har type (acute, right, obtuse) mein median interior mein rehti hai. Midpoint hamesha side par hota hai, aur join line sides ke beech se guzarti hai. Classroom: ribbon se midpoint mark karke yarn se vertex jodo — median model. Confusion door: median midpoint se jaati hai, perpendicular hona zaroori nahi (jab perpendicular bhi ho toh special case — baad mein altitude se compare). Notation: agar BM median hai ∆ABC mein, toh M midpoint of AC. Exercise preview: ∆PQR mein side QR ka midpoint D — PD median hai. Yaad rakho formula feel: median divides opposite side into two equal segments. Next concept altitude — height — jo perpendicular hoti hai, midpoint zaroori nahi.",
+      "example": "Notebook page se triangle cut karo; base fold karke midpoint mark; tip se midpoint tak crease — woh median. Teen baar teen vertices se try karo.",
+      "board_lines": [
+        "माध्यिका = शीर्ष → सम्मुख भुजा का मध्य बिंदु",
+        "∆ABC में AD माध्यिका ⇒ D मध्य बिंदु of BC (BD = DC)",
+        "हर त्रिभुज में 3 माध्यिकाएँ; ये सदैव अभ्यंतर में"
+      ],
+      "common_mistake": "Students median ko hamesha perpendicular samajh lete hain — galat. Median sirf midpoint se milti hai; perpendicular hona zaroori nahi (sirf special triangles mein dono same line ho sakte hain).",
+      "memory_trick": "Median = Mid. M for Midpoint. 'Median Mid se milti hai' — yaad rakhne ka shortcut.",
+      "gesture_action": "Ek haath se side ka middle dabao (midpoint), doosre haath se opposite tip pakdo — imaginary line median",
+      "real_life_examples": [
+        "Triangular park ke tip se opposite side ke bilkul beech gate tak path — median jaisa",
+        "Flag ke triangular cloth tip se base midpoint tak stitch line — median idea"
+      ],
+      "worked_example": {
+        "problem": "∆ABC mein, BM ek माध्यिका hai. Likho: M kis side ka मध्य बिंदु hai? Aur BM ke baare mein ek true statement.",
+        "steps": [
+          "Median vertex B se opposite side AC ke midpoint tak",
+          "Isliye M मध्य बिंदु of AC ⇒ AM = MC",
+          "BM हमेशा ∆ ke अंदर"
+        ],
+        "answer": "M भुजा AC का मध्य बिंदु है; BM माध्यिका है और ∆ABC के अभ्यंतर में है।"
+      },
+      "practice": {
+        "easy": [
+          "Ek triangle mein kitni माध्यिकाएँ hoti hain?"
+        ],
+        "medium": [
+          "∆PQR mein side QR ka midpoint D hai. PD ko kya kahenge? QD aur DR ke baare mein kya relation hai?"
+        ],
+        "hard": [
+          "Kya obtuse triangle mein bhi median poori tarah andar hoti hai? Figure sochkar reason do."
+        ]
+      },
+      "summary": "Median vertex ko opposite side ke midpoint se milati hai; har triangle mein teen medians hoti hain aur yeh andar rehti hain.",
+      "revision_point": "Median ↔ midpoint (not necessarily perpendicular). 3 medians, always interior.",
+      "exam_tip": "Fill-in mein 'मध्य बिंदु' word dikhte hi median socho; 'लंब' dikhe toh altitude — mix mat karo.",
+      "source_text_hint": "माध्यिका, त्रिभुज के एक शीर्ष को, सम्मुख भुजा के मध्य ¯बदु से मिलाती है"
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "say": "Ab ऊँचाई — शीर्षलंब — altitude. Book ka beautiful experiment: triangle shape ka गत्ता ∆ABC mej par seedha ऊर्ध्वाधर khada karo. Uski ऊँचाई kitni? Yeh ऊँचाई शीर्ष A se भुजा BC tak ki दूरी hai (आकृति 6.4). A se BC tak kai रेखाखंड khiche ja sakte hain (आकृति 6.5), lekin height kaunsa? Woh रेखाखंड jo A se seedha neeche BC tak jaaye aur BC par लंबवत ho — wahi ऊँचाई. Agar AD perpendicular to BC, toh AD एक शीर्षलंब hai. Definition: शीर्षलंब ka ek end-point triangle ke kisi शीर्ष par, doosra end-point सम्मुख भुजा बनाने वाली रेखा par hota hai — note: side ki line par, sirf segment ke andar zaroori nahi. Har vertex se ek altitude. Think-discuss: (1) Kitne altitudes? Teen. (2) आकृति 6.6 — acute, right, obtuse mein A se BC tak altitude estimate karke draw. Acute mein foot andar; right mein agar right angle at B ya C ho toh ek leg khud altitude; obtuse mein foot opposite side ke extension par bahar padta hai. (3) Kya altitude hamesha triangle ke अभ्यंतर mein? Nahi — अधिक कोण त्रिभुज mein bahar ho sakti hai. (4) Kya aisa triangle jiske do altitudes uski do sides hi hon? Haan — समकोण त्रिभुज: right angle wali do legs ek doosre par perpendicular, toh woh sides hi altitudes ban jaati hain. (5) Kya median aur altitude same segment ho sakte hain? Haan — समद्विबाहु/समबाहु mein base ke liye. Classroom: set-square se perpendicular drop practice. Next: special features compare karke Exercise 6.1.",
+      "example": "Mej par cardboard triangle khada karo — tip se floor (base line) tak vertical scale reading = height/altitude. Plumb line jaisa socho — seedha लंब neeche.",
+      "board_lines": [
+        "शीर्षलंब (Altitude) = शीर्ष से सम्मुख भुजा (या उसकी रेखा) पर लंब",
+        "AD ⊥ BC ⇒ AD ऊँचाई / शीर्षलंब",
+        "अधिक कोण ∆ में शीर्षलंब बहिर्भाग में हो सकता है"
+      ],
+      "common_mistake": "Students sochte hain altitude hamesha triangle ke andar hoti hai aur foot hamesha side segment par hota hai — obtuse triangle mein foot side ke extension par bahar hota hai.",
+      "memory_trick": "Altitude = Atti seedha लंब. A for At right angle to base. Height = perpendicular distance.",
+      "gesture_action": "Ek haath flat base (floor), doosra haath tip se seedha neeche लंब — plumb line gesture for altitude",
+      "real_life_examples": [
+        "Pahaad ki ऊँचाई — tip se sea-level/base tak vertical distance (altitude idea)",
+        "Flag pole ground par लंब — triangular support frame ki height measure"
+      ],
+      "worked_example": {
+        "problem": "∆ABC समकोण है at B. Kya AB aur BC khud altitudes ho sakte hain? Explain.",
+        "steps": [
+          "∠B = 90° ⇒ AB ⊥ BC",
+          "Vertex A se opposite side BC: AB ⊥ BC, toh AB itself altitude from A to line BC",
+          "Similarly BC altitude from C to line AB"
+        ],
+        "answer": "हाँ — समकोण त्रिभुज में समकोण बनाने वाली दो भुजाएँ ही दो शीर्षलंब होती हैं।"
+      },
+      "practice": {
+        "easy": [
+          "शीर्षलंब ki definition ek line mein likho (लंब word zaroor use karo)."
+        ],
+        "medium": [
+          "न्यून, समकोण, अधिक — har case mein A se BC tak altitude foot kahan padega (अंदर / शीर्ष पर / बाहर)?"
+        ],
+        "hard": [
+          "Kya kisi triangle ki median aur altitude ek hi रेखाखंड ho sakti hai? Kaunse type mein? Reason do."
+        ]
+      },
+      "summary": "Altitude vertex se opposite side (ya uski line) par perpendicular hoti hai; obtuse mein bahar ho sakti hai; right triangle mein legs khud altitudes ban sakti hain.",
+      "revision_point": "Altitude = perpendicular height. 3 altitudes. Obtuse can be outside. Right: two sides are altitudes.",
+      "exam_tip": "Obtuse triangle figure mein altitude draw karte waqt side ko extend karna mat bhoolna — warna examiner mark kaatega.",
+      "source_text_hint": "रेखाखंड ।स् त्रिभुज का एक शीर्षलंब है"
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "say": "Ab dono ko saath compare karte hain — ये करें activity aur आकृति 6.7 type. Kaagaz se teen shapes: (i) समबाहु (ii) समद्विबाहु (iii) विषमबाहु. Inke altitudes aur medians dhundo. Kya विशेषता milti hai? समबाहु mein har median hi altitude bhi hoti hai — kyunki midpoint par perpendicular bhi padta hai, symmetry ke kaaran. समद्विबाहु mein equal sides ke beech wali base ke liye — jo vertex equal sides se aata hai — uski median aur altitude same रेखाखंड hoti hai. विषमबाहु mein generally median aur altitude alag lines rehti hain. Exercise 6.1 style practice: ∆PQR mein side QR ka midpoint D — PD माध्यिका hai, aur QD = DR hota hai midpoint definition se. अनुमान से आकृति: (a) ∆ABC mein BM median (b) ∆PQR mein PQ aur PR altitudes dikhao (c) ∆XYZ mein XL altitude bahar. Draw karke verify: समद्विबाहु mein altitude aur median same ho sakta hai. Classroom checklist: Median → midpoint mark; Altitude → right-angle mark. Same line tabhi jab symmetry ho. Common exam trap: figure mein sirf midpoint dikha toh median; sirf 90 dikha toh altitude; dono marks → special triangle. Practice rough sketches — Class 7 level par idea clear hona zaroori hai. Book ke questions: fill blanks PD is median; verify isosceles case. Yaad rakho difference table: Median cares about midpoint, altitude cares about perpendicular. Next scoring topic — बाह्य कोण का गुण.",
+      "example": "Paper equilateral cut karo, base fold midpoint, tip se crease — set-square se check; crease base par 90° bhi aayegi — median equals altitude. Scalene mein same try — generally 90° nahi aata.",
+      "board_lines": [
+        "समबाहु: माध्यिका = शीर्षलंब (तीनों के लिए)",
+        "समद्विबाहु: आधार की माध्यिका = शीर्षलंब (समान भुजाओं वाले शीर्ष से)",
+        "विषमबाहु: सामान्यतः माध्यिका ≠ शीर्षलंब"
+      ],
+      "common_mistake": "Bacche har triangle mein median aur altitude same maan lete hain — sirf समबाहु aur समद्विबाहु (base case) mein yeh true; विषमबाहु mein alag.",
+      "memory_trick": "Equal sides → Equal treatment: jahan sides equal, median aur altitude mil sakte hain. Scalene = Separate lines.",
+      "gesture_action": "Do equal sticks (isosceles) se triangle; beech fold dikhao — ek hi crease median plus altitude; phir teen unequal sticks — do alag lines dikhao",
+      "real_life_examples": [
+        "Samabahu warning triangle ke symmetry fold — center crease median cum altitude",
+        "Isosceles roof gable — ridge se base midpoint tak vertical beam often both roles"
+      ],
+      "worked_example": {
+        "problem": "∆ABC समद्विबाहु hai with AB = AC. D midpoint of BC. Verify idea: AD median bhi hai aur altitude bhi.",
+        "steps": [
+          "D midpoint ⇒ AD माध्यिका by definition",
+          "AB = AC ⇒ isosceles symmetry ⇒ AD base BC ko perpendicular bisect karti hai",
+          "Isliye AD ⊥ BC ⇒ AD शीर्षलंब भी"
+        ],
+        "answer": "हाँ — समद्विबाहु ∆ABC (AB=AC) में AD (D मध्य बिंदु of BC) माध्यिका तथा शीर्षलंब दोनों है।"
+      },
+      "practice": {
+        "easy": [
+          "∆PQR mein QR ka midpoint D. Sirf midpoint diya ho toh PD kya hai — माध्यिका या शीर्षलंब?"
+        ],
+        "medium": [
+          "∆XYZ mein altitude XL bahar hai. Yeh triangle kis angle-type ka hoga?"
+        ],
+        "hard": [
+          "आकृति खींचकर पुष्टि कीजिए कि एक समद्विबाहु त्रिभुज में शीर्षलंब व माध्यिका एक ही रेखाखंड हो सकता है। Steps likho."
+        ]
+      },
+      "summary": "Compare medians and altitudes on equilateral, isosceles, scalene — equality of the two segments needs symmetry (equal sides).",
+      "revision_point": "Equilateral: all medians = altitudes. Isosceles base: median = altitude. Scalene: usually different.",
+      "exam_tip": "Ex 6.1 type drawing questions mein clearly mark midpoint (M) aur right angle (perpendicular) — dono symbols se confusion khatam.",
+      "source_text_hint": "आकृति खींचकर पुष्टि कीजिए कि एक समद्विबाहु त्रिभुज में शीर्षलंब व माध्यिका एक ही रेखाखंड हो सकता है"
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "say": "Bahut important property aati hai — बाह्य कोण का गुण. Activity: ∆ABC draw karo, side BC ko ek taraf D tak badhao (आकृति 6.7). Vertex C par jo angle ACD banta hai, woh ∆ABC ke बहिर्भाग mein hai — ise शीर्ष C par बना एक बाह्य कोण kehte hain. Clearly ∠ACB aur ∠ACD संलग्न (adjacent) hain aur linear pair banate hain. Triangle ke baaki do angles ∠A aur ∠B, बाह्य कोण ∠ACD ke दो सम्मुख अंतःकोण ya दूरस्थ अंतःकोण (remote interior angles) kehlate hain. Cut ya trace karke ∠A aur ∠B ko adjacent rakhkar ∠ACD par rakho (आकृति 6.8) — kya dono milkar ∠ACD ko poora cover karte hain? Haan! Protractor se measure: ∠ACD approximately ∠A + ∠B ke barabar aata hai. Statement: किसी त्रिभुज का बाह्य कोण अपने दोनों सम्मुख अंतःकोणों के योग के बराबर होता है. Proof sketch (आकृति 6.9): C se AB ke parallel CE khicho. Alternate angles se ∠1 = ∠A; corresponding se ∠2 = ∠B; aur ∠1+∠2 = ∠ACD. Isliye ∠A+∠B = exterior. Think-discuss: ek vertex par do exterior angles (side dono directions) equal hote hain. Exterior plus adjacent interior = 180 degree (linear pair). Yaad: exterior hamesha remote interiors ka sum — adjacent interior ko mat jodna property mein. Classroom mein har student ek triangle extend karke measure kare. Next applications — numericals aur figure-error checks.",
+      "example": "∆ABC mein ∠A=50°, ∠B=60°. Side BC extend → exterior at C = 50°+60°=110°. Check: interior C = 70°, aur 70°+110°=180° linear pair — consistent!",
+      "board_lines": [
+        "बाह्य कोण = दो सम्मुख (दूरस्थ) अंतःकोणों का योग",
+        "∠ACD = ∠A + ∠B  (BC को D तक बढ़ाने पर)",
+        "बाह्य कोण + संलग्न अंतःकोण = 180° (रैखिक युग्म)"
+      ],
+      "common_mistake": "Students exterior ko adjacent interior se add karke property likh dete hain — galat. Exterior = sum of do remote/opposite interiors, adjacent nahi.",
+      "memory_trick": "E = R + R: Exterior = Remote + Remote. Adjacent mat jodna — woh toh linear pair mein 180° ke liye hai.",
+      "gesture_action": "Teen ungliyan triangle; ek side extend; do door wale interior angles fingers se touch karke exterior finger par sum dikhao",
+      "real_life_examples": [
+        "Road Y-junction par triangular island — ek arm extend socho, outer turn angle do opposite corner angles ke sum jaisa",
+        "Set-square edge table se thoda bahar — outer angle measure karke interiors se match"
+      ],
+      "worked_example": {
+        "problem": "आकृति 6.11 jaisi: exterior angle 110°, ek remote interior 50°, unknown remote interior x. x ज्ञात कीजिए।",
+        "steps": [
+          "बाह्य कोण गुण: remote interiors ka sum = exterior",
+          "50° + x = 110°",
+          "x = 110° − 50° = 60°"
+        ],
+        "answer": "x = 60°"
+      },
+      "practice": {
+        "easy": [
+          "बाह्य कोण गुण ek line mein statement likho."
+        ],
+        "medium": [
+          "Exterior 70°, ek remote interior 25°. Doosra remote interior find karo."
+        ],
+        "hard": [
+          "Do remote interiors 60° aur 80°. Exterior find karo. Phir adjacent interior bhi nikaalo (linear pair se)."
+        ]
+      },
+      "summary": "Exterior angle of a triangle equals the sum of the two remote interior angles; with adjacent interior it forms a linear pair (180°).",
+      "revision_point": "Exterior = remote1 + remote2; Exterior + adjacent interior = 180°.",
+      "exam_tip": "Figure mein pehle extend ki hui side aur exterior mark karo, phir do door wale interiors highlight — galat angle select nahi hoga.",
+      "source_text_hint": "किसी त्रिभुज का बा“य कोण अपने दोनों सम्मुख अंतःकोणों के योग के बराबर होता है"
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "say": "Ab property apply karke numericals — Exam favourite topic! Try these style: (1) Exterior 70°, ek remote interior 25° → doosra = 70 minus 25 = 45°. (2) Remote interiors 60° aur 80° → exterior = 140°. (3) Figure check: agar marked exterior 80° lekin remote interiors 50°+60°=110° dikhe toh inconsistency — figure mein त्रुटि hai, kyunki property violate hoti hai. Think-discuss: jab exterior (i) right angle 90° → remote pair sum 90, dono acute; (ii) obtuse → remotes ka sum obtuse; (iii) acute exterior → dono remotes chhote, sum 90 se kam. Kya exterior straight angle 180° ho sakta? Nahi — remotes sum 180 imply third interior zero, jo triangle mein impossible. Exercise 6.2: figures mein unknown exterior x ya interior x nikaalo — hamesha likho exterior equals sum of opposite interiors. Example: interiors 45° aur x, exterior 120° → 45+x=120 → x=75. Kabhi linear pair pehle use karo: adjacent interior mile toh 180 minus exterior se interior, phir aage badho. Teen aur tareeke exterior banane: har side dono directions extend — total six exteriors possible. Classroom drill: har student ek random triangle measure karke exterior verify kare — error about 2° ok. Galat figure comment likhte waqt clearly property cite karo. Next mega property — three interiors sum 180° — exterior property se prove bhi hoga!",
+      "example": "Figure: exterior at C = 125°, ∠A = 40°. Find ∠B. By property 40°+∠B=125° ⇒ ∠B=85°. Quick check: ∠C=180−125=55; 40+85+55=180 — perfect.",
+      "board_lines": [
+        "Unknown exterior: x = ∠1 + ∠2 (remote)",
+        "Unknown remote: x = exterior − known remote",
+        "त्रुटि जाँच: marked values property तोड़ें तो figure गलत"
+      ],
+      "common_mistake": "Figure error sawaal mein students sirf 'haan galat' likh dete hain bina reason — hamesha calculate karke dikhao ki exterior ≠ sum of remotes.",
+      "memory_trick": "Check-Sum: Exterior pehle sum se check. Match = sahi figure; mismatch = त्रुटि.",
+      "gesture_action": "Do remote angles add (fingers), exterior se compare — thumbs up if equal, thumbs down if figure wrong",
+      "real_life_examples": [
+        "Architecture triangular window — outer trim angle verify by adding two far corner angles",
+        "Sports field triangular corner flags — extended sideline outer angle vs two interiors"
+      ],
+      "worked_example": {
+        "problem": "किसी त्रिभुज में एक बाह्य कोण 70° है और उसके अंतः सम्मुख कोणों में से एक 25° है। दूसरे अंतः सम्मुख कोण की माप ज्ञात कीजिए।",
+        "steps": [
+          "बाह्य कोण गुण: 25° + x = 70°",
+          "x = 70° − 25°",
+          "x = 45°"
+        ],
+        "answer": "45°"
+      },
+      "practice": {
+        "easy": [
+          "Remote interiors 60° aur 80° hain. बाह्य कोण की माप ज्ञात कीजिए।"
+        ],
+        "medium": [
+          "Exterior 110°, remotes marked 50° aur 70°. Kya figure mein त्रुटि hai? Comment with calculation."
+        ],
+        "hard": [
+          "Exterior right angle hai. Remote interiors mein se ek doosre se 10° bada. Dono remotes find karo."
+        ]
+      },
+      "summary": "Use exterior equals sum of remotes to find unknowns; use mismatch to spot figure errors; exterior cannot be 180° for a real triangle.",
+      "revision_point": "x = E − known; E = a+b; error if E ≠ a+b. Exterior + adjacent = 180°.",
+      "exam_tip": "2-mark numerical mein pehle property statement ek line mein likho, phir equation — full marks pattern.",
+      "source_text_hint": "किसी त्रिभुज में एक बा“य कोण की माप 70° है और उसके अंतः सम्मुख कोणों में से एक की माप 25° है"
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "say": "Ab chapter ka star property — त्रिभुज के अंतःकोणों का योग गुण. Statement: त्रिभुज के तीनों कोणों की मापों का योग 180° होता है. Book chaar activities deti hai. (1) Triangle ke teen angles cut karke arrange karo (आकृति 6.13) — milkar ek straight angle 180° banate hain. (2) Teen copies of ∆ABC (आकृति 6.14 aur 6.15) arrange — ∠1+∠2+∠3 straight dikhta hai; exterior property bhi connect hoti hai. (3) Paper fold: altitude through A foot D; teen corners fold karke A, B, C point D par milao — again straight angle. (4) Notebook mein teen triangles measure karke table: har angle plus sum approximately 180° (measurement error allow). Logical proof using exterior property (आकृति 6.17): ∆ABC angles ∠1, ∠2, ∠3; extend BC to D so ∠4 exterior. Exterior property: ∠1+∠2=∠4. Add ∠3 both sides: ∠1+∠2+∠3 = ∠4+∠3. Lekin ∠4 aur ∠3 linear pair ⇒ sum 180°. Hence ∠1+∠2+∠3=180°. Example 2: आकृति 6.18 — angles 47° aur 52°, find ∠P: 180−47−52=81°. Exercise 6.3: figures mein unknown x — hamesha x plus known plus known equals 180. Consequences: teenon obtuse impossible; exactly ek right possible; equilateral ⇒ each 60°. Classroom: har student apna triangle measure karke sum register mein likhe. Yaad: yeh fundamental property aage bhi kaam aayegi. Revision full chapter: six elements, classify, median, altitude, exterior, angle sum. Smart Board closing: 180° ko seedhi line dikhao, teen paper angles us par chipkao — class clap!",
+      "example": "∆PQR mein ∠Q=47°, ∠R=52°. Angle sum: ∠P+47+52=180 ⇒ ∠P=180−99=81° (Example 2 / Fig 6.18).",
+      "board_lines": [
+        "∠A + ∠B + ∠C = 180° (अंतःकोण योग गुण)",
+        "उपपत्ति: बाह्य कोण गुण + रैखिक युग्म ⇒ योग 180°",
+        "उदाहरण: 180° − 47° − 52° = 81°"
+      ],
+      "common_mistake": "Students calculation mein 180−(a+b) ki jagah 90−(a+b) kar dete hain — complementary wala habit. Triangle mein hamesha 180.",
+      "memory_trick": "Triangle → Straight line feeling: teen angles milkar seedhi line (180°). T for Triangle, T for One-Eighty Together.",
+      "gesture_action": "Dono arms seedhi line (180°); teen students apne angle-cut papers us line par sajaakar dikhao — sum property live",
+      "real_life_examples": [
+        "Triangular slice of bread — teen corner openings add karke roughly half-turn / straight",
+        "Set-square 30-60-90: 30+60+90=180 — pocket check anytime"
+      ],
+      "worked_example": {
+        "problem": "दी गई आकृति में ∠P = ?, यदि अन्य दो कोण 47° तथा 52° हैं।",
+        "steps": [
+          "अंतःकोण योग गुण: ∠P + 47° + 52° = 180°",
+          "∠P + 99° = 180°",
+          "∠P = 180° − 99° = 81°"
+        ],
+        "answer": "∠P = 81°"
+      },
+      "practice": {
+        "easy": [
+          "Agar kisi triangle ke do angles 70° aur 50° hain, teesra angle find karo."
+        ],
+        "medium": [
+          "Ek समकोण त्रिभुज mein ek acute angle 35°. Doosra acute find karo."
+        ],
+        "hard": [
+          "Exterior at C is 110°, ∠A=40°. Pehle ∠B exterior property se nikaalo, phir ∠C angle-sum / linear pair se verify karo ki dono methods match karte hain."
+        ]
+      },
+      "summary": "Teenon interior angles ka yog hamesha 180°; prove via exterior property + linear pair; use to find unknown angles.",
+      "revision_point": "∠A+∠B+∠C=180°. Proof link: exterior ⇒ remotes sum; plus adjacent = 180°.",
+      "exam_tip": "Unknown angle questions mein pehle 180° equation likho; multi-step mein exterior aur angle-sum dono methods se answer cross-check karo.",
+      "source_text_hint": "त्रिभुज के तीनों कोणों की मापों का योग 180° होता है"
+    }
+  ]
+}
