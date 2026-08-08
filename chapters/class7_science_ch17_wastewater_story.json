@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 490,
+    "chapter_name": "अपशिष्ट जल की कहानी",
+    "chapter_number": 17,
+    "book_name": "Class 7 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 7",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 7 Science ke Chapter 17 — अपशिष्ट जल की कहानी — ko samjhenge. Is chapter mein hum seekhenge ki ghar, school aur industry se nikalne wala ganda pani wastewater/sewage kaise banta hai; usme kaun-kaun si ashuddhiyan hoti hain; sewer system se treatment plant tak uski journey; aur physical-chemical-biological prakriyaon se uska shuddhikaran kaise hota hai. Saath hi hum seekhenge ki jaagrook nagrik ban kar ghar ki naliyon aur swachhta se bimariyon ko kaise rok sakte hain.",
+    "welcome": "Good morning, bacchon! Aaj ek simple sawaal se shuru karte hain — jab tum subah brush karte ho, bartan dhote ho, ya toilet use karte ho, toh woh pani kahaan jaata hai? Foamy, oily, kaala-bhura pani sink aur naliyon se nikalta hai — isi ko hum अपशिष्ट जल ya wastewater kehte hain. Aaj Smart Board par hum iski poori kahani padhenge, bilkul jaise ek teacher class mein samjhate hain. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "अपशिष्ट जल और वाहित मल (sewage) की परिभाषा समझना तथा स्वच्छ जल के उपयोग व कमी की गंभीरता बताना",
+      "वाहित मल में कार्बनिक-अकार्बनिक अशुद्धियाँ, पोषक तत्त्व, जीवाणु और अन्य सूक्ष्मजीवों को पहचानना",
+      "सीवर तंत्र, मेनहोल और अपशिष्ट जल उपचार संयंत्र के मुख्य चरण (बार स्क्रीन, ग्रिट टंकी, आपंक, वातन, क्लोरीनीकरण) समझाना",
+      "अच्छी गृह व्यवस्था, जागरूक नागरिक व्यवहार और स्वच्छता–रोग के संबंध को दैनिक जीवन में लागू करना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अपशिष्ट जल क्या है और स्वच्छ जल क्यों ज़रूरी है"
+      },
+      {
+        "number": 2,
+        "name": "जल की सफाई और जीवन के लिए जल दशक"
+      },
+      {
+        "number": 3,
+        "name": "वाहित मल क्या है?"
+      },
+      {
+        "number": 4,
+        "name": "वाहित मल में अशुद्धियाँ और संदूषक"
+      },
+      {
+        "number": 5,
+        "name": "जल शोधन – सीवर तंत्र की घटनापूर्ण यात्रा"
+      },
+      {
+        "number": 6,
+        "name": "प्रयोग से समझो – Activity 13.4 जल उपचार"
+      },
+      {
+        "number": 7,
+        "name": "अपशिष्ट जल उपचार संयंत्र के चरण"
+      },
+      {
+        "number": 8,
+        "name": "जागरूक नागरिक, गृह व्यवस्था और स्वच्छता–रोग"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अपशिष्ट जल क्या है और स्वच्छ जल क्यों ज़रूरी है",
+      "say": "Bacchon, hum sab apne ghar mein jal ka use karte hain — peene, nahaane, kapde dhone, bartan saaf karne ke liye. Lekin use ke baad hum usi pani ko ganda ya dooshit bana dete hain. Dooshit? Kya aascharya hua? Dekho — jhaag se bharpoor, tel mila hua, kaala ya bhura rang ka pani jo sink, shauchalaya, laundry se naaliyon mein jaata hai — yahi अपशिष्ट जल ya wastewater kehlata hai. Important: is tarah ke kaamon mein prayukt jal ko vyarth nahi jaane dena chahiye. Humein dooshit padarth hataakar use swachch banana chahiye. Kabhi socha hai wastewater kahaan jaata hai aur uska kya hota hai? Yeh chapter yahi mystery solve karega. Swachch jal manushyon ki मूलभूत आवश्यकता hai. Chitra 13.1 mein vrttakar khali sthanon mein swachch jal ke upyog likho — jaise peyjal. Tum aur bhi jod sakte ho: kheti, safai, cooking, industry. Durbhagya se upyog ke liye upyukt swachch jal sabko available nahi. Ek report ke anusar ek arab se adhik logon ko surakshit peyjal nahi milta. Iske kaaran vishwa ki bahut badi jansankhya jal-sambandhi bimariyon se peedit rehti hai aur kai log mrityu ka grās ban jaate hain. Kai ilakon mein log, yahan tak ki bacche, swachch jal laane ke liye kai kilometre paidal chalte hain. Kya yeh manav garima ke liye gambheer samasya nahi hai? Aaj ka pehla message: clean water precious hai, aur wastewater ko samajhna uski raksha ka pehla kadam hai.",
+      "example": "Kitchen sink se jhaag wala oily pani aur bathroom se kapde dhone ka dirty water — dono wastewater ke daily examples hain.",
+      "board_lines": [
+        "अपशिष्ट जल = उपयोग के बाद गंदा/दूषित जल (सिंक, शौचालय, लॉन्ड्री)",
+        "स्वच्छ जल = मानव की मूलभूत आवश्यकता",
+        "समस्या: 1 अरब+ लोगों को सुरक्षित पेयजल नहीं; जल-रोग व लंबी पैदल दूरी"
+      ],
+      "common_mistake": "Students sochte hain sirf shauchalaya ka pani wastewater hai — actually sink, laundry aur cooking se nikalne wala ganda pani bhi wastewater hai.",
+      "memory_trick": "USE → DIRTY → WASTE: Jo pani USE kiya, DIRTY hua, wahi WASTEwater — sink-toilet-laundry teen yaad rakho.",
+      "gesture_action": "Ek haath se clean glass of water dikhao, phir doosre haath se sink ki taraf 'ganda pani girte' hue action karo — clean vs wastewater contrast.",
+      "real_life_examples": [
+        "Gaon mein handpump se peene ka pani laana — swachch jal ki keemat samajh aati hai",
+        "Hotel/hostel laundry se nikalne wala foamy pani — wastewater ka seedha example"
+      ],
+      "worked_example": {
+        "problem": "Neeche di gayi teen ghatnaon mein kaun-si wastewater banati hain? (a) Handpump se naya pani bharna (b) Bartan dhone ke baad sink ka pani (c) Barsaat ka saaf pani tanki mein ikattha karna. Reason do.",
+        "steps": [
+          "Wastewater = use ke baad dooshit hua jal jo naali mein jaata hai",
+          "(a) aur (c) clean/fresh water collection hain — wastewater nahi",
+          "(b) bartan dhone se pani oily-foamy-dooshit ho jaata hai — yeh wastewater hai"
+        ],
+        "answer": "Sirf (b) wastewater hai, kyunki bartan dhone ke baad pani dooshit hokar sink/naali mein jaata hai."
+      },
+      "practice": {
+        "easy": [
+          "अपशिष्ट जल किसे कहते हैं? एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "स्वच्छ जल के चार उपयोग लिखो और बताओ क्यों सबको सुरक्षित पेयजल नहीं मिलता।"
+        ],
+        "hard": [
+          "'उपयोग किया गया जल व्यर्थ नहीं जाना चाहिए' — इस कथन को अपशिष्ट जल की परिभाषा और जल-कमी की समस्या से जोड़कर समझाओ।"
+        ]
+      },
+      "summary": "Ghar aur laundry se nikalne wala foamy-oily-ganda pani wastewater hai; swachch jal zaroori hai lekin crores logon ko safe drinking water nahi milta.",
+      "revision_point": "Wastewater = dooshit used water (sink/toilet/laundry); clean water = basic need, still scarce for many.",
+      "exam_tip": "Definition mein hamesha teen sources likho — sink, shauchalaya, laundry — aur 'दूषित जल' shabd zaroor use karo.",
+      "source_text_hint": "झाग से भरपूर, तेल मिश्रित, काले, भूरे रंग का जल जो सिंक, शौचालय, लाॅन्ड्री आदि से नालियों में जाता है"
+    },
+    {
+      "concept": "जल की सफाई और जीवन के लिए जल दशक",
+      "say": "Ab thoda badi picture dekhte hain, bacchon. Tumhe pata hoga ki jansankhya vriddhi, pradushan, audyogik vikas, kuprabandhan aur anya karakon ke kaaran alavan ya taze jal ki supply mein kami badh rahi hai. Sthiti ki gambheerata samajhte hue, World Water Day — 22 March 2005 — ko United Nations General Assembly ne 2005–2015 ki avadhi ko 'जीवन के लिए जल' / Water for Life International Decade ke roop mein ghoshit kiya. Is decade ke sabhi prayason ka uddeshya un vyaktiyon ki sankhya ko ghataakar aadha karna tha, jinhhe surakshit peyjal uplabdh nahi hai. Bahut prayas hue, lekin abhi bhi bahut kuch baaki hai. Ab important definition: जल की सफाई karne ke prakram mein jal ke sroton mein pravesh athava uske punah-upyog se pehle usmein se pradushakon ko alag karna shamil hai. Apashisht jal ke upchaar ko samanya roop se वाहित मल उपचार / sewage treatment kehte hain. Yeh anek charanon mein sampann hota hai — aage hum step-by-step padhenge. Simple language mein: dirty water ko seedha nadi mein nahi phenkna; pehle pollutants alag karo, tab reuse ya release. Yeh cleaning process physical, chemical aur biological teen tarah ki prakriyaon se hota hai — baad ke concepts mein detail aayegi. Class tip: jab bhi exam mein 'Water for Life' aaye, saal 2005–2015 aur lakshya 'aadha karna' yaad rakho. Aur yeh bhi yaad rakho — cleaning of water = pollutants hataana before water goes back to sources or is reused.",
+      "example": "UN ne 22 March 2005 ko Water for Life decade announce kiya — lakshya tha un logon ki sankhya aadhi karna jinke paas safe drinking water nahi.",
+      "board_lines": [
+        "विश्व जल दिवस: 22 मार्च 2005 → दशक 2005–2015 = 'जीवन के लिए जल'",
+        "लक्ष्य: सुरक्षित पेयजल विहीन लोगों की संख्या आधी करना",
+        "जल की सफाई = स्रोतों/पुनर्उपयोग से पहले प्रदूषक अलग करना = वाहित मल उपचार"
+      ],
+      "common_mistake": "Students 'Water for Life' ko sirf ek din (22 March) samajh lete hain — actually 2005–2015 poora international decade tha; 22 March uski ghoshna/World Water Day thi.",
+      "memory_trick": "WFL-HALF: Water For Life → HALF the people without safe water. 2005 se 2015 tak yaad rakho.",
+      "gesture_action": "Board par timeline banao: 2005 → 2015; dono haathon se 'aadha' gesture karke lakshya dikhao.",
+      "real_life_examples": [
+        "School Water Day rally — World Water Day 22 March par awareness",
+        "Municipal plant se treated water garden/irrigation mein reuse — cleaning before reuse"
+      ],
+      "worked_example": {
+        "problem": "United Nations ne 'जीवन के लिए जल' decade kab aur kyun declare kiya? Uska mukhya uddeshya kya tha?",
+        "steps": [
+          "Date/period: World Water Day 22 March 2005 par 2005–2015 ko Water for Life decade declare kiya",
+          "Reason: taze jal ki kami, pradushan, jansankhya, kuprabandhan — gambheer sthiti",
+          "Aim: jinhhe safe peyjal nahi, unki sankhya aadhi karna"
+        ],
+        "answer": "22 March 2005 ko UN ne 2005–2015 ko Water for Life decade banaya; lakshya safe peyjal se vanchit logon ki sankhya aadhi karna tha."
+      },
+      "practice": {
+        "easy": [
+          "'जीवन के लिए जल' अंतर्राष्ट्रीय दशक कौन-से वर्षों का था?"
+        ],
+        "medium": [
+          "जल की सफाई की परिभाषा अपने शब्दों में लिखो। इसे वाहित मल उपचार क्यों कहते हैं?"
+        ],
+        "hard": [
+          "जनसंख्या वृद्धि, प्रदूषण और कुप्रबंधन जल-आपूर्ति को कैसे प्रभावित करते हैं? Water for Life decade के लक्ष्य से जोड़कर लिखो।"
+        ]
+      },
+      "summary": "Jal ki kami ke chaltee UN ne 2005–2015 Water for Life decade banaya; jal ki safai matlab pollutants hataakar sewage treatment karna.",
+      "revision_point": "2005–2015 Water for Life; aim = half the people without safe water; cleaning = remove pollutants before reuse/release.",
+      "exam_tip": "Dates aur lakshya ek saath likho — sirf 'Water for Life' naam se full marks nahi milte; 2005–2015 + aadha karna likhna zaroori hai.",
+      "source_text_hint": "विश्व जल दिवस, 22 मार्च 2005 को संयुक्त राष्ट्र की जनरल एसेंबली ने 2005-2015 की अवध् िको जीवन के लिए जल"
+    },
+    {
+      "concept": "वाहित मल क्या है?",
+      "say": "Ab definitions clear karte hain. वाहित मल ya sewage kya hai? Yeh gharo, udyogon, aspatalon, karyalayon aur anya upyogon ke baad pravahit kiya jaane wala apashisht jal hota hai. Ismein varsha-jal bhi shamil hai, jo tez varsha ke samay galiyon mein bahta hai. Sadkon aur chhaton se bahkar aane wala varsha-jal apne saath hanikarak padarth le aata hai — isliye rainwater jo streets se dirty hokar aata hai, sewage ka hissa ban sakta hai. Sewage द्रवरूपी अपशिष्ट hota hai. Ismein adhikansh जल hota hai, jismein ghule hue aur nilambit apadravya hote hain — matlab dissolved aur suspended impurities. Activity 13.2: apne ghar, school ya sadak par kisi khuli naali ko dekho. Usmein bahte sewage/water ka nirikshan karo — rang, gandh aur anya avalokan note karo. Friends aur teacher se charcha karke Table 13.1 mein likho: वाहित मल का प्रकार, उत्पत्ति स्थल, संदूषक पदार्थ, कोई अन्य टिप्पणी. Book examples: kitchen se jhaghda/karkat-malin jal, shauchalaya se durgandhyukt apashisht, audyogik sansthan se vyavasayik apashisht. Safety tip: naali ke paas jaakar chhoona mat, sirf door se observe karo. Yaad rakho — sewage complex mixture hai, sirf 'ganda pani' bolna kaafi nahi; ismein suspended solids, organic-inorganic ashuddhiyan, nutrients, saprophytes, disease-causing bacteria aur anya microbes hote hain. Agla concept in impurities ki detail dega.",
+      "example": "Tez barsaat mein sadak ka pani kachra, mitti aur oil lekar naali mein ghus jaata hai — yeh bhi sewage/wastewater flow ka hissa ban sakta hai.",
+      "board_lines": [
+        "वाहित मल (Sewage) = घर, उद्योग, अस्पताल, कार्यालय का अपशिष्ट जल + वर्षाजल",
+        "द्रवरूपी अपशिष्ट: अधिकांशतः जल + घुले/निलंबित अपद्रव्य",
+        "Activity 13.2: रंग, गंध नोट करो → सारणी 13.1"
+      ],
+      "common_mistake": "Students sochte hain sewage sirf toilet waste hai — ghar, industry, hospital aur street rainwater runoff bhi ismein shamil hote hain.",
+      "memory_trick": "H-I-H-O + Rain: Home, Industry, Hospital, Office + Rainwater = Sewage sources.",
+      "gesture_action": "Ungliyon se imaginary map banao — ghar, hospital, factory se arrows naali ki taraf; phir barsaat ka haath-gesture add karo.",
+      "real_life_examples": [
+        "School bathroom aur canteen sink ka pani common drain mein milna",
+        "Market ke paas khuli naali — rang, gandh observe karke Table 13.1 jaisi note-making"
+      ],
+      "worked_example": {
+        "problem": "Sewage ko 'द्रवरूपी अपशिष्ट' kyun kahte hain? Ismein varsha-jal ko kyun shamil kiya jaata hai?",
+        "steps": [
+          "Sewage mainly water hota hai jisme impurities ghuli ya suspended hoti hain — isliye liquid waste",
+          "Tez barsaat mein galiyon ka pani sadak/chhat se harmful substances lekar aata hai",
+          "Yeh contaminated runoff bhi sewage system mein shamil hota hai"
+        ],
+        "answer": "Sewage mostly water + dissolved/suspended wastes hai (liquid waste). Rainwater streets se harmful padarth laata hai, isliye use bhi sewage mein gina jaata hai."
+      },
+      "practice": {
+        "easy": [
+          "वाहित मल की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "सारणी 13.1 के अनुसार रसोई, शौचालय और औद्योगिक अपशिष्ट के लिए उत्पत्ति स्थल व संभावित संदूषक बताओ।"
+        ],
+        "hard": [
+          "खुली नाली के निरीक्षण (Activity 13.2) में रंग-गंध के अलावा कौन-सी बातें नोट करोगे और वे स्वास्थ्य से कैसे जुड़ी हैं?"
+        ]
+      },
+      "summary": "Sewage ghar-industry-hospital-office ka wastewater hai, jisme rainwater runoff bhi aa sakta hai; yeh mostly water with dissolved aur suspended wastes hai.",
+      "revision_point": "Sewage = used wastewater from many places + storm runoff; liquid waste with dissolved/suspended impurities.",
+      "exam_tip": "Definition mein 'वर्षाजल भी सम्मिलित' line zaroor likho — examiner is point ko alag se mark karta hai.",
+      "source_text_hint": "वाहित मल घरों, उद्योगों, अस्पतालों, कार्यालयों और अन्य उपयोगों के बाद प्रवाहित किए जाने वाला अपशिष्ट जल होता है"
+    },
+    {
+      "concept": "वाहित मल में अशुद्धियाँ और संदूषक",
+      "say": "Bacchon, ab sewage ke andar jhaankte hain. Hum jaante hain ki वाहित मल एक जटिल मिश्रण hota hai. Ismein nilambit thos, carbonic aur acarbonic ashuddhiyan, poshak tatva, mritajeevi (saprophytes) aur rog-vahak jeevanu tatha anya sukshma-jeev hote hain. Book ke examples yaad rakho. कार्बनिक अशुद्धियाँ: manav mal, jaivik apashisht padarth, tel, urea (mootra), peedaknashak, shaaknashak, phal aur sabji ka kachra. अकार्बनिक अशुद्धियाँ: nitrate, phosphate, dhatuyen. पोषक तत्त्व: phosphorus aur nitrogen yukt padarth. जीवाणु: cholera aur typhoid jaise rog utpann karne wale — Vibrio cholerae aur Salmonella typhi. अन्य सूक्ष्मजीव: pechish aadi rog utpann karne wale protozoa. Simple tip for class: organic = living/once-living related wastes (mal, oil, food); inorganic = salts aur metals; nutrients = N aur P; pathogens = bimari failane wale microbes. Yeh impurities isliye dangerous hain kyunki agar sewage bina treatment ke nadi/talab mein chala jaaye toh peene ka pani aur mahaul dono kharab ho sakte hain. Table 13.1 ke columns — प्रकार, उत्पत्ति स्थल, संदूषक — isi classification se jude hain. Exam mein aksar list poochhi jaati hai: organic vs inorganic examples. Cholera-typhoid ke bacteria names bhi yaad rakhne layak hain. Kabhi impurities ko 'sirf mitti' mat samajhna — chemical aur biological contaminants bhi hote hain.",
+      "example": "Kitchen ka sabzi-kachra aur cooking oil organic impurities hain; detergent/fertilizer se aaye phosphate-nitrate inorganic/nutrient type contamination badha sakte hain.",
+      "board_lines": [
+        "जटिल मिश्रण: निलंबित ठोस + कार्बनिक/अकार्बनिक + पोषक + जीवाणु/सूक्ष्मजीव",
+        "Organic: मल, तेल, यूरिया, फल-सब्जी कचरा | Inorganic: नाइट्रेट, फॉस्फेट, धातुएँ",
+        "Pathogens: Vibrio (हैजा), Salmonella (टाइफॉइड), प्रोटोजोआ (पेचिश)"
+      ],
+      "common_mistake": "Students nutrients (N, P) ko hamesha 'achhi cheez' samajhte hain — sewage mein zyada nutrients jal-srot ko dooshit kar sakte hain; pathogens alag category hain.",
+      "memory_trick": "O-I-N-B-P: Organic, Inorganic, Nutrients, Bacteria, Protozoa — sewage impurities ki paanch tokriyan.",
+      "gesture_action": "Paanch ungliyan dikhao — har ungli ek category: organic, inorganic, nutrients, bacteria, other microbes.",
+      "real_life_examples": [
+        "Toilet waste mein urea aur pathogens — organic + disease agents",
+        "Farm runoff se naali mein pesticide/herbicide milna — organic chemical impurities"
+      ],
+      "worked_example": {
+        "problem": "Neeche items ko sahi category mein rakho: (1) cooking oil (2) nitrates (3) Vibrio cholerae (4) phosphorus compounds (5) protozoa causing dysentery.",
+        "steps": [
+          "Cooking oil → organic impurity",
+          "Nitrates → inorganic; phosphorus compounds → nutrients (P)",
+          "Vibrio → disease bacteria (cholera); dysentery protozoa → other microbes"
+        ],
+        "answer": "(1) Organic (2) Inorganic (3) Bacteria/pathogen (4) Nutrient (5) Other microbe/protozoa."
+      },
+      "practice": {
+        "easy": [
+          "वाहित मल की दो कार्बनिक और दो अकार्बनिक अशुद्धियों के नाम लिखो।"
+        ],
+        "medium": [
+          "हैजा और टाइफॉइड उत्पन्न करने वाले जीवाणुओं के नाम लिखो। पोषक तत्त्व किन पदार्थों से जुड़ी अशुद्धियाँ हैं?"
+        ],
+        "hard": [
+          "'वाहित मल जटिल मिश्रण है' — निलंबित ठोस, पोषक तत्त्व और रोगवाहक सूक्ष्मजीवों के उदाहरण देकर सिद्ध करो।"
+        ]
+      },
+      "summary": "Sewage ek complex mixture hai — organic/inorganic impurities, N-P nutrients, saprophytes, cholera-typhoid bacteria aur dysentery protozoa ismein ho sakte hain.",
+      "revision_point": "OINBP categories + Vibrio/Salmonella names; nutrients = nitrogen & phosphorus substances.",
+      "exam_tip": "List questions mein category heading ke neeche 2–3 examples do; bacteria ke scientific names likhne se extra impression milta hai.",
+      "source_text_hint": "अब हम जानते हैं कि वाहित मल एक जटिल मिश्रण होता है, जिसमें निलंबित ठोस, कार्बनिक और आकार्बोनिक अशु(ियाँ"
+    },
+    {
+      "concept": "जल शोधन – सीवर तंत्र की घटनापूर्ण यात्रा",
+      "say": "Ab suno wastewater ki eventful journey! Gharon tatha sarvajanik bhavanon ko swachch jal ki aapoorti samanyatah pipes ke ek jaal dwara hoti hai, aur pipes ke ek anya jaal dwara use kiya ja chuka jal le jaaya jaata hai. Agar hum zameen ke andar dekh sakte, toh bade aur chhote pipes ka ek jaal dikhai deta — ise सीवर / sewer kehte hain. Yeh milkar मल विसर्जन ki vyavastha banate hain. Sewer ek transport system ki tarah hai jo वाहित मल ko uske udgam sthal se निबटान ke sthan yani उपचार संयंत्र / treatment plant tak le jaata hai. Mal vyavastha mein मेनहोल samanyatah prati 50 se 60 metre ki doori par, do athava adhik sewers ke sandhisthal par, athava jahaan disha mein parivartan hota hai, wahan hote hain. Activity 13.3: ghar/school/public building se sewage ke path ka adhyayan karo — (i) path ka rekhachitra banao, (ii) gali-sadak mein ghoomkar manholes ki sankhya maloorn karo, (iii) kisi khule naale ke ird-gird kaun-se sajeew jeev panap rahe hain, unki suchi banao. Agar aas-paas sewerage system na ho, toh pata karo sewage ka nibtaan kaise hota hai. Yaad rakho: clean-water pipes aur sewage pipes alag networks hain — mix nahi hone chahiye. Manhole cleaning dangerous ho sakti hai, isliye bacche kabhi manhole kholkar andar nahi jhaanken. Yeh section journey samjhata hai — treatment plant ke steps agle concepts mein aayenge.",
+      "example": "School ke bathroom se pani pehle building ki drain pipe mein, phir road ke sewer mein, manholes ke through hote hue treatment plant ki taraf jaata hai.",
+      "board_lines": [
+        "दो पाइप-जाल: एक स्वच्छ जल आपूर्ति, दूसरा उपयोग किए जल को ले जाना",
+        "सीवर = परिवहन तंत्र → उद्गम से उपचार संयंत्र तक",
+        "मेनहोल: प्रायः हर 50–60 m पर; जोड़/मोड़ पर"
+      ],
+      "common_mistake": "Students sochte hain ghar ka ganda pani seedha nadi mein chala jaata hai — shehron mein pehle sewer network se treatment plant tak jaana chahiye.",
+      "memory_trick": "S-M-T: Sewer → Manhole → Treatment plant. Journey yaad rakhne ka seedha rasta.",
+      "gesture_action": "Classroom floor par imaginary sewer line chalo — har 5 kadam par 'manhole' bolkar ruko, ant mein 'treatment plant' declare karo.",
+      "real_life_examples": [
+        "Sadak par gol manhole cover dekhna — neeche sewer junction/access point",
+        "Naye colony mein underground drainage pipes daalna — sewer network banna"
+      ],
+      "worked_example": {
+        "problem": "Manhole aksar kahaan banaye jaate hain? Do jagah/conditions likho aur unka reason samjhao.",
+        "steps": [
+          "Har 50–60 m par — maintenance aur access ke liye regular interval",
+          "Do/adhik sewers ke junction par — jahaan lines milti hain",
+          "Jahaan direction change hoti hai — mod par blockage check/clean karne ke liye"
+        ],
+        "answer": "Manhole prati 50–60 m, sewer junctions, aur direction-change points par hote hain taaki system check/clean kiya ja sake."
+      },
+      "practice": {
+        "easy": [
+          "सीवर किसे कहते हैं? एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "मेनहोल कहाँ-कहाँ बनाए जाते हैं? Activity 13.3 के तीन कार्य लिखो।"
+        ],
+        "hard": [
+          "स्वच्छ जल के पाइप-जाल और सीवर-जाल में क्या अंतर है? यदि सीवर व्यवस्था न हो तो तुम क्या पता करोगे?"
+        ]
+      },
+      "summary": "Clean water aur used water alag pipe networks se chalte hain; sewers sewage ko treatment plant tak le jaate hain, manholes 50–60 m / junctions / turns par hote hain.",
+      "revision_point": "Sewer = transport to WWTP; manholes ≈ 50–60 m apart + junctions + bends.",
+      "exam_tip": "Manhole spacing '50–60 मीटर' numerical fact frequently asked hai — unit metre ke saath likho.",
+      "source_text_hint": "सीवर कहते हैं, जो मिलकर मल विसर्जन की व्यवस्था करता है"
+    },
+    {
+      "concept": "प्रयोग से समझो – Activity 13.4 जल उपचार",
+      "say": "Bacchon, treatment plant samajhne se pehle NCERT ka zabardast ghar-jaisa experiment — Activity 13.4. Groups banao, har step ke observation record karo. Bade glass jar ko 3/4 paani se bharo; usmein organic waste jaise ghaas ke tinke ya santra ke chhilke, thodi detergent, aur syahi/rang ki kuch boondein milao. Dhakkan lagaakar achhe se hilao, do din dhoop mein rakho. Do din baad phir hilao, thoda sample test tube mein lo — ये है नमूना 1: उपचार से पहले. Gandh note karo. Ab bache mixture mein aquarium aerator se kai ghanton tak hawa ke bubbles guzaro; raat bhar chhod sakte ho. Aerator na ho toh mixer/mechanical stirrer se baar-baar hilao — yahi वातन / aeration hai. Agle din Sample 2 lo — वातन के बाद. Phir filter paper se shanku banao, funnel mein lagaao; pehle baalu, uske upar mahin bajri, ant mein medium bajri ki paraten — Chitra 13.2 jaisa sand filter. Real plants filter paper use nahi karte; unka sand filter kai metre mota hota hai. Filtered liquid beaker mein lo; agar saaf na ho toh filter karte raho. Sample 3 = फ़िल्टरित जल. Sample 4 mein chlorine tablet ka tukda milao — क्लोरीनीकृत नमूना. Sab samples observe karo. चेतावनी: इन्हें चखिए मत! Sirf gandh soongho. Sawal: aeration ke baad rang-roop/gandh badla? Sand filter kaunsi ashuddhiyan hatati hai? Chlorine se rang gayab hua? Chlorine ki apni gandh wastewater se zyada aruchikar lagti hai kya? Yeh activity dikhati hai: aeration → filter → chlorine — treatment ke mini-steps classroom mein.",
+      "example": "Jar mein orange peel + detergent + ink wala pani — pehle ganda aur badboo-dar; aeration, sand filter aur chlorine ke baad zyada saaf dikhta/mehsoos hota hai.",
+      "board_lines": [
+        "नमूना 1: उपचार से पहले → नमूना 2: वातन के बाद",
+        "नमूना 3: बालू फ़िल्टर → नमूना 4: क्लोरीनीकृत",
+        "चेतावनी: नमूने चखो मत! केवल गंध सूँघो"
+      ],
+      "common_mistake": "Students chlorine ke baad pani ko 'peene yogya' maan lete hain — classroom experiment ka pani kabhi taste/drink nahi karna; yeh sirf process samajhne ke liye hai.",
+      "memory_trick": "A-F-C: Aerate → Filter → Chlorinate. Activity 13.4 ka order bilkul yaad rakho.",
+      "gesture_action": "Char test tubes ki acting: 1 ganda, 2 bubbles (aeration), 3 funnel-filter, 4 chlorine pinch — sequence class ke saath repeat karo.",
+      "real_life_examples": [
+        "Aquarium pump se bubbles — ghar par aeration ka chhota model",
+        "Village sand-charcoal filter se pani saaf karna — filtration idea se milta-julta"
+      ],
+      "worked_example": {
+        "problem": "Activity 13.4 mein Sample 1 se Sample 4 tak pani kis order mein treat hota hai? Har step ka purpose ek line mein likho.",
+        "steps": [
+          "Aeration: hawa/bubbles se aerobic microbes madad, gandh/appearance improve",
+          "Sand-gravel filter: suspended ashuddhiyan physical removal",
+          "Chlorination: disinfection — microbes marne/kam karne ke liye"
+        ],
+        "answer": "Order: before treatment → aeration → sand filter → chlorination. Purpose: clean appearance/odour, remove solids, then disinfect. Never taste samples."
+      },
+      "practice": {
+        "easy": [
+          "Activity 13.4 के चार नमूनों के नाम क्रम से लिखो।"
+        ],
+        "medium": [
+          "वातन के बाद द्रव में क्या परिवर्तन देखोगे? बालू फ़िल्टर कौन-सी अशुद्धियाँ हटाता है?"
+        ],
+        "hard": [
+          "प्रयोगशाला के बालू फ़िल्टर और वास्तविक फ़िल्टर संयंत्र में क्या अंतर बताया गया है? क्लोरीन की गंध पर अपने शब्दों में टिप्पणी लिखो।"
+        ]
+      },
+      "summary": "Activity 13.4 mini WWTP hai: ganda mixture banao, aerate karo, sand-gravel se filter karo, chlorine do — samples soongho, chakhna mana hai.",
+      "revision_point": "A-F-C sequence + four labelled samples; NEVER taste experimental water.",
+      "exam_tip": "Activity steps sequence-based questions aate hain — Sample 1→2→3→4 order galat mat likhna; warning line bhi yaad rakhna.",
+      "source_text_hint": "इन्हें चखिए मत! केवल उनकी गंध् सूँघिए"
+    },
+    {
+      "concept": "अपशिष्ट जल उपचार संयंत्र के चरण",
+      "say": "Ab asal Wastewater Treatment Plant / अपशिष्ट जल उपचार संयंत्र. Ismein physical, chemical aur biological prakriyaen hoti hain jo contaminants alag karti hain. Step 1: Bar screen / शलाका छन्ना — oordhvakar chadon wala screen. Kapde ke tukde, dandiyaan, dibbe, plastic packets, napkins jaise bade contaminants ruk jaate hain. Step 2: Grit and sand removal tank — pani dheere flow karta hai, baalu-grit-kankad pendi mein baith jaate hain. Step 3: Badi tank jiska penda beech ki taraf dhalan wala; kai ghanton baad mal jaise thos baithte hain — आपंक / sludge; scrape karke nikaalte hain. Tealne wale tel-grease skimmer / अपमथित्र se hatate hain. Aisa saaf pani निर्मलीकृत जल / clarified water kehlata hai. Sludge alag tank mein anaerobic bacteria se toot'ta hai; biogas banti hai — fuel ya electricity ke liye. Step 4: Clarified water mein hawa guzarte hain — aerobic bacteria badhte hain aur bache human waste, food waste, soap wagairah khaa jaate hain. Kai ghanton baad microbes activated sludge banakar baithte hain; upar ka pani nikaalte hain. Activated sludge ~97% water; drying beds/machines se sukhaakar खाद banate hain — nutrients mitti mein wapas. Treated water samudra, nadi ya bhoomi mein ja sakta hai; prakritik prakriyaen aur saaf karti hain. Kabhi chlorine ya ozone se roganu-rahit karna padta hai. Nadi bhi naturally similar processes se pani saaf karti hai. Eucalyptus tip: WWTP ke aas-paas eucalyptus extra wastewater absorb karke shuddh jal-vaashp chhod sakte hain.",
+      "example": "Plastic packet pehle bar screen par rukta hai; baalu grit tank mein baithti hai; oil skimmer se hat'ta hai; bacteria baaki gandagi khaate hain — phir chlorine/ozone se disinfection.",
+      "board_lines": [
+        "1 बार स्क्रीन → 2 ग्रिट/बालू टंकी → 3 अवसादन+स्किमर = आपंक + निर्मलीकृत जल",
+        "अवायवीय जीवाणु → बायोगैस; वायवीय जीवाणु (वातन) → सक्रियित आपंक (~97% जल) → खाद",
+        "अंत में विसर्जन; आवश्यकता पर क्लोरीन/ओज़ोन से रोगाणुनाशन"
+      ],
+      "common_mistake": "Students activated sludge ko 'sirf kachra' samajhte hain — actually ~97% water hota hai aur sukhaane ke baad manure ban sakta hai; biogas anaerobic step se milti hai.",
+      "memory_trick": "B-G-S-A-C: Bar screen → Grit → Settling/Skimmer → Aeration/Activated sludge → Chlorine/ozone. Big Ganda Sewage Always Cleaned!",
+      "gesture_action": "Paanch steps ko station banao: screen (haath rokna), grit (neeche baithna), skim (surface se hatana), bubble aeration, chlorine sprinkle — students rotate karke bolein.",
+      "real_life_examples": [
+        "City STP (Sewage Treatment Plant) visit — bar screens aur big circular clarifiers dikhte hain",
+        "Gobor gas plant jaisi biogas feeling — sludge digester se fuel/electricity idea"
+      ],
+      "worked_example": {
+        "problem": "Treatment plant mein clarified water ke baad aeration kyun kiya jaata hai? Activated sludge ka kya hota hai?",
+        "steps": [
+          "Aeration se aerobic bacteria badhte hain",
+          "Yeh bacteria bache organic wastes (human/food/soap) consume karte hain",
+          "Microbes baad mein activated sludge banakar baithte hain; dry karke manure banaya ja sakta hai; gas anaerobic tank se biogas deti hai"
+        ],
+        "answer": "Aeration aerobic bacteria badhata hai jo bachi gandagi khate hain; activated sludge (~97% water) dry karke खाद banaya jaata hai."
+      },
+      "practice": {
+        "easy": [
+          "शलाका छन्ने (bar screen) क्या हटाते हैं?"
+        ],
+        "medium": [
+          "निर्मलीकृत जल किसे कहते हैं? आपंक से बायोगैस कैसे बनती है?"
+        ],
+        "hard": [
+          "अपशिष्ट जल उपचार संयंत्र के चरण क्रमबद्ध लिखो और बताओ सक्रियित आपंक का उपयोग खाद के रूप में कैसे होता है।"
+        ]
+      },
+      "summary": "WWTP: bar screen → grit tank → settling+skimmer (sludge/biogas) → aeration (aerobic bacteria/activated sludge manure) → release; kabhi chlorine/ozone disinfection.",
+      "revision_point": "Physical screening/settling + biological (anaerobic biogas, aerobic cleaning) + chemical disinfection; activated sludge ≈ 97% water → manure.",
+      "exam_tip": "Steps ko numbering ke saath flowchart mein likho; 'स्किमर', 'निर्मलीकृत जल', 'सक्रियित आपंक 97%' keywords marks dilwate hain.",
+      "source_text_hint": "सर्वप्रथम अपशिष्ट जल को ऊध्र्वाध्र लगी छड़ों से बने शलाका छन्ने ;बार स्क्रीनद्ध से गुजारा जाता है"
+    },
+    {
+      "concept": "जागरूक नागरिक, गृह व्यवस्था और स्वच्छता–रोग",
+      "say": "Aakhri aur sabse practical hissa — hum kya kar sakte hain? Apashisht padarth manav kriyakalapon ka parinam hain, lekin hum unki matra aur vividhata seemit kar sakte hain. Khuli naaliyon ki durgandh, barsaat mein umadti naaliyan, sadakon par faila kachra — aswasthyakar aur rogkarak; machhar-makkhiyan panapti hain. Jaagrook nagrik ke naate nagarpalika ya gram panchayat ko aagah karo; agar kisi ghar ka sewage pados mein gandagi failaye toh unse request karo. 13.5 अच्छी गृह व्यवस्था: pollutants ko source par hi kam karo. Cooking oil aur vasayon ko naali mein mat bahao — pipes block karte hain; khuli naali mein vasaa mitti ke randhron ko band karti hai. Oil-vasaa koodedaan mein phenko. Paint, solvent, keetnashak, motor oil, aushadhiyan naali mein mat bahao — yeh un microbes ko maar sakte hain jo jal shuddhikaran mein madad karte hain. Chai-patti, bache solid food, soft toys, rui, sanitary towels dustbin mein — yeh naali block karte hain aur oxygen rokkar degradation rok dete hain. 13.6 स्वच्छता और रोग: swachhta ki kami aur dooshit peyjal kai bimariyon ka karan. Desh ka bada hissa sewerage se vanchit; kai log khule sthan, nadi kinaare, rail patri, kheton, kabhi seedhe jal-sroton mein maltyag karte hain — bahut khatarnak. Paheli: WWTP ka bojh mat badhao — source par control se. Eucalyptus WWTP ke around extra wastewater absorb karke shuddh vapour chhod sakte hain. Message: clean drains, dustbin use, oil-chemicals naali se door — healthy community.",
+      "example": "Kadhai ka bacha cooking oil naali mein bahane ke bajay thanda karke kachre mein daalna — pipe block aur soil-pore problem dono rukte hain.",
+      "board_lines": [
+        "जागरूक नागरिक: पंचायत/नगरपालिका को बताओ; पड़ोस की गंदगी पर संवेदनशीलता",
+        "नाली में मत बहाओ: तेल-वसा, पेंट/कीटनाशक/मोटर तेल, चायपत्ती- ठोस खाद्य- सैनिटरी वेस्ट",
+        "स्वच्छता↓ + दूषित पेयजल → रोग; खुले में शौच गंभीर समस्या"
+      ],
+      "common_mistake": "Students sochte hain chemicals ko pani se 'dilute' karke naali mein bahana safe hai — yeh treatment microbes ko maar sakta hai aur WWTP ka bojh badhata hai.",
+      "memory_trick": "BIN not DRAIN: Oil, solids, sanitary waste, chemicals — BIN mein; drain mein sirf pani-jaise wastes jo system handle kar sake.",
+      "gesture_action": "Ek side 'dustbin' box, doosri side 'drain' — items (oil pouch, tea leaves, medicine strip) students dustbin side phenkein, drain side mana.",
+      "real_life_examples": [
+        "Barsaat mein umdi naali aur sadak ka keechad — blocked drains + litter ka nateeja",
+        "Swachh Bharat / village toilet use — open defecation kam karke bimari rokna"
+      ],
+      "worked_example": {
+        "problem": "Teen gharelu aadatein likho jo wastewater treatment plant ka bojh kam karti hain. Har ek ka short reason do.",
+        "steps": [
+          "Cooking oil dustbin mein — pipes/soil pores block nahi hote",
+          "Medicines/pesticides/motor oil drain mein nahi — helpful microbes safe rehte hain",
+          "Tea leaves, food solids, sanitary waste dustbin mein — clog aur low-oxygen problems kam"
+        ],
+        "answer": "Oil, hazardous chemicals, aur solid/sanitary wastes ko naali se door rakhna WWTP ka load kam karta hai aur drains healthy rakhta hai."
+      },
+      "practice": {
+        "easy": [
+          "खाना पकाने के तेल को नाली में क्यों नहीं बहाना चाहिए?"
+        ],
+        "medium": [
+          "अच्छी गृह व्यवस्था की तीन विधियाँ लिखो जो नाली अवरोध और सूक्ष्मजीवों की रक्षा से जुड़ी हों।"
+        ],
+        "hard": [
+          "स्वच्छता की कमी और खुले में शौच जल-स्रोतों व रोगों को कैसे प्रभावित करते हैं? जागरूक नागरिक के रूप में तुम्हारे दो कर्तव्य लिखो।"
+        ]
+      },
+      "summary": "Source par control: oil-chemicals-solids naali se door; panchayat ko alert karo; poor sanitation aur contaminated water bimariyan laate hain — WWTP ka bojh mat badhao.",
+      "revision_point": "BIN not DRAIN for oil/solids/sanitary/chemicals; open defecation → disease risk; citizen duty = report + request better sanitation.",
+      "exam_tip": "'अच्छी गृह व्यवस्था' ke points bullet mein likho — oil, chemicals, tea leaves/sanitary waste — teen alag reasons ke saath; yeh 3-mark ka ready answer hai.",
+      "source_text_hint": "खाना पकाने के तेल और वसाओं को नाली में नहीं बहाना चाहिए"
+    }
+  ]
+}
