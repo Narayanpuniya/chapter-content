@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 689,
+    "chapter_name": "यूक्लिड की ज्यामिति का परिचय",
+    "chapter_number": 11,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 11 — यूक्लिड की ज्यामिति का परिचय — ko samjhenge. Is chapter mein jyaamiti ka arth aur udgam, praacheen sabhyataon (Misr, Sindhu ghati, Sulbasutra) mein practical geometry, aur Greek mathematicians Thales, Pythagoras aur Euclid ke systematic approach ko padhenge. Phir Euclid ki definitions, undefined terms, axioms, postulates, aur unke use se propositions/theorems prove karne ke examples seekhenge.",
+    "welcome": "Good morning, bacchon! Aaj Smart Board par ek bahut sundar chapter shuru karte hain — यूक्लिड की ज्यामिति का परिचय. Socho: khet ki hadd banana, pyramid banana, ya school ground par seedhi line khinchna — yeh sab geometry hai! Aaj hum dekhenge geometry sirf shapes nahi, balki sochne ka tareeka bhi hai. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "ज्यामिति शब्द का अर्थ, उद्गम और प्राचीन सभ्यताओं में उसके व्यावहारिक उपयोग को समझाना",
+      "ठोस, पृष्ठ, रेखा और बिंदु की विमाओं तथा यूक्लिड की परिभाषाओं को स्पष्ट करना",
+      "अपरिभाषित पद, अभिगृहीत और अभिधारणा में अंतर बताना तथा यूक्लिड के मुख्य कथनों को याद रखना",
+      "अभिगृहीतों/अभिधारणाओं का प्रयोग करके सरल परिणाम (जैसे रेखाखंड योग, समबाहु त्रिभुज रचना) सिद्ध करना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "ज्यामिति का अर्थ और उद्गम"
+      },
+      {
+        "number": 2,
+        "name": "मिस्र और सिन्धु घाटी में व्यावहारिक ज्यामिति"
+      },
+      {
+        "number": 3,
+        "name": "सुल्बासूत्र, वेदियाँ और ज्यामिति का अव्यवस्थित विकास"
+      },
+      {
+        "number": 4,
+        "name": "थेल्स, पाइथागोरस और यूक्लिड के एलीमेंट्स"
+      },
+      {
+        "number": 5,
+        "name": "ठोस से बिंदु तक – विमाएँ और यूक्लिड की परिभाषाएँ"
+      },
+      {
+        "number": 6,
+        "name": "अपरिभाषित पद, अभिगृहीत और अभिधारणाएँ"
+      },
+      {
+        "number": 7,
+        "name": "यूक्लिड के अभिगृहीत और पाँच अभिधारणाएँ"
+      },
+      {
+        "number": 8,
+        "name": "साध्य, प्रमेय और यूक्लिड के उदाहरण"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "ज्यामिति का अर्थ और उद्गम",
+      "say": "Bacchon, aaj sabse pehle ek simple sawaal — ‘ज्यामिति’ shabd kahan se aaya? Yeh Greek bhasha ke do shabdon se bana hai: ‘geo’ jiska arth hai पृथ्वी ya भूमि, aur ‘metrein’ jiska arth hai मापना. Isliye geometry ka seedha matlab hai — भूमि मापना. NCERT kehte hai ki isse aisa pratit hota hai ki jyaamiti ka udgam zameen mapne ki zarurat se hua. Ab interesting baat yeh hai ki yeh sirf ek desh ki kahani nahi. Ganit ki is shakha ka adhyayan alag-alag roopon mein har praacheen sabhyata ne kiya — Misr, Babylon, China, Bharat, Greece, aur Incas, ityadi. In sabhyataon ke logon ko kai vyavaharik samasyayein aayi — khet ki hadd, bhandaar ka aayatan, canal aur pyramid banana — jinke liye geometry ki zarurat padi. Toh pehla lesson clear rakho: geometry classroom ki chalk line se pehle zindagi ki zarurat se paida hui. Jab hum aaj triangle, circle, parallel lines padhte hain, toh hum usi lambi human story ke next page par hain. Yaad rakho — Geo = Earth, Metrein = Measure. Is foundation se aage Misr ki Neel nadi, Sindhu ghati ki eenten, aur Euclid ke Elements tak pahunchenge.",
+      "example": "Gaon mein baarish ke baad do kheton ki hadd mita jaaye, toh dobara naap-tol karke seedhi line se hadd banana — yahi ‘geo + metrein’ ka real-life udgam hai.",
+      "board_lines": [
+        "ज्यामिति = Geo (पृथ्वी/भूमि) + Metrein (मापना)",
+        "उद्गम: भूमि मापने की व्यावहारिक आवश्यकता",
+        "प्राचीन सभ्यताएँ: मिस्र, बेबीलोन, चीन, भारत, यूनान, इन्कास"
+      ],
+      "common_mistake": "Students sochte hain geometry sirf Euclid ne invent ki — actually kai praacheen sabhyataon ne pehle se practical geometry use ki; Euclid ne us knowledge ko systematic book (Elements) mein rearrange kiya.",
+      "memory_trick": "GEO-METRE: GEO = zameen, METRE = mapna — Geometry = Earth-measuring.",
+      "gesture_action": "Ek haath se zameen dikhao (geo), doosre haath se tape/scale se mapne ka action (metrein) — phir dono haath jodkar ‘Geometry!’ bolo.",
+      "real_life_examples": [
+        "Village surveyor / patwari khet ki lambai-chaudaai naapta hai — geometry ka asal kaam",
+        "School ground par 100 m race track seedha banana — line aur distance measure"
+      ],
+      "worked_example": {
+        "problem": "‘ज्यामिति’ shabd ke do Greek roots likho aur batao ki inka arth kya hai. Isse geometry ke udgam ke baare mein kya hint milta hai?",
+        "steps": [
+          "Roots identify karo: geo aur metrein",
+          "Arth likho: geo = पृथ्वी/भूमि; metrein = मापना",
+          "Conclude: geometry ka udgam zameen mapne ki zarurat se judta hai"
+        ],
+        "answer": "Geo = पृथ्वी/भूमि, Metrein = मापना; isse hint milta hai ki geometry ka udgam भूमि मापने की आवश्यकता से हुआ।"
+      },
+      "practice": {
+        "easy": [
+          "ज्यामिति शब्द किन दो यूनानी शब्दों से बना है?"
+        ],
+        "medium": [
+          "ज्यामिति के उद्गम को भूमि मापने की आवश्यकता से कैसे जोड़ा जा सकता है? एक अनुच्छेद लिखो।"
+        ],
+        "hard": [
+          "प्राचीन सभ्यताओं (कम से कम चार नाम) ने ज्यामिति क्यों विकसित की? व्यावहारिक समस्याओं के उदाहरण सहित समझाओ।"
+        ]
+      },
+      "summary": "ज्यामिति = भूमि + मापना; yeh shakha praacheen sabhyataon mein vyavaharik zaruraton se paida hui aur duniya ke kai sthanón par alag-alag roop mein develop hui.",
+      "revision_point": "Geo + Metrein = Earth-measuring; geometry began from practical land measurement needs across ancient civilizations.",
+      "exam_tip": "1-mark mein aksar poochha jata hai — geometry ke Greek roots aur unka arth. Exact words likho: geo = पृथ्वी/भूमि, metrein = मापना।",
+      "source_text_hint": "शब्द ‘ज्यामिति’ यूनानी भाषा के शब्दों ‘जियो’ और ‘मीट्रीन’ से मिल कर बना है"
+    },
+    {
+      "concept": "मिस्र और सिन्धु घाटी में व्यावहारिक ज्यामिति",
+      "say": "Ab concrete examples dekhte hain. Pehle Misr. Jab Neel nadi mein baadh aati thi, toh alag-alag bhoomi-swamiyon ke kheton ke beech ki haddein — boundaries — baadh ke paani ke saath bah jaati thin. Baadh ke baad un haddon ko phir se banana padta tha. Is kaam ke liye Misrvasiyon ne saral kshetrafal nikalne aur saral rachnayein karne ke liye kai geometric techniques aur niyam develop kiye. Unhone geometry ka use ann-bhandaaron ka aayatan nikalne, canals banane, aur pyramids ke nirman mein kiya. Woh ek kate hue pyramid — truncated pyramid — ka volume nikalne ka sahi sootra bhi jaante the. Pyramid kya hai? Ek solid jiska base triangle, square, ya koi aur polygon hota hai, aur side faces aise triangles hote hain jo upar ek hi point par milte hain. Ab Bharat ki taraf. Harappa aur Mohenjodaro ki khudai se pata chalta hai ki Sindhu Ghati sabhyata (lagbhag 3000 BCE) ne geometry ka bahut use kiya. Yeh organised society thi — shehar planned the, sadaken paraspar samantar thin, underground naaliyan thin, gharon mein kai kamre. Yeh dikhata hai ki nagrik mensuration aur practical arithmetic mein nipun the. Construction mein eenten bhatton par pakai jaati thin aur anupaat लम्बाई : चौड़ाई : मोटाई = 4 : 2 : 1 hota tha. Yaad rakho: Misr = flood boundaries + pyramids; Sindhu = planned cities + brick ratio 4:2:1.",
+      "example": "Agar aaj kisi baadh ke baad do kheton ki hadd mita jaaye, toh surveyor measuring rope/tape se dobara rectangle/square kshetrafal nikalta hai — bilkul Misr wali zarurat.",
+      "board_lines": [
+        "नील नदी बाढ़ → खेतों की परिसीमाएँ मिटतीं → पुनः निर्माण हेतु ज्यामिति",
+        "मिस्र: क्षेत्रफल, आयतन, नहरें, पिरामिड; कटा पिरामिड का सूत्र ज्ञात था",
+        "सिन्धु घाटी (~3000 ई.पू.): समांतर सड़कें, नालियाँ; ईंट अनुपात 4:2:1"
+      ],
+      "common_mistake": "Students pyramid ko sirf ‘triangle jaisa pahad’ samajh lete hain — definition mein base polygon hota hai aur side faces triangles jo ek apex par milte hain; truncated pyramid alag concept hai (top cut off).",
+      "memory_trick": "NILE-4-2-1: Neel baadh se Misr geometry; Sindhu bricks hamesha 4:2:1 ratio.",
+      "gesture_action": "Haath se baadh ka paani aane-jaane ka action, phir ungliyon se khet ki hadd dobara draw karo; phir brick ka 4-2-1 ratio ungliyon se gin kar dikhao.",
+      "real_life_examples": [
+        "Modern brick size bhi fixed ratio follow karti hai — construction accuracy ke liye",
+        "Town planning mein parallel roads aur drainage — Sindhu ghati jaisi soch aaj bhi"
+      ],
+      "worked_example": {
+        "problem": "Sindhu Ghati ki eent ka anupaat लम्बाई:चौड़ाई:मोटाई = 4:2:1 hai. Agar motai 5 cm ho, toh lambai aur chaudaai kitni hogi?",
+        "steps": [
+          "Ratio 4:2:1 mein motai = 1 part = 5 cm",
+          "Chaudaai = 2 parts = 10 cm",
+          "Lambai = 4 parts = 20 cm"
+        ],
+        "answer": "लम्बाई = 20 cm, चौड़ाई = 10 cm, मोटाई = 5 cm"
+      },
+      "practice": {
+        "easy": [
+          "सिन्धु घाटी की ईंटों का अनुपात लिखो।"
+        ],
+        "medium": [
+          "नील नदी की बाढ़ ने मिस्रवासियों को ज्यामिति विकसित करने के लिए क्यों प्रेरित किया?"
+        ],
+        "hard": [
+          "पिरामिड की परिभाषा लिखो तथा बताओ कि कटा हुआ पिरामिड (truncated pyramid) मिस्र की ज्यामिति की किस उपलब्धि से जुड़ा है।"
+        ]
+      },
+      "summary": "Misr ne baadh ke baad hadd banana, aayatan aur pyramid nirman ke liye geometry use ki; Sindhu ghati ne planned cities aur 4:2:1 brick ratio se practical geometry dikhai.",
+      "revision_point": "Misr = Neel floods + pyramids/volume; Sindhu = parallel streets + bricks 4:2:1 (~3000 BCE).",
+      "exam_tip": "Brick ratio 4:2:1 aur truncated pyramid volume formula jaanne ki baat — dono short-answer favourites hain. Exact ratio yaad rakho.",
+      "source_text_hint": "इन ईंटों के लिए अनुपात लम्बाई: चैड़ाई: मोटाई, 4: 2: 1 होता था"
+    },
+    {
+      "concept": "सुल्बासूत्र, वेदियाँ और ज्यामिति का अव्यवस्थित विकास",
+      "say": "Praacheen Bharat mein Sulbasutra (lagbhag 800–500 BCE) geometric rachnaon ke liye mahatvapurn granth the. Vedic kaal ki geometry ka udgam Vedic puja ke liye alag-alag vediyon aur agni-kundon ke nirman se hua. Pavitra agniyon ke sthan, aakaar aur kshetrafal spasht anudeshon ke anusaar hote the. Gharelu kriyaon ke liye vargakar aur vrittakar vediyan; public worship ke liye aayaton, tribhujon aur samlambon ke combination. Atharvaved ke ‘Shriyantra’ mein nau samdvibahu tribhuj antarnihit hain — inse 43 chhote tribhuj bante hain. Vediyon ki rachna mein parishuddha geometric vidhiyan thin, lekin related siddhanton ki charcha nahi milti. Yeh examples dikhate hain ki geometry kai jagah develop hui, par avyavasthit tareeke se. Gyaan peedhiyon tak maukhik roop se, taad patra par, ya anya vidhiyon se pahunchta tha. Babylon, Bharat aur Rome mein geometry zyadatar practical approach tak seemit rahi. Misr ki geometry mein mukhyatah results ke kathan the — processes ke vyapak niyam nahi. Babylon aur Misr ne geometry practical kaamon ke liye use ki, lekin kram-baddh science ke roop mein bahut kam develop ki. Greece mein zor tha ki rachnayein kaise hoti hain, aur kathon ki satyata nigamanik tark — deductive reasoning — se jaanchi jaaye. Yahi shift practical tip se logical science ki taraf le jaata hai. Yeh Euclid ke systematic approach ka background hai.",
+      "example": "School mein sirf ‘answer’ yaad karna vs ‘kyun sahi hai’ prove karna — pehla Misr/Babylon style practical statements; doosra Greek deductive style.",
+      "board_lines": [
+        "सुल्बासूत्र (~800–500 ई.पू.): ज्यामितीय रचनाओं के ग्रंथ",
+        "वेदियाँ/अग्नि-कुण्ड: आकार व क्षेत्रफल के स्पष्ट अनुदेश; श्रीयंत्र में 9 समद्विबाहु → 43 छोटे त्रिभुज",
+        "प्राचीन विकास अव्यवस्थित; यूनान में निगमनिक तर्कण (deductive reasoning) पर बल"
+      ],
+      "common_mistake": "Students Sulbasutra ko modern theorem-proof book samajh lete hain — source kehta hai rachna methods parishuddha the, lekin related siddhanton ki charcha nahi thi.",
+      "memory_trick": "SULBA-9-43: Sulbasutra + Shriyantra mein 9 isosceles triangles → 43 small triangles; PRACTICAL → DEDUCTIVE jump Greece mein.",
+      "gesture_action": "Nav triangles fingers se dikhao, phir ‘theory discussion missing’ ke liye haath hilakar ‘no proof talk’ gesture; phir sochne wala pose se Greek deductive reasoning.",
+      "real_life_examples": [
+        "Temple/mandap construction mein square-circle layouts — Vedic altar geometry ka echo",
+        "Oral folk knowledge (nani-dadi ke naap-tol tips) vs textbook proofs — avyavasthit vs systematic knowledge"
+      ],
+      "worked_example": {
+        "problem": "Shriyantra mein kitne samdvibahu tribhuj antarnihit hain aur unse kitne chhote tribhuj bante hain? Yeh kis granth/parampara se juda hai?",
+        "steps": [
+          "Source recall: Shriyantra mein 9 samdvibahu tribhuj",
+          "Unse 43 chhote (gauna) tribhuj bante hain",
+          "Yeh Atharvaved/Vedic geometry aur Sulbasutra context se juda hai"
+        ],
+        "answer": "9 समद्विबाहु त्रिभुज; उनसे 43 छोटे त्रिभुज बनते हैं — वैदिक/अथर्ववेद श्रीयंत्र संदर्भ।"
+      },
+      "practice": {
+        "easy": [
+          "सुल्बासूत्र किस काल के लगभग के माने जाते हैं?"
+        ],
+        "medium": [
+          "घरेलू और सार्वजनिक वैदिक पूजा के लिए वेदियों के आकारों में क्या अंतर बताया गया है?"
+        ],
+        "hard": [
+          "मिस्र/बेबीलोन की व्यावहारिक ज्यामिति और यूनान की निगमनिक तर्क-आधारित ज्यामिति में मुख्य अंतर लिखो।"
+        ]
+      },
+      "summary": "Sulbasutra aur Vedic vediyan practical geometric rachna dikhati hain; overall ancient geometry avyavasthit rahi, jabki Greece ne deductive reasoning par zor diya.",
+      "revision_point": "Sulbasutra ~800–500 BCE; Shriyantra 9→43 triangles; shift = practical statements → Greek deductive checking.",
+      "exam_tip": "Comparison question aaye toh ‘results/statements vs processes/proofs’ wala contrast clearly likho — examiner isi point ko dhoondhta hai.",
+      "source_text_hint": "प्राचीन भारत में, सुल्बासूत्रा ज्यामितीय रचनाओं के लिए महत्वपूर्ण ग्रंथ थे"
+    },
+    {
+      "concept": "थेल्स, पाइथागोरस और यूक्लिड के एलीमेंट्स",
+      "say": "Ab heroes of the chapter! Greek mathematician Thales ko shrey jata hai ki unhone sabse pehli gyaat upapatti — proof — di. Yeh upapatti is kathan ki thi ki vritt ka vyas vritt ko samdvibhajit karta hai, yani do barabar bhagon mein baantta hai. Thales ka ek sabse prasiddh shishya Pythagoras (572 BCE) tha — jiska naam aapne zaroor suna hoga. Pythagoras aur uske saathiyon ne kai geometric gunon ki khoj ki aur geometry ke siddhanton ka atyadhik vikas kiya. Yeh prakriya lagbhag 300 BCE tak jaari rahi. Isi samay Misr mein Alexandria ke ek ganit shikshak Euclid ne us samay tak gyaat ganit ke saare gyaan ko ektra kiya aur Elements naam ke apne prasiddh granth mein vyavasthit kiya. Unhone Elements ko 13 adhyayon mein baanta — har ek ko ‘pustika’ (book) maana jaata hai. In pustikaon ne samast vishwa ki geometry sambandhi samajh ko aane wali peedhiyon tak prabhavit kiya. Is adhyay mein hum geometry ke prati Euclid ke approach ki charcha karenge aur aaj ki geometry se usko jodne ki koshish karenge. Board tip: Thales = first known proof (diameter bisects circle); Pythagoras = many geometric properties; Euclid = Elements, 13 books. Sequence yaad rakho: Thales → Pythagoras → Euclid (~300 BCE, Alexandria).",
+      "example": "Library mein scattered notes ko ek neat textbook mein chapter-wise jodna — Euclid ne Elements mein bilkul yahi kiya ancient maths ke saath.",
+      "board_lines": [
+        "थेल्स: पहली ज्ञात उपपत्ति — वृत्त का व्यास वृत्त को समद्विभाजित करता है",
+        "पाइथागोरस (572 ई.पू.): अनेक ज्यामितीय गुणों/सिद्धांतों का विकास",
+        "यूक्लिड (~300 ई.पू., अलेक्जेंड्रिया): एलीमेंट्स — 13 पुस्तिकाएँ"
+      ],
+      "common_mistake": "Students Euclid ko Pythagoras theorem ka discoverer maan lete hain — Pythagoras aur uske saathiyon ne kai properties develop kiye; Euclid ne pehle se gyaat knowledge ko Elements mein organise kiya.",
+      "memory_trick": "T-P-E timeline: Thales Proof → Pythagoras Properties → Euclid Elements (13).",
+      "gesture_action": "Circle banakar diameter draw karo aur do halves dikhao (Thales); phir ‘right triangle’ pose (Pythagoras); phir imaginary 13 books stack karo (Euclid).",
+      "real_life_examples": [
+        "Teacher notes ko final guidebook mein arrange karna — Elements jaisa curation kaam",
+        "Cricket ground par centre circle ka diameter — do equal halves ka visual of Thales’ statement"
+      ],
+      "worked_example": {
+        "problem": "Match karo: (a) Thales (b) Pythagoras (c) Euclid — unki mukhya den ke saath. Euclid ke Elements mein kitni pustikayein hain?",
+        "steps": [
+          "Thales → pehli gyaat upapatti: diameter circle ko bisect karta hai",
+          "Pythagoras → kai geometric gun/siddhant develop",
+          "Euclid → Elements, 13 books, organised known mathematics"
+        ],
+        "answer": "(a) First known proof (diameter bisects circle); (b) Developed many geometric properties; (c) Elements in 13 books. Elements = 13 पुस्तिकाएँ।"
+      },
+      "practice": {
+        "easy": [
+          "यूक्लिड के एलीमेंट्स को कितनी पुस्तिकाओं में बाँटा गया?"
+        ],
+        "medium": [
+          "थेल्स की पहली ज्ञात उपपत्ति किस कथन की थी?"
+        ],
+        "hard": [
+          "थेल्स से यूक्लिड तक ज्यामिति के दृष्टिकोण में क्या बदलाव आया? उपपत्ति और व्यवस्थित ग्रंथ के आधार पर समझाओ।"
+        ]
+      },
+      "summary": "Thales ne pehli known proof di, Pythagoras ne properties develop kiye, aur Euclid ne Alexandria mein Elements (13 books) likhkar geometry ko systematic banaya.",
+      "revision_point": "Thales = diameter bisects circle (first proof); Pythagoras ≈ 572 BCE; Euclid ≈ 300 BCE, Elements = 13 books.",
+      "exam_tip": "Names + one contribution each likhna 3-mark question ban jaata hai. ‘Elements has 13 books’ zaroor include karo.",
+      "source_text_hint": "एलीमेंट्स नामक अपने प्रसि( ग्रंथ के रूप में उसे व्यवस्थित किया"
+    },
+    {
+      "concept": "ठोस से बिंदु तक – विमाएँ और यूक्लिड की परिभाषाएँ",
+      "say": "Euclid ke samay ke Greek mathematicians ne geometry ko us vishwa ka ek siddhantiya pratiman — model — socha jismein woh rehte the. Point, line, plane (ya surface) jaise concepts unke aas-paas ki cheezon se aaye. Ek solid ka aakaar, maap aur sthiti hoti hai, aur use ek jagah se doosri le jaaya ja sakta hai. Uski haddein surfaces kehlati hain — yeh aakash ke ek bhaag ko doosre se alag karti hain aur inki koi motai nahi. Surfaces ki haddein curves ya seedhi lines hoti hain; lines ke sire points hote hain. Teen steps: Solid → Surface → Line → Point. Har step mein hum ek vistaar, yani dimension, kho dete hain. Isliye: solid ki 3 dimensions, surface ki 2, line ki 1, aur point ki koi dimension nahi. Euclid ne Elements Book 1 mein 23 definitions di; kuch yeh hain: (1) Point woh hai jiska koi bhaag nahi. (2) Line chaudaai-rahit lambai. (3) Line ke sire points. (4) Straight line khud par points ke saath sapaat sthit. (5) Surface mein keval lambai aur chaudaai. (6) Surface ke kinaare lines. (7) Plane surface seedhi lines ke saath sapaat. Board par hamesha likho: 3D→2D→1D→0D. Yeh chain exam aur understanding dono ke liye key hai.",
+      "example": "Ek chalk box (solid, 3D) → uska face/paper (surface, 2D) → face ki edge (line, 1D) → edge ka corner tip (point, 0D).",
+      "board_lines": [
+        "ठोस (3 विमा) → पृष्ठ (2) → रेखा (1) → बिंदु (0 विमा)",
+        "परिभाषाएँ (कुछ): बिंदु = कोई भाग नहीं; रेखा = चौड़ाई रहित लम्बाई",
+        "पृष्ठ = केवल लम्बाई व चौड़ाई; समतल पृष्ठ = सीधी रेखाओं के साथ सपाट"
+      ],
+      "common_mistake": "Students point ko chhoti si ink-dot maan kar uski dimension ‘bahut chhoti’ bolte hain — geometry mein ideal point ki koi dimension nahi hoti (0D).",
+      "memory_trick": "BOX-FACE-EDGE-DOT: Box=3D, Face=2D, Edge=1D, Dot=0D — Solid-Surface-Line-Point.",
+      "gesture_action": "Pehle mukthi bandh karke solid dikhao, haath failakar surface, ungli seedhi karke line, phir ungli tip se point — har baar ‘ek dimension kam’ bolo.",
+      "real_life_examples": [
+        "Classroom: almirah (solid), blackboard surface, chalk edge line, chalk tip point",
+        "Football: ball (solid approx), its outer skin (surface), drawn diameter mark (line idea), centre mark (point idea)"
+      ],
+      "worked_example": {
+        "problem": "Neeche diye objects ki dimensions batao: (i) ek cuboid wooden block (ii) uska ek face (iii) face ki ek edge (iv) edge ka ek endpoint.",
+        "steps": [
+          "Cuboid block = solid = 3 dimensions",
+          "Face = surface = 2 dimensions",
+          "Edge = line = 1 dimension; endpoint = point = 0 dimension"
+        ],
+        "answer": "(i) 3 (ii) 2 (iii) 1 (iv) 0"
+      },
+      "practice": {
+        "easy": [
+          "एक बिंदु की कितनी विमाएँ होती हैं?"
+        ],
+        "medium": [
+          "यूक्लिड के अनुसार रेखा और पृष्ठ की परिभाषाएँ लिखो।"
+        ],
+        "hard": [
+          "ठोस से बिंदु तक के तीन चरणों में प्रत्येक चरण पर हम एक विमा क्यों खोते हैं? उदाहरण सहित समझाओ।"
+        ]
+      },
+      "summary": "Solid→surface→line→point har step par ek dimension kam hoti hai; Euclid ne Book 1 mein 23 definitions di jinmein point, line, surface, plane aadi hain.",
+      "revision_point": "3D-2D-1D-0D chain; Point = no part; Line = breadthless length; Plane lies evenly with straight lines on itself.",
+      "exam_tip": "Definitions ko word-to-word close likho — ‘चौड़ाई रहित लम्बाई’ aur ‘कोई भाग नहीं’ jaise phrases marks dilate hain.",
+      "source_text_hint": "एक ठोस की तीन विमाएँ होती हैं, एक पृष्ठ की दो विमाएँ, एक रेखा की एक विमा होती है और एक बिंदु की कोई विमा नहीं होती"
+    },
+    {
+      "concept": "अपरिभाषित पद, अभिगृहीत और अभिधारणाएँ",
+      "say": "Bacchon, Euclid ki point definition mein ‘एक भाग’ aata hai. Agar ‘भाग’ ko define karein ki woh ‘क्षेत्र’ gherta hai, toh ‘क्षेत्र’ bhi define karna padega — bina ant ke chain. Isliye mathematicians ne kuch geometric terms ko अपरिभाषित — undefined — maan liya. Geometry mein point, line aur plane (Euclid: plane surface) ko undefined terms maan kar chalte hain. Hum unhe intuitive roop se ya physical models se samajhte hain — point ko sukshm bindi se dikhate hain, chahe uski kuch dimension hoti hi hai. Definitions ke baad Euclid ne kuch gunon ko bina prove kiye satya maan liya — ‘spashtatah sarvavyapi satya’. Do varg: अभिगृहीत (axioms) aur अभिधारणाएँ (postulates). Postulates specifically geometry se related assumptions thin; common notions/axioms general mathematics mein use hoti thin. Aajkal dono terms aksar ek hi arth mein use hote hain. ‘आइए अभिधारणा करें’ ka matlab hai observed phenomena ke aadhar par kathan kehna; baad mein satyata check hoti hai. Axioms ka system अविरोधी — consistent — tab jab unse aisa kathan na bane jo kisi anya axiom ya pehle prove hue kathan ke viruddh ho. Euclid ne inka use karke results prove kiye; phir unse aur results — deductive chain. Prove kiye gaye kathan साध्य (propositions) ya प्रमेय (theorems) kehlate hain. Euclid ne 465 propositions deduce kiye!",
+      "example": "Dictionary mein har word ko define karte-karte circle ban jaaye — isliye kuch starting words ‘maan liye’ jaate hain; geometry mein point, line, plane wahi starting undefined terms hain.",
+      "board_lines": [
+        "अपरिभाषित पद: बिंदु, रेखा, तल (समतल पृष्ठ)",
+        "अभिधारणा = ज्यामिति-विशिष्ट कल्पनाएँ; अभिगृहीत/सामान्य अवधारणाएँ = व्यापक गणितीय सत्य",
+        "अविरोधी निकाय: कोई कथन अन्य अभिगृहीत/सिद्ध कथन का विरोधी न हो; यूक्लिड ने 465 साध्य निगमित किए"
+      ],
+      "common_mistake": "Students sochte hain har cheez define ho sakti hai bina kisi starting assumption ke — infinite regress hota hai; isliye undefined terms zaroori hain.",
+      "memory_trick": "U-A-P-T: Undefined terms → Axioms/Postulates → Proofs → Theorems (465). Building order yaad rakho.",
+      "gesture_action": "Foundation bricks dikhao (undefined terms), us par cement (axioms/postulates), phir wall banate hue theorems — building construction metaphor act out karo.",
+      "real_life_examples": [
+        "Game rules pehle maan liye jaate hain, phir unse ‘fair/unfair’ decide hota hai — axioms jaisa",
+        "Map par ‘point’ city centre dikhata hai — physical model of undefined point"
+      ],
+      "worked_example": {
+        "problem": "Kyun mathematicians ‘बिंदु’ ko undefined term maante hain? Euclid ki definition ki samasya se explain karo.",
+        "steps": [
+          "Euclid: point woh hai jiska koi bhaag nahi",
+          "‘भाग’ ko define karne par ‘क्षेत्र’ etc. chahiye — chain infinite ho sakti hai",
+          "Isliye point, line, plane ko undefined rakhna convenient aur better intuitive feel deta hai"
+        ],
+        "answer": "क्योंकि परिभाषा में ‘भाग’ जैसे पद फिर परिभाषित करने पड़ते हैं और अंतहीन श्रृंखला बन सकती है; अतः बिंदु, रेखा, तल अपरिभाषित रखे जाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "ज्यामिति के तीन अपरिभाषित पदों के नाम लिखो।"
+        ],
+        "medium": [
+          "अभिगृहीत और अभिधारणा में यूक्लिड के अनुसार क्या अंतर था?"
+        ],
+        "hard": [
+          "अभिगृहीतों के अविरोधी निकाय का क्या अर्थ है? यदि निकाय अविरोधी न हो तो क्या समस्या होगी?"
+        ]
+      },
+      "summary": "Kuch terms undefined rakhne padte hain; axioms/postulates bina proof ke maane jaate hain; unse theorems/propositions (Euclid: 465) deduce hote hain; system consistent hona chahiye.",
+      "revision_point": "Undefined = point, line, plane; Postulates ≈ geometry-specific; Axioms ≈ general notions; Consistent system + 465 propositions.",
+      "exam_tip": "‘Why undefined terms?’ wala reasoning question common hai — infinite chain of definitions argument zaroor likho.",
+      "source_text_hint": "इसलिए, ज्यामिति में हम बिंदु, रेखा और तल को अपरिभाषित शब्दों के रूप में मान कर चलते हैं"
+    },
+    {
+      "concept": "यूक्लिड के अभिगृहीत और पाँच अभिधारणाएँ",
+      "say": "Euclid ke kuch axioms (common notions): (1) Ve vastuyen jo ek hi vastu ke barabar hon, ek doosre ke barabar. (2) Barabaron ko barabaron mein jodo — poorn bhi barabar. (3) Barabaron mein se barabar ghatao — shesh bhi barabar. (4) Paraspar sanpati vastuyen barabar. (5) Poorn apne bhaag se bada. (6) Ek hi vastuyen ke dugne barabar. (7) Ek hi vastuyen ke aadhe barabar. Yeh general magnitudes ke liye hain — same type compare/add ho sakte hain, alag type nahi (line ko rectangle mein add nahi). Axiom 4 superposition ki taraf ishara karta hai; Axiom 5 ‘greater than’ — A > C matlab koi B aisa ki A = C + B. Paanch Postulates: (1) Ek point se anya point tak seedhi line. (2) Saant line (aaj ka line segment) ko anishchit badhaya ja sakta hai. (3) Centre aur radius se circle. (4) Sabhi samkon barabar. (5) Agar ek line do lines par gir kar ek or antah-konon ka yog do samkonon se kam banaye, toh lines usi or milengi. Postulate 1 se ‘kam-se-kam ek’ line milti hai; Euclid ne kaam mein unique line maani — isliye Axiom 5.1: दो भिन्न बिंदुओं से अद्वितीय रेखा। Postulate 5 baaki se complex hai; 1–4 simple self-evident lagte hain, lekin prove nahi ho sakte — bina proof accept. Yaad rakho yeh farq exam mein aata hai!",
+      "example": "Agar △ ka area = rectangle ka area, aur rectangle ka area = square ka area, toh △ ka area = square ka area — yeh Axiom 1 (things equal to the same thing are equal) ka use hai.",
+      "board_lines": [
+        "अभिगृहीत: बराबर+बराबर=बराबर; घटाव; संपाती⇒बराबर; पूर्ण>भाग; दुगुने/आधे बराबर",
+        "अभिधारणा 1–4: रेखा, रेखाखंड विस्तार, वृत्त, समकोण समान",
+        "अभिगृहीत 5.1: दो भिन्न बिंदुओं से अद्वितीय रेखा; अभिधारणा 5 सबसे जटिल"
+      ],
+      "common_mistake": "Students Postulate 1 ko hi ‘unique line’ maan lete hain — text clearly kehta hai Postulate 1 se ‘at least one’ milta hai; uniqueness alag se Axiom 5.1 ke roop mein li gayi hai.",
+      "memory_trick": "Axioms = ADD/SUB/EQUAL/DOUBLE/HALF; Postulates = LINE-EXTEND-CIRCLE-RIGHT-PARALLEL(5th). Unique line = Axiom 5.1!",
+      "gesture_action": "Do ungli tips (do points) se sirf ek seedhi chalk line draw karo — ‘unique!’ bolo; phir interior angles ka sum < 180° dikhakar lines milne ka Postulate 5 act out karo.",
+      "real_life_examples": [
+        "Two nails on a wall — taut thread unke beech unique straight line banata hai (Axiom 5.1)",
+        "Compass se circle — centre + radius (Postulate 3) school geometry box ka daily use"
+      ],
+      "worked_example": {
+        "problem": "Points A aur B diye hain. Kitni distinct seedhi lines A aur B dono se guzar sakti hain? Kaunsa axiom/postulate use hoga?",
+        "steps": [
+          "Postulate 1 se kam-se-kam ek line possible",
+          "Euclid ne uniqueness maani — Axiom 5.1: do distinct points se unique line",
+          "Isliye exactly one line — line AB"
+        ],
+        "answer": "केवल एक अद्वितीय रेखा (AB) — अभिगृहीत 5.1 के अनुसार।"
+      },
+      "practice": {
+        "easy": [
+          "अभिगृहीत 5.1 का कथन लिखो।"
+        ],
+        "medium": [
+          "यूक्लिड की अभिधारणा 2 को आज की भाषा (रेखाखंड) में लिखो।"
+        ],
+        "hard": [
+          "अभिधारणा 5 को अपने शब्दों में लिखो तथा बताओ कि यह अन्य अभिधारणाओं से क्यों अधिक जटिल मानी जाती है।"
+        ]
+      },
+      "summary": "Euclid ke axioms equal magnitudes ke common notions hain; paanch postulates geometry constructions/properties dete hain; unique line Axiom 5.1 hai; Postulate 5 sabse complex.",
+      "revision_point": "Same-type magnitudes only; Axiom 5.1 = unique line through two distinct points; Postulate 5 = interior angles sum < 180° ⇒ lines meet that side.",
+      "exam_tip": "Postulate 1 aur Axiom 5.1 ka antar exam mein trap hai — ‘at least one’ vs ‘unique’ clearly likho.",
+      "source_text_hint": "दिए हुए दो भिन्न बिंदुओं से होकर एक अद्वितीय रेखा खींची जा सकती है"
+    },
+    {
+      "concept": "साध्य, प्रमेय और यूक्लिड के उदाहरण",
+      "say": "Jab axioms, postulates aur definitions ready hain, tab unse naye results prove hote hain — साध्य (propositions) ya प्रमेय (theorems). Euclid ne logical chain mein 465 propositions deduce kiye. Example 1: Agar A, B, C ek line par hain aur B, A aur C ke beech hai, toh prove AB + BC = AC. Figure mein AB + BC segment AC ke saath संपाती — coincident — hai. Axiom 4: paraspar sanpati vastuyen barabar; isliye AB + BC = AC. Yahan unique line through two points bhi maani gayi hai. Example 2: Prove ki diye hue line segment par samabahyu tribhuj rachit kiya ja sakta hai. Diya segment AB. Postulate 3 se A centre, AB radius se circle; B centre, BA radius se doosra circle. Dono circles point C par milte hain; AC, BC draw karke △ABC. C pehle circle par ⇒ AC = AB; C doosre par ⇒ BC = BA; isliye AB = AC = BC — equilateral! Yahi Euclid style hai: postulates se construction, axioms se equality proof. Aage ke chapters mein bhi aap axioms se theorems prove karoge. Exam tip: figure, given, axiom/postulate number, phir conclusion — steps clear rakho.",
+      "example": "Scale par 5 cm line segment lo, compass se dono ends se arcs draw karke intersection C milao — △ABC samabahyu banega; yahi Example 2 classroom mein.",
+      "board_lines": [
+        "साध्य/प्रमेय = अभिगृहीत·अभिधारणा·परिभाषा से निगमित परिणाम (यूक्लिड: 465)",
+        "उदा.1: B, A व C के बीच ⇒ AB + BC = AC (अभिगृहीत 4: संपाती ⇒ बराबर)",
+        "उदा.2: खंड AB पर समबाहु △ — दो वृत्त (अभिधरणा 3) → AB = AC = BC"
+      ],
+      "common_mistake": "Students equilateral construction mein sirf figure bana kar chhod dete hain — proof incomplete rehti hai jab tak radii equality se AB = AC = BC explicitly na likhein.",
+      "memory_trick": "COIN-CIRCLE: COINcident segments equal (Ex.1); CIRCLE radii equal ⇒ equilateral (Ex.2).",
+      "gesture_action": "Teen points A-B-C ungliyon se line par dikhao aur AB+BC ko AC par overlap karke ‘same!’ bolo; phir compass se do arcs ka intersection act out karo.",
+      "real_life_examples": [
+        "Measuring tape par consecutive parts jodna — AB + BC = AC jaisa length addition",
+        "Rangoli/yantra mein equal sides ke liye compass-style arcs — equilateral construction"
+      ],
+      "worked_example": {
+        "problem": "Line par points P, Q, R hain; Q, P aur R ke beech hai; PQ = 3.2 cm, QR = 4.8 cm. PR kitna hai? Kaunsa Euclid axiom idea use hota hai?",
+        "steps": [
+          "Q between P and R ⇒ PQ + QR = PR (Example 1 style)",
+          "PR = 3.2 + 4.8 = 8.0 cm",
+          "Reason: PQ + QR segment PR se coincident; Axiom 4 — coincident things are equal"
+        ],
+        "answer": "PR = 8.0 cm; संपाती वस्तुएँ बराबर होती हैं (अभिगृहीत 4) / रेखाखंड योग।"
+      },
+      "practice": {
+        "easy": [
+          "यदि B, A और C के बीच हो तो AB + BC = ?"
+        ],
+        "medium": [
+          "समबाहु त्रिभुज की रचना में यूक्लिड की कौन-सी अभिधारणा प्रयुक्त होती है? रचना के तीन चरण लिखो।"
+        ],
+        "hard": [
+          "सिद्ध कीजिए कि दिए हुए रेखाखंड पर एक समबाहु त्रिभुज की रचना की जा सकती है — परिभाषा, अभिधारणा 3 और त्रिज्या समानता के चरणों सहित।"
+        ]
+      },
+      "summary": "Propositions/theorems axioms-postulates se prove hote hain; AB+BC=AC coincidence axiom se, aur equilateral triangle Postulate 3 ke do circles se banakar radii equality se siddh hota hai.",
+      "revision_point": "Ex.1: between-point ⇒ segment sum via coincidence (Axiom 4); Ex.2: two circles (Postulate 3) ⇒ equilateral AB=AC=BC.",
+      "exam_tip": "Proof questions mein ‘Given / To Prove / Construction / Proof’ headings use karo; har step ke saath axiom/postulate number likho — full marks ka formula.",
+      "source_text_hint": "यदि ।ए ठ और ब् एक रेखा पर स्थित तीन बिंदु हैं और ठ बिंदुओं । और ब् के बीच में स्थित है"
+    }
+  ]
+}
