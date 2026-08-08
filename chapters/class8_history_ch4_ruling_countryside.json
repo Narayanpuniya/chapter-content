@@ -1,0 +1,314 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 619,
+    "chapter_name": "ग्रामीण क्षेत्र पर शासन चलाना",
+    "chapter_number": 4,
+    "book_name": "Class 8 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 8",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 8 Social Science ke Chapter 4 — ग्रामीण क्षेत्र पर शासन चलाना (Ruling the Countryside) — ko padhenge. Is chapter mein dekhenge ki 1765 mein East India Company Bengal ki Diwani kaise haath mein li, Permanent Settlement, Mahalwari aur Ryotwari se revenue kaise ikattha kiya, aur Europe ki zarooraton ke liye indigo jaise crops farmers se kaise ugwaye. Yeh chapter batata hai ki Company ne rural India ko kaise colonise kiya — income, rights aur forced cultivation ke through.",
+    "welcome": "Good morning, bacchon! Aaj Smart Board par ek bahut important history chapter shuru karte hain — ग्रामीण क्षेत्र पर शासन चलाना. Socho: ek trading company pehle silk-cotton kharidti thi, phir suddenly woh Diwan ban gayi — lagaan vasoolne lagi, zameen ke niyam banaye, aur farmers se indigo ugwaya. Aaj hum samjhenge ki Company ne gaon-dehat par shasan kaise chalaya. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "1765 ki Diwani aur Company ke naye economic role ko clearly explain karna",
+      "Permanent Settlement (1793) ki shartein, zamindar-raiyat relations aur uski samasyaon ko compare karna",
+      "Mahalwari aur Ryotwari (Munro) systems ke differences identify karna",
+      "Indigo ki European demand, Nij aur Ryoti cultivation methods aur unki problems ko source-based examples se samjhana"
+    ],
+    "concepts": [
+      {"number": 1, "name": "कंपनी दीवान बन गई"},
+      {"number": 2, "name": "कंपनी की आमदनी और बंगाल का संकट"},
+      {"number": 3, "name": "स्थायी बंदोबस्त – 1793"},
+      {"number": 4, "name": "स्थायी बंदोबस्त की समस्याएँ और रैयतों की दशा"},
+      {"number": 5, "name": "महालवारी बंदोबस्त"},
+      {"number": 6, "name": "मुनरो व्यवस्था – रैयतवाड़ी"},
+      {"number": 7, "name": "यूरोप के लिए फ़सलें और भारतीय नील की माँग"},
+      {"number": 8, "name": "नील की खेती – निज और रैयती व्यवस्था"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "कंपनी दीवान बन गई",
+      "say": "Bacchon, aaj ka pehla bada point — कंपनी दीवान बन गई. 12 August 1765 ko Mughal Badshah ne East India Company ko Bengal ka Diwan taiynaat kiya. Diwani ka matlab kya hai? Matlab ab Company us ilake ke economic cases ki mukhya shasak ban gayi — zameen ka shasan chalana aur aamdani vyavasthit karna uska kaam ho gaya. Picture 1 mein Robert Clive ko Mughal Badshah se Bihar aur Odisha ki Diwani grahan karte dikhaya gaya hai. Asal mein yeh ghatna shayad Clive ke tambu mein, thode se Angrezon aur Hindustaniyon ki maujoodgi mein hui hogi, lekin painter ne ise bhavya samaroh banaya — kyunki Clive ne apne life ke memorable moments paint karwane ka zimma usi painter ko diya tha. Bengal ki Diwani Angrezon ke liye bilkul badi ghatna thi. Ab Company ko do cheezein saath-saath sochni thi: pehle, apne badhte kharchon ke liye kaafi revenue jutana; doosre, trading company hone ke naate apni zaroorat ki cheezein kharidte-bechte rehna. Rural markets — jaise Murshidabad ka weekly haat — mein peasants aur artisans regularly aate the. Economic crisis ke time in bazaaron par bura asar padta tha. Company ko yeh bhi samajh aaya ki bahari taakat hone ke bawajood use un logon ko shaant rakhna hoga jo pehle gaon mein shasan chala chuke the — unhe control karna zaroori tha, lekin khatam nahi kiya ja sakta tha. Is chapter mein hum dekhenge Company ne rural areas ko colonise kaise kiya, income kaise jutayi, logon ke rights kaise tay kiye, aur manmaafi crops ki kheti kaise karwayi.",
+      "example": "School canteen socho — pehle sirf snacks bechti thi; phir usko school fees bhi collect karne ka adhikar mil gaya. Ab woh trader bhi hai aur revenue collector bhi — bilkul Company Diwan banne jaisa double role.",
+      "board_lines": [
+        "12 August 1765: Mughal Badshah → East India Company = Diwan of Bengal",
+        "Diwan = economic administrator: land revenue + organise income",
+        "Company needed: high revenue for expenses + continue trade purchases"
+      ],
+      "common_mistake": "Students sochte hain Diwani milte hi Company poori political raja ban gayi — asal mein pehle woh economic control (revenue + trade) haath mein li; rural political powers ko control karna tha, bilkul destroy nahi.",
+      "memory_trick": "D-I-W-A-N: Diwani Is Wealth And Now (Company controls Bengal money).",
+      "gesture_action": "Ek student ‘Badshah’ bane, doosra ‘Clive/Company’ — Badshah paper (Diwani) pass kare; class clap karke ‘bhavya painting’ vs chhota tambu contrast act out kare",
+      "real_life_examples": [
+        "Village weekly haat — economic crisis mein bikri girna, jaise NCERT ke Murshidabad haat ka asar",
+        "School committee jo pehle sirf event manage karti thi, ab fees bhi collect kare — role change jaisa Diwani"
+      ],
+      "worked_example": {
+        "problem": "Diwan banne ke baad Company ke saamne do mukhya challenges kya the? Short answer likho.",
+        "steps": [
+          "Recall: Diwan = economic control of territory",
+          "Challenge 1: badhte kharchon ke liye kaafi aamdani jutana aur zameen ka shasan chalana",
+          "Challenge 2: trading company ke taur par zaroorat ki cheezein kharidte-bechte rehna; purane local power-holders ko control karna bina unhe poora khatam kiye"
+        ],
+        "answer": "Company ko (1) revenue organise karke expenses poora karna tha, aur (2) trade continue rakhte hue local powerful groups ko control (not destroy) karna tha."
+      },
+      "practice": {
+        "easy": ["East India Company ko Bengal ka Diwan kab banaya gaya?"],
+        "medium": ["Diwani haath aane ke baad Company ko ‘trader’ aur ‘revenue collector’ dono roles kaise nibhane the? Explain karo."],
+        "hard": ["Picture mein Diwani ko bhavya samaroh dikhaya gaya, lekin NCERT kehta hai asal ghatna shayad tambu mein hui. Yeh difference history painting ke bare mein kya sikhata hai?"]
+      },
+      "summary": "1765 mein Company Bengal ki Diwani haath mein le kar economic shasak ban gayi — ab use revenue jutana, trade chalana aur local powers ko manage karna tha.",
+      "revision_point": "12 Aug 1765 = Company Diwan of Bengal; Diwani = economic control + revenue responsibility.",
+      "exam_tip": "Diwani wale 2–3 mark question mein hamesha date (12 August 1765), Robert Clive/painting context, aur Diwan ke economic powers — teenon likho.",
+      "source_text_hint": "12 अगस्त 1765 को मुग़ल बादशाह ने ईस्ट इंडिया कंपनी को बंगाल का दीवान ततैनातत किया"
+    },
+    {
+      "concept": "कंपनी की आमदनी और बंगाल का संकट",
+      "say": "Ab dekho — कंपनी की आमदनी. Company Diwan toh ban gayi, lekin abhi bhi khud ko ek vyapari hi maanti thi. Woh heavy-bharakam lagaan chahati thi, lekin assessment aur collection ki regular system banane mein hichkichati thi. Uski koshish yeh thi ki zyada se zyada revenue hasil kare aur kam se kam keemat par badhiya cotton aur silk cloth kharide. Isi wajah se paanch saal ke bheetar Bengal mein Company dwara kharidi jane wali cheezon ka kul mulya diguna ho gaya. 1765 se pehle Company Britain se sone-chandi import karke maal kharidti thi. Ab Bengal mein ikattha hone wale paise se hi export ke liye cheezein kharidi ja sakti thin — matlab Indian wealth se hi Indian goods kharidna. Jaldi yeh zahir ho gaya ki Bengal ki economy deep crisis mein fasati ja rahi hai. Artisans gaon chhodkar bhaag rahe the kyunki unhe bahut kam keemat par apni cheezein Company ko zabardasti bechni padti thin. Peasants apna lagaan nahi chuka pa rahe the. Artisans ka utpadan gir raha tha aur kheti chaupat hone ki disha mein badh rahi thi. 1770 mein pade akaal ne Bengal mein ek crore logon ko maut ki neend sula diya — lagbhag ek-tihai aabadi samaapt ho gayi. Ab sawaal: agar economy crisis mein thi, toh kya Company apni revenue income ke baare mein aashvast reh sakti thi? Company ke zyadatar officers ko lagne laga ki zameen mein investment aur kheti mein sudhaar laana zaroori hai. Yeh debate do dashakon tak chali — aur isi se Permanent Settlement ka raasta bana.",
+      "example": "Shopkeeper socho jo grahak se force karke sasta maal le, phir usi gaon se heavy tax bhi maange — log bhaagenge, production giregi, bazaar tootega. Bilkul 1765–1770 ke Bengal jaisa.",
+      "board_lines": [
+        "Goal: max revenue + cheapest fine cotton & silk",
+        "Before 1765: gold/silver from Britain → buy goods; After: Bengal revenue → buy exports",
+        "Crisis: artisans flee, peasants can’t pay rent; 1770 famine ≈ 1 crore dead (~1/3 population)"
+      ],
+      "common_mistake": "Students sirf 1770 akaal yaad rakhte hain aur bhool jaate hain ki pehle se artisans ko forced cheap sale aur heavy revenue ne economy ko crisis mein daala tha — famine us deep crisis ka bhayankar nateeja tha.",
+      "memory_trick": "R-C-F: Revenue hunger + Cheap cloth buying → Famine 1770 (1 crore).",
+      "gesture_action": "Ek haath se ‘lagaan vasoolo’ gesture, doosre se ‘sasta kapda kharido’; phir class ko ‘artisans fleeing’ walk-away act karne do",
+      "real_life_examples": [
+        "Drought year mein farmers ko heavy school/fees pressure — payment fail, migration",
+        "Forced cheap purchase of craft goods — artisans leave village for city work"
+      ],
+      "worked_example": {
+        "problem": "1765 ke baad Company ke kharid-vyapar ke tareeke mein kya badlav aaya? Ek crore deaths kis ghatna se jude hain?",
+        "steps": [
+          "Pehle: Britain se gold/silver import karke goods kharidna",
+          "Baad mein: Bengal ke collected revenue se hi export goods kharidna",
+          "1770 famine: about one crore died; nearly one-third population wiped out"
+        ],
+        "answer": "Company ne Bengal revenue se hi exports kharidna shuru kiya (no need to bring silver from Britain). 1770 ke Bengal akaal mein lagbhag ek crore log mare."
+      },
+      "practice": {
+        "easy": ["1770 ke Bengal akaal mein lagbhag kitni aabadi samaapt hui?"],
+        "medium": ["Company ‘zyada revenue + sasta kapda’ policy se Bengal ke artisans aur peasants par kya asar pada?"],
+        "hard": ["‘Company Diwan ban gayi lekin vyapari hi maanti rahi’ — is dual attitude ne economic crisis kaise badhaya? Reasoned paragraph likho."]
+      },
+      "summary": "Company ne max revenue aur sasta cloth kharidne ki policy se Bengal ki economy deep crisis mein daal di; 1770 ke akaal ne lagbhag ek-tihai aabadi le li.",
+      "revision_point": "After 1765: Bengal money buys exports; crisis → artisans flee, rents unpaid; 1770 famine ≈ 1 crore dead.",
+      "exam_tip": "Famine question mein hamesha ‘approximately one crore / one-third population’ figure zaroor likho — examiner factual accuracy check karta hai.",
+      "source_text_hint": "1770 में पड़े अकाल ने बंगाल में एक करोड़ लोगों को मौतत की नींद सुला दिया"
+    },
+    {
+      "concept": "स्थायी बंदोबस्त – 1793",
+      "say": "Economy crisis mein thi, toh Company ko kheti mein sudhaar chahiye tha. Do dashakon ki bahas ke baad, 1793 mein Company ne स्थायी बंदोबस्त — Permanent Settlement — lagu kiya. Us samay Bengal ka Governor-General Charles Cornwallis tha. Is bandobast ki sharton ke hisaab se rajas aur taluqdars ko zamindars ke roop mein manyata di gayi. Unhe peasants se lagaan vasoolne aur Company ko revenue chukane ka zimma saunpa gaya. Unki taraf se chukai jane wali rashi sthayi roop se tay kar di gayi thi — matlab bhavishya mein kabhi usmein izafa nahi kiya jana tha. Angrezon ko lagta tha isse unhe regular revenue milta rahega aur zamindars ko zameen mein sudhaar ke liye kharch karne ka protsahan milega. Unka logic: kyunki state ki revenue demand badhne wali nahi thi, isliye zamindar badhte utpadan se fayde mein rahenge — jo extra produce hoga, uska faayda unka. Classroom tip: ‘Permanent’ word yaad rakho — amount fixed forever between Company and zamindar. Yeh system Bengal mein lagu hua. Zamindar ab Company aur raiyat ke beech middle layer ban gaye. Company sochti thi investment aayega, agriculture improve hoga, aur uski income safe rahegi. Lekin, jaise hum agle concept mein dekhenge, yeh ummeed poori nahi hui. Board par teen keywords likho: 1793, Cornwallis, fixed revenue forever.",
+      "example": "Ghar ka kiraya socho jo landlord aur builder ke beech forever fixed ho — builder ko lagta hai ab landlord ghar improve karega kyunki rent nahi badhega. Wahi ummeed Angrezon ne zamindars se ki.",
+      "board_lines": [
+        "1793: Permanent Settlement (Cornwallis = Governor-General)",
+        "Rajas/taluqdars recognised as zamindars → collect rent, pay revenue to Company",
+        "Revenue amount fixed forever → hoped: regular income + zamindar invests in land"
+      ],
+      "common_mistake": "Students sochte hain Permanent Settlement ne farmers ko zameen ka permanent right de diya — galat. Permanent fixed tha Company ko milne wala revenue; zamindars recognised hue, raiyats ke rights secure nahi the.",
+      "memory_trick": "P-C-Z: Permanent 1793 — Cornwallis — Zamindars pay fixed revenue Forever.",
+      "gesture_action": "Teen roles: Company (fixed amount paper pakde), Zamindar (beech mein), Peasant (lagaan de) — ‘amount never increases’ board par circle karo",
+      "real_life_examples": [
+        "Fixed school annual fee forever promise — management ummeed kare parents zyada facilities invest karein",
+        "Village lekhpal/patwari chain: collector ← middleman ← cultivator — zamindar middle layer jaisa"
+      ],
+      "worked_example": {
+        "problem": "Permanent Settlement kab lagu hua? Uske do supposed benefits Angrezon ke nazar se likho.",
+        "steps": [
+          "Year: 1793; Cornwallis Governor-General of Bengal",
+          "Benefit 1: Company ko regular, fixed revenue milta rahega",
+          "Benefit 2: Zamindars ko zameen improve karne ka incentive — kyunki state demand nahi badhegi, extra produce unka faayda"
+        ],
+        "answer": "1793. Benefits hoped: (1) secure regular revenue for Company; (2) zamindars invest in land improvement because revenue demand would not rise."
+      },
+      "practice": {
+        "easy": ["स्थायी बंदोबस्त kis saal lagu hua aur us samay Governor-General kaun tha?"],
+        "medium": ["Permanent Settlement mein zamindar ke do zimmedariyan kya thin?"],
+        "hard": ["Angrezon ne revenue ‘sthayi’ kyun banaya? Unka economic logic apne shabdon mein explain karo."]
+      },
+      "summary": "1793 ke Permanent Settlement mein rajas/taluqdars ko zamindar maankar unse fixed forever revenue liya gaya — ummeed thi regular income aur land improvement ki.",
+      "revision_point": "1793 Permanent Settlement: Cornwallis; zamindars collect rent; Company revenue fixed forever.",
+      "exam_tip": "Definition question mein ‘revenue fixed permanently / never to be increased’ line zaroor likho — yahi ‘स्थायी’ ka core hai.",
+      "source_text_hint": "आख़िरकार कंपनी ने 1793 में सथायी बंदोबस्त लागू किया"
+    },
+    {
+      "concept": "स्थायी बंदोबस्त की समस्याएँ और रैयतों की दशा",
+      "say": "Magar स्थायी बंदोबस्त ne bhi samasya paida kar di. Zamindar abhi bhi zameen improve nahi kar rahe the. Company ka fixed revenue itna zyada tha ki chukana mushkil tha. Jo fail hota, uski zamindari cheen li jati — bahut si auction ho gayin. Unnisvin sadi ke pehle dashak tak keematein badhin, kheti faili, zamindar aamdani sudhri — lekin Company ko faayda nahi, kyunki revenue forever fix tha; ab badha nahi sakti thi. Jo zamindar bache, unhe bina investment ke bhi aamdani dikhai di — jab tak peasants se lagaan milta raha, improvement ki parvah nahi. Gaon mein farmers ko yeh vyavastha damankari lagi: lagaan bahut zyada, zameen ka adhikar asurakshit. Lagaan ke liye mahajan se karza; nahi chuka paye toh pushtaini zameen se bedakhal. Source 1 — H.T. Colebrooke (1860): kai powerful raiyats khud kheti nahi karte, doosron ko patte dekar bhari lagaan vasoolte. Batai aur begari se dabe kashtkar karz se bahar nahi nikalte; jeene ko poora nahi, toh dil laga kar kaam kaise? Unnisvin sadi ki shuruaat mein hi kai officers maan chuke the ki bandobast mein badlav zaroori hai — expenses badhte rahe, permanent fix se aur paise kaise aayenge?",
+      "example": "Classroom monitor se fixed monthly ‘class fund’ itna zyada maango ki woh khud paise nahi de paaye — uski duty cheen lo, auction kar do. Phir bhi woh students se zyada vusooli kare, improve kuch na kare — Permanent Settlement problems jaisa.",
+      "board_lines": [
+        "High fixed revenue → many zamindaris auctioned; little investment in land",
+        "Early 1800s: prices↑, cultivation expands → zamindar income↑ but Company stuck with fixed revenue",
+        "Raiyats: high rent, insecure rights, debt to mahajan, eviction; Colebrooke on oppressed under-tenants"
+      ],
+      "common_mistake": "Students sochte hain Permanent Settlement se Company hamesha khush rahi — galat. Pehle high demand se zamindars fail hue; baad mein jab prices badhin toh Company revenue badha nahi saki. Dono taraf loss/limitation thi.",
+      "memory_trick": "A-F-D: Auction of zamindaris — Fixed revenue traps Company later — Debt & eviction for raiyats.",
+      "gesture_action": "Zamindar student empty pockets dikhaye (can’t pay), paper cheen lo (auction); phir peasant student debt gesture aur ‘land se nikaalo’ act kare",
+      "real_life_examples": [
+        "High EMI loan — ghar auction; owner improve nahi karta",
+        "Sharecropper (batai) heavy share + free labour — never clears debt, like Colebrooke’s description"
+      ],
+      "worked_example": {
+        "problem": "Permanent Settlement Company aur raiyats dono ke liye kaise problem bani? Do-do points.",
+        "steps": [
+          "Company early: revenue itna high ki zamindaris auction; later: cannot raise revenue when prices rose",
+          "Raiyats: excessive rent, insecure tenure, mahajan debt, eviction from ancestral land",
+          "Zamindars often preferred rent collection over investment; under-tenants crushed (Colebrooke)"
+        ],
+        "answer": "Company: (1) early defaults/auctions (2) later could not increase fixed revenue. Raiyats: (1) high insecure rent (2) debt and eviction; under-tenants oppressed under batai/begar."
+      },
+      "practice": {
+        "easy": ["Jo zamindar Company ko revenue nahi chuka pata tha, uski zamindari ka kya hota tha?"],
+        "medium": ["Unnisvin sadi ke shuru mein keematein badhne par Company ko kyun faayda nahi hua?"],
+        "hard": ["Colebrooke Bengal ke under-tenants/kashtkaron ki stithi kyun chintit hain? Permanent Settlement ke asaron se jodkar likho."]
+      },
+      "summary": "Permanent Settlement ne high revenue, auctions, zero improvement incentive, aur raiyats par daman/debt/eviction la diya; baad mein Company revenue bhi nahi badha saki.",
+      "revision_point": "High fixed demand → auctions; later price rise helps zamindars not Company; raiyats insecure + indebted.",
+      "exam_tip": "‘Problems of Permanent Settlement’ mein hamesha dono sides likho — zamindar/Company problems AND peasant oppression (Colebrooke source bonus marks).",
+      "source_text_hint": "जो ज़मींदार राजसव चुकाने में विफल हो जातता था उसकी ज़मींदारी छीन ली जातती थी"
+    },
+    {
+      "concept": "महालवारी बंदोबस्त",
+      "say": "Unnisvin sadi ki shuruaat mein Company officers ko yakeen ho chuka tha ki revenue bandobast mein badlav chahiye. Sawal simple tha: jab Company ko shasan aur trade ke kharche ke liye aur paise chahiye, toh sthayi roop se revenue fix karke kaam kaise chalega? Bengal Presidency ke north-western provinces ke liye — jiska zyadatar hissa aaj Uttar Pradesh mein hai — Holt Mackenzie naam ke Angrez ne ek nayi vyavastha taiyar ki, jo 1822 mein lagu hui. Mackenzie ko vishwas tha ki north Indian society mein gaon ek mahatvapurna samajik sanstha hai aur usko bachaye rakhna chahiye. Uske aadesh par collectors ne gaon-gaon ka daura kiya, zameen ki jaanch ki, kheton ko mapa, aur vibhinn groups ke riti-riwajon ko darj kiya. Gaon ke ek-ek khet ke estimated revenue ko jodkar har gaon ya gram-samuh — jise महाल kehte hain — se vasool hone wale revenue ka hisaab lagaya jata tha. Yeh revenue sthayi roop se tay nahi kiya gaya; usmein samay-samay par sanshodhanon ki gunjaish rakhi gayi. Revenue ikattha karke Company ko ada karne ka zimma zamindar ki bajay gaon ke mukhiya ko saunp diya gaya. Is vyavastha ko महालवारी बंदोबस्त naam diya gaya. Board tip: Mahal = British revenue documents mein ek revenue unit — ek gaon ya gaonon ka samuh. Contrast yaad rakho: Permanent = fixed forever with zamindar; Mahalwari = revisable, village/mahal based, headman responsible.",
+      "example": "Class groups banao — har group (mahal) ka total ‘contribution’ calculate karo field-by-field marks jodkar; amount har saal revise ho sakta hai; group leader maalik nahi, collect karke teacher ko deta hai — Mahalwari jaisa.",
+      "board_lines": [
+        "1822: Holt Mackenzie → Mahalwari in NW provinces (much of today’s UP)",
+        "Survey: measure fields, estimate revenue field-by-field → total for village/mahal",
+        "Revenue revisable (not permanent); village headman collects, not zamindar"
+      ],
+      "common_mistake": "Students Mahalwari ko Permanent Settlement ka hi doosra naam samajh lete hain — galat. Mahalwari mein amount revise ho sakta tha aur zimma gaon mukhiya ka tha, zamindar ka nahi.",
+      "memory_trick": "M-M-H-R: Mahalwari — Mackenzie 1822 — Headman collects — Revisable revenue.",
+      "gesture_action": "Students ko ‘fields’ measure karte hue walk karo (survey), phir group totals jodo (mahal), headman envelope Company ko de — ‘revise later’ board par tick",
+      "real_life_examples": [
+        "Village pradhan collecting house tax for block office — headman as collector",
+        "School house points revised each term — not fixed forever like Permanent Settlement"
+      ],
+      "worked_example": {
+        "problem": "Mahalwari aur Permanent Settlement mein do clear antar likho.",
+        "steps": [
+          "Who pays/collects: Permanent → zamindar; Mahalwari → village headman",
+          "Is revenue fixed?: Permanent → forever fixed; Mahalwari → periodic revision possible",
+          "Unit: Permanent → zamindari estates; Mahalwari → village or group of villages (mahal) after detailed survey"
+        ],
+        "answer": "(1) Zamindar vs village headman as revenue payer/collector. (2) Permanently fixed vs revisable revenue estimated from field surveys of the mahal."
+      },
+      "practice": {
+        "easy": ["Mahalwari bandobast kisne taiyar kiya aur kab lagu hua?"],
+        "medium": ["Mahal kya hota hai? Mahalwari mein revenue ka hisaab kaise lagaya jata tha?"],
+        "hard": ["Holt Mackenzie gaon ko ‘mahatvapurna samajik sanstha’ kyun bachana chahte the? Is idea ne Mahalwari design ko kaise shape diya?"]
+      },
+      "summary": "1822 ki Mahalwari vyavastha mein surveyed village/mahal ka revisable revenue gaon mukhiya ke through liya gaya — Permanent Settlement ka alternative.",
+      "revision_point": "Mahalwari 1822 (Mackenzie): survey → mahal revenue → revisable; headman, not zamindar.",
+      "exam_tip": "Comparison table banao: Permanent | Mahalwari | Ryotwari — year, region, who pays, fixed/revisable — 5-mark favourite.",
+      "source_text_hint": "इस वयवसथा को महालवाारी बंदोबस्त का नाम दिया गया"
+    },
+    {
+      "concept": "मुनरो व्यवस्था – रैयतवाड़ी",
+      "say": "British control wale south Indian ilakon mein bhi Permanent Settlement ki jagah nayi vyavastha aayi — रैयतवाड़ ya रैयतवारी. Captain Alexander Read ne Tipu Sultan ke saath chale yuddh ke baad Company ke kabze wale kuch ilakon mein isse aazma kar dekha tha. Thomas Munro ne is vyavastha ko vikasit kiya aur dheere-dheere poore southern India par yahi lagu kar di gayi. Picture 4 mein Madras ke Governor Thomas Munro (1819–1826) dikhte hain. Read aur Munro ko lagta tha ki south mein paramparagat zamindar nahi the. Isliye unka tark: seedhe farmers — raiyats — se hi bandobast karo jo peedhiyon se zameen par kheti karte aa rahe hain. Revenue assessment se pehle unke kheton ka savdhani se alag-alag survey hona chahiye. Munro ka manna tha ki Angrezon ko pita ki bhaanti farmers ki raksha karni chahiye — paternal approach. Lekin सब कुछ ठीक नहीं था. Nayi vyavasthaayein lagu hone ke kuch hi saal baad problems dikhne lagin. Zameen se aamdani badhane ke chakkar mein revenue officers ne bahut zyada revenue tay kar diya. Peasants chuka nahi pa rahe the. Raiyat gaonon se bhaag rahe the; bahut se kshetron mein gaon veeran ho gaye. Optimistic officers ummeed karte the ki nayi system peasants ko sampann udyamheel kisan bana degi — lekin aisa hua nahi. Yaad rakho chain: Read tried → Munro developed → direct settlement with raiyat → high demand → flight and deserted villages.",
+      "example": "Teacher seedhe har student se fees le (no monitor/zamindar), lekin fees itni high rakh de ki students school chhod dein — Ryotwari ka ‘direct but excessive demand’ problem.",
+      "board_lines": [
+        "Ryotwari (Munro system): South India; Read tried, Munro developed",
+        "Direct settlement with cultivating raiyats (no traditional zamindars assumed)",
+        "Problem soon: revenue set too high → peasants flee → villages deserted"
+      ],
+      "common_mistake": "Students sochte hain Ryotwari se farmers khush aur ameer ho gaye kyunki seedha bandobast tha — NCERT clearly kehta hai high revenue ne unhe bhaagne par majboor kiya; villages deserted.",
+      "memory_trick": "R-M-D-H: Ryotwari — Munro — Direct with raiyat — High demand Hurt them.",
+      "gesture_action": "Zamindar wali middle chair hata do; teacher seedhe students se ‘revenue’ maange — phir students class se bahar bhaagein (deserted village)",
+      "real_life_examples": [
+        "Direct beneficiary schemes vs middlemen — idea of cutting middle layer",
+        "Too-high school fees causing dropouts — like peasants fleeing villages"
+      ],
+      "worked_example": {
+        "problem": "Ryotwari system kahan lagu hui? Munro ka ‘pita ki bhaanti’ idea kya tha, aur asaliyat mein kya hua?",
+        "steps": [
+          "Region: southern India (after experiments by Read in areas taken after Tipu wars)",
+          "Ideal: English should protect peasants like a father; settle directly with cultivators after careful survey",
+          "Reality: officials fixed excessive revenue; peasants could not pay; fled; villages deserted"
+        ],
+        "answer": "South India. Munro wanted paternal protection of raiyats via direct settlement, but excessive revenue assessments caused flight and deserted villages."
+      },
+      "practice": {
+        "easy": ["रैयतवाड़ी व्यवस्था ko develop karne wale do Angrez adhikariyon ke naam likho."],
+        "medium": ["Read-Munro ne south mein seedhe raiyats se bandobast kyun zaroori samjha?"],
+        "hard": ["‘Nayi vyavasthaayein farmers ko enterprise wale prosperous peasants banati’ — yeh ummeed kyun fail hui? Mahalwari/Ryotwari dono ke liye common problem batao."]
+      },
+      "summary": "South India ki Ryotwari/Munro system mein seedhe raiyats se survey-based settlement hua, lekin excessive revenue ne peasants ko bhaga diya aur gaon veeran kar diye.",
+      "revision_point": "Ryotwari: Read → Munro; direct with raiyat in South; high demand → flight/desertion.",
+      "exam_tip": "Munro ke ‘fatherly protector’ quote/idea aur ‘villages became deserted’ outcome — dono contrast karke likhne se higher marks milte hain.",
+      "source_text_hint": "वहाँ जो नयी वयवसथा विकसितत हुई उसे रैयतवाार (या रैयततवारी) का नाम दिया गया"
+    },
+    {
+      "concept": "यूरोप के लिए फ़सलें और भारतीय नील की माँग",
+      "say": "Angrezon ne mahsoos kiya ki rural areas sirf revenue nahi dete — Europe ki zaroorat ki crops bhi yahan ugayi ja sakti hain. Atharahvin sadi ke akhir tak Company ne afim aur neel par zor lagaya. Phir lagbhag 150 saal tak farmers ko majboor kiya gaya: Bengal mein patsan, Assam mein chai, UP mein ganna, Punjab mein gehun, Maharashtra-Punjab mein kapas, Madras mein chawal. Ab sawaal: क्या रंग का भी कोई इतिहास है? Kalamkari aur William Morris ke cotton prints ka deep blue नील (indigo) plant se aata tha. Us time India duniya ka sabse bada indigo source tha. Indigo tropical areas mein ugta hai. Europe mein pehle thodi quantity, oonchi keemat thi, isliye producers वोड (woad) use karte the — temperate plant, feeka rang. Woad lobbies ne indigo import ban mangaya, lekin dyers chamakdar indigo hi chahte the. 17th century tak ban mein dheel; Caribbean, Brazil, America mein plantations bane. Britain ke industrialisation se cotton aur dyeing demand tezi se badhi, jabki West Indies-America supply toot gayi — 1783–1789 mein world indigo output aadha. Company India mein indigo badhane lagi. Bengal ne markets chha liye: Britain ke imports mein Indian indigo 1788 mein ~30%, 1810 mein ~95%. Officers-agents invest karne lage; kai ne naukri chhodi; Scotland-England se planters aaye; banks qarz dene ko taiyar.",
+      "example": "School painting competition mein sabko deep blue colour chahiye, local feeka colour koi nahi leta — bahar se mehnga bright blue mangwaya jata hai. Jab bahar supply toot jaye, sab ek hi village ke blue plant par toot padte hain — indigo demand jaisa.",
+      "board_lines": [
+        "Forced commercial crops ~150 years: jute, tea, sugarcane, wheat, cotton, rice (+ opium, indigo)",
+        "Indigo: brilliant blue dye from tropical plant; India became world’s largest source",
+        "1788 → ~30% of Britain’s indigo imports from India; 1810 → ~95%"
+      ],
+      "common_mistake": "Students indigo ko sirf ‘ek fasal’ samajhte hain — exam mein yeh dikhana hota hai ki yeh European textile industry, woad competition, Caribbean revolt/supply collapse, aur Company investment se juda global story hai.",
+      "memory_trick": "I-30-95: Indigo India — 30% in 1788, 95% in 1810 of Britain’s imports.",
+      "gesture_action": "Do cloth samples dikhao — ‘feeka woad’ vs ‘chamakdar indigo’; phir map par Bengal point karke 30%→95% fingers se count",
+      "real_life_examples": [
+        "Jeans/denim ka blue colour — dye history indigo se judi",
+        "Cash crop pressure on farmers today (cotton/sugarcane) — colonial commercial crop pattern ki echo"
+      ],
+      "worked_example": {
+        "problem": "Indian indigo ki European demand 18th century ke akhir mein kyun tezi se badhi? Teen reasons.",
+        "steps": [
+          "Britain mein industrialisation → cotton production↑ → dyeing demand↑",
+          "Indigo preferred over woad for brilliant blue colour",
+          "West Indies/America supply disrupted; world indigo output halved 1783–1789 → search for new source → India/Company push"
+        ],
+        "answer": "Industrial cotton boom in Britain; preference for indigo’s bright blue over woad; collapse/disruption of West Indies-American supply (production halved 1783–89) pushed demand toward Indian indigo."
+      },
+      "practice": {
+        "easy": ["नील ka rang kis plant se milta tha? Woad se iska mukhya farq kya tha?"],
+        "medium": ["1788 aur 1810 mein Britain ke indigo imports mein Indian hisse ki tulna karo. Iska matlab kya hai?"],
+        "hard": ["‘Kya rang ka bhi koi itihas hai?’ — indigo ke European story (woad, bans, plantations, supply crisis) ko 8–10 lines mein likho."]
+      },
+      "summary": "Company ne Europe ke liye commercial crops failayi; indigo ki brilliant dye demand aur Western supply collapse ne India — especially Bengal — ko world indigo hub bana diya (30%→95%).",
+      "revision_point": "Commercial crops for Europe; indigo beats woad; India 30% (1788) to 95% (1810) of Britain’s indigo imports.",
+      "exam_tip": "Indigo demand question mein hamesha woad contrast + 1788/1810 percentages + industrialisation mention karo — high-scoring factual trio.",
+      "source_text_hint": "1810 में ब्रिटटेन द्ारा आयातत किए गए नील में भारततीय नील का हिससा 95 प्रतिशतत हो चुका था"
+    },
+    {
+      "concept": "नील की खेती – निज और रैयती व्यवस्था",
+      "say": "Ab practical part — नील की खेती कैसे होती थी? Do mukhya tareeke: निज aur रैयती. Nij mein plantation owners khud zameen par indigo ugate the — kharid kar ya zamindar se bhaade par, mazdooron se kaam karwaate. Samasyaayein: indigo sirf upjau zameen par hota tha jahan aabadi pehle se zyada thi; bade bhoo-khand mushkil se milte. Factory ke ird-gird patte par zameen le kar farmers hataye jaate — tension. Mazdoor usi season chahiye jab peasants rice (dhan) kheti mein busy. Hal-bail: ek bigha ke liye do hal; 1000 bigha = 2000 hal — kharid-maintenance badi samasya. Bigha Bengal mein Angrezon ne lagbhag one-third acre tay kiya. Unnisvin sadi ke akhir tak Nij area 25% se kam raha; baaki Ryoti. Ryoti mein planters raiyats se anubandh (satta) karte; kai baar gaon mukhiyaon ko raiyats ki taraf se samjhota karne ke liye majboor kiya jata. Saint Domingue (Caribbean) mein French indigo-cheeni bagaanon par African slaves ne 1791 mein bagawat ki; 1792 mein France ne das pratha samaapt ki — wahan indigo thapp, jo India shift ki ek wajah bani. Yaad rakho: Nij = planter ki zameen + hired labour (expand hard); Ryoti = raiyat zameen par contract (majority). NCERT clearly kehta hai Nij failana nearly impossible tha.",
+      "example": "School garden: (Nij) teacher khud zameen le kar students se labour le — jagah kam, tools kam. (Ryoti) har student se likhit promise le ki woh apne ghar ki kyaari mein special flower ugayega — zyada area cover, lekin pressure/contract. Indigo ke do methods.",
+      "board_lines": [
+        "Nij: planter’s own/rented land + hired labour; hard to get fertile large blocks, labour & ploughs",
+        "Need: 2 ploughs per bigha → 1000 bigha needs 2000 ploughs; conflicts when peasants evicted near factories",
+        "By late 19th c.: <25% indigo area under Nij; rest under Ryoti (contracts with raiyats/headmen)"
+      ],
+      "common_mistake": "Students Nij aur Ryoti ko mix kar dete hain. Yaad rakho: Nij = planter ki zameen; Ryoti = raiyat ki zameen par contract/satta. Zyada hissa Ryoti mein tha, Nij mein 25% se kam.",
+      "memory_trick": "Nij = Nijī zameen (planter’s own); Ryoti = Raiyat’s land + satta. N-own, R-rent/contract.",
+      "gesture_action": "Class ke ek kone ko ‘Nij plantation’ banao (few students labour); baaki class ‘Ryoti contracts’ sign kare — dikhao ki majority Ryoti hai",
+      "real_life_examples": [
+        "Contract farming aaj: company seed/advance dekar farmer se fixed crop — Ryoti-style echo",
+        "Estate farming with hired labour on company land — Nij-style echo"
+      ],
+      "worked_example": {
+        "problem": "Nij cultivation expand kyun mushkil thi? Kam se kam teen reasons likho. Indigo area ka kitna hissa Nij ke under tha?",
+        "steps": [
+          "Fertile land already densely populated — only small plots available; large blocks needed",
+          "Labour scarce when needed — same season as rice cultivation; also ploughs/bullocks: 2 per bigha",
+          "Evicting peasants near factories caused conflict; hence by late 19th century less than 25% under Nij"
+        ],
+        "answer": "Shortage of large fertile lands, labour clash with rice season, huge plough requirement (2 per bigha), and eviction tensions. Less than 25% of indigo land was under Nij; rest Ryoti."
+      },
+      "practice": {
+        "easy": ["नील ki kheti ke do mukhya tareeke kaunse the?"],
+        "medium": ["Ek bigha neel ke liye kitne hal chahiye the? 500 bigha ke liye kitne?"],
+        "hard": ["Saint Domingue ki 1791 slave revolt ka indigo ke global supply aur India ki taraf Company ke shift se kya sambandh hai? Explain karo."]
+      },
+      "summary": "Indigo do systems se ugaya gaya — Nij (planter’s land, hard to expand, <25%) aur Ryoti (contracts on raiyat land, majority); labour, land aur ploughs Nij ki badi rukawatein thin.",
+      "revision_point": "Nij = own land + labour (expand hard, <25%); Ryoti = satta with raiyats; 2 ploughs/bigha.",
+      "exam_tip": "Nij vs Ryoti comparison table + ‘less than 25% under Nij’ figure + 2 ploughs per bigha — yeh teen factual anchors exam mein score dilwate hain.",
+      "source_text_hint": "नील की खेतती के दो मुखय ततरीके थे — निज और रैयती"
+    }
+  ]
+}
