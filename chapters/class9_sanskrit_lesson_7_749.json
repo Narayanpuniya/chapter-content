@@ -1,0 +1,341 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 749,
+    "chapter_name": "उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत्",
+    "chapter_number": 7,
+    "book_name": "Class 9 Sanskrit",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Sanskrit"
+  },
+  "concept_map": {
+    "chapter_overview": "यह सप्तमः पाठः (पाठ 7) पञ्चतन्त्र की प्रसिद्ध कथा पर आधारित है — धर्मबुद्धि और पापबुद्धि। शीर्षक कहता है: उपायं चिन्तयेत् प्राज्ञः तथा अपायं च चिन्तयेत् — wise person should plan the means AND also think of dangers/risks. Story सिखाती है कि धोखा, लोभ और झूठी गवाही अंत में स्वयं को नष्ट करते हैं, जबकि धर्म और सत्य की जीत होती है। कक्षा में हम अन्वय, शब्दार्थ, संवाद-शैली और नित्यबहुवचन जैसे व्याकरण बिंदु bilingual तरीके से समझेंगे।",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Sanskrit — शेमुषी, सप्तमः पाठः: उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत्. Ek maa apne bete ko sikhati hai ki dusre ka dhan तृणम् jaisa hai — grass jaisa worthless for us if it belongs to someone else. Phir aati hai Panchatantra ki mazedaar-par-gambhir story of धर्मबुद्धि and पापबुद्धि. Ready? Chalo, Sanskrit + life lesson dono saath padhte hain!",
+    "learning_outcomes": [
+      "पाठ के शीर्षक का अर्थ समझकर ‘उपाय’ और ‘अपाय’ का अंतर स्पष्ट करना",
+      "धर्मबुद्धि–पापबुद्धि कथा का क्रम, मुख्य संवाद और परिणाम अपने शब्दों में बताना",
+      "महत्वपूर्ण शब्दार्थ (अटव्याम्, निशीथे, वञ्चयित्वा आदि) और अन्वय से अर्थ निकालना",
+      "नित्यबहुवचनान्त शब्द और विशेषण–विशेष्य सम्बन्ध को उदाहरण सहित पहचानना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "पाठ परिचय और शीर्षक का अर्थ"
+      },
+      {
+        "number": 2,
+        "name": "प्रस्तावना — माता-पुत्र संवाद"
+      },
+      {
+        "number": 3,
+        "name": "धर्मबुद्धि-पापबुद्धि कथा — योजना और यात्रा"
+      },
+      {
+        "number": 4,
+        "name": "धन निक्षेप, चोरी और झूठा आरोप"
+      },
+      {
+        "number": 5,
+        "name": "वनदेवता प्रकरण और सत्य की विजय"
+      },
+      {
+        "number": 6,
+        "name": "शब्दार्थ और व्याकरण बिंदु"
+      },
+      {
+        "number": 7,
+        "name": "नैतिक संदेश और परीक्षा दृष्टि"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "पाठ परिचय और शीर्षक का अर्थ",
+      "say": "Bacchon, pehle clear karte hain — yeh NCERT Class 9 Sanskrit (शेमुषी) ka सप्तमः पाठः hai, yani Lesson 7. Path ka poora naam hai: उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत्. Isko dheere padho. उपायम् = plan / means / upay; चिन्तयेत् = should think; प्राज्ञः = wise person; तथा = and also; अपायम् = danger, risk, downside; च चिन्तयेत् = should also think. Anvaya roughly: प्राज्ञः उपायं चिन्तयेत् तथा अपायं च चिन्तयेत्. English mein: A wise person should think of the plan, and also think of the risks. Yeh sirf slogan nahi — poori kahani isi par ghumti hai. पापबुद्धि sirf ‘kaise paisa kamau aur chheen loon’ sochta hai (उपाय), lekin apne अपाय — pakde jaane, pitaji ki maut, dand — nahi sochta. धर्मबुद्धि trust karta hai, lekin ant mein buddhi se satya saabit karta hai. Classroom tip: exam mein title explain karte waqt hamesha उपाय + अपाय dono likho; sirf ‘soch-samajh kar kaam karo’ vague hai. Yeh path Panchatantra style dialogue-katha hai — characters bolte hain, stage directions brackets mein aate hain. Toh aaj hum story + grammar + moral teen layers padhenge. Smart Board par title bold likho aur circle: उपाय | अपाय.",
+      "example": "उपायं चिन्तयेत् प्राज्ञः तथा अपायं च चिन्तयेत् — बुद्धिमान व्यक्ति उपाय सोचें और संकट (अपाय) भी सोचें।",
+      "board_lines": [
+        "सप्तमः पाठः — उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत्",
+        "प्राज्ञः = wise | उपाय = plan/means | अपाय = danger/risk",
+        "Message: Plan the way — AND foresee the downside"
+      ],
+      "common_mistake": "Students ‘अपाय’ ko sirf ‘upay ka opposite word’ rattle karte hain bina meaning ke. अपाय = विघ्न/संकट/problem — danger that can spoil the plan.",
+      "memory_trick": "U-A-P: उपाय → अपाय → प्राज्ञ — Wise = U + A both (Upay AND Apay).",
+      "gesture_action": "Left hand forward ‘plan’ (उपाय), right hand ‘stop/caution’ (अपाय), phir dono haath dimaag par — ‘प्राज्ञ सोचता है’.",
+      "real_life_examples": [
+        "Exam mein cheat karne ka ‘upay’ sochna, lekin pakde jaane ka ‘apay’ nahi sochna — bilkul Papabuddhi style",
+        "Bike tez chalane ka plan, helmet/brake fail ka risk ignore — title isi cheez ko rokta hai"
+      ],
+      "worked_example": {
+        "problem": "शीर्षक ‘उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत्’ का अन्वयपूर्वक अर्थ लिखिए।",
+        "steps": [
+          "पदच्छेद: उपायम् चिन्तयेत् प्राज्ञः तथा अपायम् च चिन्तयेत्",
+          "अन्वय: प्राज्ञः उपायं चिन्तयेत् तथा अपायं च चिन्तयेत्",
+          "अर्थ: बुद्धिमान पुरुष उपाय सोचे और उसी प्रकार अपाय (संकट) भी सोचे"
+        ],
+        "answer": "अन्वय — प्राज्ञः उपायं चिन्तयेत् तथा अपायं च चिन्तयेत्। अर्थ — बुद्धिमान व्यक्ति किसी कार्य का उपाय सोचे और उसके संभावित संकट/जोखिम पर भी विचार करे।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का पूरा शीर्षक संस्कृत में लिखिए।"
+        ],
+        "medium": [
+          "‘उपाय’ और ‘अपाय’ में अंतर उदाहरण सहित स्पष्ट कीजिए।"
+        ],
+        "hard": [
+          "शीर्षक पाठ की किस घटना से पूर्णतः सिद्ध होता है? दो बिंदुओं में उत्तर दीजिए।"
+        ]
+      },
+      "summary": "पाठ 7 का शीर्षक सिखाता है कि बुद्धिमान उपाय के साथ अपाय भी सोचे — यही कथा का केंद्रीय सूत्र है।",
+      "revision_point": "प्राज्ञ = wise; चिन्तयेत् = should think; उपाय + अपाय = complete planning.",
+      "exam_tip": "शीर्षक-अर्थ में अन्वय लिखो; केवल Hindi paraphrase से आधा अंक कट सकता है।",
+      "source_text_hint": "उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत्"
+    },
+    {
+      "concept": "प्रस्तावना — माता-पुत्र संवाद",
+      "say": "Ab path ki opening frame story. Ek putra maa se bolta hai: मातः! पश्यतु, अद्य अहं मार्गे पतितं धनं प्राप्तवान् — Mother, look, today I found money fallen on the road; isse bahut खिलौने (क्रीडनकानि) kharidunga. Maa turant rok deti hai: न हि पुत्र! एतत् अन्यस्य श्रमार्जितं धनम् अस्ति — No son! Yeh kisi aur ki mehnat ka dhan hai; तस्मै एव प्रत्यर्पणीयम् — usi ko lautana chahiye. Key line: अन्यस्य धनं तृणम् इव गणनीयम् — dusre ka dhan तृण (ghass) ke samaan maanna chahiye, yani apne liye worthless/tempting nahi. Phir maa Panchatantra ki ek काञ्चन कथा (golden story) sunane ko kehti hai jisse beta apne प्रश्न का उत्तर पा सके. Beta: मातः! तर्हि कृपया सत्वरं श्रावयतु — please quickly narrate. Yeh frame bahut important hai: story sirf entertainment nahi, ethical teaching tool hai. English mein — found money is not free money; honesty returns it. Classroom mein discuss: agar tumhe purse mile, pehla step kya? Lost-and-found / police / owner — not shopping! Sanskrit tip: प्राप्तवान् = having obtained (past participle sense); क्रीणामि = I buy; प्रत्यर्पणीयम् = ought to be returned (potential/gerundive idea). Yeh dialogue soft tone mein hai — maa scolding nahi, guiding hai. Isliye path ‘मातः!’ se start hota hai — affection + value education.",
+      "example": "अन्यस्य धनं तृणम् इव गणनीयम् — दूसरे का धन घास के समान गिनना चाहिए (अपने लोभ का विषय नहीं)।",
+      "board_lines": [
+        "पुत्र: मार्गे पतितं धनं प्राप्तवान् → खिलौने खरीदने की इच्छा",
+        "माता: अन्यस्य श्रमार्जितं धनम् → तस्मै प्रत्यर्पणीयम्",
+        "सूत्र: अन्यस्य धनं तृणम् इव गणनीयम्"
+      ],
+      "common_mistake": "Students sochte hain ‘found money’ legal/own ho jaata hai. Path clearly kehta hai — श्रमार्जितं धनम् of another must be returned.",
+      "memory_trick": "T-R: तृणम् + Return — dusre ka dhan = तृण; action = Return (प्रत्यर्पण).",
+      "gesture_action": "Ek haath mein imaginary purse uthao, doosre haath se ‘return’ gesture — lautate hue bolo ‘प्रत्यर्पणीयम्’.",
+      "real_life_examples": [
+        "School bus mein mila phone — teacher/office ko dena, use karna nahi",
+        "Exam hall mein kisi ka answer-sheet dekhna bhi ‘anyasya shrama’ churaana jaisa galat hai"
+      ],
+      "worked_example": {
+        "problem": "माता ने पुत्र को मार्ग में पड़ा धन क्यों नहीं रखने दिया? संस्कृत पंक्ति के आधार पर उत्तर दीजिए।",
+        "steps": [
+          "पुत्र की इच्छा: धन से क्रीडनकानि खरीदना",
+          "माता का तर्क: यह अन्यस्य श्रमार्जितं धन है",
+          "निष्कर्ष: तस्मै एव प्रत्यर्पणीयम्; अन्यस्य धनं तृणम् इव"
+        ],
+        "answer": "माता ने कहा कि वह धन किसी अन्य की मेहनत से अर्जित है, अतः उसी को लौटाना चाहिए; दूसरे के धन को तृण के समान समझना चाहिए, अपने उपयोग के लिए नहीं रखना।"
+      },
+      "practice": {
+        "easy": [
+          "पुत्र ने मार्ग में क्या प्राप्त किया था?"
+        ],
+        "medium": [
+          "‘अन्यस्य धनं तृणम् इव गणनीयम्’ का भावार्थ लिखिए।"
+        ],
+        "hard": [
+          "माता पुत्र को पञ्चतन्त्र की कथा क्यों सुनाना चाहती है? प्रस्तावना से जोड़कर स्पष्ट कीजिए।"
+        ]
+      },
+      "summary": "प्रस्तावना में माता सिखाती है कि मिला हुआ धन भी दूसरों का हो सकता है — ईमानदारी में प्रत्यर्पण ही धर्म है।",
+      "revision_point": "Key line: अन्यस्य धनं तृणम् इव गणनीयम् + प्रत्यर्पणीयम्.",
+      "exam_tip": "प्रस्तावना के 2-mark प्रश्न में ‘श्रमार्जितम्’ और ‘तृणम् इव’ दोनों शब्द अवश्य लाओ।",
+      "source_text_hint": "अन्यस्य धनं तृणम् इव गणनीयम्"
+    },
+    {
+      "concept": "धर्मबुद्धि-पापबुद्धि कथा — योजना और यात्रा",
+      "say": "Ab asli Panchatantra story. Kasmimshcid dese — kisi desh mein — दो मित्र: धर्मबुद्धिः और पापबुद्धिः. Naam hi character batate hain: Dharmabuddhi = dharmic mind; Papabuddhi = sinful/scheming mind. Papabuddhi sochta hai — main murkh aur दरिद्रता से पीड़ित hoon; isliye Dharmabuddhi ko saath le kar अन्य देश जाऊँ, uske आश्रय से धन कमाऊँ, अनन्तरम् एनमपि वञ्चयित्वा — phir use bhi ठग कर — सुखी भवामि. Classic fraud plan! Woh Dharmabuddhi se milkar kehta hai: jab tum बूढ़े होगे, ‘बाल्ये यौवने वा मया एवं कृतम्’ — childhood/youth mein maine yeh kiya — aisa worthy कार्य क्या याद रहेगा? Agar anya desh na dekha, तो बच्चों को क्या कथा सुनाओगे? Shlok idea: जो धरती पर घूमकर देश-भाषा-वेश नहीं जानता, उसका जीवन-फल व्यर्थ. Aur: विद्या, वित्त, शिल्प properly tab milte hain jab मनुष्य हृष्ट होकर देशान्तर जाता है. Dharmabuddhi खुश होकर कहता है: अस्तु तावत् गुरुजनाज्ञया गच्छावः — chalo, elders ki अनुमति se. Dono शुभेऽहनि देशान्तरं प्रस्थितौ; Papabuddhi, Dharmabuddhi ke प्रभाव से प्रभूतं धनं कमाता है. Phir kehta hai: अब बहुत धन है, साल बीत गए, सब लेकर स्वग्रामं गच्छावः. English: travel/learning can bring wealth — but motive matters. Papabuddhi uses friendship as ladder. Grammar note: गच्छावः = let us two go (dual first person); वञ्चयित्वा = having deceived (क्त्वा). Yeh section exam mein sequence questions ke liye goldmine hai.",
+      "example": "एनमपि वञ्चयित्वा सुखी भवामि — इसे भी ठगकर मैं सुखी होऊँगा (पापबुद्धि की दुष्ट योजना)।",
+      "board_lines": [
+        "पात्र: धर्मबुद्धिः (साधुमति) ↔ पापबुद्धिः (दुष्टमति)",
+        "योजना: देशान्तर → धनार्जन → मित्र को वञ्चन",
+        "श्लोक-भाव: देश भ्रमण से विद्या-वित्त-अनुभव; पर हेतु शुद्ध हो"
+      ],
+      "common_mistake": "Students dono mitron ko equal ‘friends on trip’ samajh lete hain. Shuru se Papabuddhi ka intent fraud hai — friendship is a tool.",
+      "memory_trick": "D vs P: धर्म = Decent; पाप = Plot — Dharmabuddhi decent, Papabuddhi plots.",
+      "gesture_action": "Do students: ek smile+open hands (Dharma), doosra whisper+rub palms (Papa) — contrast dikhao.",
+      "real_life_examples": [
+        "Group project mein ek student dusre ki mehnat se marks le kar baad mein credit churaata hai — Papabuddhi pattern",
+        "‘Travel for learning’ good; ‘travel to exploit a friend’ unethical — motive check karo"
+      ],
+      "worked_example": {
+        "problem": "पापबुद्धिः देशान्तरं गन्तुं किं चिन्तयित्वा धर्मबुद्धिं प्रेरितवान्?",
+        "steps": [
+          "उसकी दरिद्रता और ईर्ष्या का उल्लेख",
+          "धर्मबुद्धि के आश्रय से धन कमाने की इच्छा",
+          "अनन्तर वञ्चयित्वा सुख की योजना"
+        ],
+        "answer": "पापबुद्धि ने सोचा कि वह दरिद्र है; अतः धर्मबुद्धि को साथ लेकर अन्य देश जाकर उसके आश्रय से धन कमाएगा और बाद में उसे भी ठगकर सुखी होगा — इसी विचार से उसने धर्मबुद्धि को देशान्तर के लिए प्रेरित किया।"
+      },
+      "practice": {
+        "easy": [
+          "दो मित्रों के नाम लिखिए।"
+        ],
+        "medium": [
+          "पापबुद्धि ने भ्रमण/देशान्तर का कौन-सा तर्क दिया?"
+        ],
+        "hard": [
+          "‘विद्यां वित्तं शिल्पं…’ वाले भाव को पाठ के अनुसार स्पष्ट करते हुए पापबुद्धि की असली मंशा अलग से लिखिए।"
+        ]
+      },
+      "summary": "पापबुद्धि मित्रता और देशान्तर का उपयोग धन कमाकर धर्मबुद्धि को ठगने की योजना बनाता है; धर्मबुद्धि गुरुजनों की आज्ञा से साथ जाता है।",
+      "revision_point": "Sequence: चिन्तन → प्रेरणा → गुरुजनाज्ञा → देशान्तर → धनसम्पादन.",
+      "exam_tip": "नामों के अर्थ (धर्म/पाप + बुद्धि) लिखने से चरित्र-प्रश्न में अतिरिक्त अंक मिलते हैं।",
+      "source_text_hint": "एनमपि वञ्चयित्वा सुखी भवामि"
+    },
+    {
+      "concept": "धन निक्षेप, चोरी और झूठा आरोप",
+      "say": "Ab climax build-up. Jab dono स्वनगर के पास आते हैं, Papabuddhi kehta hai: भद्र! यह सारा धन घर ले जाना उचित नहीं; गहन अरण्य में भूमि में निक्षिप्य — दफ़न करके — थोड़ा लेकर घर चलें. Dharmabuddhi विश्वास से मान जाता है: सत्यमेवाभिहितं भवता. Dono भूमि खोदकर धन रखकर घर जाते हैं. अन्यस्मिन् अहनि — दूसरे दिन — निशीथे (आधी रात) Papabuddhi अटव्याम् (जंगल में) जाकर सारा वित्त निकाल लेता है, गड्ढा भर देता है. कुछ दिनों बाद नाटक: सखे! मेरे कुटुम्ब में बहुत लोग हैं, धनाभाव से कष्ट है; चलो थोड़ा धन लाएँ. दोनों खोदते हैं — रिक्तं भाण्डम् — खाली घड़ा! Papabuddhi सिर पीटते हुए झूठा आरोप: भोः धर्मबुद्धे! त्वयैवापहृतम् एतद्धनम् — तूने ही चुराया; आधा दे, नहीं तो राजकुल में निवेदन करूँगा. Dharmabuddhi: भोः दुरात्मन्! मा मैवं वद — मैं धर्मबुद्धि हूँ, चोरी नहीं करता. Shlok: मातृवत्परदारेषु परद्रव्येषु लोष्ठवत्। आत्मवत्सर्वभूतेषु वीक्षन्ते धर्मबुद्धयः॥ — धर्मबुद्धि लोग परस्त्री को माता के समान, परधन को मिट्टी/पत्थर के टुकड़े के समान, और सब प्राणियों को अपने समान देखते हैं. English: he denies theft with a moral creed. Dono धर्माधिकारी के पास जाते हैं. Yeh hissa ‘false accusation’ aur ‘trust vs betrayal’ sikhata hai. Words: निक्षिप्य (having deposited), निशीथे, अटव्याम्, भाण्डम्, अपहृतम्.",
+      "example": "मातृवत्परदारेषु परद्रव्येषु लोष्ठवत् — परधन को लोष्ठ (पत्थर/मिट्टी के ढेले) के समान देखना।",
+      "board_lines": [
+        "निक्षेप: अरण्ये भूमौ धनं निक्षिप्य गृहं गतौ",
+        "चोरी: निशीथे अटव्यां गत्वा सर्व वित्तं समादाय",
+        "आरोप: त्वयैवापहृतम् — झूठा आरोप + लोष्ठवत् श्लोक"
+      ],
+      "common_mistake": "Students confuse — कौन चुराता है? याद रखो: चोरी पापबुद्धि करता है; आरोप धर्मबुद्धि पर लगाता है।",
+      "memory_trick": "N-N-A: निशीथे → निक्षेप-स्थल → आरोप — Midnight theft, then Accusation.",
+      "gesture_action": "Dig motion (खनन), pocket-fill (चोरी), finger-point at friend (झूठा आरोप) — sequence act out.",
+      "real_life_examples": [
+        "Shared savings box se ek friend paise nikaal kar doosre par blame — same pattern",
+        "Group WhatsApp admin galat member ko ‘leak’ ka ilzaam — bina proof ke accusation"
+      ],
+      "worked_example": {
+        "problem": "पापबुद्धिः धनं कदा कुत्र च अपहृतवान्? धर्मबुद्धिः आत्मरक्षार्थं किं श्लोकं जगाद?",
+        "steps": [
+          "समय: निशीथे (अर्धरात्रि)",
+          "स्थान: अटव्याम् / गहनारण्ये निक्षेप-स्थान",
+          "श्लोक: मातृवत्परदारेषु… धर्मबुद्धयः"
+        ],
+        "answer": "पापबुद्धि ने आधी रात को जंगल में दफ़न धन निकालकर चुरा लिया। धर्मबुद्धि ने कहा कि धर्मबुद्धि लोग परद्रव्य को लोष्ठवत् देखते हैं — अर्थात् वह चोरी नहीं कर सकता।"
+      },
+      "practice": {
+        "easy": [
+          "धन भूमि में किसने रखने का प्रस्ताव किया?"
+        ],
+        "medium": [
+          "‘रिक्तं भाण्डम्’ देखने पर पापबुद्धि ने क्या कहा?"
+        ],
+        "hard": [
+          "‘परद्रव्येषु लोष्ठवत्’ का अन्वय-आशय लिखकर बताइए कि यह श्लोक आरोप का कैसे खंडन करता है।"
+        ]
+      },
+      "summary": "पापबुद्धि धन गाड़ने का बहाना बनाकर रात में चोरी करता है और खाली घड़ा देखकर धर्मबुद्धि पर झूठा आरोप लगाता है।",
+      "revision_point": "निशीथे अटव्याम् चोरी → रिक्तं भाण्डम् → त्वयैवापहृतम् (false charge).",
+      "exam_tip": "घटना-क्रम लिखते समय तीन शब्द जरूरी: निक्षिप्य, निशीथे, भाण्डम्।",
+      "source_text_hint": "निशीथे अटव्यां गत्वा तत्सर्वं वित्तं"
+    },
+    {
+      "concept": "वनदेवता प्रकरण और सत्य की विजय",
+      "say": "धर्माधिकारी कहता है: न कोऽपि साक्षी — कोई गवाह नहीं; जहाँ मानुषप्रमाण नहीं, वहाँ वनदेवता न्याय करेगी; प्रातः वन में चलो. Papabuddhi घर जाकर पिता को फुसलाता है: तात! मैंने धर्मबुद्धि का धन चुराया है; अगर आप मेरे कहे अनुसार बोलेंगे तो धन मेरे पास टिका रहेगा, नहीं तो प्राणों के साथ चला जाएगा. Plan: महाशमी वृक्ष के कोटर में पिता छिपे; सुबह ‘धर्मबुद्धिः चौरः’ बोलें. प्रातः स्नान करके तीनों — Papabuddhi, Dharmabuddhi, अधिकारी — वनदेवता के पास आते हैं; समाज भी जुटता है. Papabuddhi श्लोक पढ़ता है: आदित्यचन्द्रावनिलोऽनलश्च… धर्मो हि जानाति नरस्य वृत्तम् — सूर्य, चन्द्र, वायु, अग्नि, आकाश, भूमि, जल, हृदय, यम, दिन-रात, दोनों सन्ध्याएँ — धर्म मनुष्य का आचरण जानता है. फिर पूछता है: भगवति वनदेवते! चोर कौन? कोटर से पिता की आवाज़: धर्मबुद्धिना हृतम् एतद्धनम्! लोग विस्मय से उत्फुल्ललोचनाः — आँखें फटी रह जाती हैं — और धर्मबुद्धि को दण्ड देने को कहते हैं. Dharmabuddhi शांत बुद्धि से: यह मिथ्या है; मैं शमीकोटर को वह्निभोज्य द्रव्य से घेरकर अग्नि से जलाता हूँ. आग लगते ही अर्धदग्ध शरीर, स्फुटितेक्षणः पिता करुण विलाप करता बाहर आता है और स्वीकार करता है — एतत् सर्वमपि पापबुद्धेः चेष्टितम् — फिर मर जाता है. अधिकारी: एष पापबुद्धिः दण्डनीयः. राजपुरुष दण्ड देते हैं, धर्मबुद्धि की प्रशंसा होती है. लोग कहते हैं — साधूक्तम्: उपायं चिन्तयेत्… Papabuddhi ने उपाय सोचा, अपाय नहीं — पिता की मृत्यु और दण्ड ही अपाय फल है.",
+      "example": "धर्मो हि जानाति नरस्य वृत्तम् — धर्म मनुष्य के आचरण को जानता ही है।",
+      "board_lines": [
+        "झूठी साक्षी: शमीकोटरस्थः पिता → ‘धर्मबुद्धिना हृतम्’",
+        "धर्मबुद्धि की युक्ति: कोटर को वह्निना प्रज्वालयानि",
+        "फल: पिता मृत्यु; पापबुद्धि दण्डित; धर्मबुद्धि प्रशंसित"
+      ],
+      "common_mistake": "Students सोचते हैं वनदेवता सच में बोली. नहीं — यह पापबुद्धि का पिता कोटर में छिपा नाटक था; सत्य अग्नि-परीक्षा जैसी युक्ति से निकला।",
+      "memory_trick": "S-F-T: शमी → Fire → Truth — Shami hollow, Fire exposes, Truth wins.",
+      "gesture_action": "Tree-hollow hide (हाथ से कोटर), ear cup (आवाज़), flame gesture (अग्नि), victory hands for धर्मबुद्धि.",
+      "real_life_examples": [
+        "Fake ‘anonymous tip’ se kisi को फँसाना — जब जाँच होती है तो चाल खुल जाती है",
+        "CCTV/proof se jhoot pakda jaana — modern ‘vanadevata’ nahi, evidence hai; path evidence-seeking sikhata hai"
+      ],
+      "worked_example": {
+        "problem": "धर्मबुद्धिः शमीकोटरं किमर्थं प्रज्वालितवान्? परिणामं लिखत।",
+        "steps": [
+          "झूठी आवाज़ को असत्य सिद्ध करने की आवश्यकता",
+          "कोटर में छिपे व्यक्ति को प्रकट करने की युक्ति — अग्नि",
+          "परिणाम: पापबुद्धि-पिता प्रकट/मृत; पापबुद्धि दण्डित"
+        ],
+        "answer": "धर्मबुद्धि ने कोटर से आई झूठी गवाही को मिथ्या जानकर शमीकोटर में आग लगाई ताकि छिपा हुआ व्यक्ति बाहर आए। फलस्वरूप पापबुद्धि का पिता प्रकट होकर सत्य कहता है और मर जाता है; पापबुद्धि दण्डित होता है तथा धर्मबुद्धि प्रशंसित होता है।"
+      },
+      "practice": {
+        "easy": [
+          "वनदेवता के नाम पर कोटर में कौन छिपा था?"
+        ],
+        "medium": [
+          "‘आदित्यचन्द्राव्…’ श्लोक का भाव एक वाक्य में लिखिए।"
+        ],
+        "hard": [
+          "धर्मबुद्धि की अग्नि-युक्ति को ‘उपाय + अपाय चिन्तन’ से जोड़कर मूल्यांकन कीजिए।"
+        ]
+      },
+      "summary": "झूठी वनदेवता-साक्षी टूटती है जब धर्मबुद्धि कोटर जलाता है — सत्य प्रकट होता है, पाप दण्डित होता है।",
+      "revision_point": "शमीकोटर + मिथ्यासाक्षी → अग्नि → सत्योद्घाटन → दण्ड/प्रशंसा.",
+      "exam_tip": "‘उत्फुल्ललोचनाः’ और ‘स्फुटितेक्षणः’ जैसे विशेषणों को अर्थ सहित याद रखो — शब्दार्थ में आते हैं।",
+      "source_text_hint": "धर्मबुद्धिना हृतम् एतद्धनम्"
+    },
+    {
+      "concept": "शब्दार्थ और व्याकरण बिंदु",
+      "say": "Ab vocabulary + grammar — exam scoring zone. Important words from path: अटव्याम् = वने / जंगल में (स्त्री., सप्तमी एकवचन); अपायम् = विघ्नम् / समस्या-संकट; अहनि = दिवसे / दिन में; निशीथे = अर्धरात्रे / आधी रात; निक्षिप्य = स्थापयित्वा / रखकर (ल्यप्); वञ्चयित्वा = ठग कर (क्त्वा); खनित्वा = खोद कर; परिवेष्ट्य = घेरकर; प्रहृष्टमनाः = प्रसन्न मन वाला (बहुव्रीहि); उत्फुल्ललोचनाः = आश्चर्य से फटी आँखों वाले; स्फुटितेक्षणः = नष्ट/फूटी आँखों वाला; भाण्डम् = पात्र/घड़ा; लोष्ठवत् = पत्थर के टुकड़े के समान; धरणीपीठे = धरती पर; द्यौः = आकाश. Grammar highlight 1 — नित्यबहुवचनान्त शब्दाः: कुछ शब्द हमेशा बहुवचन में चलते हैं — आपः (जल), दाराः, प्राणाः, वर्षाः, सिकताः, अक्षतानि आदि. Isliye श्लोक में अनिलः, अनलः, द्यौः, भूमिः एकवचन, पर आपः बहुवचन. Grammar highlight 2 — विशेषण-विशेष्य: लिङ्ग-विभक्ति-वचन match. Example: प्रहृष्टमनाः पापबुद्धिः — विशेषण प्रहृष्टमनाः, विशेष्य पापबुद्धिः. सर्वनाम भी विशेषण जैसे: एतेन धनेन, एनं धर्मबुद्धिम्, यः चौरः, तस्मिन् वृक्षे. English: adjectives/pronouns agree with the noun. Classroom drill: नूतनं भवनम् / नूतनः विद्यालयः — gender agreement. यह tip परीक्षा के ‘स्थूलपदैः प्रश्ननिर्माण’ और शब्दार्थ दोनों में काम आता है.",
+      "example": "आपः नित्यं बहुवचने — जल के लिए ‘आपः’ सदैव बहुवचन; श्लोक में आपः इसी नियम से आता है।",
+      "board_lines": [
+        "क्त्वा/ल्यप्: वञ्चयित्वा, खनित्वा, निक्षिप्य, परिवेष्ट्य",
+        "नित्यबहुवचन: आपः, प्राणाः, वर्षाः, दाराः…",
+        "विशेषण=विशेष्य: लिङ्ग + विभक्ति + वचन समान"
+      ],
+      "common_mistake": "आपः को एकवचन ‘आपः/आपम्’ गलती से चला देना; तथा विशेषण का वचन विशेष्य से अलग रख देना।",
+      "memory_trick": "A-P-V: आपः Plural Always; Agreement for विशेषण; Verb forms क्त्वा/ल्यप् = having done.",
+      "gesture_action": "Fingers show ‘many’ for नित्यबहुवचन; then point-to-noun + matching adjective clap — agreement.",
+      "real_life_examples": [
+        "Hindi में भी ‘प्राण’ अक्सर बहुवचन भाव से — ‘प्राण निकल गए’; संस्कृत में प्राणाः नियमबद्ध बहुवचन",
+        "‘यह नया विद्यालय / यह नया भवन’ — gender match, exactly विशेषण-विशेष्य logic"
+      ],
+      "worked_example": {
+        "problem": "‘प्रहृष्टमनाः पापबुद्धिः’ में विशेषण-विशेष्य पहचानकर सम्बन्ध समझाइए। साथ ही ‘आपः’ नित्यबहुवचन क्यों है?",
+        "steps": [
+          "विशेष्य: पापबुद्धिः; विशेषण: प्रहृष्टमनाः — दोनों पुंलिङ्ग प्रथमा बहु/समान वचन-विभक्ति ढाँचे में",
+          "बहुव्रीहि समझ: प्रहृष्टं मनः यस्य सः",
+          "आपः जलवाचक नित्यबहुवचनान्त शब्द है — पाठगत श्लोक में एकवचन साथियों के बीच बहुवचन"
+        ],
+        "answer": "प्रहृष्टमनाः विशेषण है, पापबुद्धिः विशेष्य; दोनों में लिङ्ग-विभक्ति-वचन का सामञ्जस्य है। आपः जल अर्थ में नित्य बहुवचनान्त है, अतः श्लोक में आपः बहुवचन में प्रयुक्त है।"
+      },
+      "practice": {
+        "easy": [
+          "‘निशीथे’ और ‘अटव्याम्’ के अर्थ लिखिए।"
+        ],
+        "medium": [
+          "दो नित्यबहुवचनान्त शब्द उदाहरण सहित लिखिए।"
+        ],
+        "hard": [
+          "पाठ से दो सर्वनाम चुनकर दिखाइए कि वे विशेष्य के साथ लिङ्ग-विभक्ति-वचन में कैसे जुड़ते हैं।"
+        ]
+      },
+      "summary": "पाठ की शब्दावली क्त्वा/ल्यप् रूपों से भरी है; व्याकरण में नित्यबहुवचन और विशेषण-विशेष्य समझौता मुख्य बिंदु हैं।",
+      "revision_point": "आपः = नित्य बहुवचन; विशेषण ↔ विशेष्य agreement; निशीथे/अटव्याम्/निक्षिप्य याद रखो।",
+      "exam_tip": "शब्दार्थ तालिका से 5 शब्द रोज़ दोहराओ — अटव्याम्, अपायम्, भाण्डम्, वञ्चयित्वा, उत्फुल्ललोचनाः।",
+      "source_text_hint": "नित्यबहुवचनान्तशब्दाः"
+    },
+    {
+      "concept": "नैतिक संदेश और परीक्षा दृष्टि",
+      "say": "Last concept — moral + how to write answers. Message clear hai: (1) Dusre ka dhan तृणम् — lobh mat karo; (2) Friendship mein trust तो चाहिए, पर अंधविश्वास नहीं — Dharmabuddhi initially too trusting; (3) पाप की योजना में अपाय न सोचना विनाश लाता है — पिता की मृत्यु, स्वयं दण्ड; (4) सत्य और धर्म अंत में जीतते हैं, भले झूठी साक्षी थोड़ी देर चमके; (5) प्राज्ञ = उपाय + अपाय दोनों का चिन्तन. English takeaway: Crime may look clever (व्यर्थपाण्डित्य), but it is self-destructive. Exam pattern from path: पूर्णवाक्येन उत्तराणि — e.g. नरस्य वृत्तं के जानन्ति? → आदित्यचन्द्रादयः / धर्मः जानाति. धर्मबुद्धयः किं वीक्षन्ते? → मातृवत् परदारान्, लोष्ठवत् परद्रव्यम्, आत्मवत् सर्वभूतानि. प्राज्ञः किं-किं चिन्तयेत्? → उपायं तथा अपायं च. स्थूलाक्षरैः प्रश्ननिर्माण — एनम् अपि वञ्चयित्वा… → कम् अपि वञ्चयित्वा? निशीथे अटव्यां गत्वा… → कदा/कुत्र गत्वा? Classroom strategy: answers पूर्ण वाक्य, Sanskrit if asked, else clear Hindi with key Sanskrit terms. Never retell entire story for 2 marks — point + one line evidence. For 5 marks: intro title, 3-4 events in order, moral linked to title. Ab revision chant: उपाय सोचना आसान है, अपाय सोचना बुद्धिमत्ता है. Yeh hi Smart Board lesson ka closing bell hai — be clever, but be wise.",
+      "example": "साधूक्तम् — उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत् — पापबुद्धि की व्यर्थ चतुराई का खंडन।",
+      "board_lines": [
+        "नीति: परधन = तृणम् | सत्य की विजय | व्यर्थपाण्डित्य ≠ बुद्धि",
+        "Exam: पूर्णवाक्य उत्तर + स्थूलपद प्रश्ननिर्माण",
+        "5-mark frame: शीर्षक → घटनाक्रम → उपाय/अपाय निष्कर्ष"
+      ],
+      "common_mistake": "Moral सिर्फ ‘चोरी नहीं करनी चाहिए’ लिख देना। बेहतर: उपाय के साथ अपाय चिन्तन + झूठी साक्षी का फल + परधन तृणवत्।",
+      "memory_trick": "3T: तृणम् (par-dhan) — Truth wins — Think apay. Teen T se moral revise.",
+      "gesture_action": "Thumbs up for धर्मबुद्धि, thumbs down for पापबुद्धि, then temple-tap ‘think apay’.",
+      "real_life_examples": [
+        "Social media par fake screenshot se kisi को बदनाम करना — थोड़ी देर viral, फिर fact-check से दण्ड/शर्म",
+        "Shortcut se syllabus cover, पर concept न आना — ‘उपाय’ बिना ‘अपाय’ के fail risk"
+      ],
+      "worked_example": {
+        "problem": "(ङ) प्राज्ञः किं-किं चिन्तयेत्? पूर्णवाक्येन उत्तरं लिखत।",
+        "steps": [
+          "प्रश्न पहचान: प्राज्ञ का कर्तव्य",
+          "पाठ-पंक्ति स्मरण: उपायं… अपायं च",
+          "पूर्ण वाक्य बनाएँ"
+        ],
+        "answer": "प्राज्ञः उपायं चिन्तयेत् तथा अपायं च चिन्तयेत्।"
+      },
+      "practice": {
+        "easy": [
+          "पाठ का नीति-संदेश एक वाक्य में लिखिए।"
+        ],
+        "medium": [
+          "‘स्थूलाक्षरपदम् आश्रित्य’ — ‘निशीथे अटव्यां गत्वा तत् सर्वं वित्तम् आनीतवान्’ से प्रश्न बनाइए।"
+        ],
+        "hard": [
+          "पाठ के आधार पर सिद्ध कीजिए कि पापबुद्धि का पाण्डित्य व्यर्थ था — शीर्षक से सम्बन्ध जोड़कर।"
+        ]
+      },
+      "summary": "पाठ सिखाता है कि सच्ची बुद्धि उपाय के साथ अपाय भी देखती है; धोखा और झूठ अंत में स्वयं को दण्ड दिलाते हैं।",
+      "revision_point": "Moral = परधन तृणवत् + सत्यजय + उपाय एवं अपाय चिन्तन; practice पूर्णवाक्य उत्तर।",
+      "exam_tip": "अभ्यास के प्रश्नों (क)–(छ) को रोज़ मौखिक दोहराओ — ये सीधे परीक्षा-शैली में हैं।",
+      "source_text_hint": "उपायं चिन्तयेत् प्राज्ञस्तथापायं च चिन्तयेत्"
+    }
+  ]
+}
