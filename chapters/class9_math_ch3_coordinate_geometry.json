@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 687,
+    "chapter_name": "निर्देशांक ज्यामिति",
+    "chapter_number": 3,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 3 — निर्देशांक ज्यामिति (Coordinate Geometry) — padhenge. Pehle yeh samjhenge ki kisi plane mein ek point ko locate karne ke liye do independent informations zaroori hain — jaise sarak number aur makan number, ya column aur row. Phir René Descartes ki Cartesian system seekhenge: x-अक्ष, y-अक्ष, मूलबिन्दु, चार चतुर्थांश, aur kisi point ke निर्देशांक (भुज, कोटि) kaise likhte hain.",
+    "welcome": "Good morning, class! Smart Board par aaj ek bahut interesting chapter shuru karte hain — निर्देशांक ज्यामिति. Socho: agar tumhari saheli Road 2 par rehti hai, kya sirf itni baat se uska ghar mil jayega? Nahi na! Humein makan number bhi chahiye. Bilkul isi tarah plane mein point find karne ke liye do pieces of information chahiye. Aaj hum Cartesian plane, axes, quadrants aur coordinates seekhenge — ready ho? Chalo board ki taraf!",
+    "learning_outcomes": [
+      "Samajhna ki plane mein kisi बिन्दु की स्थिति बताने के लिए दो स्वतंत्र सूचनाएँ आवश्यक होती हैं",
+      "कार्तीय पद्धति में x-अक्ष, y-अक्ष, मूलबिन्दु और चार चतुर्थांशों को पहचानना",
+      "किसी बिन्दु के भुज (x-निर्देशांक) और कोटि (y-निर्देशांक) ज्ञात कर निर्देशांक (x, y) लिखना",
+      "यह याद रखना कि (x, y) और (y, x) समान नहीं होते — निर्देशांक अद्वितीय होते हैं"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "भूमिका – एक बिन्दु की स्थिति के लिए दो सूचनाएँ"
+      },
+      {
+        "number": 2,
+        "name": "सड़क-मकान और कागज पर बिन्दु के उदाहरण"
+      },
+      {
+        "number": 3,
+        "name": "क्रियाकलाप – बैठने की योजना"
+      },
+      {
+        "number": 4,
+        "name": "रेने दकार्ते और निर्देशांक ज्यामिति"
+      },
+      {
+        "number": 5,
+        "name": "कार्तीय पद्धति – अक्ष और मूलबिन्दु"
+      },
+      {
+        "number": 6,
+        "name": "चतुर्थांश – तल के चार भाग"
+      },
+      {
+        "number": 7,
+        "name": "भुज और कोटि – निर्देशांक लिखना"
+      },
+      {
+        "number": 8,
+        "name": "उदाहरण – चारों चतुर्थांशों में बिन्दुओं के निर्देशांक"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भूमिका – एक बिन्दु की स्थिति के लिए दो सूचनाएँ",
+      "say": "Bacchon, pehle thodi si pehchaan — tum number line padh chuke ho. Number line par ek point ki position batane ke liye sirf ek reference chahiye — original point se kitni door, left ya right. Lekin aaj ka sawal alag hai. NCERT shuru karti hai ek sundar idea se: जब एक बिन्दु की स्थिति एक तल पर बतानी हो, तो क्या एक ही रेखा काफी है? Answer hai — नहीं! Bahut si aisi situations hain jahan humein एक से अधिक रेखाओं के संदर्भ में point locate karna padta hai. Simple socho — classroom mein tumhara desk kahan hai? Sirf ‘third row’ bolne se pata nahi chalega, column bhi chahiye. Ya map par koi city — sirf latitude se nahi, longitude bhi chahiye. Yeh simple idea bahut powerful hai. Is chapter ka naam है निर्देशांक ज्यामिति — Coordinate Geometry. Hum seekhenge ki plane mein point ko दो संख्याओं के ordered pair se kaise denote karte hain. Lewis Carroll ke Through the Looking-Glass se NCERT ne ek quote diya hai — Mercator ke North Poles aur Equators ke baare mein — ‘yeh sirf conventional signs hain’. Matlab maps aur coordinates conventions hain, lekin bahut useful conventions! Aaj se tum Cartesian plane ke citizens banoge. Yaad rakho golden rule: एक तल पर बिन्दु की ठीक-ठीक स्थिति के लिए दो स्वतंत्र सूचनाएँ आवश्यक होती हैं। Agle concept mein concrete examples se yeh clear karenge.",
+      "example": "Number line par 5 ka matlab clear hai, lekin blank paper par ek dot ki exact position sirf ‘upper half’ bolne se nahi milti — do distances chahiye.",
+      "board_lines": [
+        "Number line → 1 reference → 1 number",
+        "Plane (तल) → 2 independent infos → 2 numbers",
+        "Chapter goal: निर्देशांक ज्यामिति की आधारभूत संकल्पनाएँ"
+      ],
+      "common_mistake": "Students sochte hain ki ‘kaafi paas left corner’ jaisi vague baat se point fix ho jata hai — actually exact location ke liye measured distances from two fixed lines chahiye.",
+      "memory_trick": "ONE LINE = ONE NUMBER; PLANE = PAIR. तल में पॉइंट → दो सूचनाएँ!",
+      "gesture_action": "Ek ungli se number line dikhao (एक सूचना), phir do haathon se horizontal aur vertical lines cross karke ‘दो सूचनाएँ’ act out karo.",
+      "real_life_examples": [
+        "Google Maps: latitude + longitude — do values se location",
+        "Cinema hall seat: Row F + Seat 12 — dono chahiye"
+      ],
+      "worked_example": {
+        "problem": "एक कागज पर लगे बिन्दु के लिए केवल यह कहा गया: ‘यह बिन्दु कागज के आधे के ऊपरी भाग में है।’ क्या इससे बिन्दु की ठीक-ठीक स्थिति मिलती है? क्यों?",
+        "steps": [
+          "कथन केवल rough region बताता है — upper half में अनगिनत बिंदु हो सकते हैं",
+          "ठीक स्थिति के लिए दो नियत रेखाओं से दूरियाँ चाहिए (जैसे बाईं कोर और नीचे वाली रेखा)",
+          "अतः एक सूचना पर्याप्त नहीं — दो स्वतंत्र सूचनाएँ आवश्यक"
+        ],
+        "answer": "नहीं; केवल एक अस्पष्ट कथन से बिंदु अद्वितीय रूप से निर्धारित नहीं होता — दो स्वतंत्र दूरियाँ चाहिए।"
+      },
+      "practice": {
+        "easy": [
+          "संख्या रेखा पर बिंदु की स्थिति बताने के लिए कितनी सूचनाएँ चाहिए?"
+        ],
+        "medium": [
+          "तल पर बिंदु की ठीक-ठीक स्थिति के लिए दो स्वतंत्र सूचनाएँ क्यों आवश्यक हैं? एक वाक्य में लिखिए।"
+        ],
+        "hard": [
+          "‘बिंदु बाईं कोर के निकट है’ और ‘बाईं कोर से 5 सेमी तथा नीचे से 9 सेमी’ — इनमें कौन-सा कथन बिंदु को uniquely locate करता है? कारण दीजिए।"
+        ]
+      },
+      "summary": "तल पर किसी बिन्दु की ठीक-ठीक स्थिति बताने के लिए एक सूचना काफी नहीं — दो स्वतंत्र सूचनाएँ आवश्यक होती हैं; यही निर्देशांक ज्यामिति की शुरुआत है।",
+      "revision_point": "Plane point location → needs two independent pieces of information.",
+      "exam_tip": "भूमिका वाले short answers में ‘दो स्वतंत्र सूचनाएँ’ / ‘two independent informations’ शब्द जरूर लिखो — NCERT language marks dilati है।",
+      "source_text_hint": "एक बिन्दु का स्थान निर्धारण किस प्रकार किया जाता है"
+    },
+    {
+      "concept": "सड़क-मकान और कागज पर बिन्दु के उदाहरण",
+      "say": "Ab NCERT ke do classic examples — bilkul yaad rakhne layak! Pehla: आकृति 3.1 — ek मुख्य मार्ग पूर्व से पश्चिम जाता है, us par सड़कें बनी हैं, numbers पश्चिम से पूर्व. Har road par घरों की संख्याएँ अंकित हैं. Tumhari saheli ka ghar dhundhna hai. Agar sirf pata ho ‘वह सड़क 2 पर रहती है’ — kya ghar mil jayega? Uttne asani se nahi! Kyunki Road 2 par kai makaan ho sakte hain. Jab do jaankariyan milen — सड़क संख्या 2 और मकान संख्या 5 — tab point P clearly fix ho jata hai. Similarly Q, Road 7 par makan 4. Doosra example: आकृति 3.2 — blank paper par ek dot. Agar bolo ‘ऊपरी भाग में’ ya ‘बायीं कोर के निकट’ — exact nahi. Agar bolo ‘बायीं कोर से लगभग 5 cm’ — abhas to milta hai, phir bhi exact nahi. Jab doosri baat add karo — ‘सबसे नीचे वाली रेखा से 9 cm’ — ab position ठीक-ठाक! Matlab hum दो नियत रेखाओं se distances lete hain: left edge aur bottom edge. NCERT clearly kehti hai: बिन्दु की स्थिति ज्ञात करने के लिए दो स्वतंत्र सूचनाओं का होना आवश्यक होता है। Yeh street-house aur paper-dot examples exam mein ‘why two coordinates’ explain karne ke best examples hain. Yaad rakhna: ek number = incomplete address; do numbers = complete address on the plane!",
+      "example": "मकान P: सड़क 2, मकान संख्या 5 → जैसे निर्देशांक (2, 5); Q: सड़क 7, मकान 4 → (7, 4)।",
+      "board_lines": [
+        "Road 2 alone → incomplete; Road 2 + House 5 → point P fixed",
+        "Paper: left edge ≈ 5 cm (still incomplete)",
+        "Left 5 cm + bottom 9 cm → exact position (Fig. 3.2)"
+      ],
+      "common_mistake": "Students sirf ek distance dekar sochte hain position mil gayi — NCERT clearly dikhati hai ki ek distance se sirf ‘feeling’ aati hai, exact location nahi.",
+      "memory_trick": "ADDRESS RULE: Gali number + Ghar number = Full address. Plane par bhi wahi — दो संख्याएँ!",
+      "gesture_action": "Board par horizontal ‘main road’ aur vertical ‘side roads’ draw karo; phir P par (2,5) aur Q par (7,4) mark karo.",
+      "real_life_examples": [
+        "Colony address: Street 4, House 12 — dono parts chahiye postman ko",
+        "Chessboard: file ‘e’ + rank ‘4’ → square e4 uniquely fixed"
+      ],
+      "worked_example": {
+        "problem": "यदि किसी मकान का पता केवल ‘सड़क 2’ दिया हो, तो क्या मकान uniquely मिल जाएगा? यदि सड़क 2 और मकान संख्या 5 दोनों दिए हों तो?",
+        "steps": [
+          "केवल सड़क 2 → उस सड़क पर कई मकान संभव → uniquely नहीं",
+          "सड़क 2 + मकान 5 → दोनों सूचनाएँ मिलकर एक ही स्थान तय करती हैं",
+          "अतः आकृति 3.1 में P जैसे बिंदु के लिए दो निर्देश-जानकारियाँ आवश्यक"
+        ],
+        "answer": "केवल सड़क 2 से नहीं; सड़क 2 और मकान संख्या 5 दोनों से हाँ — बिंदु uniquely निर्धारित होता है।"
+      },
+      "practice": {
+        "easy": [
+          "आकृति 3.1 में बिंदु P किन दो सूचनाओं से निर्धारित होता है?"
+        ],
+        "medium": [
+          "कागज पर बिंदु के लिए ‘बाईं कोर से 5 cm’ पर्याप्त क्यों नहीं है? दूसरी कौन-सी सूचना जोड़ोगे?"
+        ],
+        "hard": [
+          "सड़क-मकान उदाहरण और कागज-बिंदु उदाहरण दोनों से एक सामान्य निष्कर्ष एक वाक्य में लिखिए।"
+        ]
+      },
+      "summary": "सड़क संख्या + मकान संख्या, अथवा बाईं कोर से दूरी + नीचे से दूरी — दोनों उदाहरण सिद्ध करते हैं कि plane पर बिंदु fix करने के लिए दो स्वतंत्र सूचनाएँ चाहिए।",
+      "revision_point": "Incomplete: one clue; Complete: two measured references from fixed lines.",
+      "exam_tip": "Explain-type प्रश्न में आकृति 3.1 (सड़क-मकान) या 3.2 (कागज) का उदाहरण जरूर दो — examiner NCERT language पसंद करता है।",
+      "source_text_hint": "क्या इसके लिए केवल एक निर्देश-बिन्दु का ज्ञात होना पर्याप्त होगा?"
+    },
+    {
+      "concept": "क्रियाकलाप – बैठने की योजना",
+      "say": "Ab class activity — क्रियाकलाप 1: बैठने की योजना! NCERT kehti hai: sabhi desks ko ek saath socho, har desk ko ek वर्ग se represent karo, har square mein us student ka naam likho jo wahan baitha hai. Ab kisi bhi student ki exact position दो सूचनाओं से तय होती है: (i) वह स्तंभ जिसमें वह बैठता/बैठती है, (ii) वह पंक्ति जिसमें वह बैठता/बैठती है. Agar tum 5वें स्तंभ और तीसरी पंक्ति mein baithe ho — आकृति 3.3 ka shaded square — to tumhari position (5, 3) likhi jaati hai. Pehli संख्या = स्तंभ संख्या, doosri = पंक्ति संख्या. Bahut important sawal: क्या (5, 3) वही है जो (3, 5) है? बिल्कुल नहीं! (5, 3) means column 5, row 3; (3, 5) means column 3, row 5 — alag seats! Example: Sonia चौथे स्तंभ और पहली पंक्ति में → (4, 1). Teacher ki desk is seating plan ke andar nahi aati — teacher sirf प्रेक्षक (observer) hai. Yeh activity coordinates ka intuition deta hai: ordered pair (a, b) mein order matter karta hai. Class tip: apni notebook mein 5×4 grid banao, classmates ke naam likho, unke (column, row) pairs likho. Jab bhi (x, y) vs (y, x) confuse ho — socho seating plan! Yeh idea aage Cartesian coordinates mein seedha use hoga.",
+      "example": "छायांकित वर्ग: 5वाँ स्तंभ, 3री पंक्ति → (5, 3); सोनिया: 4था स्तंभ, 1ली पंक्ति → (4, 1)।",
+      "board_lines": [
+        "Position = (स्तंभ संख्या, पंक्ति संख्या)",
+        "Shaded desk → (5, 3); Sonia → (4, 1)",
+        "(5, 3) ≠ (3, 5) — order matters!"
+      ],
+      "common_mistake": "Students (5, 3) aur (3, 5) ko same maan lete hain — NCERT clearly पूछती है और उत्तर है नहीं; क्रम महत्वपूर्ण है।",
+      "memory_trick": "C before R: Column pehle, Row baad mein — jaise CR in ‘class room’. (C, R)!",
+      "gesture_action": "Class mein 5th column aur 3rd row dikhao; phir alag student se 3rd column, 5th row dikhwao — visually (5,3) ≠ (3,5).",
+      "real_life_examples": [
+        "Exam hall seating chart: Bench number + Seat number",
+        "Theatre tickets: Block B, Row 3, Seat 10 — ordered location"
+      ],
+      "worked_example": {
+        "problem": "यदि रवि 3रे स्तंभ और 5वीं पंक्ति में बैठता है तथा मीरा 5वें स्तंभ और 3री पंक्ति में, तो उनके निर्देशांक लिखिए। क्या दोनों समान हैं?",
+        "steps": [
+          "रवि: स्तंभ 3, पंक्ति 5 → (3, 5)",
+          "मीरा: स्तंभ 5, पंक्ति 3 → (5, 3)",
+          "(3, 5) और (5, 3) में संख्याएँ समान पर क्रम भिन्न → स्थितियाँ भिन्न"
+        ],
+        "answer": "रवि (3, 5), मीरा (5, 3); नहीं, दोनों समान नहीं हैं।"
+      },
+      "practice": {
+        "easy": [
+          "सोनिया (4, 1) में बैठती है — स्तंभ और पंक्ति संख्या क्या हैं?"
+        ],
+        "medium": [
+          "(5, 3) और (3, 5) में अंतर एक वाक्य में समझाइए।"
+        ],
+        "hard": [
+          "अपनी कक्षा की काल्पनिक 4×4 बैठने की योजना बनाकर तीन विद्यार्थियों के नाम और उनके (स्तंभ, पंक्ति) निर्देशांक लिखिए।"
+        ]
+      },
+      "summary": "बैठने की योजना में स्थिति (स्तंभ, पंक्ति) से लिखी जाती है; (5, 3) और (3, 5) भिन्न हैं — क्रम मायने रखता है।",
+      "revision_point": "Ordered pair (column, row); order cannot be swapped.",
+      "exam_tip": "‘क्या (3, 5) वही है जो (5, 3)?’ — उत्तर स्पष्ट लिखो: नहीं, क्योंकि पहली संख्या स्तंभ और दूसरी पंक्ति दर्शाती है।",
+      "source_text_hint": "आपकी स्थिति को (5, 3) के रूप में व्यक्त किया जा सकता है"
+    },
+    {
+      "concept": "रेने दकार्ते और निर्देशांक ज्यामिति",
+      "say": "Ab thodi history aur big picture! Upar ki discussion se clear hai: तल पर वस्तु/बिन्दु की स्थिति दो लंब रेखाओं की सहायता से निरूपित की जा सकती है. Paper example mein bottom line aur left edge; seating plan mein column aur row. NCERT kehti hai — इस सरल विचारधारा के दूरगामी परिणाम होते हैं, aur isi se गणित की एक अति महत्वपूर्ण शाखा जन्म लेती है: निर्देशांक ज्यामिति, English mein Coordinate Geometry. Is chapter ka लक्ष्य है तुम्हें इसकी कुछ आधारभूत संकल्पनाओं से परिचित कराना; detail higher classes mein aayegi. Shuruaat French philosopher-mathematician रेने दकार्ते (René Descartes, 1596–1650) ne ki. Interesting story: kuch log subah bed par late rehna pasand karte hain — यही आदत दकार्ते की भी थी! Par woh lazy nahi tha — uska sochna tha ki बिस्तर पर पड़े-पड़े अधिक चिंतन किया जा सकता है. Ek din bed par aaram karte hue usne plane mein point locate karne ki problem ka solution dhoondh liya. Uski विधि अक्षांश और देशांतर की पुरानी विचारधारा का विकसित रूप थी. Plane mein point determine karne ki इस पद्धति को उसके सम्मान में कार्तीय पद्धति (Cartesian System) kehte hain. Exercise 3.1 mein interesting tasks hain: study table par lamp ki position kaise bataoge? Aur ‘सड़क योजना’ — city model jahan NS aur EW roads milti hain, scale 1 cm = 200 m, cross-streets (4, 3) aur (3, 4) count karna. Yaad rakho: Descartes + two perpendicular references = Cartesian system. Agle concept mein axes formally seekhenge!",
+      "example": "अक्षांश-देशांतर से प्रेरित विचार → दकार्ते की कार्तीय पद्धति: दो लंब रेखाओं से बिंदु का स्थान।",
+      "board_lines": [
+        "Coordinate Geometry = निर्देशांक ज्यामिति",
+        "René Descartes (1596–1650) → Cartesian System",
+        "Idea: two perpendicular lines → locate a point in a plane"
+      ],
+      "common_mistake": "Students Cartesian System ko sirf ‘graph paper drawing’ samajhte hain — asal idea hai दो लंब संदर्भ रेखाओं से बिंदु का निर्धारण।",
+      "memory_trick": "CARTESIAN = ‘Cart’ of Descartes! दकार्ते का नाम → कार्तीय पद्धति।",
+      "gesture_action": "Bed-thinking pose (1 second smile), phir do arms ko L-shape (perpendicular axes) banao aur intersection par ‘origin’ tap karo.",
+      "real_life_examples": [
+        "Earth maps: latitude & longitude — Descartes-style thinking ka purana roop",
+        "City cross-streets: 2nd NS road + 5th EW road → cross-street (2, 5)"
+      ],
+      "worked_example": {
+        "problem": "कार्तीय पद्धति किसके सम्मान में कही जाती है? यह विधि किस पुरानी विचारधारा का विकसित रूप है?",
+        "steps": [
+          "NCERT के अनुसार पद्धति का नाम रेने दकार्ते के सम्मान में कार्तीय पद्धति है",
+          "यह अक्षांश और देशांतर की पुरानी विचारधारा का विकसित रूप है",
+          "इससे निर्देशांक ज्यामिति नामक शाखा विकसित हुई"
+        ],
+        "answer": "रेने दकार्ते के सम्मान में; अक्षांश–देशांतर की विचारधारा का विकसित रूप।"
+      },
+      "practice": {
+        "easy": [
+          "निर्देशांक ज्यामिति का अंग्रेज़ी नाम क्या है?"
+        ],
+        "medium": [
+          "रेने दकार्ते कौन थे और कार्तीय पद्धति से उनका संबंध क्या है?"
+        ],
+        "hard": [
+          "प्रश्नावली 3.1 के सड़क-योजना मॉडल में (4, 3) और (3, 4) भिन्न क्यों माने जाते हैं? एक कारण लिखिए।"
+        ]
+      },
+      "summary": "दो लंब रेखाओं से बिंदु locate करने के सरल विचार से निर्देशांक ज्यामिति जन्मी; रेने दकार्ते के सम्मान में इसे कार्तीय पद्धति कहते हैं।",
+      "revision_point": "Descartes → Cartesian System; rooted in two perpendicular references (like lat-long).",
+      "exam_tip": "Short note में नाम + वर्ष (1596–1650) + ‘अक्षांश-देशांतर का विकसित रूप’ तीनों लिखो — full marks वाले points।",
+      "source_text_hint": "प्रफांसीसी दार्शनिक और गणितज्ञ रेने दकार्ते ने इस अध्ययन को विकसित किया था"
+    },
+    {
+      "concept": "कार्तीय पद्धति – अक्ष और मूलबिन्दु",
+      "say": "Section 3.2 — कार्तीय पद्धति! Pehle number line yaad karo: ek नियत बिन्दु se distances equal units mein — ek direction धनात्मक, doosri ऋणात्मक. Jahan se distances mark hoti hain, usse मूलबिन्दु (origin) kehte hain. Agar 1 unit = number 1, to 3 units = number 3. Descartes ka idea: plane par दो रेखाएँ एक-दूसरे पर लंब खींचो, aur unke सापेक्ष points locate karo. ये लंब रेखाएँ किसी भी दिशा में हो सकती हैं (आकृति 3.6), lekin is chapter mein hum हमेशा एक क्षैतिज और एक ऊर्ध्वाधर लेंगे — आकृति 3.6 (b). Practical construction: दो संख्या रेखाएँ लो — X′X aur Y′Y. X′X को क्षैतिज रखो, numbers number-line jaisi; Y′Y को ऊर्ध्वाधर रखो (आकृति 3.7). Dono ko combine karo taaki वे मूलबिन्दु पर एक-दूसरे को काटें (आकृति 3.8). क्षैतिज रेखा X′X = x-अक्ष (x-axis); ऊर्ध्वाधर रेखा Y′Y = y-अक्ष (y-axis). Intersection point = मूलबिन्दु (origin), denoted by O. OX aur OY धनात्मक दिशाएँ; OX′ aur OY′ ऋणात्मक दिशाएँ. Class tip: graph paper par pehle axes draw karo, O mark karo, arrows dikhao positive directions. Yeh foundation hai — bina axes ke coordinates nahi. Agle concept mein yeh axes तल को चार भागों में कैसे बाँटते हैं — चतुर्थांश — seekhenge.",
+      "example": "क्षैतिज संख्या रेखा X′X = x-अक्ष; ऊर्ध्वाधर Y′Y = y-अक्ष; कटान बिंदु O = मूलबिन्दु।",
+      "board_lines": [
+        "X′X (horizontal) → x-अक्ष; Y′Y (vertical) → y-अक्ष",
+        "O = मूलबिन्दु (origin) where axes meet",
+        "OX, OY → positive; OX′, OY′ → negative"
+      ],
+      "common_mistake": "Students x-अक्ष को vertical aur y-अक्ष को horizontal likh dete hain — NCERT convention: x क्षैतिज, y ऊर्ध्वाधर।",
+      "memory_trick": "x = ‘across’ (horizontal), y = ‘sky’ (upar ki taraf vertical). X लेटा, Y खड़ा!",
+      "gesture_action": "दोनों बाहें फैलाकर क्षैतिज x-अक्ष, एक हाथ ऊपर-नीचे y-अक्ष; छाती पर उंगली रखकर ‘O मूलबिन्दु’ कहो।",
+      "real_life_examples": [
+        "Classroom wall clock centre as origin — left-right and up-down directions",
+        "Crossroads: East-West road as x-axis, North-South as y-axis"
+      ],
+      "worked_example": {
+        "problem": "कार्तीय तल में x-अक्ष, y-अक्ष और मूलबिन्दु की परिभाषा लिखिए। धनात्मक दिशाएँ कौन-सी हैं?",
+        "steps": [
+          "क्षैतिज संख्या रेखा X′X को x-अक्ष कहते हैं",
+          "ऊर्ध्वाधर संख्या रेखा Y′Y को y-अक्ष कहते हैं; दोनों का कटान बिंदु O मूलबिन्दु है",
+          "OX और OY क्रमशः x और y अक्ष की धनात्मक दिशाएँ हैं"
+        ],
+        "answer": "x-अक्ष = क्षैतिज X′X; y-अक्ष = ऊर्ध्वाधर Y′Y; मूलबिन्दु = O; धनात्मक दिशाएँ OX तथा OY।"
+      },
+      "practice": {
+        "easy": [
+          "मूलबिन्दु को किस अक्षर से दर्शाया जाता है?"
+        ],
+        "medium": [
+          "OX′ और OY′ क्या दर्शाते हैं?"
+        ],
+        "hard": [
+          "संख्या रेखा और कार्तीय अक्षों में क्या समानता है? दो बिंदु लिखिए।"
+        ]
+      },
+      "summary": "कार्तीय पद्धति में क्षैतिज x-अक्ष और ऊर्ध्वाधर y-अक्ष मूलबिन्दु O पर मिलते हैं; OX, OY धनात्मक तथा OX′, OY′ ऋणात्मक दिशाएँ हैं।",
+      "revision_point": "x-axis horizontal, y-axis vertical, origin O; positive along OX and OY.",
+      "exam_tip": "आकृति बनाते समय तीरों से धनात्मक दिशाएँ दिखाना न भूलो — diagram marks के लिए जरूरी है।",
+      "source_text_hint": "क्षैतिज रेखा X′X को x-अक्ष कहा जाता है और ऊर्ध्वाधर रेखा Y′Y को y-अक्ष"
+    },
+    {
+      "concept": "चतुर्थांश – तल के चार भाग",
+      "say": "Axes plane ko kitne parts mein baantte hain? NCERT kehti hai: ये दोनों अक्ष तल को चार भागों में विभाजित करती हैं. इन चार भागों को चतुर्थांश (quadrants) कहते हैं — एक-चौथाई! Naming convention bahut important: OX से वामावर्त दिशा में (anti-clockwise) उन्हें I, II, III और IV चतुर्थांश कहा जाता है — आकृति 3.9. Yaad rakho order: First quadrant wahan jahan x positive, y positive — OX aur OY ke beech. Phir anti-clockwise ghumo: Second — x negative, y positive; Third — x negative, y negative; Fourth — x positive, y negative. Is पूरे तल में दोनों अक्ष और चारों चतुर्थांश शामिल हैं. Hum is plane को कार्तीय तल (Cartesian plane) या निर्देशांक तल (coordinate plane) या xy-तल कहते हैं. अक्षों को निर्देशांक अक्ष (coordinate axes) कहा जाता है. Class tip: ‘वामावर्त’ matlab left turn sequence — OX se start karke ghadi ki सुई के उल्टा. Exam mein aksar poochte hain: II quadrant mein signs kya? Answer: x negative, y positive — lekin signs detail next concept mein coordinates ke saath clear hogi. Abhi names aur order lock kar lo: I → II → III → IV anti-clockwise from OX. Axes khud kisi ek quadrant mein nahi maane jaate generally — weh separators hain. Cartesian plane = axes + four quadrants. Clear?",
+      "example": "OX से वामावर्त: I (x>0,y>0), II (x<0,y>0), III (x<0,y<0), IV (x>0,y<0)।",
+      "board_lines": [
+        "4 parts = 4 चतुर्थांश (quadrants)",
+        "Naming: from OX, anti-clockwise → I, II, III, IV",
+        "Plane names: Cartesian / coordinate / xy-plane; axes = coordinate axes"
+      ],
+      "common_mistake": "Students quadrants को clockwise गिन लेते हैं या II/IV की जगह बदल देते हैं — हमेशा OX से वामावर्त याद रखो।",
+      "memory_trick": "‘Aanti-clockwise All India’ — OX se Anti-clockwise: I, II, III, IV. Clockwise mat jana!",
+      "gesture_action": "दाहिने हाथ से OX दिशा दिखाओ, फिर वामावर्त घुमाते हुए I, II, III, IV जोर से बोलो।",
+      "real_life_examples": [
+        "Pizza को चार बराबर slices — axes जैसी cuts से चार quadrants",
+        "Crossroads के चार कोने — हर कोना एक quadrant जैसा region"
+      ],
+      "worked_example": {
+        "problem": "चतुर्थांशों का नामकरण किस बिंदु/दिशा से और किस क्रम में किया जाता है? निर्देशांक तल के तीन नाम लिखिए।",
+        "steps": [
+          "नामकरण OX से वामावर्त दिशा में I, II, III, IV होता है",
+          "दोनों अक्ष तल को इन चार भागों में बाँटते हैं",
+          "तल के नाम: कार्तीय तल, निर्देशांक तल, xy-तल"
+        ],
+        "answer": "OX से वामावर्त क्रम में I–IV; नाम — कार्तीय तल / निर्देशांक तल / xy-तल।"
+      },
+      "practice": {
+        "easy": [
+          "अक्ष तल को कितने चतुर्थांशों में बाँटते हैं?"
+        ],
+        "medium": [
+          "द्वितीय चतुर्थांश OX से गिनते हुए कौन-सा स्थान लेता है?"
+        ],
+        "hard": [
+          "यदि कोई छात्र चतुर्थांशों को clockwise गिने तो IV को वह क्या कह देगा? सही क्रम लिखकर सुधारिए।"
+        ]
+      },
+      "summary": "x और y अक्ष तल को चार चतुर्थांशों में बाँटते हैं जिन्हें OX से वामावर्त I, II, III, IV कहते हैं; पूरे तल को कार्तीय/निर्देशांक/xy-तल कहते हैं।",
+      "revision_point": "Quadrants I–IV named anti-clockwise from OX; plane = Cartesian/coordinate/xy-plane.",
+      "exam_tip": "आकृति में I, II, III, IV सही कोनों में लिखना जरूरी है — गलत numbering से पूरे diagram के marks कट सकते हैं।",
+      "source_text_hint": "इन चार भागों को चतुर्थांश (एक-चौथाई) कहा जाता है"
+    },
+    {
+      "concept": "भुज और कोटि – निर्देशांक लिखना",
+      "say": "Ab sabse exam-important part — coordinates kaise likhte hain! आकृति 3.10 dekho: points P aur Q. P se x-अक्ष par perpendicular PD, y-अक्ष par perpendicular PR. Similarly Q ke liye. Measurements: (i) y-अक्ष से P की लांबिक दूरी, x-अक्ष की धनात्मक दिशा में = PR = OD = 4 units. (ii) x-अक्ष से P की लांबिक दूरी, y-अक्ष की धनात्मक दिशा में = PD = OR = 3 units. Q के लिए: y-अक्ष से दूरी x की ऋणात्मक दिशा में = 6 units; x-अक्ष से दूरी y की ऋणात्मक दिशा में = 2 units. Conventions — याद करो: (i) किसी बिंदु का x-निर्देशांक = y-अक्ष से उसकी लांबिक दूरी, जिसे x-अक्ष पर मापा जाता है — धनात्मक दिशा में धनात्मक, ऋणात्मक में ऋणात्मक. P के लिए +4, Q के लिए −6. x-निर्देशांक को भुज (abscissa) भी कहते हैं. (ii) y-निर्देशांक = x-अक्ष से लांबिक दूरी, y-अक्ष पर मापी — P के लिए +3, Q के लिए −2. y-निर्देशांक को कोटि (ordinate) कहते हैं. (iii) लिखते समय पहले x, बाद में y — कोष्ठक में: अतः P(4, 3) और Q(−6, −2). Crucially: निर्देशांक अद्वितीय होते हैं — (3, 4) और (4, 3) समान नहीं! Class mantra: x pehle (भुज), y baad mein (कोटि). Signs direction se aate hain. Perfect!",
+      "example": "बिंदु P: भुज = +4, कोटि = +3 → P(4, 3); बिंदु Q: भुज = −6, कोटि = −2 → Q(−6, −2)।",
+      "board_lines": [
+        "x-coordinate (भुज/abscissa) = perpendicular distance from y-axis",
+        "y-coordinate (कोटि/ordinate) = perpendicular distance from x-axis",
+        "Write as (x, y); P(4, 3), Q(−6, −2); (3, 4) ≠ (4, 3)"
+      ],
+      "common_mistake": "Students (x, y) की जगह (y, x) लिख देते हैं या ऋणात्मक दिशा की दूरी को धनात्मक रख देते हैं — sign और क्रम दोनों check करो।",
+      "memory_trick": "Xylophone pehle, Yoga baad mein — X before Y. भुज पहले, कोटि बाद में! ‘A comes before O’ → Abscissa before Ordinate.",
+      "gesture_action": "y-अक्ष से क्षैतिज उंगली चलाकर ‘भुज’ बोलो; x-अक्ष से ऊर्ध्वाधर उंगली चलाकर ‘कोटि’ बोलो; फिर हवा में कोष्ठक (x, y) बनाओ।",
+      "real_life_examples": [
+        "GPS pin: easting/northing values — order fixed, swap karoge galat jagah",
+        "School graph: right 4, up 3 → point (4, 3) on squaring paper"
+      ],
+      "worked_example": {
+        "problem": "यदि किसी बिंदु की y-अक्ष से दूरी x-अक्ष की धनात्मक दिशा में 4 इकाई तथा x-अक्ष से दूरी y-अक्ष की धनात्मक दिशा में 3 इकाई है, तो बिंदु के निर्देशांक क्या हैं? भुज और कोटि भी लिखिए।",
+        "steps": [
+          "y-अक्ष से दूरी (x दिशा में धनात्मक) = x-निर्देशांक = भुज = 4",
+          "x-अक्ष से दूरी (y दिशा में धनात्मक) = y-निर्देशांक = कोटि = 3",
+          "निर्देशांक कोष्ठक में पहले x फिर y → (4, 3)"
+        ],
+        "answer": "निर्देशांक (4, 3); भुज = 4, कोटि = 3।"
+      },
+      "practice": {
+        "easy": [
+          "भुज किसे कहते हैं? कोटि किसे कहते हैं?"
+        ],
+        "medium": [
+          "Q(−6, −2) में कौन-सा निर्देशांक ऋणात्मक दिशाओं से आया? संक्षेप में लिखिए।"
+        ],
+        "hard": [
+          "सिद्ध कीजिए/समझाइए कि निर्देशांक (3, 4) और (4, 3) समान क्यों नहीं हैं।"
+        ]
+      },
+      "summary": "x-निर्देशांक (भुज) y-अक्ष से दूरी है और y-निर्देशांक (कोटि) x-अक्ष से; बिंदु (x, y) लिखा जाता है तथा क्रम अद्वितीय महत्व रखता है।",
+      "revision_point": "Abscissa = x from y-axis; Ordinate = y from x-axis; always write (x, y).",
+      "exam_tip": "परिभाषा लिखते समय ‘लांबिक दूरी’ और ‘धनात्मक/ऋणात्मक दिशा’ दोनों शब्द शामिल करो — NCERT exact language।",
+      "source_text_hint": "एक बिन्दु का x-निर्देशांक, y-अक्ष से इस बिन्दु की लांबिक दूरी है"
+    },
+    {
+      "concept": "उदाहरण – चारों चतुर्थांशों में बिन्दुओं के निर्देशांक",
+      "say": "Last concept — Example 1, आकृति 3.11! Complete the statements by reading the figure. (i) बिंदु A: y-अक्ष से दूरी 4 units, x-अक्ष से 3 units — दोनों धनात्मक पक्ष में — अतः भुज 4, कोटि 3, निर्देशांक A(4, 3). Yeh I quadrant hai. (ii) बिंदु B: x-निर्देशांक −3, y-निर्देशांक 4 → B(−3, 4). X negative, y positive — II quadrant. (iii) बिंदु C: x = −5, y = −4 → C(−5, −4). Dono negative — III quadrant. (iv) बिंदु D: x = 3, y = −4 → D(3, −4). X positive, y negative — IV quadrant. Pattern lock karo: I(+, +), II(−, +), III(−, −), IV(+, −). Jab figure se coordinates padho: pehle left/right of y-axis dekho for x-sign aur value; phir above/below x-axis for y. Board tip: har quadrant mein ek point plot karke signs table banao. Common exam trap: B ko (3, −4) mat likh dena — signs carefully. Summary of chapter so far: two infos → Cartesian axes → four quadrants → (x, y) with abscissa & ordinate → unique ordered pairs. Practice: khud graph paper par A(4,3), B(−3,4), C(−5,−4), D(3,−4) plot karo. Agar plot sahi hai to quadrants automatically verify ho jayenge. Brilliant work, class — coordinates ab tumhare dost hain!",
+      "example": "A(4, 3) I में; B(−3, 4) II में; C(−5, −4) III में; D(3, −4) IV में।",
+      "board_lines": [
+        "A(4, 3) → I quadrant (+, +)",
+        "B(−3, 4) → II (−, +); C(−5, −4) → III (−, −)",
+        "D(3, −4) → IV (+, −); signs decide the quadrant"
+      ],
+      "common_mistake": "II और IV चतुर्थांश के चिह्न Vertically swap कर देना — याद रखो: II में x ऋणात्मक-y धनात्मक; IV में x धनात्मक-y ऋणात्मक।",
+      "memory_trick": "Sign song: ‘All Positive First; x Minus Second; All Minus Third; y Minus Fourth’ — ASTC jaisa maths version for quadrants!",
+      "gesture_action": "चार कोनों की ओर इशारा करते हुए जोर से बोलो: प्लस-प्लस, माइनस-प्लस, माइनस-माइनस, प्लस-माइनस।",
+      "real_life_examples": [
+        "Temperature-time graph: time positive axis, temperature can be negative — fourth/first style thinking",
+        "Map with town centre as origin: NW area behaves like II quadrant (left-up)"
+      ],
+      "worked_example": {
+        "problem": "आकृति 3.11 की भाँति: बिंदु A, B, C, D के निर्देशांक क्रमशः (4, 3), (−3, 4), (−5, −4), (3, −4) हैं। प्रत्येक किस चतुर्थांश में है?",
+        "steps": [
+          "A(4, 3): x>0, y>0 → प्रथम चतुर्थांश",
+          "B(−3, 4): x<0, y>0 → द्वितीय; C(−5, −4): x<0, y<0 → तृतीय",
+          "D(3, −4): x>0, y<0 → चतुर्थ चतुर्थांश"
+        ],
+        "answer": "A → I; B → II; C → III; D → IV।"
+      },
+      "practice": {
+        "easy": [
+          "बिंदु (4, 3) के भुज और कोटि लिखिए।"
+        ],
+        "medium": [
+          "बिंदु (−5, −4) किस चतुर्थांश में है और क्यों?"
+        ],
+        "hard": [
+          "एक बिंदु का भुज −3 और कोटि 4 है। निर्देशांक लिखिए तथा चतुर्थांश बताइए। यदि भुज 3 और कोटि −4 हो तो क्या बदलता है?"
+        ]
+      },
+      "summary": "उदाहरण 1 से चारों चतुर्थांशों के चिह्न स्पष्ट होते हैं: (+,+), (−,+), (−,−), (+,−); निर्देशांक पढ़ते समय चिह्न और क्रम दोनों सही रखें।",
+      "revision_point": "I(+,+), II(−,+), III(−,−), IV(+,−); read distances with correct signs.",
+      "exam_tip": "Plotting/reading questions में पहले signs तय करो, फिर absolute distances — गलतियाँ आधी रह जाएँगी।",
+      "source_text_hint": "बिन्दु A का भुज और कोटि क्रमशः"
+    }
+  ]
+}
