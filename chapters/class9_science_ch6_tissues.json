@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 706,
+    "chapter_name": "ऊतक",
+    "chapter_number": 6,
+    "book_name": "Class 9 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Science ke Chapter 6 — ऊतक (Tissues) — ko padhenge. Pehle hum samjhenge ki बहुकोशिक जीवों mein श्रम विभाजन kaise hota hai aur ऊतक kya hota hai. Phir पौधे aur जंतुओं ke ऊतकों mein antar, विभज्योतक aur स्थायी ऊतक, सरल ऊतक (पैरेन्काइमा, कॉलेन्काइमा, स्क्लेरेन्काइमा), एपिडर्मिस–स्टोमेटा–छाल, जाइलम–फ्लोएम, aur जंतुओं ke एपिथीलियमी ऊतक tak clear karenge — sab NCERT examples se.",
+    "welcome": "Good morning, class! Smart Board par aaj ek bahut important biology chapter shuru karte hain — ऊतक. Socho: अमीबा mein ek hi कोशिका sab kaam karti hai, lekin humare body mein लाखों कोशिकाएँ alag-alag specialist kaam karti hain — जैसे स्कूल में अलग-अलग शिक्षक! Aaj hum jaanenge yeh specialist groups kaise ऊतक banate hain. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "ऊतक की परिभाषा aur बहुकोशिक जीवों में श्रम विभाजन ko examples se explain karna",
+      "पौधे और जंतुओं के ऊतकों तथा वृद्धि-प्रतिरूप में अंतर compare karna",
+      "विभज्योतक (शीर्षस्थ, पार्श्वीय, अंतर्विष्ट) aur स्थायी ऊतक (सरल व जटिल) ko identify aur classify karna",
+      "पैरेन्काइमा–कॉलेन्काइमा–स्क्लेरेन्काइमा, एपिडर्मिस–स्टोमेटा–छाल, जाइलम–फ्लोएम tatha एपिथीलियमी ऊतक ke structure-function link karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "ऊतक क्या है?"
+      },
+      {
+        "number": 2,
+        "name": "पौधे और जंतुओं के ऊतकों में अंतर"
+      },
+      {
+        "number": 3,
+        "name": "विभज्योतक"
+      },
+      {
+        "number": 4,
+        "name": "स्थायी ऊतक और विभेदीकरण"
+      },
+      {
+        "number": 5,
+        "name": "सरल स्थायी ऊतक"
+      },
+      {
+        "number": 6,
+        "name": "एपिडर्मिस, स्टोमेटा और छाल"
+      },
+      {
+        "number": 7,
+        "name": "जटिल स्थायी ऊतक – जाइलम और फ्लोएम"
+      },
+      {
+        "number": 8,
+        "name": "जंतु ऊतक और एपिथीलियमी ऊतक"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "ऊतक क्या है?",
+      "say": "Bacchon, pehle chapter yaad karo — sab living beings cells se bane hote hain. एक कोशिक जीवों mein, jaise अमीबा, sab मौलिक कार्य ek hi कोशिका karti hai — गति, भोजन लेना, गैसीय विनिमय, उत्सर्जन — sab ek cell se! Lekin बहुकोशिक जीवों mein लाखों कोशिकाएँ hoti hain. Inmein se अधिकतर कोशिकाएँ sirf कुछ विशिष्ट कार्यों ke liye सक्षम hoti hain. Har special kaam cells ke alag-alag groups karte hain. Yeh groups ek specific task ko अति दक्षता पूर्वक complete karte hain. मनुष्यों mein: पेशीय कोशिकाएँ फैलती और सिकुड़ती hain — isse गति hoti hai; तंत्रिका कोशिकाएँ संदेशों की वाहक hoti hain; रक्त ऑक्सीजन, भोजन, हार्मोन aur अपशिष्ट पदार्थों ka वहन karta hai. पौधों mein वाहक नलियों se जुड़ी कोशिकाएँ भोजन aur पानी ko ek jagah se doosri jagah le jaati hain. Matlab बहुकोशिक जीवों में श्रम विभाजन होता है — school ki tarah, har teacher apna subject padhata hai! Body ke andar jo कोशिकाएँ ek tarah ka kaam दक्षता se karti hain, woh हमेशा एक समूह में hoti hain. Cells ka yeh group ऊतक कहलाता है. Yeh ऊतक अधिकतम दक्षता ke saath kaam kar sakein, isliye ek विशिष्ट क्रम mein व्यवस्थित hote hain. रक्त, फ्लोएम तथा पेशी — ऊतक ke examples hain. NCERT definition clear rakho: वे कोशिकाएँ जो आकृति में एक समान होती हैं तथा किसी कार्य को एक साथ संपन्न करती हैं, समूह में एक ऊतक का निर्माण करती हैं.",
+      "example": "अमीबा mein ek cell sab kaam karti hai; मनुष्य mein muscle cells sirf motion, nerve cells sirf messages — yahi श्रम विभाजन aur ऊतक hai.",
+      "board_lines": [
+        "ऊतक = समान आकृति व एक साथ कार्य करने वाली कोशिकाओं का समूह",
+        "बहुकोशिक जीवों में श्रम विभाजन होता है",
+        "उदाहरण: रक्त, फ्लोएम, पेशी"
+      ],
+      "common_mistake": "Students sochte hain ki koi bhi cells ka jhund tissue hai — actually cells आकृति में समान honi chahiye aur एक ही कार्य एक साथ karna chahiye.",
+      "memory_trick": "TISSUE = Team In Same Shape Under Equal-work — same shape + same work = ऊतक.",
+      "gesture_action": "Pehle ek student akela sab kaam kare (अमीबा), phir class ko groups mein baanto — muscle, nerve, blood — har group apna kaam dikhaye.",
+      "real_life_examples": [
+        "School mein alag teachers — science, maths, sports — श्रम विभाजन jaise body mein tissues",
+        "Factory assembly line — har worker ek specialized kaam karta hai"
+      ],
+      "worked_example": {
+        "problem": "ऊतक क्या है? बहुकोशिक जीवों में ऊतकों का क्या उपयोग है?",
+        "steps": [
+          "परिभाषा लिखो: समान आकृति वाली कोशिकाएँ जो एक कार्य साथ करती हैं → ऊतक",
+          "उपयोग: श्रम विभाजन — प्रत्येक समूह विशिष्ट कार्य अति दक्षता से करता है",
+          "उदाहरण दो: पेशी (गति), तंत्रिका (संदेश), रक्त (वहन), फ्लोएम (भोजन परिवहन)"
+        ],
+        "answer": "ऊतक समान कोशिकाओं का समूह है जो एक विशिष्ट कार्य करता है; बहुकोशिक जीवों में ये श्रम विभाजन द्वारा दक्षता बढ़ाते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "ऊतक की परिभाषा एक पंक्ति में लिखो।"
+        ],
+        "medium": [
+          "अमीबा और मनुष्य के कार्यों की तुलना करके बताओ कि ऊतक की आवश्यकता कहाँ अधिक है और क्यों।"
+        ],
+        "hard": [
+          "'बहुकोशिक जीवों में श्रम विभाजन होता है' — रक्त, पेशी और फ्लोएम के उदाहरणों से सिद्ध करो।"
+        ]
+      },
+      "summary": "ऊतक समान आकृति वाली कोशिकाओं का वह समूह है जो एक विशिष्ट कार्य दक्षता से करता है; बहुकोशिक जीवों में यही श्रम विभाजन का आधार है।",
+      "revision_point": "Tissue = same-shaped cells + same function together; examples: blood, phloem, muscle.",
+      "exam_tip": "Exam definition mein 'आकृति में एक समान' aur 'एक साथ संपन्न' dono phrases zaroor likho — NCERT keywords marks late hain.",
+      "source_text_hint": "कोशिकाओं का यह समूह ऊतक कहलाता है"
+    },
+    {
+      "concept": "पौधे और जंतुओं के ऊतकों में अंतर",
+      "say": "Ab sawaal aata hai — क्या पौधे और जंतु एक ही तरह के ऊतकों से बने होते हैं? Let's compare! दोनों में स्पष्ट अंतर होता है. पौधे स्थिर होते हैं — वे गति नहीं करते. Unhe सीधा खड़ा रहना hota hai, isliye unmein बड़ी मात्रा में सहारा प्रदान करने वाले ऊतक hote hain. Yeh supporting tissues प्रायः मृत कोशिकाओं ke बने होते हैं — jaise लकड़ी wala soft-strong support. दूसरी ओर, जंतु भोजन, साथी और आश्रय की खोज में इधर-उधर विचरण करते हैं. Yeh पौधों की अपेक्षा ऊर्जा का अधिक उपभोग करते हैं. इसलिए जंतुओं के अधिकांश ऊतक जीवित होते हैं. Ek aur बड़ा अंतर वृद्धि के प्रतिरूप mein hai. पौधों की वृद्धि कुछ क्षेत्रों में ही सीमित रहती है, जबकि जंतुओं में ऐसा नहीं होता. पौधों के कुछ ऊतक जीवन भर विभाजित होते रहते हैं, aur yeh dividing tissues कुछ क्षेत्रों में ही सीमित रहते हैं. ऊतकों की विभाजन-क्षमता के आधार पर ही पादप ऊतकों का वर्गीकरण होता है — वृद्धि अथवा विभज्योतक तथा स्थायी ऊतक. जंतुओं में कोशिका वृद्धि अधिक एकरूप होती है — isliye विभाज्य तथा अविभाज्य क्षेत्रों की कोई निश्चित सीमा नहीं होती. अंगों और अंग-तंत्रों का संरचनात्मक संगठन जटिल पौधों की अपेक्षा जटिल जंतुओं में अति विशिष्ट तथा सीमित होता है. Yeh मूल अंतर दोनों के जीवनयापन — especially भोजन प्रक्रिया — ko dikhata hai. Tip: Plant = support/dead/localized growth; Animal = living/uniform growth.",
+      "example": "पेड़ की लकड़ी में मृत सहारा ऊतक; हमारे शरीर की पेशियाँ जीवित ऊतक — यही पौधे–जंतु अंतर है।",
+      "board_lines": [
+        "पौधे: स्थिर → अधिक सहारा ऊतक (अक्सर मृत); वृद्धि सीमित क्षेत्रों में",
+        "जंतु: गतिशील → अधिक ऊर्जा; अधिकांश ऊतक जीवित; वृद्धि एकरूप",
+        "पादप वर्गीकरण: विभज्योतक + स्थायी ऊतक (विभाजन-क्षमता पर)"
+      ],
+      "common_mistake": "Students sochte hain plants aur animals ke tissues bilkul same hote hain — structure, growth pattern aur living/dead nature mein clear differences hain.",
+      "memory_trick": "P-DEAD, A-LIVE: Plants need Dead support tissues; Animals mostly Living tissues.",
+      "gesture_action": "Ek student statue ban kar khada rahe (plant — no movement, need support); doosra room mein ghoome (animal — needs living muscle/energy).",
+      "real_life_examples": [
+        "गमलों में खड़े पौधे — लकड़ी/तने से सहारा; कुत्ता दौड़ता है — जीवित पेशी ऊतक",
+        "वृक्ष की ऊँचाई मुख्यतः सिरों से बढ़ती है; बच्चे का शरीर लगभग समान रूप से बढ़ता है"
+      ],
+      "worked_example": {
+        "problem": "पौधों में सहारा देने वाले ऊतक अक्सर मृत क्यों होते हैं, जबकि जंतुओं के अधिकांश ऊतक जीवित क्यों होते हैं?",
+        "steps": [
+          "पौधे स्थिर हैं और सीधे खड़े रहना होता है → अधिक यांत्रिक सहारा चाहिए",
+          "मृत कोशिकाएँ मज़बूत दीवारों से सहारा देती हैं, कम ऊर्जा खर्च",
+          "जंतु गति करते हैं, अधिक ऊर्जा खर्च → अधिकांश ऊतक जीवित रहते हैं"
+        ],
+        "answer": "पौधों को स्थिर सहारा चाहिए अतः सहारा ऊतक प्रायः मृत; जंतु गति व ऊर्जा के लिए अधिकतर जीवित ऊतक रखते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "पौधे और जंतुओं के ऊतकों में कोई दो अंतर लिखो।"
+        ],
+        "medium": [
+          "पादप ऊतकों का वर्गीकरण विभाजन-क्षमता के आधार पर क्यों किया जाता है?"
+        ],
+        "hard": [
+          "'संरचनात्मक संगठन पौधों के गतिहीन अस्तित्व तथा जंतुओं के प्रचलन हेतु विभिन्न प्रकार से अनुकूलित होते हैं' — समझाओ।"
+        ]
+      },
+      "summary": "पौधे स्थिर व सीमित वृद्धि वाले होते हैं अतः सहारा ऊतक अक्सर मृत; जंतु गतिशील हैं अतः ऊतक अधिकतर जीवित और वृद्धि एकरूप होती है।",
+      "revision_point": "Plant tissues: support + localized meristems; Animal tissues: living + uniform growth + specialized organ systems.",
+      "exam_tip": "Difference table banao — गति, ऊर्जा, जीवित/मृत ऊतक, वृद्धि क्षेत्र — 3-mark questions ke liye perfect.",
+      "source_text_hint": "क्या पौधे और जंतु एक ही तरह के ऊतकों से बने होते हैं?"
+    },
+    {
+      "concept": "विभज्योतक",
+      "say": "Ab plant tissues shuru! पौधों में वृद्धि कुछ निश्चित क्षेत्रों में ही होती है — kyunki dividing tissues unhi parts mein paaye jaate hain. Aise ऊतकों को विभज्योतक (meristematic tissue) कहते हैं. स्थिति के आधार पर तीन प्रकार: (1) शीर्षस्थ विभज्योतक — जड़ों एवं तनों की वृद्धि वाले भाग में, लंबाई बढ़ाता है; (2) पार्श्व विभज्योतक या कैंबियम — तने की परिधि/मूल में मोटाई या girth बढ़ाता है; (3) अंतर्विष्ट विभज्योतक — कुछ पौधों में पर्वसंधियों के पास. विभज्योतक द्वारा बनी नई कोशिकाएँ शुरू में meristem जैसी hoti hain, lekin परिपक्व होकर धीरे-धीरे गुण बदलती hain aur दूसरे ऊतकों के घटक बन जाती हैं. Cells ki pehchan bahut important hai exams ke liye: विभज्योतक की कोशिकाएँ अत्यधिक क्रियाशील होती हैं — बहुत अधिक कोशिकाद्रव्य, पतली कोशिका भित्ति, स्पष्ट केंद्रक, और रसधानी नहीं होती! Socho — रसधनी storage ke liye hoti hai; meristem cells busy dividing hain, storage ki zaroorat nahi, space bhi kam chahiye. Activity 6.1 yaad rakho: दो जार, दो प्याज, जड़ों की लंबाई मापो. चौथे दिन जार-2 की मूल का ऊपरी हिस्सा काट दो — tip cut hone ke baad वृद्धि रुक जाती है, kyunki शीर्षस्थ विभज्योतक tip par hota hai! Isliye jiska tip intact, uski root lambi. Board tip: Apical = length, Lateral/Cambium = girth, Intercalary = nodes.",
+      "example": "प्याज की जड़ का tip काटने पर वृद्धि रुकना — सिद्ध करता है कि शीर्षस्थ विभज्योतक सिरे पर होता है।",
+      "board_lines": [
+        "विभज्योतक = विभाजित होने वाले ऊतक (निश्चित क्षेत्रों में)",
+        "शीर्षस्थ → लंबाई; पार्श्व/कैंबियम → मोटाई; अंतर्विष्ट → पर्वसंधि",
+        "कोशिकाएँ: क्रियाशील, घना कोशिकाद्रव्य, पतली भित्ति, स्पष्ट केंद्रक, रसधनी नहीं"
+      ],
+      "common_mistake": "Students sochte hain poora plant har jagah equally badhta hai — actually वृद्धि meristem regions tak limited hai.",
+      "memory_trick": "A-L-I: Apical Length, Lateral (cambium) thickness, Intercalary at Internodes.",
+      "gesture_action": "Ungli tip se upar khincho (apical length), kamar se chaudi dikhao (lateral girth), ghutne/joints pe point karo (intercalary near nodes).",
+      "real_life_examples": [
+        "नए अंकुर का tip रोज लंबा होना — शीर्षस्थ विभज्योतक",
+        "पुराने पेड़ के तने का साल-दर-साल मोटा होना — कैंबियम/पार्श्व विभज्योतक"
+      ],
+      "worked_example": {
+        "problem": "जार-2 की प्याज की मूल का ऊपरी हिस्सा काटने के बाद वृद्धि क्यों रुक जाती है?",
+        "steps": [
+          "मूल की वृद्धि शीर्षस्थ विभज्योतक से होती है जो सिरे पर स्थित होता है",
+          "ऊपरी हिस्सा काटने पर meristematic tip हट जाता है",
+          "विभाजन क्षमता वाला ऊतक न रहने से लंबाई में वृद्धि बंद"
+        ],
+        "answer": "क्योंकि शीर्षस्थ विभज्योतक मूल के सिरे पर होता है; काटने पर विभाजन क्षेत्र हट जाता है अतः वृद्धि रुकती है।"
+      },
+      "practice": {
+        "easy": [
+          "विभज्योतक के तीन प्रकार के नाम लिखो।"
+        ],
+        "medium": [
+          "विभज्योतक की कोशिकाओं में रसधनी क्यों नहीं होती? सोचकर उत्तर दो।"
+        ],
+        "hard": [
+          "प्ररोह के शीर्षस्थ, पार्श्व और अंतर्विष्ट विभज्योतक की स्थिति व कार्य की तुलना तालिका में करो।"
+        ]
+      },
+      "summary": "विभज्योतक पौधों के निश्चित क्षेत्रों में विभाजित होकर वृद्धि करते हैं — शीर्षस्थ लंबाई, पार्श्व मोटाई, अंतर्विष्ट पर्वसंधि; कोशिकाओं में रसधनी नहीं होती।",
+      "revision_point": "Meristem = dividing tissue; no vacuole; Apical–Lateral–Intercalary.",
+      "exam_tip": "Diagram 6.2 yaad rakho — tip, cambium ring, nodes — location questions bahut aate hain.",
+      "source_text_hint": "ऐसे ऊतकों को विभज्योतक भी कहा जाता है"
+    },
+    {
+      "concept": "स्थायी ऊतक और विभेदीकरण",
+      "say": "Ab socho — विभज्योतक द्वारा बनी कोशिकाओं का क्या होता है? Yeh cells ek विशिष्ट कार्य ke liye ready hoti hain aur विभाजित होने की शक्ति खो देती हैं. Iske फलस्वरूप वे स्थायी ऊतक का निर्माण करती हैं. Definition lock karo: एक विशिष्ट कार्य करने के लिए स्थायी रूप और आकार लेने की क्रिया को विभेदीकरण कहते हैं. English mein differentiation — cell 'decide' karti hai main kaun banoongi: storage cell, support cell, transport cell... Meristem cells विशिष्टीकृत होकर विभिन्न प्रकार के स्थायी ऊतक develop karti hain. Activity 6.2 classroom tip: पौधे के तने का पतला section काटो, सैफ्रैनिन से रंजित करो, ग्लिसरीन डालो, cover-slip se dhakkar microscope se dekho. Tum पाओगे — सभी कोशिकाओं की संरचना समान नहीं! कई प्रकार की कोशिकाएँ अलग विन्यास में होंगी — compare with चित्र 6.3 (epidermis, cortex, vascular bundle, pith...). Questions poochho: (1) क्या सभी कोशिकाओं की संरचनाएँ समान हैं? नहीं। (2) कितने प्रकार दिखते हैं? कई। (3) इतने प्रकार क्यों? क्योंकि विभेदीकरण से अलग-अलग स्थायी कार्य के लिए अलग रूप। Yaad rakho sequence: विभज्योतक → नई कोशिकाएँ → विभेदीकरण → स्थायी ऊतक. Permanent tissue further दो बड़े groups mein baantte hain — सरल स्थायी ऊतक aur जटिल स्थायी ऊतक — jo agle concepts mein padhenge. Exam line: Differentiation = taking permanent form and size for a specific function.",
+      "example": "तने के section में epidermis, cortex, xylem–phloem अलग दिखना — विभेदीकरण का प्रमाण है।",
+      "board_lines": [
+        "स्थायी ऊतक = विभाजन शक्ति खोकर विशिष्ट कार्य करने वाली कोशिकाएँ",
+        "विभेदीकरण = स्थायी रूप व आकार लेना (specific function हेतु)",
+        "क्रम: विभज्योतक → विभेदीकरण → स्थायी ऊतक"
+      ],
+      "common_mistake": "Students meristem aur permanent tissue ko confuse karte hain — meristem divides; permanent tissue generally does not divide after differentiation.",
+      "memory_trick": "M → D → P: Meristem Divides then becomes Permanent after Differentiation.",
+      "gesture_action": "Haath se 'divide-divide' gesture (meristem), phir freeze karke alag-alag poses (storage/support/transport) — differentiation to permanent roles.",
+      "real_life_examples": [
+        "Class 9 ke baad students alag streams choose karte hain — science/commerce — jaise cells differentiate",
+        "कच्चा तना soft; बाद में कुछ भाग लकड़ी जैसे मजबूत — cells permanent form ले लेते हैं"
+      ],
+      "worked_example": {
+        "problem": "विभेदीकरण किसे कहते हैं? विभज्योतक और स्थायी ऊतक में एक मुख्य अंतर लिखो।",
+        "steps": [
+          "विभेदीकरण = विशिष्ट कार्य हेतु स्थायी रूप और आकार लेना",
+          "विभज्योतक: विभाजित होती रहती हैं",
+          "स्थायी ऊतक: विभाजन क्षमता खोकर विशिष्ट कार्य करती हैं"
+        ],
+        "answer": "विभेदीकरण स्थायी रूप-आकार लेने की क्रिया है; विभज्योतक विभाजित होती है, स्थायी ऊतक सामान्यतः नहीं।"
+      },
+      "practice": {
+        "easy": [
+          "विभेदीकरण की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "तने के section में भिन्न प्रकार की कोशिकाएँ क्यों दिखती हैं?"
+        ],
+        "hard": [
+          "समझाओ: 'विभज्योतक की कोशिकाएँ विशिष्टीकृत होकर विभिन्न प्रकार के स्थायी ऊतक का विकास करती हैं।'"
+        ]
+      },
+      "summary": "विभज्योतक की कोशिकाएँ विभेदीकरण द्वारा स्थायी रूप लेकर स्थायी ऊतक बनाती हैं और विभाजन क्षमता खो देती हैं।",
+      "revision_point": "Differentiation → permanent tissue; lose power to divide; specialized function.",
+      "exam_tip": "Definition questions mein 'स्थायी रूप और आकार' + 'विशिष्ट कार्य' dono likho — incomplete definition se marks katte hain.",
+      "source_text_hint": "एक विशिष्ट कार्य करने के लिए स्थायी रूप और आकार लेने की क्रिया को विभेदीकरण कहते हैं"
+    },
+    {
+      "concept": "सरल स्थायी ऊतक",
+      "say": "एपिडर्मिस के नीचे कोशिकाओं की कुछ परतें — सरल स्थायी ऊतक. Teen stars yaad rakho: पैरेन्काइमा, कॉलेन्काइमा, स्क्लेरेन्काइमा. पैरेन्काइमा सबसे अधिक पाया जाने वाला simple permanent tissue hai. पतली कोशिका भित्ति, जीवित कोशिकाएँ, प्रायः बंधन मुक्त, मध्य में काफी रिक्त स्थान (intercellular spaces). मुख्य कार्य: भोजन का भंडारण. Agar क्लोरोफिल ho to प्रकाश संश्लेषण — ऐसे ऊतक को क्लोरेन्काइमा (हरित ऊतक) कहते हैं. जलीय पौधों में हवा की बड़ी गुहिकाएँ (air cavities) — ऐरेन्काइमा — जिससे पौधे जल में तैरते हैं. दूसरा: कॉलेन्काइमा — पौधों में लचीलापन. पत्ती, तना बिना टूटे मुड़ सकें; यांत्रिक सहायता भी. Epidermis ke neeche पर्णवृत mein milta hai. कोशिकाएँ जीवित, लंबी, कोनों पर अनियमित मोटी, बीच में बहुत कम स्थान. तीसरा: स्क्लेरेन्काइमा — पौधा कठोर एवं मजबूत. नारियल का रेशायुक्त छिलका isi se bana! कोशिकाएँ मृत, लंबी-पतली, भित्ति लिग्निन से इतनी मोटी कि अंदर अक्सर कोई आंतरिक स्थान नहीं. तने में, संवहन बंडल के समीप, पत्तों की शिराओं में, बीज-फल के कठोर छिलके में. Memory board: Parenchyma = storage/living/thin; Collenchyma = flexible living corners thick; Sclerenchyma = dead lignin hard (coconut). Exam favourite: नारियल का रेशा = स्क्लेरेन्काइमा.",
+      "example": "नारियल के छिलके के रेशे — स्क्लेरेन्काइमा (मृत, लिग्निन युक्त मोटी भित्ति)।",
+      "board_lines": [
+        "पैरेन्काइमा: जीवित, पतली भित्ति, भंडारण; क्लोरेन्काइमा; ऐरेन्काइमा",
+        "कॉलेन्काइमा: जीवित, कोनों पर मोटी → लचीलापन + यांत्रिक सहारा",
+        "स्क्लेरेन्काइमा: मृत, लिग्निन मोटी भित्ति → कठोरता (नारियल रेशा)"
+      ],
+      "common_mistake": "Students collenchyma aur sclerenchyma dono ko 'support' bolkar confuse karte hain — collenchyma living+flexible; sclerenchyma dead+hard lignified.",
+      "memory_trick": "PCS: Parenchyma Stores, Collenchyma Bends (flexible), Sclerenchyma Stones (hard dead).",
+      "gesture_action": "Soft sponge squeeze (parenchyma storage), rubber band bend (collenchyma), hard stick break-not-bend (sclerenchyma).",
+      "real_life_examples": [
+        "कमल/जलकमल पानी पर तैरना — ऐरेन्काइमा की हवा गुहिकाएँ",
+        "पत्ती का डंठल बिना टूटे हिलना — कॉलेन्काइमा का लचीलापन"
+      ],
+      "worked_example": {
+        "problem": "सरल ऊतकों के कितने प्रकार हैं? नारियल का रेशा किस ऊतक का बना होता है?",
+        "steps": [
+          "सरल स्थायी ऊतक के मुख्य प्रकार: पैरेन्काइमा, कॉलेन्काइमा, स्क्लेरेन्काइमा (तीन)",
+          "नारियल का रेशायुक्त छिलका कठोर/मजबूत → स्क्लेरेन्काइमा",
+          "कारण: मृत कोशिकाएँ, लिग्निन युक्त मोटी भित्ति"
+        ],
+        "answer": "सरल ऊतक मुख्यतः तीन प्रकार के; नारियल का रेशा स्क्लेरेन्काइमा का बना होता है।"
+      },
+      "practice": {
+        "easy": [
+          "पैरेन्काइमा का एक मुख्य कार्य लिखो।"
+        ],
+        "medium": [
+          "क्लोरेंकाइमा और ऐरेन्काइमा में अंतर स्पष्ट करो।"
+        ],
+        "hard": [
+          "कॉलेन्काइमा और स्क्लेरेन्काइमा की तुलना जीवित/मृत, भित्ति मोटाई और कार्य के आधार पर करो।"
+        ]
+      },
+      "summary": "सरल स्थायी ऊतक एक प्रकार की कोशिकाओं से बनते हैं — पैरेन्काइमा भंडारण, कॉलेन्काइमा लचीला सहारा, स्क्लेरेन्काइमा कठोर मृत सहारा।",
+      "revision_point": "PCS: Parenchyma living thin storage; Collenchyma living corner-thick flexible; Sclerenchyma dead lignified hard.",
+      "exam_tip": "नारियल रेशा = स्क्लेरेन्काइमा — almost guaranteed 1-mark; saath mein 'लिग्निन' aur 'मृत' zaroor likho.",
+      "source_text_hint": "पैरेन्काइमा सबसे अधिक पाया जाने वाला सरल स्थायी ऊतक है"
+    },
+    {
+      "concept": "एपिडर्मिस, स्टोमेटा और छाल",
+      "say": "Ab protective covering! Activity 6.3: रियो की ताज़ी पत्ती का छिलका अलग करो, सैफ्रैनिन डालो, microscope se dekho — सबसे बाहरी परत एपिडर्मिस. प्रायः एक कोशिका परत की बनी; शुष्क स्थानों के पौधों में मोटी हो सकती है — जल क्षय से बचाव. पौध्े की पूरी सतह cover karti hai, सभी भागों की रक्षा. बाह्य सतह पर प्रायः मोम जैसी जलरोधी परत — जल क्षय, यांत्रिक आघात, परजीवी कवक से रक्षा. रक्षा के लिए कोशिकाएँ बिना अंतर्कोशिकीय स्थान के अछिन्न परत बनाती हैं; प्रायः चपटी; बाह्य व पार्श्व भित्तियाँ आंतरिक से मोटी. पत्ती की एपिडर्मिस में छोटे छिद्र — स्टोमेटा. दो वृक्क आकार की रक्षी कोशिकाएँ घेरे रहती हैं. काम: वायुमंडल से गैसों का आदान-प्रदान; वाष्पोत्सर्जन भी स्टोमेटा से. याद करो — प्रकाश संश्लेषण के लिए CO₂ चाहिए! जड़ों की एपिडर्मल कोशिकाएँ पानी सोखती हैं; बाल जैसे प्रवर्ध (root hairs) से अवशोषक सतह बढ़ती है. मरुस्थलीय पौधों की बाहरी एपिडर्मिस पर क्यूटिन (जल अवरोधक) का लेप — पानी बचाने के लिए! जैसे-जैसे वृक्ष की आयु बढ़ती है, द्वितीयक विभज्योतक की पट्टी कॉर्टेक्स में कॉर्क बनाती है. छाल की कोशिकाएँ मृत, बिना अंतःकोशिकीय स्थान; भित्ति पर सुबेरिन — हवा एवं पानी के लिए अभेद्य. Old bark vs new stem outer layer — haan, alag hoti hai due to cork formation.",
+      "example": "रेगिस्तानी पौधे की मोटी क्यूटिन परत — पानी की कमी में वाष्पोत्सर्जन कम करने हेतु।",
+      "board_lines": [
+        "एपिडर्मिस: प्रायः एक परत, रक्षा, जलरोधी मोम/क्यूटिकल, अंतरकोशिकीय स्थान नहीं",
+        "स्टोमेटा + रक्षी कोशिकाएँ → गैस विनिमय + वाष्पोत्सर्जन",
+        "कॉर्क/छाल: मृत कोशिकाएँ + सुबेरिन → हवा/पानी अभेद्य"
+      ],
+      "common_mistake": "Students sochte hain stomata sirf साँस के लिए hain — actually gas exchange + transpiration; photosynthesis ke liye CO₂ stomata se aati hai.",
+      "memory_trick": "E-S-C: Epidermis Shields, Stomata Swap gases, Cork with suBerin Blocks.",
+      "gesture_action": "Palm se leaf surface cover (epidermis), do ungliyon se kidney-shaped guard cells banao aur chhed khol/band (stomata), phir fist tight (cork waterproof).",
+      "real_life_examples": [
+        "गर्म दोपहर में पत्ती का ठंडा महसूस — वाष्पोत्सर्जन स्टोमेटा से",
+        "पुराने पेड़ की फटी छाल — कॉर्क कोशिकाएँ मृत व सुबेरिन युक्त"
+      ],
+      "worked_example": {
+        "problem": "मरुस्थलीय पौधों की एपिडर्मिस पर क्यूटिन का लेप क्यों होता है? स्टोमेटा के दो कार्य लिखो।",
+        "steps": [
+          "मरुस्थल में जल दुर्लभ → जल क्षय रोकना आवश्यक",
+          "क्यूटिन जल अवरोधक लेप → वाष्पोत्सर्जन/जल हानि कम",
+          "स्टोमेटा: (i) गैसों का आदान-प्रदान (ii) वाष्पोत्सर्जन"
+        ],
+        "answer": "क्यूटिन जल हानि रोकता है; स्टोमेटा गैस विनिमय और वाष्पोत्सर्जन करते हैं।"
+      },
+      "practice": {
+        "easy": [
+          "स्टोमेटा को कौन-सी कोशिकाएँ घेरे रहती हैं?"
+        ],
+        "medium": [
+          "जड़ों की एपिडर्मिस पर रोम क्यों होते हैं?"
+        ],
+        "hard": [
+          "एपिडर्मिस और कॉर्क की तुलना — कोशिकाएँ जीवित/मृत, अंतरकोशिकीय स्थान, रक्षा का तरीका — तालिका में लिखो।"
+        ]
+      },
+      "summary": "एपिडर्मिस रक्षा व जल संरक्षण करती है; स्टोमेटा गैस विनिमय व वाष्पोत्सर्जन करते हैं; आयु के साथ कॉर्क (सुबेरिन) बाहरी सुरक्षा परत बनाता है।",
+      "revision_point": "Epidermis (cuticle) → stomata+guard cells → cork with suberin in older stems.",
+      "exam_tip": "सुबेरिन (cork) vs लिग्निन (sclerenchyma) vs क्यूटिन (epidermis) — teen alag waterproof/hard substances; confuse mat karna.",
+      "source_text_hint": "पत्ती की एपिडर्मिस में हम छोटे-छोटे छिद्रों को देख सकते हैं। इन छिद्रों को स्टोमेटा कहते हैं"
+    },
+    {
+      "concept": "जटिल स्थायी ऊतक – जाइलम और फ्लोएम",
+      "say": "Ab tak hum एक ही प्रकार की कोशिकाओं वाले ऊतक padhe — उन्हें साधारण/सरल स्थायी ऊतक कहते हैं. जटिल ऊतक एक से अधिक प्रकार की कोशिकाओं से मिलकर बनते हैं और एक इकाई की तरह कार्य करते हैं. मुख्य उदाहरण: जाइलम और फ्लोएम — इन्हें संवहन ऊतक भी कहते हैं; मिलकर संवहन बंडल बनाते हैं. ये जटिल पौधों को स्थलीय वातावरण में रहने के अनुकूल बनाते हैं. जाइलम के घटक: ट्रैकीड (वाहिनिका), वाहिका, जाइलम पैरेन्काइमा, जाइलम फाइबर (रेशे). ट्रैकीड एवं वाहिका की भित्ति मोटी; कई परिपक्व कोशिकाएँ मृत; नलिकाकार संरचना — पानी और खनिज लवण का ऊर्ध्वाधर संवहन. पैरेन्काइमा भोजन संग्रह; जाइलम रेशे मुख्यतः सहारा. फ्लोएम के पाँच अवयव: चालनी कोशिकाएँ, चालनी नलिका (sieve tubes), साथी कोशिकाएँ, फ्लोएम पैरेन्काइमा, फ्लोएम रेशे. चालनी नलिका छिद्रित भित्ति वाली नलिकाकार कोशिका. फ्लोएम पत्तियों से भोजन को पौधे के विभिन्न भागों तक पहुँचाता है. महत्वपूर्ण: फ्लोएम रेशों को छोड़कर फ्लोएम कोशिकाएँ जीवित हैं! Contrast board: Xylem = water+minerals UP (mostly dead tubes); Phloem = food from leaves (mostly living). Questions: सरल ऊतकों के प्रकार? प्ररोह शीर्षस्थ विभज्योतक कहाँ? नारियल रेशा? फ्लोएम के संघटक? — yeh NCERT in-text questions hain, revise karo.",
+      "example": "गर्मियों में पेड़ की जड़ से पत्तियों तक पानी — जाइलम; पत्ती में बना भोजन फलों तक — फ्लोएम।",
+      "board_lines": [
+        "जटिल ऊतक = एक से अधिक प्रकार की कोशिकाएँ, एक इकाई की तरह कार्य",
+        "जाइलम: ट्रैकीड, वाहिका, पैरेन्काइमा, रेशे → जल+खनिज ऊपर",
+        "फ्लोएम: चालनी कोशिका/नलिका, साथी कोशिका, पैरेन्काइमा, रेशे → भोजन वितरण (रेशे छोड़कर जीवित)"
+      ],
+      "common_mistake": "Students xylem-phloem ka direction reverse kar dete hain — xylem water up; phloem food from leaves to other parts (not only 'down').",
+      "memory_trick": "XYLEM = 'Zail' se paani Upper; PHLOEM = 'Flow' of Food from leaves.",
+      "gesture_action": "Ek haath neeche se upar (xylem water), doosra haath leaves se poore body ko point (phloem food distribution).",
+      "real_life_examples": [
+        "कटे हुए फूल को पानी की बोतल में रखने पर तना पानी सोखता है — जाइलम मार्ग",
+        "आम के पेड़ में पत्तों का रस फल तक पहुँचना — फ्लोएम"
+      ],
+      "worked_example": {
+        "problem": "फ्लोएम के संघटक कौन-कौन से हैं? जाइलम द्वारा किस पदार्थ का संवहन होता है?",
+        "steps": [
+          "फ्लोएम: चालनी कोशिकाएँ, चालनी नलिका, साथी कोशिकाएँ, फ्लोएम पैरेन्काइमा, फ्लोएम रेशे",
+          "जाइलम: पानी और खनिज लवण का ऊर्ध्वाधर संवहन",
+          "याद: फ्लोएम रेशों को छोड़कर शेष फ्लोएम कोशिकाएँ जीवित"
+        ],
+        "answer": "फ्लोएम के पाँच संघटक ऊपरोक्त; जाइलम जल एवं खनिज लवणों का ऊर्ध्वाधर संवहन करता है।"
+      },
+      "practice": {
+        "easy": [
+          "संवहन बंडल किन दो ऊतकों से बनता है?"
+        ],
+        "medium": [
+          "जाइलम के चार घटक लिखो और प्रत्येक का एक कार्य बताओ।"
+        ],
+        "hard": [
+          "सरल और जटिल स्थायी ऊतक में अंतर स्पष्ट करते हुए सिद्ध करो कि जाइलम जटिल ऊतक क्यों है।"
+        ]
+      },
+      "summary": "जाइलम और फ्लोएम जटिल संवहन ऊतक हैं — जाइलम जल-खनिज ऊपर ले जाता है, फ्लोएम पत्तियों से भोजन वितरित करता है।",
+      "revision_point": "Complex tissue = many cell types as one unit; Xylem water up; Phloem food from leaves; vascular bundle.",
+      "exam_tip": "फ्लोएम के 5 घटक list mein likho; 'रेशों को छोड़कर जीवित' line alag se highlight — 2–3 mark booster.",
+      "source_text_hint": "जाइलम और फ्लोएम इसी प्रकार के जटिल ऊतकों के उदाहरण हैं"
+    },
+    {
+      "concept": "जंतु ऊतक और एपिथीलियमी ऊतक",
+      "say": "Ab animal side! जब हम साँस लेते हैं तब छाती की गति महसूस होती है — ये अंग कैसे गति करते हैं? विशेष कोशिकाएँ — पेशीय कोशिकाएँ — फैलती और सिकुड़ती हैं, अंगों को गति देती हैं. साँस में ली गई ऑक्सीजन फेफड़ों द्वारा अवशोषित होकर रक्त के साथ सभी कोशिकाओं तक पहुँचती है. कोशिकाओं को ऑक्सीजन क्यों? माइटोकॉन्ड्रिया का कार्य याद करो — ऊर्जा उत्पादन! रक्त भोजन और ऑक्सीजन पहुँचाता है; अपशिष्ट पदार्थों को एकत्र कर यकृत तथा वृक्क तक उत्सर्जन हेतु ले जाता है. रक्त और पेशियाँ दोनों हमारे शरीर के ऊतकों के उदाहरण हैं. कार्य के आधार पर जंतु ऊतक: एपिथीलियमी ऊतक, संयोजी ऊतक, पेशीय ऊतक तथा तंत्रिका ऊतक. रक्त = संयोजी ऊतक का प्रकार; पेशी = पेशीय ऊतक. अब 6.3.1 एपिथीलियमी ऊतक: जंतु के शरीर को ढकने या बाह्य रक्षा देने वाले ऊतक. शरीर के अंदर बहुत से अंगों और गुहिकाओं को भी ढकते हैं; विभिन्न शारीरिक तंत्रों को अलग करने हेतु अवरोध बनाते हैं. त्वचा, मुँह, आहारनली, रक्त वाहिनी नली का अस्तर, फेफड़ों की कूपिका, वृक्कीय नली — सब एपिथीलियमी ऊतक से. कोशिकाएँ एक-दूसरे से सटी होती हैं और अनवरत परत बनाती हैं — protective continuous sheet, jaise plant epidermis! Chapter ke is hisse tak NCERT epithelial lining ke tightly packed nature tak pahunchta hai. Yaad rakho four animal tissue types — aage ke sections mein connective, muscular, nervous detail aati hai, lekin foundation yahin se.",
+      "example": "त्वचा का बाहरी आवरण — एपिथीलियमी ऊतक की निरंतर परत जो रक्षा करती है।",
+      "board_lines": [
+        "जंतु ऊतक: एपिथीलियमी, संयोजी, पेशीय, तंत्रिका",
+        "रक्त = संयोजी; पेशी = पेशीय ऊतक",
+        "एपिथीलियम: ढकना/रक्षा/अवरोध; कोशिकाएँ सटी → अनवरत परत"
+      ],
+      "common_mistake": "Students blood ko alag mystery substance samajhte hain — NCERT clearly kehta hai रक्त संयोजी ऊतक का एक प्रकार है.",
+      "memory_trick": "E-C-M-N: Epithelial Covers, Connective Connects (blood too!), Muscle Moves, Nerve Messages.",
+      "gesture_action": "Chest pe haath rakhkar saans lo (muscle movement), naadi pe pulse (blood connective), skin pe palm (epithelial cover).",
+      "real_life_examples": [
+        "दौड़ने पर साँस तेज — पेशीय गति + रक्त द्वारा ऑक्सीजन आपूर्ति",
+        "मुँह के अंदर का चिकना अस्तर — एपिथीलियमी ऊतक"
+      ],
+      "worked_example": {
+        "problem": "जंतु ऊतकों के चार प्रकार लिखो। रक्त और पेशी किस प्रकार के ऊतक हैं? एपिथीलियमी ऊतक का एक मुख्य गुण बताओ।",
+        "steps": [
+          "चार प्रकार: एपिथीलियमी, संयोजी, पेशीय, तंत्रिका",
+          "रक्त = संयोजी ऊतक; पेशी = पेशीय ऊतक",
+          "एपिथीलियम: कोशिकाएँ एक-दूसरे से सटी → अनवरत रक्षा परत"
+        ],
+        "answer": "चार प्रकार उपरोक्त; रक्त संयोजी व पेशी पेशीय ऊतक हैं; एपिथीलियम सटी कोशिकाओं की निरंतर परत बनाता है।"
+      },
+      "practice": {
+        "easy": [
+          "जंतु ऊतकों के चार मुख्य प्रकार के नाम लिखो।"
+        ],
+        "medium": [
+          "एपिथीलियमी ऊतक शरीर में कहाँ-कहाँ पाया जाता है? कोई चार स्थान लिखो।"
+        ],
+        "hard": [
+          "पौधे की एपिडर्मिस और जंतु के एपिथीलियमी ऊतक की तुलना सुरक्षा व कोशिका व्यवस्था के आधार पर करो।"
+        ]
+      },
+      "summary": "जंतु ऊतक चार प्रकार के होते हैं; रक्त संयोजी तथा पेशी पेशीय ऊतक हैं; एपिथीलियमी ऊतक सटी कोशिकाओं की परत से शरीर व अंगों की रक्षा व अस्तर बनाता है।",
+      "revision_point": "4 animal tissues: epithelial, connective (blood), muscular, nervous; epithelium = tightly packed continuous covering.",
+      "exam_tip": "'रक्त संयोजी ऊतक है' — short question favourite; epithelial locations ki list ready rakho (त्वचा, आहारनली, कूपिका, वृक्कीय नली).",
+      "source_text_hint": "जंतु के शरीर को ढकने या बाह्य रक्षा प्रदान करने वाले ऊतक एपिथीलियमी ऊतक हैं"
+    }
+  ]
+}
