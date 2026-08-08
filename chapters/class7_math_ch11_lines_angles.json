@@ -1,0 +1,431 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 730,
+    "chapter_name": "रेखा एवं कोण",
+    "chapter_number": 11,
+    "book_name": "Class 7 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 7",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Namaste! Aaj hum NCERT Class 7 Mathematics ke Chapter 11 — रेखा एवं कोण — padhenge. Pehle line segment, ray aur line ko clearly alag karenge; phir complementary (पूरक) aur supplementary (संपूरक) angles seekhenge. Uske baad intersecting lines, transversal (तिर्यक छेदी रेखा), aur jab parallel lines ko transversal kaatti hai toh corresponding aur alternate interior angles equal hote hain — yeh sab classroom examples aur numericals se samjhenge.",
+    "welcome": "Arre class, Smart Board par aaj Geometry ka maza aayega! Socho — blackboard stand, window ki jali, road crossing, railway track — har jagah lines milti hain aur angles bante hain. Teacher physically nahi hain is subject ke liye, lekin main tumhare saath bilkul school wali Hinglish mein padhaunga. Copy-pencil ready? Chalo shuru karte hain — रेखा एवं कोण!",
+    "learning_outcomes": [
+      "रेखाखंड, किरण और रेखा ko identify karke unke symbols/notation se naam dena",
+      "पूरक कोण (sum 90°) aur संपूरक कोण (sum 180°) ke pairs pehchanna aur measure nikalna",
+      "प्रतिच्छेदी रेखाएँ aur तिर्यक छेदी रेखा (transversal) samajhna",
+      "Transversal se bane corresponding, alternate interior/exterior aur same-side interior angles naam dena; parallel lines par corresponding aur alternate interior angles equal apply karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "भूमिका – रेखाखंड, रेखा और किरण"
+      },
+      {
+        "number": 2,
+        "name": "कोणों की पहचान – न्यून, अधिक और समकोण"
+      },
+      {
+        "number": 3,
+        "name": "पूरक कोण (Complementary Angles)"
+      },
+      {
+        "number": 4,
+        "name": "संपूरक कोण (Supplementary Angles)"
+      },
+      {
+        "number": 5,
+        "name": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण"
+      },
+      {
+        "number": 6,
+        "name": "प्रतिच्छेदी रेखाएँ"
+      },
+      {
+        "number": 7,
+        "name": "तिर्यक छेदी रेखा (Transversal)"
+      },
+      {
+        "number": 8,
+        "name": "तिर्यक छेदी रेखा द्वारा निर्मित कोण"
+      },
+      {
+        "number": 9,
+        "name": "समांतर रेखाओं की तिर्यक छेदी रेखा"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भूमिका – रेखाखंड, रेखा और किरण",
+      "say": "Bacchon, pehle soft revision — tum pehle se jaante ho ki kisi aakaar mein alag-alag रेखाएँ, रेखाखंडों aur कोणों ki pehchaan kaise hoti hai. Aaj Figure 5.1 jaisi aakritiyon mein line segments aur angles dhundhne ki practice karenge. Smarn karo — ek रेखाखंड ke do अंत बिंदु hote hain. Agar un do end-points ko apni-apni directions mein endlessly badha dein, toh hamein ek रेखा prapt hoti hai. Matlab रेखा ka koi अंत बिंदु nahi hota — dono taraf infinitely chalti hai. Doosri taraf, किरण ka ek hi अंत बिंदु hota hai — usko प्रारंभिक बिंदु kehte hain; ek taraf se shuru, doosri taraf endlessly. Figure 5.2 mein clearly dikhta hai: (i) रेखाखंड, (ii) रेखा, aur (iii) किरण. Notation yaad rakho — generally रेखाखंड AB ko AB, रेखा PQ ko PQ, aur किरण OC ko OC se likhte hain. Daily life se socho: pencil tip se tip tak stick jaisa piece — रेखाखंड; seedhi road dono taraf door tak — रेखा jaisi idea; torch ki light ek bulb se ek direction — किरण. Apne doston se discuss karo — ghar, school, khet mein kahan segment dikhta hai, kahan ray. Exam tip: diagram mein do endpoints marked means segment; ek endpoint plus arrow ek taraf means ray; dono taraf arrows means line. Pehle figure carefully dekho, phir naam do. Yeh foundation clear hogi toh aage angles aur intersecting lines bilkul soft lagenge. Har geometry figure padhte waqt pehle poocho — yeh segment hai, ray hai, ya full line? Class mein role-play: ek stick dikhaye for segment, ek torch chalaye for ray, ek chalk line dono taraf extend soche for line. Jab yeh teen clear ho jayein, chapter ka baaki hissa easy lagega. Ab next concept mein hum dekhenge jab yeh lines milti hain toh angles kaise bante hain.",
+      "example": "Blackboard ke left corner se right corner tak chalk se mark kiya hua piece — रेखाखंड; agar socho woh chalk line dono taraf endlessly badh rahi hai — रेखा; torch se wall tak light — किरण jaisa.",
+      "board_lines": [
+        "रेखाखंड: 2 अंत बिंदु | किरण: 1 प्रारंभिक बिंदु | रेखा: कोई अंत बिंदु नहीं",
+        "Fig 5.2: (i) रेखाखंड  (ii) रेखा  (iii) किरण",
+        "Notation: AB (segment), PQ (line), OC (ray) — अर्थ संदर्भ से"
+      ],
+      "common_mistake": "Bahut bacche किरण aur रेखाखंड ko mix kar dete hain — ray ka sirf ek endpoint hota hai aur ek direction mein infinitely jaati hai; segment ke do endpoints hote hain aur limited length hoti hai.",
+      "memory_trick": "S-R-L: Segment = Stick (do ends); Ray = Rocket (ek launch point); Line = Limitless both ways.",
+      "gesture_action": "Do ungliyan endpoints dikhao (segment); ek ungli se shuru karke door point karo (ray); dono haath opposite sides failao (line)",
+      "real_life_examples": [
+        "School ground ki race track start se finish — रेखाखंड; road dono taraf extend — रेखा jaisi",
+        "Mobile flashlight / torch beam — bulb se ek direction (किरण)"
+      ],
+      "worked_example": {
+        "problem": "Teen figures hain: (i) A aur B marked endpoints wala stick; (ii) point O se shuru karke arrow ek taraf; (iii) line dono taraf arrows ke saath. Inhe kram se naam do.",
+        "steps": [
+          "(i) Do अंत बिंदु A, B → रेखाखंड AB",
+          "(ii) Ek प्रारंभिक बिंदु O + ek direction → किरण",
+          "(iii) Koi endpoint nahi, dono taraf infinite → रेखा"
+        ],
+        "answer": "(i) रेखाखंड (ii) किरण (iii) रेखा"
+      },
+      "practice": {
+        "easy": [
+          "रेखाखंड aur किरण mein ek मुख्य अंतर batao."
+        ],
+        "medium": [
+          "Apne classroom se ek रेखाखंड aur ek किरण jaisa real example likho aur reason do."
+        ],
+        "hard": [
+          "Diagram mein teen objects: ruler edge (ends marked), sun ray sketch (ek start), railway track both ways. Har ek ko segment/ray/line classify karo."
+        ]
+      },
+      "summary": "रेखाखंड ke do endpoints, किरण ka ek starting point, aur रेखा endlessly dono taraf — pehle yeh teen clearly alag karo.",
+      "revision_point": "Segment = 2 ends; Ray = 1 end; Line = no ends.",
+      "exam_tip": "1-mark diagram sawaal mein arrows/endpoints dekh kar turant segment/ray/line decide karo.",
+      "source_text_hint": "एक रेखाखंड के दो अंत बिंदु होते हैं"
+    },
+    {
+      "concept": "कोणों की पहचान – न्यून, अधिक और समकोण",
+      "say": "Ab angles ki baat! Jab do रेखाएँ ya रेखाखंड milte hain, tab कोण निर्मित होता है. Figure 5.1 aur 5.3 mein corners — konon — ko carefully dekho. Jab do lines ya segments kisi बिंदु par pratichchhed karte hain, tab yeh corners bante hain. Example: Figure 5.3 (i) mein रेखाखंड PQ aur QR, बिंदु Q par milkar कोण PQR banate hain; QR aur PR बिंदु R par कोण PRQ banate hain. Figure 5.3 (ii) mein lines AB aur CD बिंदु O par intersect karke char kon banate hain — angle AOC, COB, BOD aur DOA. Notation: कोण PQR ko angle PQR likhte hain. Tip: middle letter vertex hota hai — Q yahan vertex. Tum pehle se padh chuke ho classification — न्यून कोण (acute) 90 degree se chhota, समकोण (right) bilkul 90 degree, अधिक कोण (obtuse) 90 se bada lekin 180 se chhota. Try activity from book: apne aas-paas das aakritiyan list karo aur unme acute, obtuse, right pehchano — window corner usually right angle, open book kabhi acute kabhi obtuse. Note from book: kon ke map ke sandarbh mein bhi hum aksar angle PQR hi likhte hain; context se clear ho jaata hai. Classroom mein haath se angle banao — do fingers thodi si kholi means acute; L shape means right; zyada kholi means obtuse. Pehle figure mein kitne angles hain count karo, phir type batao. Yeh pehchaan aage complementary-supplementary ke liye zaroori hai. Jab naming karo, arms ke letters outer, vertex beech mein. Revision drill: blackboard par teen angles draw karke class se type mangwao. Galat naam mat do — समकोण bilkul 90, usse thoda kam bhi acute, thoda zyada obtuse. Har figure se pehle labels padho, phir decide karo yeh acute hai ya obtuse.",
+      "example": "Classroom window ka corner — aam taur par समकोण 90 degree; half-open door wall se chhota angle — न्यून; door zyada khula toh अधिक कोण ban sakta hai.",
+      "board_lines": [
+        "Do lines/segments intersect → कोण बनते हैं (Fig 5.3)",
+        "Notation: ∠PQR — middle letter = vertex",
+        "न्यून < 90° | सम = 90° | अधिक > 90° (और < 180°)"
+      ],
+      "common_mistake": "Students angle PQR likhte waqt letters ka order galat rakhte hain — hamesha vertex beech mein hona chahiye; warna examiner confuse ho sakta hai.",
+      "memory_trick": "A-R-O: Acute = Acha chhota (<90); Right = Perfect L (90); Obtuse = Open zyada (>90).",
+      "gesture_action": "Do arms se V chhota (acute), L shape (right), wide open V (obtuse) dikhao",
+      "real_life_examples": [
+        "Blackboard stand / window frame ke corners — समकोण",
+        "Scissors kholne par blades ke beech banne wale angles — acute se obtuse tak"
+      ],
+      "worked_example": {
+        "problem": "Figure mein do lines AB aur CD, O par intersect karti hain. Banaye gaye char konon ke names likho (angle AOC type).",
+        "steps": [
+          "Intersection point O = common vertex",
+          "Rays OA, OB, OC, OD se char kon",
+          "Names: ∠AOC, ∠COB, ∠BOD, ∠DOA"
+        ],
+        "answer": "चार कोण: ∠AOC, ∠COB, ∠BOD, ∠DOA (शीर्ष O)"
+      },
+      "practice": {
+        "easy": [
+          "न्यून कोण aur अधिक कोण ki definition ek-ek line mein likho."
+        ],
+        "medium": [
+          "Apne bag ke das shapes list karke har ek mein ek acute ya right ya obtuse angle identify karo."
+        ],
+        "hard": [
+          "Triangle ABC mein agar angle B = 90 degree, toh angle A aur C kis type ke ho sakte hain? Reason do."
+        ]
+      },
+      "summary": "Lines milne par angles bante hain; angle ABC mein B vertex; classify as न्यून, सम या अधिक.",
+      "revision_point": "Vertex beech mein; acute <90, right =90, obtuse >90.",
+      "exam_tip": "Diagram questions mein pehle vertex mark karo, phir arms padho — naming mein marks bachta hai.",
+      "source_text_hint": "जब दो रेखाएँ अथवा रेखाखंड किसी बिंदु पर प्रतिच्छेद करते हैं"
+    },
+    {
+      "concept": "पूरक कोण (Complementary Angles)",
+      "say": "Ab related angles — संबंधित कोण — ka pehla important pair: पूरक कोण. Rule simple hai — jab do konon ke mapon ka yog 90 degree hota hai, toh yeh kon पूरक कोण, English mein complementary angles, kehlate hain. Jab do angles complementary hote hain, toh har ek doosre ka पूरक kehlata hai. Figure 5.4 dekho — 30 degree wala angle, 60 degree wale angle ka complement hai, aur ulta bhi — because 30 + 60 = 90. Think-discuss-write se important sawaal: (1) Kya do न्यून कोण ek doosre ke complementary ho sakte hain? Haan — jaise 30 aur 60, dono acute. (2) Kya do अधिक कोण complementary ho sakte hain? Nahi — kyunki har obtuse 90 se bada, unka sum 180 se bhi zyada, 90 nahi banega. (3) Kya do समकोण complementary? Nahi — 90+90=180, jo 90 nahi. Practice: 45 ka complement = 90-45 = 45; 65 ka = 25; 41 ka = 49; 54 ka = 36. Numerical: do complementary angles ka difference 12 degree hai — find measures. Let smaller = x, larger = x+12; x+(x+12)=90 gives 2x=78 so x=39, larger=51. Figure 5.5 jaisi pairs mein check karo sum 90 hai ya nahi. Yaad rakho — complementary hone ke liye angles adjacent hona zaroori nahi; sirf measures ka sum 90 chahiye. Classroom mein: wall corner 90 ko do parts mein baanto — woh pair complementary. Exam mein formula: complement of theta = 90 minus theta. Negative answer aaye toh samajh lo angle 90 se bada tha — complementary possible nahi. Roz paanch random angles ke complements nikaalo — calculation speed badhegi aur confusion kam hogi.",
+      "example": "Corner of a book stand 90 degree hai; agar ek part 35 mark karo toh doosra part 55 — yeh pair complementary hai.",
+      "board_lines": [
+        "पूरक (Complementary): ∠A + ∠B = 90°",
+        "Complement of θ = 90° − θ",
+        "Example: 30° ↔ 60°; 45° ↔ 45°"
+      ],
+      "common_mistake": "Students kabhi-kabhi complementary ko 180 degree wale pair se confuse kar dete hain — 90 = complementary (पूरक), 180 = supplementary (संपूरक).",
+      "memory_trick": "C for Corner of square = 90° → Complementary. PUrak → Perfect Unit right angle.",
+      "gesture_action": "Do haathon se L (90°) banao, phir us L ko do acute pieces mein todo — complementary pair",
+      "real_life_examples": [
+        "Set-square ke 30°–60°–90° triangle mein 30° aur 60° complementary",
+        "Window frame ka right angle do wooden strips se divide — unke angles sum 90°"
+      ],
+      "worked_example": {
+        "problem": "Do पूरक कोणों के मापों का अंतर 12° है। कोणों के माप ज्ञात कीजिए।",
+        "steps": [
+          "Chhote कोण = x°, bade = (x + 12)°",
+          "Complementary: x + (x + 12) = 90",
+          "2x + 12 = 90 → 2x = 78 → x = 39; bada = 51"
+        ],
+        "answer": "39° और 51°"
+      },
+      "practice": {
+        "easy": [
+          "65° के पूरक का माप क्या है?"
+        ],
+        "medium": [
+          "Kya 100° aur 20° complementary ho sakte hain? Why/why not?"
+        ],
+        "hard": [
+          "Aisa कोण ज्ञात करो जो अपने पूरक के समान हो।"
+        ]
+      },
+      "summary": "Do angles complementary jab unka yog 90° ho; har ek doosre ka पूरक kehlata hai.",
+      "revision_point": "Complement of θ = 90° − θ; dono obtuse complementary nahi ho sakte.",
+      "exam_tip": "Word problems mein 'पूरक' dikhte hi turant sum = 90 likh do — equation set karna easy ho jaata hai.",
+      "source_text_hint": "जब दो कोणों के मापों का योग 90° होता है"
+    },
+    {
+      "concept": "संपूरक कोण (Supplementary Angles)",
+      "say": "Ab doosra related pair — संपूरक कोण, English mein supplementary angles. Figure 5.6 jaisi pairs dekho — har pair mein konon ke mapon ka yog 180 degree aata hai. Aise pairs संपूरक kehlate hain. Jab do angles supplementary hote hain, har ek doosre ka संपूरक kehlata hai. Formula: supplement of theta = 180 minus theta. Think-discuss: (1) Kya do अधिक कोण supplementary ho sakte hain? Nahi — do obtuse ka sum 180 se zyada hota hai. (2) Do न्यून? Dono acute ka sum 180 se kam rehta hai — so nahi. (3) Do समकोण? 90+90=180 — haan! Yeh important result hai. Practice measures: 100 ka supplement = 80; 90 ka = 90; 55 ka = 125; 125 ka = 55. Numerical: do supplementary angles mein bada, chhote se 44 degree adhik hai. Smaller x, larger x+44; x+(x+44)=180 gives 2x=136 so x=68, larger=112. Figure 5.7 mein pairs identify karo jinka sum 180. Special note: agar do आसन्न कोण संपूरक hain, toh we रैखिक युग्म (linear pair) banate hain — straight line par adjacent plus sum 180. Yeh baad mein exercise fill-ups mein aayega. Classroom: seedhi table edge ek straight angle 180 — usko do parts mein baanto, woh supplementary. Confusion door rakho: पूरक equals 90 (P for Plus to right angle), संपूरक equals 180 (S for Straight). Roz drill: random angle lo, pehle complement, phir supplement nikaalo — dono formulas alag yaad rahenge. Jab figure mein straight line dikhe, socho — adjacent angles wahan supplementary ho sakte hain. Yeh concept intersecting lines aur linear pair naming mein baar-baar use hoga.",
+      "example": "Straight road (180°) par ek slanted stick gira — stick ke dono taraf ke angles ka sum 180° — woh supplementary pair.",
+      "board_lines": [
+        "संपूरक (Supplementary): ∠A + ∠B = 180°",
+        "Supplement of θ = 180° − θ",
+        "दो समकोण संपूरक होते हैं (90°+90°=180°)"
+      ],
+      "common_mistake": "Students sochte hain do acute angles bhi supplementary ho sakte hain — galat; do acute ka sum hamesha 180 se kam hota hai.",
+      "memory_trick": "S for Straight / संपूरक = 180°. P for Perfect right / पूरक = 90°.",
+      "gesture_action": "Dono arms seedhi ek line mein failao (180°), phir ek elbow se todo — do parts supplementary",
+      "real_life_examples": [
+        "Open book bilkul flat table par — pages ke beech lagbhag 180°; thoda fold karo toh do supplementary parts",
+        "Seedhi wall edge par leaning stick — dono taraf ke angles sum 180°"
+      ],
+      "worked_example": {
+        "problem": "दो संपूरक कोणों में बड़े कोण का माप छोटे कोण के माप से 44° अधिक है। कोणों के माप ज्ञात कीजिए।",
+        "steps": [
+          "Chhota = x°, bada = (x + 44)°",
+          "Supplementary: x + x + 44 = 180",
+          "2x = 136 → x = 68; bada = 112"
+        ],
+        "answer": "68° और 112°"
+      },
+      "practice": {
+        "easy": [
+          "125° के संपूरक का माप क्या होगा?"
+        ],
+        "medium": [
+          "Kya do समकोण संपूरक हो सकते हैं? Reason with numbers."
+        ],
+        "hard": [
+          "Aisa कोण ज्ञात करो जो अपने संपूरक के समान हो।"
+        ]
+      },
+      "summary": "संपूरक angles ka sum 180°; do right angles supplementary hote hain; do acute ya do obtuse supplementary nahi.",
+      "revision_point": "Supplement = 180 − θ; adjacent + supplementary → रैखिक युग्म.",
+      "exam_tip": "'संपूरक' word dekhte hi equation mein = 180 likho; 'पूरक' par = 90 — mix mat karna.",
+      "source_text_hint": "कोणों के मापों का योग 180° पाया जाता है"
+    },
+    {
+      "concept": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+      "say": "Ab Exercise style practice — bilkul NCERT prashnavali 5.1 jaisi soch. Pehle: har angle ka पूरक nikaalo — matlab 90 minus that angle. Phir har ka संपूरक — 180 minus. Teesra: pairs alag-alag identify karo — complementary ya supplementary. Example pairs from book: (i) 65 aur 115 → sum 180 → संपूरक; (ii) 63 aur 27 → sum 90 → पूरक; (iii) 112 aur 68 → 180 → संपूरक; (iv) 130 aur 50 → 180 → संपूरक; (v) 45 aur 45 → 90 → पूरक; (vi) 80 aur 10 → 90 → पूरक. Special finds: aisa angle jo apne पूरक ke barabar — x = 90 − x → 2x = 90 → x = 45. Aisa jo apne संपूरक ke barabar — x = 180 − x → 2x = 180 → x = 90. Figure mein angle 1 aur angle 2 supplementary hain; agar angle 1 kam hota hai toh angle 2 badhana padega taaki sum 180 rahe. Can two angles be supplementary if both acute? No. Both obtuse? No. Both right? Yes. Agar ek angle 45 se bada hai, uska complement 45 se chhota hoga — because sum fixed 90. Fill-ups: complementary sum = 90; supplementary sum = 180; agar do आसन्न कोण संपूरक hain toh we रैखिक युग्म banate hain. Naming pairs in figure: vertically opposite obtuse; adjacent complementary; equal supplementary; unequal supplementary; adjacent jo linear pair nahi banate. Yeh saare points exam mein one-two mark fill ya MCQ banate hain. Practice roz paanch pairs sum check karke — speed badhegi. Jab confusion ho, dimag se 90/180 minus karo. Teacher tip: pehle sum likho, phir label — guess se mat jao. Yeh drill chapter ke numericals ke liye muscle memory banati hai.",
+      "example": "Pair check drill: 45+45=90 → पूरक; 90+90=180 → संपूरक; 100+80=180 → संपूरक; 70+20=90 → पूरक.",
+      "board_lines": [
+        "पूरक युग्म: sum = 90° | संपूरक युग्म: sum = 180°",
+        "अपने पूरक के समान: 45° | अपने संपूरक के समान: 90°",
+        "आसन्न + संपूरक ⇒ रैखिक युग्म (linear pair)"
+      ],
+      "common_mistake": "65° aur 115° ko complementary bol dena — sum 180 hai, yeh supplementary hain, complementary nahi.",
+      "memory_trick": "Equal to own complement → half of 90 = 45; equal to own supplement → half of 180 = 90.",
+      "gesture_action": "Ek haath 45° show (self-complement); dono arms se do right angles (self-supplement pair)",
+      "real_life_examples": [
+        "Door almost closed (chhota angle) vs almost open — complementary/supplementary intuition se compare",
+        "Two tiles meeting at corner making 90° vs two roads making straight 180°"
+      ],
+      "worked_example": {
+        "problem": "Pairs identify karo — पूरक या संपूरक: (a) 63°, 27° (b) 130°, 50° (c) 45°, 45°",
+        "steps": [
+          "(a) 63+27=90 → पूरक",
+          "(b) 130+50=180 → संपूरक",
+          "(c) 45+45=90 → पूरक"
+        ],
+        "answer": "(a) पूरक (b) संपूरक (c) पूरक"
+      },
+      "practice": {
+        "easy": [
+          "यदि दो कोण पूरक हैं, तो उनके मापों का योग ____ है।"
+        ],
+        "medium": [
+          "एक कोण 45° से बड़ा है। क्या इसका पूरक 45° से बड़ा, बराबर या छोटा होगा?"
+        ],
+        "hard": [
+          "∠1 और ∠2 संपूरक हैं। यदि ∠1 में 10° कमी हो, तो ∠2 में कितनी वृद्धि चाहिए कि वे संपूरक रहें?"
+        ]
+      },
+      "summary": "Exercise drill: sum 90/180 se pair type; 45°=own complement; 90°=own supplement; adjacent+supplementary=linear pair.",
+      "revision_point": "Fill-up trio: 90°, 180°, रैखिक युग्म — yaad rakhna exam ke liye.",
+      "exam_tip": "Identify questions mein pehle sum nikaalo, phir label — guess mat lagao.",
+      "source_text_hint": "यदि दो आसन्न कोण संपूरक हैं, तो वे"
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ",
+      "say": "Ab section rekha-yugm. Pehla idea: प्रतिच्छेदी रेखाएँ, intersecting lines. Stand par rakha blackboard, line segments se bana letter X, window ka jali-darwaza — in sab mein common kya? Yeh intersecting lines ke examples hain (Figure 5.8). Definition: do rekhaen l aur m pratichchhed karti hain agar unme ek बिंदु ubhaynisthth ho. Woh common point unka pratichchhed bindu kehlata hai. Important soch: kya do lines ya segments zaruri intersect karein? Nahi — kabhi parallel, kabhi alag alag. Kya figure mein aise segment pairs mil sakte hain jo intersect nahi karte? Haan. Aur deep sawaal — kya do distinct lines ek se zyada binduon par intersect kar sakti hain? Agar do points common hon toh woh same line ban jaati hain; do alag lines at most ek point par milti hain. Try: aas-paas examples jahan lines sam kon (90) par intersect karti hain — window frame, notebook edges, plus sign. Equilateral triangle ke vertices par intersecting lines se bane angles 60 degree hote hain. Rectangle banao — charon shirshon par angles 90. Last: agar do lines intersect karti hain, kya hamesha right angles par? Nahi — kabhi acute-obtuse pairs, kabhi right. Figure thinking: AB aur DE, C par intersect; AB aur DB, B par; AB aur EB, B par — aur dusre ten pairs dhundho. Classroom activity: do pencils cross karo — intersection point ungli se pakdo. Exam mein intersecting ka matlab sirf cut nahi — precisely common point hona. Jab diagram mein cross dikhe, pehle intersection point label karo, phir angles count karo. Yeh foundation transversal ke liye bhi kaam aayegi. Yaad rakho: intersecting hona aur perpendicular hona alag baatein hain.",
+      "example": "Letter X chalk se blackboard par — do segments cross, unka meeting point प्रतिच्छेद बिंदु.",
+      "board_lines": [
+        "प्रतिच्छेदी रेखाएँ: एक उभयनिष्ठ बिंदु = प्रतिच्छेद बिंदु",
+        "दो भिन्न रेखाएँ अधिकतम एक बिंदु पर मिलती हैं",
+        "Intersect हमेशा 90° पर नहीं — कभी acute/obtuse भी"
+      ],
+      "common_mistake": "Students maan lete hain intersecting lines hamesha perpendicular hoti hain — galat; perpendicular special case hai jab angle 90° ho.",
+      "memory_trick": "I for Intersect = I-point common — ek hi milaan bindu.",
+      "gesture_action": "Do pencils/pens ko cross karke intersection point ungli se chhuo",
+      "real_life_examples": [
+        "Window ki jali / grill — bars cross karke intersecting lines",
+        "Road crossing / chauraha — do roads milti hain"
+      ],
+      "worked_example": {
+        "problem": "Do distinct lines P aur Q teen alag points par intersect karti dikhai dein — kya possible hai? Why?",
+        "steps": [
+          "Agar do points common → lines coincident (same line)",
+          "Distinct lines at most one common point",
+          "Isliye teen points par intersect impossible for distinct lines"
+        ],
+        "answer": "संभव नहीं — दो भिन्न रेखाएँ एक से अधिक बिंदु पर नहीं मिल सकतीं।"
+      },
+      "practice": {
+        "easy": [
+          "प्रतिच्छेद बिंदु किसे कहते हैं?"
+        ],
+        "medium": [
+          "Apne ghar/school se do udaharan likho jahan rekhaen samakon par pratichchhed karti hain."
+        ],
+        "hard": [
+          "आयत ke char shirshon par pratichchhedi rekhaon dwara bane konon ke map kya honge?"
+        ]
+      },
+      "summary": "Intersecting lines share exactly one point (if distinct); perpendicular sirf tab jab angle 90°.",
+      "revision_point": "Common point = intersection; do lines ≠ many intersections.",
+      "exam_tip": "Reasoning sawaal: Can two lines intersect at two points? Answer no with definition.",
+      "source_text_hint": "दो रेखाएँ l और m प्रतिच्छेद करती हैं यदि उनमें एक बिंदु उभयनिष्ठ है"
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा (Transversal)",
+      "say": "Bacchon, kabhi dekha hai ek road do ya zyada roads ko cross karti hui? Ya ek railway track kai tracks ko kaatti hui? Usse तिर्यक छेदी रेखा — transversal — ka anubhav milta hai (Figure 5.10). Definition bilkul clear: ek aisi rekha jo do athava adhik rekhaon ko bhinna binduon par pratichchhed karti hai, tiryak chhedi rekha kehlati hai. Figure 5.11 mein line t, lines l aur m ki transversal hai — kyunki l aur m ko alag-alag points par kaatti hai. Figure 5.12 mein carefully: line t transversal nahi hai, halanki woh lines ko kaatti hai — book poochti hai kya tum bata sakte ho why? Transversal hone ke liye do ya zyada lines ko DIFFERENT points par intersect karna zaroori hai; agar cutting same point par ho ya definition fail ho, toh transversal nahi kehte. Try: do given lines ke liye kitni transversals khinch sakte ho? Bahut si — infinitely many, alag-alag directions se. Agar ek line teen lines ki transversal hai, toh teen intersection points honge jab teen alag lines hon. Aas-paas transversal dhundho — railing jo bars ko kaatti hai, zebra crossing par diagonal mark, copy ke margin line jo ruled lines ko kaatti hai. Note: transversal ke liye neeche wali lines parallel hona zaroori nahi — pehle general definition, baad mein parallel case special results deta hai. Classroom: teen students almost parallel khade, ek student diagonally cross karke sabko touch kare — wahi transversal idea. Next concept mein isi transversal se banne wale eight angles ke names seekhenge — corresponding, alternate interior, wagaira. Pehle definition strong rakho. Key phrase exam mein likho: bhinna binduon par.",
+      "example": "Notebook ki horizontal ruled lines ko vertical margin line kaatti hai — margin line un lines ki transversal hai.",
+      "board_lines": [
+        "तिर्यक छेदी रेखा (Transversal): 2+ रेखाओं को भिन्न बिंदुओं पर काटती है",
+        "Fig 5.11: t is transversal to l and m",
+        "Fig 5.12: t transversal नहीं हो सकती — भिन्न बिंदु शर्त जाँचो"
+      ],
+      "common_mistake": "Students sochte hain transversal sirf parallel lines ke liye hoti hai — nahi; pehle general definition hai, parallel case baad mein special properties deta hai.",
+      "memory_trick": "Trans-PORTAL: ek line jo kai lines ke darwazon se alag-alag points par guzarti hai.",
+      "gesture_action": "Do parallel arms horizontal rakho, teesri arm diagonally kaato — transversal gesture",
+      "real_life_examples": [
+        "Railway: ek track kai tracks ko crossing point par kaatta hai",
+        "Road crossing multiple parallel lanes diagonally"
+      ],
+      "worked_example": {
+        "problem": "Yadi ek rekha teen rekhaon ki tiryak chhedi rekha hai, toh kitne pratichchhedan bindu hain?",
+        "steps": [
+          "Transversal har line ko alag point par kaatti hai",
+          "Teen lines → teen distinct intersection points (samanya sthiti)",
+          "Answer 3"
+        ],
+        "answer": "3 प्रतिच्छेदन बिंदु"
+      },
+      "practice": {
+        "easy": [
+          "तिर्यक छेदी रेखा की परिभाषा अपने शब्दों में लिखो।"
+        ],
+        "medium": [
+          "Do di hui rekhaon ke liye kya keval ek hi transversal sambhav hai? Explain."
+        ],
+        "hard": [
+          "Figure 5.12 jaisi situation sochkar explain karo kab cutting line transversal count nahi hoti."
+        ]
+      },
+      "summary": "Transversal = line that cuts two or more lines at distinct points; parallel hona zaroori nahi.",
+      "revision_point": "Key word: भिन्न बिंदुओं पर — distinct intersection points.",
+      "exam_tip": "Definition wale 1-mark mein 'भिन्न बिंदुओं' phrase zaroor likho.",
+      "source_text_hint": "एक ऐसी रेखा जो दो अथवा अधिक रेखाओं को भिन्न बिंदुओं पर प्रतिच्छेद करती है"
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+      "say": "Figure 5.13 dekho — lines l aur m ko transversal t kaat rahi hai, aur 1 se 8 tak angles mark hain. Inke special names yaad karne hain — exam favourite! अंतःकोण (interior angles): angle 3, 4, 5, 6 — yeh do lines ke beech wale. बाह्य कोण (exterior): angle 1, 2, 7, 8 — bahar wale. संगत कोणों के युग्म (corresponding angles): 1 aur 5, 2 aur 6, 3 aur 7, 4 aur 8. एकांतर अंतः कोण (alternate interior): 3 aur 6, 4 aur 5. एकांतर बाह्य कोण (alternate exterior): 1 aur 8, 2 aur 7. तिर्यक छेदी रेखा के एक ही तरफ बने अंतःकोण (same-side interior): 3 aur 5, 4 aur 6. Notes from book — corresponding angles jaise 1 aur 5: (i) different vertices, (ii) transversal ke same side, (iii) do lines ke relative corresponding positions — upar/neeche ya left/right. Alternate interior jaise 3 aur 6: (i) different vertices, (ii) transversal ke opposite sides, (iii) do lines ke beech middle mein. Memory: corresponding = same F shape position; alternate interior = Z shape; same-side interior = C ya U shape. Practice naming bina measure ke — pehle names clear, baad mein parallel case mein equality aayegi. Board par 8 angles number karke har pair highlight karo. Common confusion: interior vs exterior — beech mein = interior. Same-side interior ko alternate mat bolna. Roz ek rough figure banao, pairs list karo — do minute drill. Jab sawaal aaye corresponding batao, pehle transversal same side check karo, phir matching corner. Yeh naming next concept ke parallel-line results ke liye foundation hai. Class mein har student ek pair type bolkar figure par ungli rakhe — active revision.",
+      "example": "Railway crossing jahan ek diagonal road do tracks ko kaatti hai — wahan 8 angles banenge; corresponding pair same corner position mein dikhenge.",
+      "board_lines": [
+        "Interior: 3,4,5,6 | Exterior: 1,2,7,8",
+        "Corresponding: (1,5)(2,6)(3,7)(4,8)",
+        "Alt. interior: (3,6)(4,5) | Alt. exterior: (1,8)(2,7) | Same-side int.: (3,5)(4,6)"
+      ],
+      "common_mistake": "Alternate interior aur corresponding ko mix karna — corresponding same side of transversal plus matching position; alternate interior opposite sides of transversal plus between the two lines.",
+      "memory_trick": "F-shape → Corresponding; Z-shape → Alternate interior; C/U-shape → Same-side interior.",
+      "gesture_action": "Air mein F, Z aur C shapes finger se banao — har shape ke matching angle pair yaad karo",
+      "real_life_examples": [
+        "Window grill mein slanted bar horizontal bars ko kaate — 8 angles naming practice",
+        "Notebook margin cutting ruled lines — corresponding corners same look"
+      ],
+      "worked_example": {
+        "problem": "Transversal figure mein ∠3 aur ∠6 kaise related hain? ∠1 aur ∠5? ∠3 aur ∠5?",
+        "steps": [
+          "∠3 aur ∠6: beech mein + transversal ke opposite sides → एकांतर अंतः कोण",
+          "∠1 aur ∠5: corresponding positions / same side of transversal → संगत कोण",
+          "∠3 aur ∠5: interior + same side of transversal → एक ही तरफ अंतःकोण"
+        ],
+        "answer": "∠3,∠6 = alternate interior; ∠1,∠5 = corresponding; ∠3,∠5 = same-side interior"
+      },
+      "practice": {
+        "easy": [
+          "अंतःकोण कौन-से हैं अगर angles 1 से 8 तक standard marking हो?"
+        ],
+        "medium": [
+          "संगत कोणों की तीन विशेषताएँ लिखो (NCERT note jaisi)।"
+        ],
+        "hard": [
+          "Ek rough figure banao aur charon corresponding pairs number karke list karo."
+        ]
+      },
+      "summary": "Transversal 8 angles banata hai — interior/exterior, corresponding, alternate interior/exterior, same-side interior — pehle names master karo.",
+      "revision_point": "F→corresponding, Z→alt. interior, C→same-side interior.",
+      "exam_tip": "Naming questions mein pehle figure redraw karke 1–8 number karo, phir pair type likho.",
+      "source_text_hint": "संगत कोणों के युग्म ∠1 और ∠5"
+    },
+    {
+      "concept": "समांतर रेखाओं की तिर्यक छेदी रेखा",
+      "say": "Ab sabse interesting part! Pehle recall — समांतर रेखाएँ plane mein aisi lines hain jo ek doosre se kabhi nahi milti. Figure 5.16 mein parallel pairs identify karo. Activity Figure 5.17: ruled paper par do thick colourful parallel lines l aur m khincho, transversal t kaato, angle 1 aur 2 label karo. Tracing paper se copy banao, transversal ke along slide karo jab tak l, m coincide na ho — tum pate ho copied angle 1 original angle 2 se sanpati ho jaata hai. Yeh fact illustrate karta hai: yadi do samantar rekhaen kisi tiryak chhedi rekha dwara kati jati hain, toh sangat konon ke pratyek yugm ka map saman hota hai. Tracing se verify: angle1=angle2, 3=4, 5=6, 7=8 corresponding pairs. Isse doosra result Figure 5.18: jab parallels l, m transversal t se cut hoti hain, angle 3 = angle 7 vertically opposite, aur angle 7 = angle 8 corresponding, isliye angle 3 = angle 8. Similarly angle 1 = angle 6. Conclusion: yadi do samantar rekhaen kisi tiryak chhedi rekha dwara kati jati hain, toh antah ekantar konon ka pratyek yugm saman hota hai. Yaad rakho — yeh results TAB jab lines PARALLEL hon; bina parallel ke corresponding equal hona zaroori nahi. Exam golden rules: parallel plus transversal implies corresponding equal; parallel plus transversal implies alternate interior equal. Numericals mein ek angle diya ho toh chain: corresponding, then vertically opposite, then alternate. Classroom check: scale se parallel lines, protractor se measure — equality feel hogi. Revision: non-parallel par names same rehte hain, equality nahi. Chapter wrap: segment-ray-line se shuru karke parallel-transversal results tak — geometry ka strong base ready! In do results ko copy mein box karke likh lo — sabse zyada marks yahin se aate hain.",
+      "example": "Railway ke do parallel tracks ko ek crossing road kaatti hai — corresponding angles equal dikhte hain; model par measure karke check kar sakte ho.",
+      "board_lines": [
+        "समांतर रेखाएँ: कभी नहीं मिलतीं",
+        "Parallel + Transversal ⇒ संगत कोण equal",
+        "Parallel + Transversal ⇒ एकांतर अंतः कोण equal"
+      ],
+      "common_mistake": "Bina parallel verify kiye corresponding angles equal maan lena — equality parallel hone par hi guaranteed hai is chapter ke results ke according.",
+      "memory_trick": "P-T-C-A: Parallel + Transversal → Corresponding equal, Alternate-interior equal.",
+      "gesture_action": "Do parallel arms, teesri diagonal; corresponding corners pe ungli rakhkar equal bolo",
+      "real_life_examples": [
+        "Ruled notebook lines (parallel) + margin (transversal) — corresponding corners equal angles",
+        "Parallel fencing wires crossed by a diagonal support bar"
+      ],
+      "worked_example": {
+        "problem": "दो समांतर रेखाएँ transversal से कटी हैं। यदि एक संगत कोण 110° है, तो उसके संगत युग्म का माप क्या होगा? यदि एकांतर अंतः कोण में एक 70° है तो दूसरा?",
+        "steps": [
+          "Rule: parallel ⇒ corresponding angles equal → doosra corresponding = 110°",
+          "Rule: parallel ⇒ alternate interior equal → doosra = 70°",
+          "Bonus: 110° ka adjacent linear pair 70° ho sakta hai straight line par"
+        ],
+        "answer": "संगत युग्म = 110°; एकांतर अंतः युग्म का दूसरा = 70°"
+      },
+      "practice": {
+        "easy": [
+          "समांतर रेखाओं की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "Tracing-slide activity ka conclusion ek vakya mein likho (corresponding angles)."
+        ],
+        "hard": [
+          "Diya: l ∥ m, transversal t. ∠3 = ∠7 (vertically opposite) aur ∠7 = ∠8 (corresponding). Samjhao ki ∠3 = ∠8 (alternate interior)."
+        ]
+      },
+      "summary": "Parallel lines + transversal ⇒ corresponding angles equal aur alternate interior angles equal — chapter ka key result.",
+      "revision_point": "दो परिणाम याद रखो: संगत समान; एकांतर अंतः समान — केवल समांतर होने पर।",
+      "exam_tip": "Numericals mein pehle l ∥ m likho, phir reason corresponding angles ya alternate interior angles clearly mention karo — marks ke liye.",
+      "source_text_hint": "यदि दो समांतर रेखाएँ किसी तिर्यक छेदी रेखा द्वारा काटी जाती हैं, तो संगत कोणों"
+    }
+  ]
+}
