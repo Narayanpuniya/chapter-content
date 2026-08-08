@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 439,
+    "chapter_name": "हमारे आस-पास की आर्थिक गतिविधियाँ",
+    "chapter_number": 14,
+    "book_name": "Class 6 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum आर्थिक गतिविधियों ko समझेंगे — jo मौद्रिक मूल्य (money value) पैदा करती हैं — aur unhe तीन मुख्य क्षेत्रों में वर्गीकृत करेंगे: प्राथमिक, द्वितीयक और तृतीयक. Hum देखेंगे कि ये क्षेत्र कैसे एक-दूसरे से जुड़े हैं, और अमूल (आणंद) की डेयरी सहकारिता की कहानी से 'खेत से थाली तक' का पूरा सफर समझेंगे।",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 6 Social Science ka Chapter 14 — हमारे आस-पास की आर्थिक गतिविधियाँ. Socho: farmer doodh bechta hai, factory usse paneer banati hai, truck usse dukaan tak le jaata hai — yeh teen alag kaam ek hi story ke hain! Aaj hum in आर्थिक क्षेत्रों ko classroom mein clear karenge. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "आर्थिक गतिविधि aur मौद्रिक मूल्य ko define karke उदाहरण dena",
+      "प्राथमिक, द्वितीयक और तृतीयक क्षेत्रों को पहचानना और उदाहरणों से अलग करना",
+      "तीनों क्षेत्रों की परस्पर निर्भरता को एक श्रृंखला (chain) के रूप में समझाना",
+      "अमूल / डेयरी सहकारिता की कहानी से खेत से थाली तक के तीन क्षेत्रों को जोड़ना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अध्याय का परिचय और महत्वपूर्ण प्रश्न"
+      },
+      {
+        "number": 2,
+        "name": "हमारे आस-पास का आर्थिक जीवन"
+      },
+      {
+        "number": 3,
+        "name": "आर्थिक क्षेत्रों में आर्थिक गतिविधियों का वर्गीकरण"
+      },
+      {
+        "number": 4,
+        "name": "प्राथमिक गतिविधियाँ"
+      },
+      {
+        "number": 5,
+        "name": "द्वितीयक गतिविधियाँ"
+      },
+      {
+        "number": 6,
+        "name": "तृतीयक गतिविधियाँ"
+      },
+      {
+        "number": 7,
+        "name": "डेयरी सहकारिता — अमूल की कहानी"
+      },
+      {
+        "number": 8,
+        "name": "क्षेत्रों में परस्पर निर्भरता — खेत से थाली तक"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अध्याय का परिचय और महत्वपूर्ण प्रश्न",
+      "say": "Bacchon, aaj hum Chapter 14 shuru karte hain — हमारे आस-पास की आर्थिक गतिविधियाँ. Pehle NCERT कौटिल्य (अर्थशास्त्र) ka quotation deta hai: आर्थिक गतिविधि se hi समृद्धि aati hai, aur uska अभाव भौतिक तनाव deta hai. Matlab — meaningful economic work prosperity laata hai; bina uske aaj ki samriddhi aur kal ki progress dono ruki rehti hain. Chapter 13 mein humne seekha tha — दो प्रकार की गतिविधियाँ: आर्थिक और गैर-आर्थिक. Jinmein मौद्रिक मूल्य ka अर्जन hota hai, unhe आर्थिक गतिविधियाँ kehte hain. मौद्रिक मूल्य matlab kisi वस्तु ka value jo मुद्रा (money) ke रूप mein measure kiya ja sakta hai — jaise doodh bechne se paise milna. गैर-आर्थिक ka mahatva bhi hum jaante hain, lekin is chapter ka focus hai: आर्थिक गतिविधियों ko kaise वर्गीकृत kiya jaata hai aur yeh ek-dusre se kaise अलग aur जुड़े hain. Board par teen महत्वपूर्ण प्रश्न likho: (1) आर्थिक गतिविधियों को किस प्रकार वर्गीकृत किया जाता है? (2) विभिन्न आर्थिक गतिविधियों को क्षेत्रों (सेक्टरों) में समूहबद्ध करने का क्या आधार है? (3) यह तीन क्षेत्र (सेक्टर) आपस में किस प्रकार संबंधित हैं? Inhi teen sawalon ke around poora chapter ghoomega. Class tip: jab bhi 'economic activity' likho, pehle monetary value ka point zaroor add karo.",
+      "example": "Maa ghar mein khana banati hai — ये गैर-आर्थिक हो सकती है; lekin hotel mein cook salary leke khana banata hai — वही काम आर्थिक गतिविधि बन जाता है क्योंकि मौद्रिक मूल्य अर्जित होता है।",
+      "board_lines": [
+        "आर्थिक गतिविधि = मौद्रिक मूल्य का अर्जन",
+        "कौटिल्य: आर्थिक गतिविधि → समृद्धि",
+        "Teen prashn: वर्गीकरण? आधार? संबंध?"
+      ],
+      "common_mistake": "Students सोचते हैं कि सिर्फ खेती या दुकान ही आर्थिक है — भूल जाते हैं कि मौद्रिक मूल्य अर्जित करने वाला कोई भी काम आर्थिक गतिविधि है, जैसे टीचर की सैलरी या मैकेनिक की मरम्मत।",
+      "memory_trick": "M-V-A: मौद्रिक–मूल्य–अर्जन — jis kaam mein MVA ho, woh आर्थिक!",
+      "gesture_action": "Ek haath mein imaginary note dikhao (money), doosre se teen ungliyan uthao for teen महत्वपूर्ण प्रश्न।",
+      "real_life_examples": [
+        "Village shopkeeper ration bechta hai aur paise leta hai — clear मौद्रिक मूल्य",
+        "School fee / tuition se teacher ki income — आर्थिक गतिविधि"
+      ],
+      "worked_example": {
+        "problem": "मौद्रिक मूल्य किसे कहते हैं? एक उदाहरण दीजिए।",
+        "steps": [
+          "Definition yaad karo: किसी वस्तु का मूल्य जिसे मुद्रा के मूल्य के रूप में मापा जा सकता है",
+          "Ek simple example socho — doodh, sabzi, ya school bag ki keemat rupaye mein",
+          "Answer mein definition + example dono likho"
+        ],
+        "answer": "मौद्रिक मूल्य किसी वस्तु का वह मूल्य है जिसे मुद्रा (पैसे) के रूप में मापा जा सकता है। उदाहरण: एक लीटर दूध की कीमत ₹50।"
+      },
+      "practice": {
+        "easy": [
+          "आर्थिक गतिविधियों की एक सरल परिभाषा लिखो।"
+        ],
+        "medium": [
+          "कौटिल्य के अनुसार आर्थिक गतिविधि का क्या महत्व है? एक-दो वाक्य में लिखो।"
+        ],
+        "hard": [
+          "अध्याय के तीन महत्वपूर्ण प्रश्नों को लिखो और बताओ कि ये क्यों ज़रूरी हैं।"
+        ]
+      },
+      "summary": "आर्थिक गतिविधियाँ मौद्रिक मूल्य अर्जित करती हैं; कौटिल्य के अनुसार इनसे समृद्धि आती है — और अध्याय तीन महत्वपूर्ण प्रश्नों से खुलता है।",
+      "revision_point": "Opening key: आर्थिक = मौद्रिक मूल्य; remember the three big questions on classification, basis, and inter-relation.",
+      "exam_tip": "परिचय में 'मौद्रिक मूल्य' और कौटिल्य का 'समृद्धि' वाला वाक्य ज़रूर लिखो — examiner यही keywords ढूँढ़ता है।",
+      "source_text_hint": "जिन गतिविधियों में मौद्रिक मूल्य का अर्जन होता है, उन्हें आर्थिक गतिविधियाँ कहते हैं"
+    },
+    {
+      "concept": "हमारे आस-पास का आर्थिक जीवन",
+      "say": "Bacchon, ab dekhte hain — हमारे आस-पास का आर्थिक जीवन kaise बदला. NCERT kehta hai: बीते दशकों में आर्थिक गतिविधियों की संख्या तीव्र गति से बढ़ी है. Pehle ke समय mein log मुख्यतः कृषि, पशुपालन, औजारों का निर्माण, मिट्टी के बर्तन बनाना aur कपड़े बुनना jaise kaamon mein include hote the. Jaise-jaise समाज mein प्रगति hui, un आर्थिक गतिविधियों mein bhi वृद्धि hui jinmadhyam se log अपनी आजीविका चलाते hain — matlab rozgar ke raste zyada ho gaye. Aaj bahut types hain — computer, mobile phone aur drone ka निर्माण; bank, विद्यालय aur hotel mein kaam karna; परिवहन ke liye alag-alag वाहन chalana; फर्नीचर तैयार करना; मशीन से कपड़े सिलना; सॉफ्टवेयर बनाना; रेफ्रिजरेटर aur वॉशिंग मशीन की मरम्मत — yeh sab bhi आर्थिक गतिविधियाँ hain! Socho: pehle ek gaon mein do-teen kaam dikhte the, aaj wahi gaon mobile shop, dairy booth aur truck driver se bhara ho sakta hai. Classification isliye zaroori hai kyunki isse humein samajhta hai yeh kaise kaam karti hain aur inke beech kya संबंध hai. Class tip: purane examples (kheti, mitti ke bartan) aur naye examples (software, drone) dono yaad rakho — examiner dono sides pooch sakta hai. Yaad rakho: activities badhi hain, lekin unhe groups mein baantna seekhna hi is chapter ka next step hai.",
+      "example": "दादा-दादी के समय गाँव में मुख्यतः खेती और पशुपालन था; आज उसी गाँव में मोबाइल रिपेयर की दुकान, बैंक की शाखा और ट्रक चालक भी दिखते हैं — आर्थिक जीवन फैल गया है।",
+      "board_lines": [
+        "पहले: कृषि, पशुपालन, बर्तन, कपड़े बुनना",
+        "आज: मोबाइल/कंप्यूटर, बैंक, सॉफ्टवेयर, मरम्मत",
+        "वर्गीकरण → कैसे काम करती हैं + क्या संबंध"
+      ],
+      "common_mistake": "Students सोचते हैं कि पुरानी गतिविधियाँ अब आर्थिक नहीं रहीं — गलत! खेती आज भी आर्थिक है; बस नई गतिविधियाँ जुड़ गई हैं।",
+      "memory_trick": "P-N: पहले–नया — pehle mitti-kapda, aaj mobile-software — dono आर्थिक!",
+      "gesture_action": "Left haath peeche (पुराना समय), right haath aage (आज) — dono sides par activities गिनो।",
+      "real_life_examples": [
+        "Village potter mitti ke bartan banata hai — classic पुरानी गतिविधि",
+        "Town mein mobile repair shop — आधुनिक आर्थिक गतिविधि"
+      ],
+      "worked_example": {
+        "problem": "पहले के समय की दो और आज की दो आर्थिक गतिविधियाँ लिखो।",
+        "steps": [
+          "पुरानी list se do chuno: कृषि / पशुपालन / बर्तन / कपड़े बुनना",
+          "आधुनिक list se do chuno: सॉफ्टवेयर / बैंक / मोबाइल निर्माण / मरम्मत",
+          "Clearly 'पहले' और 'आज' headings ke saath likho"
+        ],
+        "answer": "पहले: कृषि, मिट्टी के बर्तन बनाना। आज: सॉफ्टवेयर बनाना, बैंक में कार्य करना।"
+      },
+      "practice": {
+        "easy": [
+          "बीते दशकों में आर्थिक गतिविधियों की संख्या के बारे में NCERT क्या कहता है?"
+        ],
+        "medium": [
+          "आर्थिक गतिविधियों के वर्गीकरण से हमें क्या समझने में सहायता मिलती है?"
+        ],
+        "hard": [
+          "अपने गाँव/शहर की तीन आर्थिक गतिविधियाँ लिखो — एक पुरानी शैली की और दो आधुनिक — और बताओ ये आजीविका कैसे चलाती हैं।"
+        ]
+      },
+      "summary": "पहले सीमित गतिविधियाँ थीं; आज कंप्यूटर से मरम्मत तक कई आर्थिक काम हैं — वर्गीकरण हमें उनके काम और संबंध समझने में मदद करता है।",
+      "revision_point": "Economic life expanded: old crafts + modern services/industries; classification explains links.",
+      "exam_tip": "पहले/आज के उदाहरण बिंदुवार लिखो; कम से कम दो-दो उदाहरण examiner को पसंद आते हैं।",
+      "source_text_hint": "बीते दशकों में आर्थिक गतिविधियों की संख्या तीव्र गति से बढ़ी है"
+    },
+    {
+      "concept": "आर्थिक क्षेत्रों में आर्थिक गतिविधियों का वर्गीकरण",
+      "say": "Ab sabse important idea — आर्थिक क्षेत्रों में वर्गीकरण. NCERT kehta hai: कुछ आर्थिक गतिविधियों mein समान विशेषताएँ hoti hain, aur inke आधार par unhe ek समूह ya व्यापक समूह mein वर्गीकृत kiya ja sakta hai — inhe आर्थिक क्षेत्र (economic sectors) kehte hain. आर्थिक क्षेत्र matlab व्यापक समूह jismein aisi विभिन्न गतिविधियाँ शामिल hoti hain jo ek राष्ट्र की आर्थिक समृद्धि mein सहायता karti hain. Teen मुख्य प्रकार hain: प्राथमिक, द्वितीयक और तृतीयक. Page 197 ke चित्र mein inki मुख्य गतिविधियाँ dikhai gayi hain — primary side par कृषि, खनन, कुक्कुट पालन, वानिकी, मछली पकड़ना; secondary mein निर्माण, विनिर्माण, जल-आपूर्ति, सौर ऊर्जा, विद्युत उत्पादन; tertiary mein स्वास्थ्य देखभाल, व्यापार और उपयोगी सामग्री, संचार, बैंकिंग, परिवहन. Classification ka आधार kya hai? समान विशेषताएँ — jaise nature se seedha maal nikalna, ya raw material ko product banana, ya services dena. Yeh teen प्रश्न jo chapter shuru mein the — वर्गीकरण कैसे, समूहबद्ध करने का आधार क्या, aur teen sectors ka संबंध — yahin se jawab shuru hota hai. Class tip: sector = group of similar activities; teen sectors yaad rakhna chapter ka backbone hai. Agla step: har sector ko alag se detail mein padhenge — pehle primary, phir secondary, phir tertiary.",
+      "example": "School ke subjects ko Science, Maths, Languages mein group karte hain — waise hi आर्थिक गतिविधियों को प्राथमिक–द्वितीयक–तृतीयक क्षेत्रों में बाँटते हैं।",
+      "board_lines": [
+        "आर्थिक क्षेत्र = समान विशेषता वाली गतिविधियों का व्यापक समूह",
+        "तीन क्षेत्र: प्राथमिक · द्वितीयक · तृतीयक",
+        "आधार = समान विशेषताएँ"
+      ],
+      "common_mistake": "Students 'क्षेत्र' शब्द को सिर्फ geography का क्षेत्र समझ लेते हैं — यहाँ क्षेत्र मतलब economic sector / सेक्टर है।",
+      "memory_trick": "P-D-T: प्राथमिक–द्वितीयक–तृतीयक — 'पडत' bolke teen sectors याद!",
+      "gesture_action": "Teen ungliyan uthao — pehli primary, doosri secondary, teesri tertiary — aur zor se naam bolo।",
+      "real_life_examples": [
+        "Market mein sabzi (primary produce), atta mill (secondary), aur shopkeeper (tertiary) — teen sectors ek bazaar mein",
+        "Newspaper mein 'service sector growth' — tṛtīyak क्षेत्र की खबर"
+      ],
+      "worked_example": {
+        "problem": "आर्थिक क्षेत्र किसे कहते हैं? तीन मुख्य आर्थिक क्षेत्रों के नाम लिखो।",
+        "steps": [
+          "Definition: व्यापक समूह जिनमें समान विशेषता वाली गतिविधियाँ राष्ट्र की समृद्धि में सहायता करती हैं",
+          "Teen names: प्राथमिक, द्वितीयक, तृतीयक",
+          "Answer mein definition + teen names clearly likho"
+        ],
+        "answer": "आर्थिक क्षेत्र व्यापक समूह हैं जिनमें ऐसी गतिविधियाँ सम्मिलित होती हैं जो राष्ट्र की आर्थिक समृद्धि में सहायता करती हैं। तीन मुख्य क्षेत्र: प्राथमिक, द्वितीयक और तृतीयक।"
+      },
+      "practice": {
+        "easy": [
+          "तीन मुख्य आर्थिक क्षेत्रों के नाम लिखो।"
+        ],
+        "medium": [
+          "आर्थिक गतिविधियों को क्षेत्रों में समूहबद्ध करने का आधार क्या है? समझाओ।"
+        ],
+        "hard": [
+          "पृष्ठ 197 के चित्र के अनुसार प्रत्येक क्षेत्र से दो-दो गतिविधियाँ लिखो।"
+        ]
+      },
+      "summary": "समान विशेषताएँ रखने वाली आर्थिक गतिविधियों के व्यापक समूह को आर्थिक क्षेत्र कहते हैं — मुख्य तीन: प्राथमिक, द्वितीयक, तृतीयक।",
+      "revision_point": "Sector = similar-feature group; backbone of chapter = Primary–Secondary–Tertiary.",
+      "exam_tip": "परिभाषा में 'व्यापक समूह' और 'राष्ट्र की आर्थिक समृद्धि' शब्द ज़रूर रखो।",
+      "source_text_hint": "प्राथमिक, द्वितीयक और तृतीयक तीन प्रकार के मुख्य आर्थिक क्षेत्र हैं"
+    },
+    {
+      "concept": "प्राथमिक गतिविधियाँ",
+      "say": "Bacchon, pehla bada sector — प्राथमिक क्षेत्र. NCERT definition: jin आर्थिक गतिविधियों mein log प्रत्यक्ष रूप से वस्तुओं के उत्पादन के लिए प्रकृति पर निर्भर rehte hain, unhe प्राथमिक गतिविधियाँ ya प्राथमिक क्षेत्र की आर्थिक गतिविधियाँ kehte hain. Short form: प्राथमिक क्षेत्र — un गतिविधियों ka समूह jismein प्रकृति se सीधे कच्चे माल का निष्कर्षण शामिल hota hai, jaise कृषि, मत्स्य पालन, वानिकी आदि. Examples board par: कृषि क्षेत्र mein अन्न और सब्जियों की खेती; जंगलों से लकड़ी एकत्रित करना; खदानों से कोयला निकालना; मत्स्य पालन se मछलियाँ; कुक्कुट पालन फार्म se अंडे प्राप्त करना — yeh sab primary hain. मुख्य प्राथमिक गतिविधियाँ: कृषि, खनन, मछली पकड़ना, पशु पालन, वानिकी. NCERT activity: सोचना — aisi primary activities jo tumne dekhi hain; unmein kaunse प्राकृतिक संसाधन use hue? Do names batao aur classmates ke saath share karo. Class tip: keyword yaad rakho — प्रकृति पर प्रत्यक्ष निर्भरता / सीधे कच्चा माल. Agar activity nature se seedha nikaal rahi hai bina factory processing ke — primary! Greenhouse कृषि, खनन, वानिकी, मत्स्य पालन (मात्स्यिकी), पशु पालन — yeh sab pictures mein bhi aate hain.",
+      "example": "गाँव का किसान खेत से गेहूँ काटता है — प्रकृति (मिट्टी, पानी, बीज) पर निर्भर; यह स्पष्ट प्राथमिक गतिविधि है।",
+      "board_lines": [
+        "प्राथमिक = प्रकृति से सीधे कच्चा माल",
+        "उदाहरण: कृषि, खनन, मत्स्य, वानिकी, पशु/कुक्कुट पालन",
+        "Keyword: प्रत्यक्ष निर्भरता / निष्कर्षण"
+      ],
+      "common_mistake": "Students आटा मिल या कपड़ा फैक्टरी को भी प्राथमिक मान लेते हैं — गलत! वे कच्चे माल को बदलते हैं, इसलिए द्वितीयक हैं।",
+      "memory_trick": "P for Primary = प्रकृति से Pick — seedha nature se nikaalo!",
+      "gesture_action": "Zameen ki taraf jhuko jaise fasal kaat rahe ho / machli pakad rahe ho — primary action!",
+      "real_life_examples": [
+        "Local pond ya river se machhuaara machli pakadta hai — मत्स्य पालन",
+        "Coal mine / stone quarry se maal nikalna — खनन"
+      ],
+      "worked_example": {
+        "problem": "प्राथमिक क्षेत्र की परिभाषा लिखो और किन्हीं तीन उदाहरणों के नाम बताओ।",
+        "steps": [
+          "Definition: प्रकृति से सीधे कच्चे माल का निष्कर्षण / प्रकृति पर प्रत्यक्ष निर्भरता",
+          "Teen examples: कृषि, खनन, मत्स्य पालन (ya वानिकी, पशु पालन)",
+          "Answer complete sentence mein likho"
+        ],
+        "answer": "प्राथमिक क्षेत्र उन गतिविधियों का समूह है जिनमें प्रकृति से सीधे कच्चे माल का निष्कर्षण शामिल होता है। उदाहरण: कृषि, खनन, मत्स्य पालन।"
+      },
+      "practice": {
+        "easy": [
+          "प्राथमिक क्षेत्र की कोई दो गतिविधियाँ लिखो।"
+        ],
+        "medium": [
+          "कुक्कुट पालन फार्म से अंडे प्राप्त करना प्राथमिक क्यों है? एक वाक्य में कारण दो।"
+        ],
+        "hard": [
+          "अपने आस-पास देखी दो प्राथमिक गतिविधियाँ लिखो और बताओ उनमें कौन-से प्राकृतिक संसाधन का प्रयोग हुआ।"
+        ]
+      },
+      "summary": "प्राथमिक गतिविधियाँ प्रकृति पर प्रत्यक्ष निर्भर रहकर कच्चा माल निकालती हैं — कृषि, खनन, मत्स्य, वानिकी, पशु/कुक्कुट पालन इसके मुख्य उदाहरण हैं।",
+      "revision_point": "Primary = direct from nature / raw extraction; do not confuse with factory processing.",
+      "exam_tip": "परिभाषा में 'प्रत्यक्ष रूप से प्रकृति पर निर्भर' या 'सीधे कच्चे माल का निष्कर्षण' वाक्यांश ज़रूर लिखो।",
+      "source_text_hint": "जिन आर्थिक गतिविधियों में लोग प्रत्यक्ष रूप से वस्तुओं के उत्पादन के लिए प्रकृति पर निर्भर रहते हैं"
+    },
+    {
+      "concept": "द्वितीयक गतिविधियाँ",
+      "say": "Ab doosra sector — द्वितीयक गतिविधियाँ. NCERT kehta hai: aisi आर्थिक गतिविधियाँ jinmein log प्राथमिक क्षेत्र par आधारित वस्तुओं ko रूपांतरित karke anya वस्तु ka उत्पादन karte hain, unhe द्वितीयक गतिविधियाँ ya द्वितीयक क्षेत्र की आर्थिक गतिविधियाँ kehte hain. Definition box: द्वितीयक क्षेत्र — un गतिविधियों ka समूह jinmein प्राथमिक क्षेत्र se प्राप्त कच्ची सामग्रियों ke प्रसंस्करण dwara use बिक्री ya उपभोग हेतु उत्पादों mein परिवर्तित karna शामिल hai. Ismein भवनों, सड़कों आदि ka निर्माण aur पानी, बिजली, गैस jaise आवश्यक वस्तुओं ko प्रदान karna bhi aata hai; udyog aur उत्पादन इकाइयों mein विनिर्माण bhi. Examples crystal clear: कृषि क्षेत्र se प्राप्त अनाज se mill mein आटा; मूंगफली se तेल; चाय की पत्तियों se चाय; जंगल ki लकड़ी se फर्नीचर aur कागज; कपास se कपड़े; लौह अयस्क se इस्पात, aur usse कार-ट्रक jaise मोटर वाहन. Pictures: मोटर वाहन कारखाना, वस्त्र कारखाना, औषधि कारखाना, फर्नीचर निर्माण इकाई. Activity: द्वितीयक क्षेत्र ki do anya आर्थिक गतिविधियाँ batao. Class tip: secondary = transform / process primary raw material into usable product. Motor vehicles data (2022, SIAM): यात्री वाहन 45 लाख, वाणिज्यिक 10.3 लाख, तिपहिया 8.6 लाख, दोपहिया 2 करोड़ — yeh manufacture secondary sector ka scale dikhata hai.",
+      "example": "खेत का कपास (प्राथमिक) → कपड़ा मिल में कपड़ा (द्वितीयक) → यही रूपांतरण द्वितीयक क्षेत्र है।",
+      "board_lines": [
+        "द्वितीयक = कच्चे माल का प्रसंस्करण / रूपांतरण",
+        "उदाहरण: आटा मिल, तेल, कपड़ा, इस्पात, फर्नीचर, निर्माण",
+        "शामिल: उद्योग + बिजली/पानी/गैस + सड़क-भवन"
+      ],
+      "common_mistake": "Students ट्रक चालक या दुकानदार को द्वितीयक लिख देते हैं — वे सेवा देते हैं, इसलिए तृतीयक हैं; फैक्टरी/मिल द्वितीयक है।",
+      "memory_trick": "S for Secondary = Shape change — कच्चे को नया आकार/उत्पाद दो!",
+      "gesture_action": "Dono haath se 'mix and make' gesture — raw se product banane ka action dikhao।",
+      "real_life_examples": [
+        "Local atta chakki mein gehun se atta — छोटा द्वितीयक उदाहरण",
+        "Furniture workshop mein lakdi se kursi-mez — विनिर्माण"
+      ],
+      "worked_example": {
+        "problem": "निम्न में से कौन द्वितीयक है और क्यों — (क) खदान से कोयला निकालना (ख) कोयले से बिजली उत्पादन?",
+        "steps": [
+          "(क) कोयला निकालना = प्रकृति से निष्कर्षण → प्राथमिक",
+          "(ख) कोयले से बिजली = रूपांतरण / उत्पादन → द्वितीयक",
+          "Answer mein dono classify karke reason likho"
+        ],
+        "answer": "(क) प्राथमिक — प्रकृति से सीधे निष्कर्षण। (ख) द्वितीयक — कच्चे माल को उपयोगी उत्पाद (बिजली) में परिवर्तित करना।"
+      },
+      "practice": {
+        "easy": [
+          "द्वितीयक क्षेत्र की कोई दो गतिविधियाँ लिखो।"
+        ],
+        "medium": [
+          "मूंगफली से तेल निकालना द्वितीयक क्यों है? प्राथमिक कड़ी भी बताओ।"
+        ],
+        "hard": [
+          "लौह अयस्क से मोटर वाहन बनने तक की श्रृंखला दो चरणों में लिखो और बताओ कौन-सा चरण द्वितीयक है।"
+        ]
+      },
+      "summary": "द्वितीयक क्षेत्र प्राथमिक क्षेत्र की कच्ची सामग्री को प्रसंस्करण द्वारा बिक्री या उपभोग योग्य उत्पादों में बदलता है — मिल, कारखाना, निर्माण इसके उदाहरण हैं।",
+      "revision_point": "Secondary = processing/transformation of primary materials into products (including power, construction).",
+      "exam_tip": "उदाहरण देते समय 'प्राथमिक से क्या आया → द्वितीयक में क्या बना' वाली जोड़ी लिखो — जैसे कपास→कपड़ा।",
+      "source_text_hint": "प्राथमिक क्षेत्र से प्राप्त कच्ची सामग्रियों के प्रसंस्करण द्वारा इसे बिक्री या उपभोग हेतु उत्पादों में परिवर्तित करना"
+    },
+    {
+      "concept": "तृतीयक गतिविधियाँ",
+      "say": "Teesra sector — तृतीयक गतिविधियाँ, jise सेवा क्षेत्र bhi kehte hain. NCERT: ve sab आर्थिक गतिविधियाँ jo प्राथमिक aur द्वितीयक गतिविधियों mein शामिल logon ko सहायता प्रदान karti hain, unhe तृतीयक गतिविधियाँ kehte hain. Definition: तृतीयक क्षेत्र — un गतिविधियों ka समूह jismein प्राथमिक तथा द्वितीयक क्षेत्रों ke संपूरक के रूप mein सहायता प्रदान करने वाली सेवाओं ka प्रावधान hai, jaise परिवहन, बैंकिंग, व्यवसाय प्रबंधन आदि. Important point: inmein aisi सेवाएँ शामिल hain jinse देखा नहीं जा सकता, lekin ये महत्वपूर्ण भूमिका निभाती हैं — isi liye bacche kabhi galti se inhe 'non-economic' samajh lete hain, jo galat hai. Examples: ट्रक चालक अनाज-सब्जी ko खेत se उद्योग/बाजार le jaata hai; फल-सब्जी विक्रेता कृषि उपज घरेलू उपभोक्ताओं ko bechte hain; चिकित्सक, नर्स, शिक्षक, अधिवक्ता, विमान चालक — सेवाएँ; तकनीशियन mobile-TV मरम्मत; मैकेनिक कार-ट्रैक्टर; बिजली मिस्त्री (इलेक्ट्रिशियन) बिजली आपूर्ति. Mobile-internet संचार, सॉफ्टवेयर तैयार करना, होटल, रेस्तरां, बैंक, विद्यालय, चिकित्सालय, हवाई अड्डे, दुकानें, गोदाम (वेयरहाउस) — sab tertiary. गोदाम = विशाल इमारतें jahan उत्पादों ko bechne, उपयोग, ya dukaanon mein किराए par dene se pehle rakha jaata hai. Class tip: tertiary = services that support primary and secondary — often invisible but essential for daily life.",
+      "example": "अनाज खेत में पैदा हुआ (प्राथमिक), मिल में आटा बना (द्वितीयक), ट्रक ने आटा दुकान तक पहुँचाया (तृतीयक) — ट्रक चालक की सेवा दिखती नहीं जैसे आटा, पर बिना उसके श्रृंखला रुक जाती है।",
+      "board_lines": [
+        "तृतीयक = सेवा क्षेत्र (देखा नहीं जा सकता, पर ज़रूरी)",
+        "उदाहरण: परिवहन, बैंक, शिक्षक, डॉक्टर, दुकान, सॉफ्टवेयर",
+        "संपूरक सहायता → प्राथमिक + द्वितीयक को सहारा"
+      ],
+      "common_mistake": "Students सोचते हैं सेवाएँ आर्थिक नहीं क्योंकि 'वस्तु' नहीं बनती — NCERT कहता है ये आर्थिक गतिविधियाँ हैं और सेवा क्षेत्र कहलाती हैं।",
+      "memory_trick": "T for Tertiary = Help & Transport — सेवा दो, सहारा दो!",
+      "gesture_action": "Haath aage badhao jaise kisi ki madad / service de rahe ho — tertiary gesture!",
+      "real_life_examples": [
+        "School teacher padhana — सेवा, तृतीयक",
+        "Bus/auto driver passengers ya saman le jaana — परिवहन सेवा"
+      ],
+      "worked_example": {
+        "problem": "शिक्षक और वस्त्र कारखाना — कौन किस क्षेत्र में आता है? कारण सहित लिखो।",
+        "steps": [
+          "शिक्षक = शिक्षा सेवा प्रदान → तृतीयक",
+          "वस्त्र कारखाना = कपास आदि से कपड़ा विनिर्माण → द्वितीयक",
+          "Answer mein sector + reason dono likho"
+        ],
+        "answer": "शिक्षक — तृतीयक (सेवा)। वस्त्र कारखाना — द्वितीयक (विनिर्माण/प्रसंस्करण)।"
+      },
+      "practice": {
+        "easy": [
+          "तृतीयक क्षेत्र को और किस नाम से जाना जाता है?"
+        ],
+        "medium": [
+          "गोदाम (वेयरहाउस) क्या है और यह तृतीयक क्यों माना जाता है?"
+        ],
+        "hard": [
+          "किसी एक प्राथमिक उत्पाद का उदाहरण लो और बताओ तृतीयक क्षेत्र उसकी मदद कैसे करता है (कम से कम दो सेवाएँ)।"
+        ]
+      },
+      "summary": "तृतीयक क्षेत्र प्राथमिक और द्वितीयक की सहायक सेवाएँ प्रदान करता है — परिवहन, बैंकिंग, शिक्षा, स्वास्थ्य, व्यापार, सॉफ्टवेयर आदि; इसे सेवा क्षेत्र भी कहते हैं।",
+      "revision_point": "Tertiary = service sector; supports other two; services may be intangible but economic.",
+      "exam_tip": "'सेवा क्षेत्र' पर्याय और 'देखा नहीं जा सकता लेकिन महत्वपूर्ण' वाला वाक्य परीक्षा में अच्छा अंक दिलाता है।",
+      "source_text_hint": "इस क्षेत्र को सेवा क्षेत्र भी कहते हैं"
+    },
+    {
+      "concept": "डेयरी सहकारिता — अमूल की कहानी",
+      "say": "Bacchon, ab ek रोचक कहानी — डेयरी सहकारिता. Gujarat ke Anand जिले ke farmers subah doodh ki baalti leke aate hain; गाय-भैंस unke जीवन mein विशेष स्थान rakhti hain. Woh doodh आस-पास ki डेयरी mein bechte hain, aur mahine ke end par गुणवत्ता aur तौल ke आधार par भुगतान milta hai. 50 saal pehle aisa nahi tha! 1940 ke aarambh mein Anand ke kisaan doodh gaon mein bechte the — गर्मी mein cycle ya पैदल; doodh जल्दी खराब / फट jaata tha, isliye जल्दी बेचना padta tha. Mehnat ke baad bhi कम आमदनी; बिचौलियों par निर्भर — jo सस्ता खरीदke बाजार mein bechte the; kai baar किसान ठगे feel karte the. बिचौलिए = vyakti jo उत्पादकों se saamaan kharidke उपभोक्ताओं ko bechte hain aur शुल्क lete hain. डेयरी = jahan doodh एकत्रित aur भंडारण hota hai. Kisaan milke Sardar Vallabhbhai Patel ke paas gaye; unhone सलाह di — स्वेच्छा se सहकारी संगठन banao. सहकारी संगठन mein sab सदस्य मालिक hote hain aur सामूहिक निर्णय lete hain. 1946 mein Amul (Anand Milk Union Limited) ki स्थापना — त्रिभुवनदास पटेल aur डॉ. वर्गीज कुरियन ke नेतृत्व mein. Isne किसानों, खासकर महिलाओं ko एकजुट kiya; दूध पर नियंत्रण बढ़ा; पाश्चुरीकरण (doodh गरम karke बैक्टीरिया नष्ट) aur बिक्री shared; आमदनी बढ़ी. Zyada doodh aaya to Anand mein दुग्ध प्रसंस्करण कारखाना — मक्खन, दूध पाउडर. Aaj kai संयंत्र, भारत भर retail, aur निर्यात. Similar: नंदिनी, मदर डेयरी, आविन, विजया, सुधा, वरका.",
+      "example": "पहले किसान अकेले बिचौलिए के आगे कमजोर थे; सहकारिता में सब मिलकर मालिक बने — जैसे कक्षा में अकेले प्रोजेक्ट कठिन, समूह में आसान और फायदेमंद।",
+      "board_lines": [
+        "समस्या: गर्मी + जल्दी बिक्री + बिचौलिए + कम आमदनी",
+        "समाधान: सहकारी संगठन (अमूल, 1946) — पटेल + कुरियन",
+        "लाभ: नियंत्रण, पाश्चुरीकरण, कारखाना, आमदनी ↑, निर्यात"
+      ],
+      "common_mistake": "Students अमूल को सिर्फ 'दूध की कंपनी' समझते हैं — NCERT जोर देता है कि यह किसानों का सहकारी संगठन है जहाँ सदस्य स्वयं मालिक हैं।",
+      "memory_trick": "A-M-U-L: Anand Milk Union Limited — 'आणंद के मिल्क यूनियन' yaad!",
+      "gesture_action": "Dono haath milaao (किसान एकजुट), phir imaginary doodh bottle upar uthao — Amul success!",
+      "real_life_examples": [
+        "Village milk collection centre / dairy booth — आज की छोटी तस्वीर उसी कहानी की",
+        "Packet butter/ghee par Amul ya Nandini brand — सहकारिता का रोज़मर्रा रूप"
+      ],
+      "worked_example": {
+        "problem": "अमूल की स्थापना कब और किनके नेतृत्व में हुई? सहकारी संगठन बनाने की सलाह किसने दी?",
+        "steps": [
+          "साल: 1946",
+          "नेतृत्व: त्रिभुवनदास पटेल और डॉ. वर्गीज कुरियन",
+          "सलाह: सरदार वल्लभभाई पटेल"
+        ],
+        "answer": "अमूल की स्थापना 1946 में त्रिभुवनदास पटेल और डॉ. वर्गीज कुरियन के नेतृत्व में हुई। सहकारी संगठन बनाने की सलाह सरदार वल्लभभाई पटेल ने दी।"
+      },
+      "practice": {
+        "easy": [
+          "बिचौलिए किसे कहते हैं?"
+        ],
+        "medium": [
+          "पाश्चुरीकरण क्या है? एक वाक्य में लिखो।"
+        ],
+        "hard": [
+          "1940 के दशक में आणंद के किसानों की दो मुख्य समस्याएँ लिखो और बताओ सहकारिता ने उन्हें कैसे हल किया।"
+        ]
+      },
+      "summary": "आणंद के किसान बिचौलियों और दूध खराब होने से परेशान थे; सरदार पटेल की सलाह पर 1946 में अमूल सहकारिता बनी — नियंत्रण, प्रसंस्करण और आमदनी बढ़ी।",
+      "revision_point": "Amul = cooperative (members own it); key names: Sardar Patel (advice), Tribhuvandas Patel + Verghese Kurien (lead).",
+      "exam_tip": "वर्ष 1946, आणंद, सहकारी संगठन, बिचौलिए और पाश्चुरीकरण — ये पाँच keywords उत्तर में लाओ।",
+      "source_text_hint": "अमूल की स्थापना 1946 में श्री त्रिभुवन दास पटेल तथा डॉ. वर्गीज कुरियन के नेतृत्व में की गई"
+    },
+    {
+      "concept": "क्षेत्रों में परस्पर निर्भरता — खेत से थाली तक",
+      "say": "Ab last big idea — क्षेत्रों में परस्पर निर्भरता. NCERT kehta hai: teenon प्रकार ki आर्थिक गतिविधियाँ / क्षेत्र, प्राकृतिक कच्चे माल ko अंतिम उत्पाद mein बदलने mein महत्वपूर्ण भूमिका निभाते hain — aur ek-dusre ko सहयोग karte hain. Amul story se clear map: (1) प्राथमिक — किसान गायों ko दूध दुहते hain; दूध उत्पादन प्राकृतिक स्रोत (गाय/मवेशी) se प्रत्यक्ष प्राप्त, isliye primary. (2) द्वितीयक — doodh को प्रसंस्कृत karke factories mein liquid se anya खाद्य रूप — दूध पाउडर, घी, पनीर, मक्खन आदि; कारखाना = जहाँ वस्तुओं का निर्माण ya components milaake अंतिम उत्पाद. Yeh secondary. (3) तृतीयक — Amul products ko बेचना; ट्रक-लॉरी, रेल, वायुयान se एक स्थान se दूसरे tak ले जाना; खुदरा भंडार / दुकानें Gujarat aur भारत ke कस्बों-नगरों-गाँवों mein आपूर्ति; विपणन. खुदरा = माल थोड़ी मात्रा mein अंतिम उपभोक्ताओं tak, पुनर्विक्रय उद्देश्य नहीं. निर्यात = एक देश mein उत्पादित वस्तु/सेवा किसी अन्य देश ke buyers ko. Isliye chain hai: खेत (primary) → कारखाना (secondary) → परिवहन-दुकान-थाली (tertiary). Bina primary ke secondary rukega; bina tertiary ke product market tak nahi pahunchega. Class tip: exam mein 'परस्पर निर्भरता' poochhe to Amul chain likho — doodh, processing, transport-retail. Yeh teen sectors अलग hain lekin अकेले पूरे नहीं — ek dusre ke संपूरक hain.",
+      "example": "बिना दूध (प्राथमिक) के पनीर फैक्टरी (द्वितीयक) बंद; बिना ट्रक/दुकान (तृतीयक) के पनीर घर की थाली तक नहीं पहुँचता — तीनों परस्पर निर्भर।",
+      "board_lines": [
+        "प्राथमिक: दूध दुहना (गाय से सीधे)",
+        "द्वितीयक: पाउडर/घी/पनीर/मक्खन (प्रसंस्करण)",
+        "तृतीयक: ट्रक-रेल-हवाई + खुदरा दुकान + विपणन"
+      ],
+      "common_mistake": "Students तीनों क्षेत्रों को बिल्कुल अलग और असंबंधित लिख देते हैं — NCERT कहता है वे परस्पर संबंधित हैं और एक-दूसरे को सहयोग करते हैं।",
+      "memory_trick": "K-K-T: खेत–कारखाना–थाली — Primary–Secondary–Tertiary chain!",
+      "gesture_action": "Teen steps chalo: pehle crouch (duhna), phir haath ghumao (factory), phir aage badho (dukaan/thali)!",
+      "real_life_examples": [
+        "Tomato: खेत → ketchup factory → truck → shop — same inter-dependence",
+        "Cotton: farm → cloth mill → retail shop — P-D-T chain"
+      ],
+      "worked_example": {
+        "problem": "अमूल की कहानी में दूध दुहना, पनीर बनाना और ट्रक से दुकान तक पहुँचाना — प्रत्येक किस क्षेत्र की गतिविधि है?",
+        "steps": [
+          "दूध दुहना = प्राकृतिक स्रोत से प्रत्यक्ष → प्राथमिक",
+          "पनीर बनाना = प्रसंस्करण/रूपांतरण → द्वितीयक",
+          "ट्रक से पहुँचाना = परिवहन सेवा → तृतीयक"
+        ],
+        "answer": "दूध दुहना — प्राथमिक; पनीर बनाना — द्वितीयक; ट्रक से दुकान तक पहुँचाना — तृतीयक।"
+      },
+      "practice": {
+        "easy": [
+          "'खेत से थाली तक' श्रृंखला के तीन चरणों के क्षेत्र-नाम लिखो।"
+        ],
+        "medium": [
+          "खुदरा और निर्यात में अंतर एक-एक वाक्य में लिखो।"
+        ],
+        "hard": [
+          "समझाओ कि तीनों आर्थिक क्षेत्र परस्पर निर्भर क्यों हैं — अमूल का उदाहरण देकर तीन बिंदु लिखो।"
+        ]
+      },
+      "summary": "तीनों क्षेत्र प्राकृतिक कच्चे माल को अंतिम उत्पाद तक पहुँचाने में सहयोग करते हैं — अमूल में दूध (प्राथमिक), प्रसंस्करण (द्वितीयक) और परिवहन-खुदरा (तृतीयक) परस्पर निर्भर हैं।",
+      "revision_point": "Interdependence = Field → Factory → Market/Plate; Amul is the textbook chain.",
+      "exam_tip": "परस्पर निर्भरता के उत्तर में अमूल की तीन कड़ियाँ नाम और क्षेत्र दोनों के साथ लिखो — सिर्फ परिभाषा पर्याप्त नहीं।",
+      "source_text_hint": "तीनों प्रकार की आर्थिक गतिविधियाँ या आर्थिक क्षेत्र, प्राकृतिक कच्चे माल को अंतिम उत्पाद में परिवर्तित करने में महत्वपूर्ण भूमिका निभाते हैं"
+    }
+  ]
+}
