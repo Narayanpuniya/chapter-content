@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 431,
+    "chapter_name": "भारतीय सभ्यता का प्रारंभ",
+    "chapter_number": 6,
+    "book_name": "Class 6 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 6",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Is chapter mein hum भारत की सबसे प्राचीन सभ्यता — हड़प्पा / सिंधु / सिंधु-सरस्वती सभ्यता — ko samjhenge. Pehle seekhenge सभ्यता kya hoti hai aur uski zaruri विशेषताएँ kya hain; phir गाँव se नगर tak ka pehla नगरीकरण, नगर-योजना, किलेबंदी, महासनानागार aur जल प्रबंधन. B.B. लाल ke anusar is civilisation mein शोषण nahi, आपसी सामंजस्य dikhta hai.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 6 Social Science ka Chapter 6 — भारतीय सभ्यता का प्रारंभ. Socho, lagbhag 4600 saal pehle bhi Bharat mein aise नगर the jahan चौड़ी सड़कें, नालियाँ aur सुनियोजित घर the! Aaj hum us अनूठी सभ्यता ki kahani sunenge. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "सभ्यता ki परिभाषा aur uski कम से कम सात विशेषताएँ batana",
+      "सिंधु-सरस्वती / हड़प्पा सभ्यता ko समय-रेखा aur स्थान se pehchanna",
+      "भारत के पहले नगरीकरण, प्रमुख नगरों aur सरस्वती नदी ko explain karna",
+      "नगर-योजना, किलेबंदी, महासनानागार aur जल प्रबंधन ki मुख्य बातें likhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "अध्याय का परिचय और महत्वपूर्ण प्रश्न"
+      },
+      {
+        "number": 2,
+        "name": "सभ्यता क्या है? विशेषताएँ"
+      },
+      {
+        "number": 3,
+        "name": "विश्व में सभ्यताओं का आरंभ और समय-रेखा"
+      },
+      {
+        "number": 4,
+        "name": "गाँव से नगर – भारत का पहला नगरीकरण"
+      },
+      {
+        "number": 5,
+        "name": "नामकरण – सिंधु, हड़प्पा और सिंधु-सरस्वती"
+      },
+      {
+        "number": 6,
+        "name": "प्रमुख नगर, मानचित्र और सरस्वती नदी"
+      },
+      {
+        "number": 7,
+        "name": "नगर-योजना, किलेबंदी और महासनानागार"
+      },
+      {
+        "number": 8,
+        "name": "जल प्रबंधन और स्वच्छता"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "अध्याय का परिचय और महत्वपूर्ण प्रश्न",
+      "say": "Bacchon, aaj hum भारत की सबसे प्राचीन सभ्यता ki baat karenge — jise हड़प्पा, सिंधु अथवा सिंधु-सरस्वती सभ्यता ke naam se jaana jaata hai. NCERT shuru mein प्रसिद्ध पुरातत्त्ववेत्ता बी.बी. लाल ka quotation deta hai. Woh kehte hain ki yeh civilisation कई मायनों mein अनूठी thi. Isne dikhaya ki ek सम्यक रूप से संतुलित समुदाय kaise rehta hai — jahan धनवान aur निर्धन ke beech बहुत अधिक अंतर nahi hota. संक्षेप mein, हड़प्पा ke सामाजिक परिदृश्य mein शोषण nahi, बल्कि आपसी सामंजस्य dikhai deta hai. Yeh baat yaad rakhna — yeh sirf ruins nahi, ek balanced society ka message bhi hai. Chapter ke teen महत्वपूर्ण प्रश्न board par likho: (1) सभ्यता क्या है? (2) भारतीय उपमहाद्वीप की आरंभिक सभ्यता कौन-सी थी? (3) उसकी मुख्य उपलब्धियाँ क्या थीं? Inhi teen sawalon ke around poora chapter ghoomega. Picture 6.1 mein धौलावीरा ke किला क्षेत्र ka उत्तरी प्रवेश द्वार dikhaya gaya hai — pehli jhalak of a planned city. Class tip: jab bhi koi pooche 'Harappa special kyun?', pehle B.B. Lal wala सामंजस्य point bolo, phir town planning. Aaj se hum past ke picture-pat par chalenge — धातु विज्ञान se lekar नगरों tak.",
+      "example": "Aaj ke school mein agar rich aur poor students ek hi rule se, ek hi facility se padhein — woh छोटा सा उदाहरण है of 'बहुत अधिक अंतर नहीं' वाला सामंजस्य जो B.B. लाल ने हड़प्पा समाज में देखा।",
+      "board_lines": [
+        "प्राचीन सभ्यता = हड़प्पा / सिंधु / सिंधु-सरस्वती",
+        "B.B. लाल: शोषण नहीं → आपसी सामंजस्य",
+        "Teen prashn: सभ्यता? आरंभिक सभ्यता? उपलब्धियाँ?"
+      ],
+      "common_mistake": "Students सिर्फ 'Harappa ek purana city hai' likh dete hain — भूल जाते हैं कि NCERT इसे अनूठी सभ्यता इसलिए कहता है क्योंकि समाज में सामंजस्य था, सिर्फ इमारतें नहीं।",
+      "memory_trick": "S-S-S: सभ्यता–सामंजस्य–सवाल (teen important questions) — chapter ka opening formula!",
+      "gesture_action": "Dono haath barabar level par rakho (धनवान-निर्धन कम अंतर), phir teen ungliyan uthao for teen महत्वपूर्ण प्रश्न।",
+      "real_life_examples": [
+        "Village fair mein sab log mil-julkar kaam baantte hain — छोटा सा सामंजस्य",
+        "School notice board par teen big questions likhna jaise chapter ke महत्वपूर्ण प्रश्न"
+      ],
+      "worked_example": {
+        "problem": "बी.बी. लाल के अनुसार हड़प्पा के सामाजिक परिदृश्य की मुख्य विशेषता क्या थी?",
+        "steps": [
+          "Quotation yaad karo: धनवान और निर्धन के बीच बहुत अधिक अंतर नहीं",
+          "NCERT ka conclusion: शोषण नहीं, आपसी सामंजस्य",
+          "Answer mein दोनों words — सामंजस्य / शोषण नहीं — likho"
+        ],
+        "answer": "हड़प्पा के सामाजिक परिदृश्य में शोषण नहीं, बल्कि आपसी सामंजस्य दिखाई देता है।"
+      },
+      "practice": {
+        "easy": [
+          "भारतीय उपमहाद्वीप की आरंभिक सभ्यता के तीन नाम लिखो।"
+        ],
+        "medium": [
+          "बी.बी. लाल ने हड़प्पा समाज को अनूठा क्यों कहा? एक-दो वाक्य में लिखो।"
+        ],
+        "hard": [
+          "अध्याय के तीन महत्वपूर्ण प्रश्नों को लिखो और बताओ कि ये क्यों ज़रूरी हैं।"
+        ]
+      },
+      "summary": "भारत की सबसे प्राचीन सभ्यता हड़प्पा/सिंधु/सिंधु-सरस्वती है; B.B. लाल के अनुसार इसमें सामंजस्य था, शोषण नहीं — और अध्याय तीन महत्वपूर्ण प्रश्नों से खुलता है।",
+      "revision_point": "Opening key: अनूठी सभ्यता = संतुलित समुदाय + आपसी सामंजस्य; remember the three big questions.",
+      "exam_tip": "B.B. लाल quotation में से 'सामंजस्य' और 'शोषण नहीं' शब्द ज़रूर लिखो — examiner यही ढूँढ़ता है।",
+      "source_text_hint": "हड़प्पा के सामाजिक परिदृश्य में शोषण नहीं, बल्कि आपसी सामंजस्य"
+    },
+    {
+      "concept": "सभ्यता क्या है? विशेषताएँ",
+      "say": "Bacchon, pehle clear sawaal — आखिर सभ्यता है क्या? NCERT kehta hai: सामान्यतः is शब्द ka प्रयोग मानव समाज के उन्नत चरण ke liye kiya jaata hai. Chapter 4 ke end mein humne dekha tha ki manushya ka pehla group ek स्थान par rehne laga, कृषि karne laga, aur कुछ तकनीकों — भवन निर्माण, धातु विज्ञान, यातायात साधन — ka विकास karke सभ्यता ki taraf बढ़ा. Metal science box bhi yaad rakho: धातु विज्ञान mein प्रकृति se धातु निकालना, शुद्ध करना, मिलाना aur धातु के गुणों का अध्ययन aata hai. Ab civilisation mein कम से कम yeh विशेषताएँ honi chahiye — board par Saat stars! (1) शासन और प्रशासन का कोई रूप — complex society manage karne ke liye. (2) नगरीकरण — नगर योजना, शहरों का विकास, जल प्रबंधन और जल निकास. (3) विभिन्न प्रकार के शिल्प — कच्चा माल jaise पत्थर-धातु se तैयार माल jaise आभूषण-उपकरण. (4) व्यापार — अंदरूनी aur बाहरी exchange. (5) लेखन का कोई रूप — records aur संवाद ke liye. (6) सांस्कृतिक विचार — कला, स्थापत्य, साहित्य, श्रुति परंपराएँ, रीति-रिवाज. (7) कृषि उत्पादकता — jo गाँव hi nahi, नगरों ko bhi भोजन de sake. NCERT poochhta hai: inme se kaunsi मूलभूत विशेषता hai jiske bina baaki develop nahi ho sakti? Socho — bahut log कृषि को base maante hain kyunki bina food ke city nahi chalti. Class tip: har feature ke saath ek रोजगार socho — farmer, potter, trader, scribe, administrator!",
+      "example": "Aaj ka modern city bhi inhi features se pehchana jaata hai — municipality (शासन), drains (जल निकास), markets (व्यापार), schools-books (लेखन/संवाद), farms feeding the city (कृषि)।",
+      "board_lines": [
+        "सभ्यता = मानव समाज का उन्नत चरण",
+        "7 features: शासन · नगर · शिल्प · व्यापार · लेखन · संस्कृति · कृषि",
+        "धातु विज्ञान = निकालना + शुद्ध + मिलाना + गुण अध्ययन"
+      ],
+      "common_mistake": "Students सिर्फ 'नगर होना' को सभ्यता मान लेते हैं — NCERT कहता है शासन, शिल्प, व्यापार, लेखन, संस्कृति और कृषि उत्पादकता भी ज़रूरी हैं।",
+      "memory_trick": "S-N-S-V-L-S-K: शासन–नगर–शिल्प–व्यापार–लेखन–संस्कृति–कृषि — 'सनस्वलस्क' bolke saat features याद!",
+      "gesture_action": "Saat ungliyan gino aur har ungli par ek feature ka naam bolo — शासन se कृषि tak.",
+      "real_life_examples": [
+        "Gaon ka bazaar = छोटा व्यापार; city wholesale market = बड़ा व्यापार — दोनों exchange",
+        "School register / diary = आज का सरल 'अभिलेख रखना' — लेखन का रूप"
+      ],
+      "worked_example": {
+        "problem": "NCERT के अनुसार सभ्यता की परिभाषा लिखो और कोई तीन विशेषताएँ बताओ।",
+        "steps": [
+          "परिभाषा: मानव समाज का उन्नत चरण",
+          "List se koi teen features chuno — jaise नगरीकरण, व्यापार, कृषि उत्पादकता",
+          "Answer mein definition + teen points clearly likho"
+        ],
+        "answer": "सभ्यता मानव समाज का उन्नत चरण है। विशेषताएँ (उदाहरण): शासन/प्रशासन, नगरीकरण, शिल्प, व्यापार, लेखन, सांस्कृतिक विचार, कृषि उत्पादकता।"
+      },
+      "practice": {
+        "easy": [
+          "सभ्यता शब्द का सामान्य अर्थ एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "नगरीकरण में जल प्रबंधन और जल निकास क्यों शामिल हैं? समझाओ।"
+        ],
+        "hard": [
+          "ऊपर दी गई विशेषताओं में से किसे मूलभूत मानोगे और क्यों? कक्षा चर्चा की तरह तर्क दो।"
+        ]
+      },
+      "summary": "सभ्यता मानव समाज का उन्नत चरण है जिसमें शासन, नगरीकरण, शिल्प, व्यापार, लेखन, सांस्कृतिक विचार और कृषि उत्पादकता जैसी विशेषताएँ होती हैं।",
+      "revision_point": "Civilisation checklist = 7 features; agriculture often seen as the base that feeds cities.",
+      "exam_tip": "परिभाषा के बाद कम से कम पाँच विशेषताएँ बिंदुवार लिखो; 'कृषि उत्पादकता — नगरों को भोजन' वाक्य examiner को पसंद आता है।",
+      "source_text_hint": "सामान्यत: इस शब्द का प्रयोग मानव समाज के उन्नत चरण के लिए किया जाता है"
+    },
+    {
+      "concept": "विश्व में सभ्यताओं का आरंभ और समय-रेखा",
+      "say": "Ab sawaal — जिस तरह humne सभ्यता define ki, us अर्थ mein civilisation ka आरंभ कब हुआ? NCERT clearly kehta hai: विश्व के विभिन्न भागों mein अलग-अलग समय par सभ्यताओं ka आरंभ हुआ. जिस क्षेत्र ko मेसोपोटामिया kehte hain — आधुनिक इराक और सीरिया — wahan लगभग 6,000 वर्ष पहले सभ्यता shuru hui. Uske कुछ शताब्दियों बाद प्राचीन मिस्र की सभ्यता aayi. In ancient civilisations ke बड़े योगदान ke कारण hi humanity aaj ki स्थिति mein pahunchi hai — aage ki कक्षाओं mein tum inhe padhoge. Abhi hum सिर्फ भारतीय उपमहाद्वीप aur uske उत्तर-पश्चिमी क्षेत्र par दृष्टि डालenge, jahan se humari कहानी shuru hoti hai. Timeline (चित्र 6.2) yaad rakho: लगभग 4000 सा.सं.पू. ke aas-paas मेसोपोटामिया; phir मिस्र; aur सिंधु-सरस्वती सभ्यता roughly 2600 से 1900 सा.सं.पू. tak dikhai gayi hai. सा.सं.पू. matlab Common Era se pehle — BC/BCE type dating for school. Class tip: dates rote mat karo blindly — order yaad rakho: Mesopotamia pehle, phir Egypt, phir Indus-Saraswati ka mature city phase. 'आइए पता लगाएँ' activity: har civilisation feature ke liye us समय ke व्यवसायों ki list banao — किसान, कुम्हार, व्यापारी, शासक, कारीगर. Yeh link pehle wale concept se judta hai.",
+      "example": "Jaise school assembly pehle Class 1, phir Class 2 start hoti hai — waise hi विश्व में सभ्यताएँ एक साथ नहीं, अलग-अलग समय पर शुरू हुईं।",
+      "board_lines": [
+        "मेसोपोटामिया ≈ 6000 वर्ष पहले (इराक-सीरिया)",
+        "मिस्र: कुछ शताब्दियों बाद",
+        "सिंधु-सरस्वती: ≈ 2600–1900 सा.सं.पू. (चित्र 6.2)"
+      ],
+      "common_mistake": "Students सोचते हैं सारी प्राचीन सभ्यताएँ एक ही साल में शुरू हुईं — NCERT कहता है अलग-अलग समय और अलग-अलग क्षेत्रों में।",
+      "memory_trick": "M-E-I order: Mesopotamia → Egypt → Indus-Saraswati — 'मेई' timeline!",
+      "gesture_action": "Left se right air mein timeline draw karo — pehle Mesopotamia, beech mein Egypt, phir Indus-Saraswati point.",
+      "real_life_examples": [
+        "Atlas/map par Iraq-Syria (Mesopotamia) aur Egypt alag continents/regions mein hain — alag shuruat",
+        "Family tree mein bade-bade events alag years mein hote hain — civilisation timeline bhi aisa hi"
+      ],
+      "worked_example": {
+        "problem": "मेसोपोटामिया की सभ्यता कहाँ और लगभग कब आरंभ हुई?",
+        "steps": [
+          "स्थान: आधुनिक इराक और सीरिया वाला क्षेत्र",
+          "समय: लगभग 6,000 वर्ष पहले",
+          "Answer mein दोनों — place + time — likho"
+        ],
+        "answer": "मेसोपोटामिया (आधुनिक इराक और सीरिया) में लगभग 6,000 वर्ष पहले सभ्यता का आरंभ हुआ।"
+      },
+      "practice": {
+        "easy": [
+          "सा.सं.पू. का पूरा रूप/अर्थ कक्षा की भाषा में समझाओ।"
+        ],
+        "medium": [
+          "चित्र 6.2 की समय-रेखा के अनुसार सिंधु-सरस्वती सभ्यता का लगभग समय लिखो।"
+        ],
+        "hard": [
+          "क्यों कहा जाता है कि प्राचीन सभ्यताओं के योगदान से ही मानवता आज की स्थिति में पहुँची? दो बिंदु सोचकर लिखो।"
+        ]
+      },
+      "summary": "सभ्यताएँ विश्व में अलग-अलग समय पर शुरू हुईं — मेसोपोटामिया लगभग 6000 वर्ष पहले, फिर मिस्र, और सिंधु-सरस्वती लगभग 2600–1900 सा.सं.पू।",
+      "revision_point": "Timeline order M→E→I; focus now shifts to north-western Indian subcontinent.",
+      "exam_tip": "मेसोपोटामिया के साथ 'आधुनिक इराक और सीरिया' और 'लगभग 6,000 वर्ष पहले' दोनों लिखना न भूलो।",
+      "source_text_hint": "मेसोपोटामिया (आधुनिक इराक और सीरिया) के नाम से जाना जाता है"
+    },
+    {
+      "concept": "गाँव से नगर – भारत का पहला नगरीकरण",
+      "say": "Bacchon, ab humari कहानी भारतीय उपमहाद्वीप ke उत्तर-पश्चिम se shuru. पंजाब — aaj भारत और पाकिस्तान mein विभाजित — aur सिंध (ab Pakistan mein) ke विशाल मैदानों ko सिंधु नदी aur uski सहायक नदियाँ सिंचित करती हैं. सिंधु ne in मैदानों ko उपजाऊ aur कृषि के अनुकूल banaya. In मैदानों ki पूर्व दिशा mein कुछ सहस्राब्दियों पहले ek any नदी — सरस्वती — हिमालय की तलहटी se हरियाणा, पंजाब, राजस्थान और गुजरात ke कुछ क्षेत्रों se hokar bahati thi. Development story clear hai: 3500 सा.सं.पू. se is पूरे क्षेत्र mein गाँव, नगरों mein बदलने लगे; aur लगभग 2600 सा.सं.पू. mein बढ़ते व्यापार और अन्य विनिमयों ke कारण नगर, महानगरों mein बदल गए. Is development process ko 'भारत का पहला नगरीकरण' bhi kaha jaata hai. सहायक नदी yaad rakho — woh नदी jo kisi बड़ी नदी ya झील mein milti hai; example — यमुना, गंगा की सहायक है. Toh formula: fertile plains + rivers + farming + trade = villages → towns → cities. Yeh civilisation विश्व की सबसे पुरानी सभ्यताओं mein se ek hai. Class tip: jab 'first urbanisation of India' aaye, dates 3500 aur 2600 BCE zarur jodo. Picture map mein mountains brown natural boundaries banate hain — geography ne civilisation ko shape diya.",
+      "example": "Jaise aaj chhota bazaar wala gaon dhire-dhire bus stand, shops aur colonies se shehar ban jaata hai — waise hi 3500–2600 सा.सं.पू. mein व्यापार बढ़ने से नगर महानगर बने।",
+      "board_lines": [
+        "सिंधु + सहायक नदियाँ → उपजाऊ मैदान",
+        "3500 सा.सं.पू.: गाँव → नगर; ≈2600: नगर → महानगर",
+        "भारत का पहला नगरीकरण"
+      ],
+      "common_mistake": "Students सिंधु सभ्यता को सिर्फ 'नदी के किनारे खेती' तक सीमित रखते हैं — NCERT में गाँव→नगर→महानगर और व्यापार/विनिमय की कहानी भी है।",
+      "memory_trick": "3-2-1: 3500 गाँव→नगर, 2600 नगर→महानगर, 1st urbanisation of India!",
+      "gesture_action": "Haath se chhota circle (गाँव), phir bada (नगर), phir aur bada (महानगर) — step-by-step growth dikhao.",
+      "real_life_examples": [
+        "Yamuna as tributary of Ganga — सहायक नदी का everyday map example",
+        "Monsoon se fertile fields — नदी सिंचाई जैसी बात आज भी गाँवों में दिखती है"
+      ],
+      "worked_example": {
+        "problem": "'भारत का पहला नगरीकरण' किसे कहा गया है और यह प्रक्रिया लगभग कब तेज़ हुई?",
+        "steps": [
+          "Process: गाँवों का नगरों में और नगरों का महानगरों में बदलना",
+          "Key date: लगभग 2600 सा.सं.पू. में व्यापार/विनिमय से महानगर",
+          "Region: सिंधु–सरस्वती क्षेत्र के मैदान"
+        ],
+        "answer": "सिंधु-सरस्वती क्षेत्र में गाँव→नगर→महानगर की विकास प्रक्रिया को भारत का पहला नगरीकरण कहा जाता है; लगभग 2600 सा.सं.पू. में बढ़ते व्यापार से नगर महानगर बने।"
+      },
+      "practice": {
+        "easy": [
+          "सहायक नदी की परिभाषा एक उदाहरण सहित लिखो।"
+        ],
+        "medium": [
+          "3500 सा.सं.पू. और 2600 सा.सं.पू. में क्या-क्या बदलाव हुए? दो बिंदु लिखो।"
+        ],
+        "hard": [
+          "सिंधु और सरस्वती नदियों ने इस क्षेत्र को कृषि और नगर-विकास के लिए अनुकूल कैसे बनाया? समझाओ।"
+        ]
+      },
+      "summary": "सिंधु-सरस्वती के उपजाऊ मैदानों में गाँव नगर बने और लगभग 2600 सा.सं.पू. व्यापार बढ़ने से महानगर — इसे भारत का पहला नगरीकरण कहते हैं।",
+      "revision_point": "Villages→towns (from 3500 BCE)→metropolises (~2600 BCE) = India's first urbanisation.",
+      "exam_tip": "उत्तर में 'उपजाऊ मैदान', 'व्यापार/विनिमय' और 'पहला नगरीकरण' — ये तीन शब्द ज़रूर आएँ।",
+      "source_text_hint": "इस विकास प्रक्रिया को 'भारत का पहला नगरीकरण' भी कहा जाता है"
+    },
+    {
+      "concept": "नामकरण – सिंधु, हड़प्पा और सिंधु-सरस्वती",
+      "say": "Bacchon, ek hi civilisation ke teen naam kyun? Archaeologists ne isse सिंधु सभ्यता, हड़प्पा सभ्यता अथवा सिंधु-सरस्वती सभ्यता jaise naam diye — aur NCERT kehta hai hum in sabhi नामों ka प्रयोग करेंगे. Is सभ्यता ke निवासियों ko हड़प्पाई या हड़प्पावासी कहते हैं. ध्यान रखें box bahut important hai: वर्तमान mein inhe 'हड़प्पाई/हड़प्पावासी' kyun kehte hain? सीधा-सा उत्तर — लगभग एक शताब्दी पहले 1920–21 mein हड़प्पा (आज के पाकिस्तान का पंजाब) is civilisation se संबंधित पहला उत्खनित नगर tha. Isliye pehli discovery ke naam par logon ko Harappans bola gaya — jaise class mein pehle roll-number wale student ka naam group par pad jaaye! Shuru mein isse सिंधु घाटी की सभ्यता bhi kaha gaya kyunki सिंधु नदी के मैदानों mein bahut पुरास्थल mile. Later aur sites mile, isliye ab sirf 'valley' word enough nahi. NCERT specially kehta hai: hum 'सिंधु घाटी सभ्यता' ka प्रयोग नहीं कर रहे kyunki ab hum jaante hain yeh civilisation सिंधु क्षेत्र se बहुत आगे तक फैली thi — map (चित्र 6.3) par दृष्टि डालo. Class tip: exam mein teen नाम + '1920–21 पहला उत्खनन हड़प्पा' likhna scoring point hai. Residents = Harappans; culture names = Indus / Harappan / Indus-Saraswati.",
+      "example": "Agar tumhare school ka pehla building block 'A-block' discover hota, toh poore campus ko log 'A-block campus' bhi bol sakte hain — waise hi pehla excavated town Harappa → Harappan people.",
+      "board_lines": [
+        "Teen naam: सिंधु · हड़प्पा · सिंधु-सरस्वती",
+        "निवासी = हड़प्पाई / हड़प्पावासी",
+        "1920–21: हड़प्पा = पहला उत्खनित नगर"
+      ],
+      "common_mistake": "Students 'सिंधु घाटी सभ्यता' और 'सिंधु-सरस्वती सभ्यता' को बेफिक्र घुमा देते हैं — NCERT जानबूझकर 'घाटी' शब्द कम/नहीं इस्तेमाल करता क्योंकि सभ्यता सिंधु से बहुत आगे फैली थी।",
+      "memory_trick": "H-first: Harappa First Find (1920–21) → Harappans! Teen naam: I-H-IS (Indus, Harappa, Indus-Saraswati).",
+      "gesture_action": "Teen ungliyan: Indus, Harappa, Indus-Saraswati; phir ek ungli se 'first dig 1920–21' point karo.",
+      "real_life_examples": [
+        "News mein 'Harappan seals' ya 'Harappan beads' — residents/culture ke liye Harappan word",
+        "Map activity: Pakistan Punjab mein Harappa — pehli discovery site"
+      ],
+      "worked_example": {
+        "problem": "हड़प्पावासी किन्हें कहा जाता है और उन्हें यह नाम क्यों मिला?",
+        "steps": [
+          "Definition: इस सभ्यता के निवासी",
+          "Reason: 1920–21 में हड़प्पा पहला उत्खनित नगर था",
+          "Location hint: आज के पाकिस्तान का पंजाब"
+        ],
+        "answer": "इस सभ्यता के निवासियों को हड़प्पाई/हड़प्पावासी कहते हैं क्योंकि 1920–21 में हड़प्पा इस सभ्यता से संबंधित पहला उत्खनित नगर था।"
+      },
+      "practice": {
+        "easy": [
+          "इस सभ्यता के तीन प्रचलित नाम लिखो।"
+        ],
+        "medium": [
+          "NCERT 'सिंधु घाटी सभ्यता' शब्द पर क्यों सतर्क है? मानचित्र से जोड़कर बताओ।"
+        ],
+        "hard": [
+          "अगर पहला उत्खनित नगर धौलावीरा होता तो निवासियों को क्या कहा जा सकता था? नामकरण का तर्क समझाओ।"
+        ]
+      },
+      "summary": "एक ही सभ्यता के नाम सिंधु, हड़प्पा और सिंधु-सरस्वती हैं; निवासी हड़प्पावासी कहलाते हैं क्योंकि 1920–21 में हड़प्पा पहला उत्खनित नगर था।",
+      "revision_point": "Names: Indus / Harappan / Indus-Saraswati; avoid limiting it only to 'Indus Valley'.",
+      "exam_tip": "'1920–21' और 'पहला उत्खनित नगर — हड़प्पा' एक साथ लिखो; marks आते हैं।",
+      "source_text_hint": "1920–21 में हड़प्पा (आज के पाकिस्तान का पंजाब) इस सभ्यता से संबंधित पहला उत्खनित नगर था"
+    },
+    {
+      "concept": "प्रमुख नगर, मानचित्र और सरस्वती नदी",
+      "say": "Ab map aur cities! हड़प्पा और मोहनजो-दड़ो — ab Pakistan mein — is civilisation ke सबसे पहले दो नगर hain jinki खोज लगभग एक शताब्दी पूर्व 1924 mein ki gayi. Baad mein अन्य प्रमुख नगर jaise धौलावीरा (गुजरात), राखीगढी (हरियाणा), गँवेरीवाला (पाकिस्तान के चोलिस्तान मरुस्थल) aur सैकड़ों छोटे स्थल jaise लोथल (गुजरात) ki खोज hui; कुछ ki खुदाई bhi hui — aur खोजें आज भी जारी हैं. Matching activity NCERT deta hai — cities ko modern states/provinces se milao. ध्यान से: book ki matching table practice ke liye hai; सही pairing map se aati hai — धौलावीरा–गुजरात, हड़प्पा–पंजाब (Pakistan), कालीबंगा–राजस्थान, मोहनजो-दड़ो–सिंध, राखीगढी–हरियाणा. सरस्वती नदी box: map par सिंधु aur uski पाँच सहायक नदियाँ; मोहनजो-दड़ो-हड़प्पा inke किनारे. सरस्वती — aaj भारत mein घग्गर aur पाकिस्तान mein हाकरा, isliye घग्गर-हाकरा — ke किनारे bhi अनेक पुरास्थल. Aaj yeh मौसमी नदी hai, sirf वर्षा ऋतु mein bahti hai. ऋग्वेद mein सरस्वती ko देवी aur पर्वत se समुद्र tak bahne wali नदी dono रूपों mein पूजा gaya; baad ke ग्रंथों mein uske सूखने/लुप्त होने ka वर्णन. Interesting: सरस्वती बेसिन mein सिर्फ दो महानगर — राखीगढी और गँवेरीवाला — balki छोटे नगर (फरमाना, कालीबंगा) aur अन्य (भिर्राना, बनावली) bhi aate hain; पुरास्थलों की सघनता स्पष्ट hai.",
+      "example": "School map competition: Harappa pin Pakistan Punjab par, Dholavira Gujarat par, Rakhigarhi Haryana par — NCERT matching activity jaisi।",
+      "board_lines": [
+        "पहले दो नगर: हड़प्पा, मोहनजो-दड़ो (≈1924 खोज)",
+        "धौलावीरा–गुजरात; राखीगढी–हरियाणा; कालीबंगा–राजस्थान",
+        "सरस्वती = आज घग्गर-हाकरा (मौसमी नदी)"
+      ],
+      "common_mistake": "Matching table में उल्टे जोड़े याद कर लेना (जैसे धौलावीरा को पंजाब लिख देना) — map से सही राज्य याद रखो।",
+      "memory_trick": "D-G, R-H, K-R, M-S, H-P: धौलावीरा-गुजरात, राखीगढी-हरियाणा, कालीबंगा-राजस्थान, मोहनजो-दड़ो-सिंध, हड़प्पा-पंजाब।",
+      "gesture_action": "Hawa mein north-west India ka rough map banao aur five city-points touch karo — Harappa, Mohenjo-daro, Rakhigarhi, Kalibangan, Dholavira.",
+      "real_life_examples": [
+        "Monsoon-only local nala/stream — मौसमी नदी जैसा सरल अनुभव",
+        "Museum/textbook photos of Lothal, Dholavira — Gujarat sites"
+      ],
+      "worked_example": {
+        "problem": "धौलावीरा, राखीगढी और कालीबंगा आज किन आधुनिक राज्यों में हैं?",
+        "steps": [
+          "धौलावीरा → गुजरात",
+          "राखीगढी → हरियाणा",
+          "कालीबंगा → राजस्थान"
+        ],
+        "answer": "धौलावीरा — गुजरात; राखीगढी — हरियाणा; कालीबंगा — राजस्थान।"
+      },
+      "practice": {
+        "easy": [
+          "सरस्वती नदी को आज भारत और पाकिस्तान में किन नामों से जाना जाता है?"
+        ],
+        "medium": [
+          "हड़प्पा और मोहनजो-दड़ो की खोज कब और क्यों महत्त्वपूर्ण मानी जाती है?"
+        ],
+        "hard": [
+          "सरस्वती बेसिन में पुरास्थलों की सघनता क्या दर्शाती है? दो महानगरों के नाम भी लिखो।"
+        ]
+      },
+      "summary": "प्रमुख नगर हड़प्पा, मोहनजो-दड़ो, धौलावीरा, राखीगढी आदि फैले हैं; सरस्वती आज घग्गर-हाकरा है और ऋग्वेद में नदी व देवी दोनों रूपों में आती है।",
+      "revision_point": "Map + correct state matching + Saraswati = Ghaggar-Hakra (seasonal today).",
+      "exam_tip": "नगर-राज्य pairing अलग-अलग बिंदु बनाकर लिखो; सरस्वती के लिए 'घग्गर-हाकरा' और 'ऋग्वेद' ज़रूर जोड़ो।",
+      "source_text_hint": "सरस्वती नदी, जिसे आज भारत में घग्गर और पाकिस्तान में हाकरा"
+    },
+    {
+      "concept": "नगर-योजना, किलेबंदी और महासनानागार",
+      "say": "Bacchon, Harappan cities सुनियोजित योजना se bane the. चौड़ी सड़कें thin jo सामान्यतः चारों दिशाओं ki taraf उन्मुख hoti thin — देखो कालीबंगा ki चौड़ी सड़क aur धौलावीरा ki लंबवत गलियाँ. धौलावीरा mein तीन अलग-अलग क्षेत्र the, any नगरों ki tarah सिर्फ दो nahi; वहाँ अधिकांश भवनों की नींव पत्थरों se bani. अधिकांश नगरों ke चारों ओर किलेबंदी — सुरक्षा के लिए बस्ती/नगर के चारों ओर विशाल दीवार. दो विशिष्ट भाग: 'ऊपरी नगर' — संभवतः अभिजात वर्ग (शासक, अधिकारी, प्रशासक, प्रायः पुरोहित) — aur 'निचला नगर' — साधारण लोग. कुछ बड़े भवन सामूहिक उद्देश्यों ke liye — जैसे गोदाम. सड़कों-गलियों mein विभिन्न आकारों ke निजी घर; रोचक baat — बड़े और छोटे घरों की निर्माण गुणवत्ता एक समान; عموماً ईंटों ka प्रयोग. Famous structure: मोहनजो-दड़ो का महासनानागार — लगभग 12×7 मीटर. ऊपर की ईंटों par जलरोधक सामग्री jaise प्राकृतिक बिटुमन/डामर; चारों ओर छोटे कमरे, ek mein कुआँ; कोने mein नाली ताकि पानी खाली हो; समय-समय पर स्वच्छ पानी se भरा जाता. उद्देश्य पर चर्चा: सार्वजनिक स्नान? राजसी परिवार? धार्मिक कार्य? पहली व्याख्या अब स्वीकार्य नहीं — क्योंकि अधिकांश घरों mein स्नानागार the. Yaad rakho — is विषय par शिलालेख, ग्रंथ ya यात्री विवरण nahi, isliye archaeologists व्याख्याएँ देते हैं, final stamp nahi.",
+      "example": "Aaj bhi planned colony mein seedhi roads aur separate sectors hote hain — Harappan upper town/lower town usi planning idea jaisa, though purpose alag ho sakta hai।",
+      "board_lines": [
+        "सुनियोजित नगर: चौड़ी सड़कें + प्रायः किलेबंदी",
+        "ऊपरी नगर (अभिजात) · निचला नगर (साधारण)",
+        "महासनानागार ≈ 12×7 मी; जलरोधक + कुआँ + नाली"
+      ],
+      "common_mistake": "महासनानागार को सिर्फ 'सबके लिए public swimming pool' मान लेना — NCERT कहता है यह व्याख्या अब कम स्वीकार्य है क्योंकि घरों में निजी स्नानागार थे।",
+      "memory_trick": "U-N-G: Upper town, Lower town, Great Bath — नगर-योजना का UNG pack! Size yaad: 12×7.",
+      "gesture_action": "Haath se wall (किलेबंदी), phir upar level aur neeche level (ऊपरी/निचला नगर), phir rectangle shape for Great Bath.",
+      "real_life_examples": [
+        "School building mein separate blocks — planning zones jaise upper/lower areas",
+        "Bathroom waterproofing / tar — बिटुमन जैसी जलरोधक परत का सरल आज का रूप"
+      ],
+      "worked_example": {
+        "problem": "मोहनजो-दड़ो के महासनानागार की कोई तीन संरचनात्मक विशेषताएँ लिखो।",
+        "steps": [
+          "आकार: लगभग 12×7 मीटर",
+          "जलरोधक परत (बिटुमन/डामर) और आस-पास कमरे/कुआँ",
+          "नाली से पानी खाली करना और स्वच्छ पानी से भरना"
+        ],
+        "answer": "आकार लगभग 12×7 मीटर; जलरोधक परत; आस-पास कमरे व कुआँ; नाली द्वारा पानी निकालना और समय-समय पर स्वच्छ पानी भरना।"
+      },
+      "practice": {
+        "easy": [
+          "किलेबंदी किसे कहते हैं?"
+        ],
+        "medium": [
+          "ऊपरी नगर और निचला नगर में क्या अंतर बताया गया है?"
+        ],
+        "hard": [
+          "महासनानागार की सार्वजनिक स्नान वाली व्याख्या अब क्यों कम स्वीकार्य है? कोई वैकल्पिक व्याख्या भी सुझाओ।"
+        ]
+      },
+      "summary": "हड़प्पाई नगर सुनियोजित थे — चौड़ी सड़कें, किलेबंदी, ऊपरी/निचला भाग, समान गुणवत्ता के ईंट-घर; मोहनजो-दड़ो का महासनानागार जलरोधक तकनीक दिखाता है।",
+      "revision_point": "Planned streets + fortification + upper/lower towns + Great Bath (12×7 m, waterproofed).",
+      "exam_tip": "महासनानागार पर लिखते समय आकार, जलरोधक पदार्थ, कुआँ/नाली और 'उद्देश्य विवादित' — चारों छूओ।",
+      "source_text_hint": "मोहनजो-दड़ो का प्रसिद्ध 'महासनानागार' एक छोटा और विस्तृत स्नानागार है जिसका आकार 12×7 मीटर है"
+    },
+    {
+      "concept": "जल प्रबंधन और स्वच्छता",
+      "say": "Last big idea of this part — जल प्रबंधन! NCERT जोर se kehta hai: हड़प्पावासी जल प्रबंधन और स्वच्छता ko बहुत महत्त्व देते थे. Unke घरों mein स्नान के लिए अलग स्नानागार हुआ करते थे. Yeh नगर जल-निकास प्रणाली se जुड़े हुए the, jo साधारणतः सड़कों के नीचे होती थीं — unmein अपशिष्ट जल बहता tha. चित्र 6.7 Lothal (Gujarat) ki drainage system dikhata hai — smart board par imagine karo covered drains below streets. Isse pehle wale Great Bath se link karo: waterproofing, wells, drains — sab ek hi value system ka hissa — clean water in, waste water out. Civilisation features yaad ho? नगरीकरण mein जल प्रबंधन और जल निकास explicitly shaamil tha — Harappans ne usse practically jee kar dikhaya. Class discussion tip: aaj bhi agar drains block ho jaayein toh bimari failti hai; 4000+ saal pehle Harappans yeh samajh chuke the. Board formula: Houses with bathrooms + street drains = cleanliness culture. Lothal drainage picture exam mein describe karne layak hai — 'सड़क के नीचे नालियाँ, अपशिष्ट जल'. Quality of life point: बड़े-छोटे घरों ki निर्माण गुणवत्ता समान thi, aur bathrooms/drains bhi planning ka hissa — B.B. Lal wala सामंजस्य thoda yahan bhi reflect hota hai. Revision closing: civilisation = not just monuments, but daily management of water and waste.",
+      "example": "Aaj ke city mein underground sewer line road ke neeche hoti hai — bilkul usi tarah Lothal/Harappan towns mein सड़कों के नीचे जल-निकास प्रणाली थी।",
+      "board_lines": [
+        "हड़प्पावासी: जल प्रबंधन + स्वच्छता = प्राथमिकता",
+        "घरों में अलग स्नानागार",
+        "सड़कों के नीचे नालियाँ → अपशिष्ट जल (लोथल उदाहरण)"
+      ],
+      "common_mistake": "Students जल प्रबंधन को सिर्फ महासनानागार तक सीमित कर देते हैं — घरों के स्नानागार और सड़क के नीचे की नालियाँ भी NCERT का मुख्य बिंदु हैं।",
+      "memory_trick": "B-D-C: Bathroom at home, Drains under street, Cleanliness culture — Harappan water formula!",
+      "gesture_action": "Haath se ghar ka bathroom dikhao, phir neeche nali ka flow action — waste water bahte hue.",
+      "real_life_examples": [
+        "School/home bathroom + outside drain — daily जल निकास",
+        "Swachh Bharat messaging — clean water and waste disposal ab bhi civic value hai"
+      ],
+      "worked_example": {
+        "problem": "हड़प्पावासियों की जल-निकास व्यवस्था की दो विशेषताएँ लिखो।",
+        "steps": [
+          "घरों में स्नान के लिए अलग स्नानागार",
+          "नगर जल-निकास प्रणाली से जुड़े; नालियाँ प्रायः सड़कों के नीचे",
+          "उदाहरण: लोथल की जल-निकास प्रणाली"
+        ],
+        "answer": "घरों में अलग स्नानागार थे और अपशिष्ट जल प्रायः सड़कों के नीचे बनी नालियों से बहता था; लोथल इसका उदाहरण है।"
+      },
+      "practice": {
+        "easy": [
+          "हड़प्पावासी किस दो चीज़ों को बहुत महत्त्व देते थे?"
+        ],
+        "medium": [
+          "चित्र 6.7 (लोथल) क्या दर्शाता है? दो वाक्य लिखो।"
+        ],
+        "hard": [
+          "नगरीकरण की विशेषता के रूप में जल प्रबंधन को हड़प्पा उदाहरण से जोड़कर समझाओ।"
+        ]
+      },
+      "summary": "हड़प्पावासी जल प्रबंधन और स्वच्छता को महत्त्व देते थे — घरों में स्नानागार और सड़कों के नीचे नालियों वाली जल-निकास प्रणाली (जैसे लोथल)।",
+      "revision_point": "Water wisdom: private bathrooms + underground street drains = Harappan cleanliness.",
+      "exam_tip": "उत्तर में 'स्नानागार', 'सड़कों के नीचे नालियाँ' और 'लोथल' तीनों शब्द लिखोगे तो उत्तर पूरा लगेगा।",
+      "source_text_hint": "हड़प्पावासी जल प्रबंधन और स्वच्छता को बहुत महत्त्व देते थे"
+    }
+  ]
+}
