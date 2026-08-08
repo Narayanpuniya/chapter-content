@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 695,
+    "chapter_name": "पृष्ठीय क्षेत्रफल और आयतन",
+    "chapter_number": 17,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 17 — पृष्ठीय क्षेत्रफल और आयतन — ko padhenge. Is hisse mein pehle लंब वृत्तीय शंकु ka वक्र और कुल पृष्ठीय क्षेत्रफल (πrl aur πr(l+r)), phir गोला aur अधर्गोला ka पृष्ठीय क्षेत्रफल (4πr², 2πr², 3πr²), aur ant mein समान आधार-ऊँचाई वाले बेलन व शंकु ka volume comparison shuru karenge. Saari baatein activities, formulae aur NCERT examples se clear hongi.",
+    "welcome": "Good morning, class! Aaj Smart Board par Geometry ka ek bahut useful chapter shuru karte hain — पृष्ठीय क्षेत्रफल और आयतन. Socho: ice-cream cone, joker's topi, tent, bhutta, football, hemispherical dome — in sabka paper, paint ya canvas kitna lagega? Aaj hum wahi calculate karna seekhenge. Ready ho? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "लंब वृत्तीय शंकु ko identify karna aur uski ऊँचाई (h), त्रिज्या (r) aur तिर्यक ऊँचाई (l) ko relate karna: l² = r² + h²",
+      "शंकु ka वक्र पृष्ठीय क्षेत्रफल πrl aur कुल पृष्ठीय क्षेत्रफल πr(l+r) apply karke problems solve karna",
+      "गोले ka पृष्ठीय क्षेत्रफल 4πr² aur अधर्गोले ke वक्र (2πr²) तथा कुल (3πr²) क्षेत्रफल nikalna",
+      "Real-life situations — tent, topi, bhutta, balloon, dome painting — mein surface area ke applications use karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "लंब वृत्तीय शंकु का परिचय"
+      },
+      {
+        "number": 2,
+        "name": "शंकु का वक्र पृष्ठीय क्षेत्रफल πrl"
+      },
+      {
+        "number": 3,
+        "name": "तिर्यक ऊँचाई और शंकु का कुल पृष्ठीय क्षेत्रफल"
+      },
+      {
+        "number": 4,
+        "name": "शंकु के अनुप्रयोग – भुट्टा, तंबू और अभ्यास"
+      },
+      {
+        "number": 5,
+        "name": "गोले का परिचय और पृष्ठीय क्षेत्रफल 4πr²"
+      },
+      {
+        "number": 6,
+        "name": "अधर्गोले का वक्र और कुल पृष्ठीय क्षेत्रफल"
+      },
+      {
+        "number": 7,
+        "name": "गोले और अधर्गोले के उदाहरण व अनुप्रयोग"
+      },
+      {
+        "number": 8,
+        "name": "समान आधार-ऊँचाई वाले बेलन और शंकु – आयतन की शुरुआत"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "लंब वृत्तीय शंकु का परिचय",
+      "say": "Bacchon, ab tak hum congruent figures ko ek ke upar ek rakh kar solids bana rahe the — unhe prism kehte hain. Aaj ek naya solid dekhenge jo prism nahi hai — yeh pyramid family se related hai, aur iska special form hai लंब वृत्तीय शंकु, yani right circular cone. Activity yaad rakho: ek समकोण त्रिभुज OAB lo jisme angle O right angle ho. Ek lambi moti dori OA ke along chipkao, dono haathon se pakdo, aur triangle ko dori ke around kai baar ghumao. Jo aakriti banegi, woh ice-cream cone jaisi dikhegi — wahi right circular cone hai! Isme point A को शंकु का शीर्ष (vertex) kehte hain, OA ऊँचाई (height) h hoti hai, OB आधार की त्रिज्या (base radius) r hoti hai, aur AB तिर्यक ऊँचाई (slant height) l hoti hai. O आधार के वृत्त का केन्द्र (centre) hai. Dhyan do — har cone right circular nahi hota. Agar vertex se base-centre tak ki line base par perpendicular na ho, ya base circular na ho, toh woh लंब वृत्तीय शंकु nahi kahlaata. NCERT clearly kehti hai: jab tak anyatha na kaha jaaye, ‘शंकु’ se humara matlab right circular cone hi hoga. Board par hamesha teen letters likho: h, r, l — yeh teen cone ke dost hain. Ice-cream cone, joker's topi, traffic cone — sab isi family ke examples hain. Pehle shape pehchano, phir measure, phir formula — yahi classroom order hai.",
+      "example": "Ice-cream cone: tip = vertex A, seedhi height OA = h, open circle ki radius = r, side edge AB = slant height l.",
+      "board_lines": [
+        "Right circular cone: vertex A, height h = OA, radius r = OB, slant height l = AB",
+        "O = centre of circular base; OA ⊥ base",
+        "‘शंकु’ (unless said otherwise) = लंब वृत्तीय शंकु"
+      ],
+      "common_mistake": "Students slant height l ko hi height h maan lete hain — l side edge hai, h vertical height hai; dono alag hain.",
+      "memory_trick": "V-H-R-L: Vertex, Height, Radius, slant Length — cone ke chaar naam ek saans mein.",
+      "gesture_action": "Ek haath se tip (vertex) pakdo, doosre se base circle banao, phir ungli se side edge (slant) trace karo",
+      "real_life_examples": [
+        "Traffic cone / road safety cone — tip upar, circular base neeche",
+        "Party joker's pointed paper topi — cone shape"
+      ],
+      "worked_example": {
+        "problem": "Ek figure mein tip se base-centre tak ki line base par perpendicular nahi hai. Kya yeh लंब वृत्तीय शंकु hai? Kyun?",
+        "steps": [
+          "Right circular cone mein vertex ko base-centre se milane wali line base par लंब honi chahiye",
+          "Yahan yeh line perpendicular nahi hai",
+          "Isliye yeh लंब वृत्तीय शंकु nahi hai (NCERT आकृति 11.2(a) type)"
+        ],
+        "answer": "Nahi — kyunki शीर्ष को आधार-केन्द्र से मिलाने वाली रेखा आधार पर लंब नहीं है।"
+      },
+      "practice": {
+        "easy": [
+          "शंकु की ऊँचाई, त्रिज्या और तिर्यक ऊँचाई को क्रमशः किन अक्षरों से व्यक्त करते हैं?"
+        ],
+        "medium": [
+          "लंब वृत्तीय शंकु और उस शंकु में अंतर लिखो जिसका आधार वृत्तीय नहीं है।"
+        ],
+        "hard": [
+          "समकोण त्रिभुज घुमाकर शंकु बनाने वाली क्रियाकलाप steps mein explain karo aur vertex, height, radius, slant height identify karo."
+        ]
+      },
+      "summary": "लंब वृत्तीय शंकु right-angled triangle ko ek leg ke around ghumane se banta hai; isme h, r, l defined hote hain aur ‘शंकु’ ka default matlab yahi hota hai.",
+      "revision_point": "Cone: vertex, h (vertical), r (base radius), l (slant); OA ⊥ circular base.",
+      "exam_tip": "Diagram questions mein pehle check karo — base circular hai aur axis perpendicular hai? Warna right circular cone ke formulae apply mat karo.",
+      "source_text_hint": "यह आकृति एक लंब वृत्तीय शंकु (right circular cone) कहलाती है"
+    },
+    {
+      "concept": "शंकु का वक्र पृष्ठीय क्षेत्रफल πrl",
+      "say": "Ab sabse important formula aata hai — शंकु का वक्र पृष्ठीय क्षेत्रफल. Activity karo: ek ready paper cone lo, use tip se jaati hui kisi side (edge) ke along kaato bina overlapping ke, aur khol do. Jo paper milega woh cake-ke-slice jaisa sector dikhega — yehi curved surface tha! Us edge ke along kaata, wohi slant height l hai. Agar sector ke do radius-edges (A wale) ko fold karke mila do, toh curved arc shuru-shuru mein cone ka circular base banata hai. Ab socho — agar is sector ko tip A se jaati lines se hundreds of tiny strips mein kaat do, toh har strip almost triangle jaisi lagegi, aur har ki height ≈ slant height l. Har chhote triangle ka area = (1/2) × uska base × l. Saare triangles ka area jodne par: (1/2) × l × (saari bases ka sum). Bases ka sum = sector ke curved part ki poori length. Aur yehi curved part cone ka base banata hai, jiski circumference 2πr hoti hai. Isliye CSA = (1/2) × l × 2πr = πrl. Yaad rakho units cm² ya m². Yeh sirf curved lateral surface hai — base ka paper isme shamil nahi. Ice-cream wafer cone ka bahri wrapper area approximately πrl hi hota hai. Board par bada likho: CSA(cone) = π r l. Agar π = 22/7 diya ho aur r = 7 ka multiple ho, calculation soft ho jaati hai — exam mein yeh notice karna marks bachata hai.",
+      "example": "Paper cone ko slant se kaatkar kholo — sector milta hai; uske arc ki length = 2πr, height = l, isliye area = πrl.",
+      "board_lines": [
+        "Open cone along slant → circular sector",
+        "CSA = (1/2) × l × (base circumference 2πr)",
+        "शंकु का वक्र पृष्ठीय क्षेत्रफल = πrl"
+      ],
+      "common_mistake": "Students CSA mein base area πr² bhi jod dete hain — CSA sirf curved part hai; base alag hai.",
+      "memory_trick": "CSA = π × r × l → 'Pie × Radius × slant Length' — teen letter: π, r, l.",
+      "gesture_action": "Paper cone ko ek side se kaatne ka gesture, phir usko flat sector ki tarah failao, phir 'πrl' air-write karo",
+      "real_life_examples": [
+        "Birthday party cone hats — curved paper area ≈ πrl",
+        "Ice-cream wafer cone ka outer surface"
+      ],
+      "worked_example": {
+        "problem": "एक लंब वृत्तीय शंकु की तिर्यक ऊँचाई 10 cm और आधार की त्रिज्या 7 cm है। वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (π = 22/7)",
+        "steps": [
+          "Formula: CSA = πrl",
+          "π = 22/7, r = 7 cm, l = 10 cm",
+          "CSA = (22/7) × 7 × 10 = 220 cm²"
+        ],
+        "answer": "220 cm²"
+      },
+      "practice": {
+        "easy": [
+          "शंकु का वक्र पृष्ठीय क्षेत्रफल का सूत्र लिखो।"
+        ],
+        "medium": [
+          "आधार व्यास 10.5 cm और तिर्यक ऊँचाई 10 cm वाले शंकु का CSA ज्ञात करो। (π = 22/7)"
+        ],
+        "hard": [
+          "Paper cone kholne par sector kyun milta hai, aur CSA = πrl ka derivation teen steps mein likho."
+        ]
+      },
+      "summary": "Cone ko slant along kaatkar sector banane par curved surface area πrl milta hai — yahan r base radius aur l slant height hai.",
+      "revision_point": "CSA(cone) = πrl; base circumference 2πr sector ke arc ke barabar.",
+      "exam_tip": "Agar sawaal 'वक्र पृष्ठीय' bole toh sirf πrl; 'कुल' bole tab base πr² bhi jodna — words carefully padho.",
+      "source_text_hint": "शंकु का वक्र पृष्ठीय क्षेत्रफल = πrl"
+    },
+    {
+      "concept": "तिर्यक ऊँचाई और शंकु का कुल पृष्ठीय क्षेत्रफल",
+      "say": "CSA aa gaya, ab do aur baatein — तिर्यक ऊँचाई l ka relation, aur कुल पृष्ठीय क्षेत्रफल. Right triangle OAB mein, Pythagoras se: slant² = height² + radius², yani l² = h² + r², isliye l = √(r² + h²). Agar sawaal mein h aur r diya ho, pehle l nikaalo, phir CSA. Example: h = 16 cm, r = 12 cm → l = √(16² + 12²) = √(256+144) = √400 = 20 cm. Phir CSA = πrl = 3.14 × 12 × 20 = 753.6 cm². Ab agar cone ka base bhi band rakhna hai — jaise closed conical container — toh ek aur circular paper chahiye area πr². Isliye TSA = CSA + base = πrl + πr² = πr(l + r). Same example mein TSA = 753.6 + 3.14×12×12 = 753.6 + 452.16 = 1205.76 cm². Classroom tip: open tent jaisa open bottom ho toh aksar sirf canvas = CSA; closed solid cone model mein TSA. Units hamesha square. π kabhi 22/7, kabhi 3.14 — jo question bole wahi use karo. Formula card yaad rakho: l = √(r²+h²), CSA = πrl, TSA = πr(l+r). Teen formulae — teen stars of this section.",
+      "example": "h = 16 cm, r = 12 cm → l = 20 cm; CSA = 753.6 cm²; TSA = 1205.76 cm² (π = 3.14).",
+      "board_lines": [
+        "l² = r² + h²  ⇒  l = √(r² + h²)",
+        "CSA = πrl",
+        "TSA = πrl + πr² = πr(l + r)"
+      ],
+      "common_mistake": "Students l = r + h likh dete hain — galat! l hypotenuse hai: √(r² + h²), sum nahi.",
+      "memory_trick": "Pythagoras Cone: r aur h legs, l hypotenuse — 'Root of r-square h-square'.",
+      "gesture_action": "Haath se right triangle banao: vertical = h, horizontal = r, slant side = l; phir base circle jodkar TSA dikhao",
+      "real_life_examples": [
+        "Closed conical gift box — full outer paper ≈ TSA",
+        "Solid wooden cone toy paint — curved + base dono paint"
+      ],
+      "worked_example": {
+        "problem": "एक शंकु की ऊँचाई 16 cm और आधार की त्रिज्या 12 cm है। π = 3.14 लेकर वक्र तथा कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+        "steps": [
+          "l = √(16² + 12²) = √400 = 20 cm",
+          "CSA = 3.14 × 12 × 20 = 753.6 cm²",
+          "TSA = 753.6 + 3.14 × 144 = 753.6 + 452.16 = 1205.76 cm²"
+        ],
+        "answer": "CSA = 753.6 cm²; TSA = 1205.76 cm²"
+      },
+      "practice": {
+        "easy": [
+          "सूत्र लिखो: l और TSA(cone)।"
+        ],
+        "medium": [
+          "तिर्यक ऊँचाई 21 m, आधार व्यास 24 m — कुल पृष्ठीय क्षेत्रफल ज्ञात करो। (π = 22/7)"
+        ],
+        "hard": [
+          "CSA = 308 cm², l = 14 cm हो तो (i) r (ii) TSA ज्ञात करो। (π = 22/7)"
+        ]
+      },
+      "summary": "Slant height Pythagoras se milti hai: l = √(r²+h²); closed cone ka TSA = πr(l+r).",
+      "revision_point": "Pehle l nikaalo (agar h,r diye), phir CSA/TSA; l ≠ r+h.",
+      "exam_tip": "Numerical mein pehle units same karo (cm/m), phir l, phir area — stepwise working marks milte hain.",
+      "source_text_hint": "शंकु का कुल पृष्ठीय क्षेत्रफल = πr(l + r)"
+    },
+    {
+      "concept": "शंकु के अनुप्रयोग – भुट्टा, तंबू और अभ्यास",
+      "say": "Ab real-life applications — yahi exam mein favourite hain. Example: bhutta (corn cob) thoda cone jaisa — widest end ki radius 2.1 cm, length (height) 20 cm. Daane curved surface par hote hain, isliye pehle l = √(r² + h²) = √(2.1² + 20²) = √404.41 ≈ 20.11 cm. CSA = (22/7)×2.1×20.11 ≈ 132.73 cm². Agar 1 cm² par average 4 daane, total ≈ 132.73×4 ≈ 531 daane. Dusra classic: tent. Height 10 m, base radius 24 m → l = √(10²+24²) = 26 m. Canvas ≈ CSA = πrl; cost = area × rate. Note: tent ka floor usually canvas nahi — isliye TSA nahi, CSA. Exercise type: 8 m high, r = 6 m tent ke liye 3 m wide tarpaulin ki length — CSA ko width se divide, plus sewing/cutting extra 20 cm. Dome (cone-shaped) par safedi: CSA × rate. Joker ki 10 topiyan: har topi CSA, ×10. Bus-stop hollow cones paint: outer curved surfaces, diameter 40 cm, height 1 m — pehle units unify (cm↔m), l ≈ 1.02 m (given √1.04 = 1.02), phir cost. Golden rule: kya paint/canvas/cardboard curved pe hai ya base bhi? Open hollow → aksar CSA; closed → TSA. π value jo question de wahi lo. Practice Exercise 11.1 ke patterns yaad rakho — diameter diya ho toh pehle r = d/2.",
+      "example": "Tent: h = 10 m, r = 24 m → l = 26 m; canvas cost = πrl × ₹70/m² (floor usually not canvased).",
+      "board_lines": [
+        "Applications: CSA when only curved surface (tent canvas, corn grains, outer paint)",
+        "Convert units first (cm ↔ m); r = d/2 if diameter given",
+        "Cost = (surface area) × (rate per unit area)"
+      ],
+      "common_mistake": "Tent problems mein students TSA nikaal lete hain — zyadaatar canvas sirf curved wall ke liye hota hai, base zameen hai.",
+      "memory_trick": "TENT = Take Only Curved (CSA); CLOSED BOX = CSA + Base.",
+      "gesture_action": "Haath se tent triangle banao (sirf slant walls), phir floor pe pair se 'zameen' dikhao — canvas walls pe, floor nahi",
+      "real_life_examples": [
+        "School function ka conical tent — canvas meters",
+        "Roadside hollow traffic cones ko paint karna"
+      ],
+      "worked_example": {
+        "problem": "भुट्टे की त्रिज्या 2.1 cm, ऊँचाई 20 cm है। यदि 1 cm² पर औसत 4 दाने हों, तो लगभग कुल दाने ज्ञात कीजिए। (π = 22/7)",
+        "steps": [
+          "l = √(2.1² + 20²) = √404.41 ≈ 20.11 cm",
+          "CSA = (22/7)×2.1×20.11 ≈ 132.73 cm²",
+          "Daane ≈ 132.73 × 4 ≈ 530.92 ≈ 531"
+        ],
+        "answer": "लगभग 531 दाने"
+      },
+      "practice": {
+        "easy": [
+          "Tent ke canvas ke liye आमतौर पर CSA क्यों लेते हैं, TSA क्यों नहीं?"
+        ],
+        "medium": [
+          "आधार व्यास 40 cm, ऊँचाई 1 m वाले hollow cone का CSA ज्ञात करो। (π = 3.14, √1.04 = 1.02; उत्तर m² में)"
+        ],
+        "hard": [
+          "8 m ऊँचा, r = 6 m tent; 3 m चौड़े तिरपाल की लंबाई कितनी, यदि सिलाई-कटाई में 20 cm अतिरिक्त लगे? (π = 3.14)"
+        ]
+      },
+      "summary": "Cone applications mein pehle decide karo CSA ya TSA; units unify karo; phir l, area, aur cost/quantity nikaalo.",
+      "revision_point": "Tent/topi/paint outer → CSA; closed solid → TSA; always check r vs diameter.",
+      "exam_tip": "Word problems mein 'केनवास/तिरपाल/पेंट बाहरी पृष्ठ' ≈ CSA; 'कुल पृष्ठ/बंद' words dikhein tab TSA.",
+      "source_text_hint": "एक भुट्टा कुछ-कुछ शंकु जैसे आकार का है"
+    },
+    {
+      "concept": "गोले का परिचय और पृष्ठीय क्षेत्रफल 4πr²",
+      "say": "Ab section 11.2 — गोला, sphere. Pehle sawaal: sphere circle jaisa hai kya? Circle paper par draw ho sakta hai — plane closed figure, har point centre se fixed distance (radius) par. Ab activity: circular disc ke diameter along dori chipkao aur ghumao jaise pehle triangle ghumaaya tha — naya solid milega, ball jaisa — yahi गोला (sphere) hai. Jo centre tha, wahi sphere ka centre ban jaata hai. Definition: sphere space mein un sab points ka set hai jo ek fixed point (centre) se fixed distance (radius r) par hain. Note: 'sphere' aksar surface ko kehte hain (ball ki skin), aur solid ball ko solid sphere/ball. Surface area activity: rubber ball par nail se dori lapeto jab tak poori ball cover ho; phir dori hatao; ball ka diameter measure karke r nikaalo; paper par r-radius ke chaar circles banao aur wahi dori se unhe fill karo. Result: dori jo ek sphere cover karti thi, chaar circles bhar deti hai! Matlab SA(sphere) = 4 × (πr²) = 4πr². Sphere ke kitne faces? Sirf ek — completely curved. Football, orange peel, globe — sab 4πr² family. Example: r = 7 cm → SA = 4×(22/7)×7×7 = 616 cm². Yaad: diameter diya ho toh r = d/2 pehle. Yeh formula Class 9 ka star formula hai — ratta nahi, activity se samjho: four circles wrap one ball.",
+      "example": "Rubber ball par dori lapeto, phir same dori se r-radius ke 4 circles bharo — isse SA = 4πr² suggest hota hai.",
+      "board_lines": [
+        "Sphere: all points in space at fixed distance r from centre",
+        "Activity idea: string covering ball fills 4 circles of same r",
+        "गोले का पृष्ठीय क्षेत्रफल = 4πr²"
+      ],
+      "common_mistake": "Students circle ka area πr² hi sphere ka area likh dete hain — sphere 3D surface hai, 4πr².",
+      "memory_trick": "Four Pies Are Square: 4 × π × r² — '4 pies on a sphere'.",
+      "gesture_action": "Ball ko haath mein ghumao (sphere), phir air mein chaar circles draw karke '4πr²' bolo",
+      "real_life_examples": [
+        "Football / cricket ball ki outer surface",
+        "Globe (पृथ्वी का मॉडल) का पृष्ठ"
+      ],
+      "worked_example": {
+        "problem": "7 cm त्रिज्या वाले गोले का पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (π = 22/7)",
+        "steps": [
+          "SA = 4πr²",
+          "r = 7 cm, π = 22/7",
+          "SA = 4 × (22/7) × 7 × 7 = 616 cm²"
+        ],
+        "answer": "616 cm²"
+      },
+      "practice": {
+        "easy": [
+          "गोले के पृष्ठीय क्षेत्रफल का सूत्र लिखो।"
+        ],
+        "medium": [
+          "व्यास 14 cm वाले गोले का पृष्ठीय क्षेत्रफल ज्ञात करो। (π = 22/7)"
+        ],
+        "hard": [
+          "Dori-activity se explain karo ki SA = 4πr² kaise suggest hota hai — apne words mein."
+        ]
+      },
+      "summary": "Sphere space ke points ka set hai jo centre se r door hain; uska surface area 4πr² hota hai — chaar circles ke area ke barabar.",
+      "revision_point": "SA(sphere) = 4πr²; r = d/2; ek hi curved face.",
+      "exam_tip": "Agar diameter diya ho toh pehle r nikaalo — common careless mistake yahin hoti hai.",
+      "source_text_hint": "गोले का पृष्ठीय क्षेत्रफल = 4πr²"
+    },
+    {
+      "concept": "अधर्गोले का वक्र और कुल पृष्ठीय क्षेत्रफल",
+      "say": "Ab गोले को बीच से, centre se guzarte plane se kaato — do equal parts milte hain; har part अधर्गोला (hemisphere) kahlaata hai — 'hemi' matlab half. Hemisphere ke faces? Do! Ek curved surface, ek flat circular base (diameter wala face). Curved surface area of hemisphere = half of sphere's SA = (1/2)×4πr² = 2πr². Lekin agar dono faces lo — jaise solid hemisphere object ka total outer area — toh TSA = curved + base = 2πr² + πr² = 3πr². Bahut zaroori farq: bowl ke andar paint / dome ke bahar paint mein aksar sirf curved surface chahiye = 2πr²; solid paperweight jaisa closed hemisphere model mein TSA = 3πr². Example: r = 21 cm → CSA = 2×(22/7)×21×21 = 2772 cm²; TSA = 3×(22/7)×21×21 = 4158 cm². Board par side-by-side likho: Sphere 4πr² | Hemisphere CSA 2πr² | Hemisphere TSA 3πr². Numbers 4, 2, 3 — sequence yaad rakhne layak. Thin steel bowl mein internal/external radius alag ho sakte hain — thickness add/subtract karna padta hai; yeh Exercise 11.2 mein aata hai. Pehle clearly poochho: curved only ya total? Class mein ek line aur yaad rakho: hollow hemispherical bowl ke andar kalai/paint = usually inner curved 2πr²; agar rim/base ring alag se na maanga ho toh TSA mat jodna. Solid model paint mein 3πr².",
+      "example": "r = 21 cm hemisphere: CSA = 2772 cm², TSA = 4158 cm² (π = 22/7).",
+      "board_lines": [
+        "Hemisphere = half sphere; faces: 1 curved + 1 flat circular base",
+        "CSA(hemisphere) = 2πr²",
+        "TSA(hemisphere) = 3πr² (= 2πr² + πr²)"
+      ],
+      "common_mistake": "Students hemisphere ka TSA bhi 2πr² likh dete hain — TSA mein flat base πr² add karna zaroori hai jab total surface hae.",
+      "memory_trick": "Sphere 4, Hemi-curve 2, Hemi-total 3 — '4-2-3' formula ladder.",
+      "gesture_action": "Ball ko imaginary knife se half karo; ek haath se curved dome, doosre se flat circle base dikhao",
+      "real_life_examples": [
+        "Half-cut watermelon / coconut shell — hemisphere feel",
+        "Building ka hemispherical dome — curved outer surface"
+      ],
+      "worked_example": {
+        "problem": "त्रिज्या 21 cm वाले अधर्गोले के लिए (i) वक्र पृष्ठीय क्षेत्रफल (ii) कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (π = 22/7)",
+        "steps": [
+          "CSA = 2πr² = 2×(22/7)×21×21 = 2772 cm²",
+          "TSA = 3πr² = 3×(22/7)×21×21 = 4158 cm²",
+          "Check: TSA = CSA + πr² = 2772 + 1386 = 4158 cm²"
+        ],
+        "answer": "(i) 2772 cm² (ii) 4158 cm²"
+      },
+      "practice": {
+        "easy": [
+          "अधर्गोले के CSA और TSA के सूत्र लिखो।"
+        ],
+        "medium": [
+          "10 cm त्रिज्या वाले अधर्गोले का TSA ज्ञात करो। (π = 3.14)"
+        ],
+        "hard": [
+          "Internal radius 5 cm, thickness 0.25 cm वाले hemispherical bowl का बाहरी वक्र पृष्ठीय क्षेत्रफल ज्ञात करो। (π = 22/7)"
+        ]
+      },
+      "summary": "Hemisphere ki CSA = 2πr² aur TSA = 3πr²; sawaal ke hisaab se decide karo base shamil hai ya nahi.",
+      "revision_point": "4πr² (sphere) → 2πr² (hemi CSA) → 3πr² (hemi TSA).",
+      "exam_tip": "'वक्र पृष्ठ' = 2πr²; 'कुल पृष्ठ' = 3πr² — Hindi keywords se formula choose karo.",
+      "source_text_hint": "अधर्गोले का कुल पृष्ठीय क्षेत्रफल = 3πr²"
+    },
+    {
+      "concept": "गोले और अधर्गोले के उदाहरण व अनुप्रयोग",
+      "say": "Applications time — sphere/hemisphere ke NCERT examples. Circus motorcycle globe: hollow sphere diameter 7 m → r = 3.5 m; rider ke liye available area = SA = 4πr² = 4×(22/7)×3.5×3.5 = 154 m². Building ka upper part hemispherical dome, paint on curved surface: base circumference 17.6 m → 2πr = 17.6 → r = 17.6×7/(2×22) = 2.8 m. CSA = 2πr² = 2×(22/7)×2.8×2.8 = 49.28 m². Rate ₹5 per 100 cm² carefully convert: 100 cm² = 0.01 m², so ₹5 per 0.01 m² ⇒ ₹500 per m²; cost = 500×49.28 = ₹24640. Unit conversion yahan trap hai! Exercise patterns: (1) given r find SA (2) given d find SA (3) balloon r: 7→14, area ratio = r² ratio = 1:4 (4) brass hemispherical bowl plating on inner surface (5) SA = 154 find r (6) Moon diameter ≈ 1/4 Earth → area ratio = (1/4)² = 1:16 (7) thick steel bowl outer CSA (8) cylinder fully enclosing sphere: compare sphere SA aur cylinder CSA. Key ideas: area ∝ r²; diameter quarter → area sixteenth; plating/paint → usually curved only. Hamesha π value check, units check, r vs d check — teen checks before final answer.",
+      "example": "Dome: circumference 17.6 m → r = 2.8 m → curved area 49.28 m² → paint cost ₹24640 at given rate after unit conversion.",
+      "board_lines": [
+        "SA ∝ r² ⇒ if r doubles, SA becomes 4 times",
+        "If diameter ratio 1:4, surface area ratio 1:16",
+        "Always convert rates/units (cm² ↔ m²) before cost"
+      ],
+      "common_mistake": "₹5 per 100 cm² ko seedha ₹5/m² maan lena — conversion ke bina cost bilkul galat aata hai.",
+      "memory_trick": "Area follows square: double r → 4× area; half d → quarter? No — (1/2)² = 1/4 area.",
+      "gesture_action": "Do balloons dikhao — chhota aur double radius; fingers se '4 times skin' gesture",
+      "real_life_examples": [
+        "Water tank / hemispherical roof painting estimate",
+        "Inflating balloon — radius badhne par surface kaafi tez badhta hai"
+      ],
+      "worked_example": {
+        "problem": "सर्कस के खोखले गोले का व्यास 7 m है। मोटरसाइकिल सवार के लिए उपलब्ध पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (π = 22/7)",
+        "steps": [
+          "d = 7 m ⇒ r = 3.5 m",
+          "Available area = sphere SA = 4πr²",
+          "4 × (22/7) × 3.5 × 3.5 = 154 m²"
+        ],
+        "answer": "154 m²"
+      },
+      "practice": {
+        "easy": [
+          "पृष्ठीय क्षेत्रफल 154 cm² वाले गोले की त्रिज्या ज्ञात करो। (π = 22/7)"
+        ],
+        "medium": [
+          "गुब्बारे की त्रिज्या 7 cm से 14 cm हो जाए तो पृष्ठीय क्षेत्रफलों का अनुपात क्या होगा?"
+        ],
+        "hard": [
+          "चन्द्रमा का व्यास पृथ्वी का लगभग 1/4 है। पृष्ठीय क्षेत्रफलों का अनुपात ज्ञात करो और reason दो।"
+        ]
+      },
+      "summary": "Sphere/hemisphere applications mein r² proportionality, unit conversion aur curved-vs-total choice se cost/area problems solve hote hain.",
+      "revision_point": "r→2r ⇒ SA→4SA; d_moon:d_earth≈1:4 ⇒ SA ratio 1:16; convert cm² rates carefully.",
+      "exam_tip": "Ratio questions mein π cancel ho jaata hai — pehle ratio of r² likho, calculation short hogi.",
+      "source_text_hint": "मोटरसाइकिल सवार के पास ये करतब दिखाने के लिए कितना क्षेत्रफल उपलब्ध है"
+    },
+    {
+      "concept": "समान आधार-ऊँचाई वाले बेलन और शंकु – आयतन की शुरुआत",
+      "say": "Ant mein section 11.3 shuru hota hai — लम्ब वृत्तीय शंकु का आयतन. NCERT आकृति 11.11 mein ek hi base radius aur ek hi height wale cylinder aur cone dikhate hain. Yeh comparison next idea ka gate hai: volume. Abhi tak hum surface — bahri 'skin' — napa; ab andar ka space, capacity, volume aayega. Classroom intuition (jo figure suggest karti hai): same r aur same h par cone cylinder se chhota hota hai — ice-cream cone hollow part vs same height-radius ka tin can. Is stage par NCERT pehle visually same base-height pair set karti hai taaki baad mein volume relation clear ho. Board par aaj itna fix karo: Surface Area ≠ Volume. Surface cm²/m² mein, volume cm³/m³ mein. Cone ke liye hum already l, CSA, TSA jaante hain; volume ke liye h aur r kaam aayenge (slant l volume formula mein seedha nahi). Revision bridge: pehle chapters/sections mein prism/cylinder surfaces, phir cone surfaces, sphere surfaces — ab volumes of these solids. Smart Board tip: figure 11.11 ko dekhte hue bolo — 'same foundation, same height, alag shape — volume alag hoga'. Agla step volumes formally nikaalna hoga; aaj ka goal comparison setup samajhna hai. Jo student surface formulae confuse karke volume mein l laga deta hai, woh yahin galat hota hai — isliye alag copy page pe SA formulae aur Volume formulae likho.",
+      "example": "Same r aur same h ka tin can (cylinder) aur ice-cream cone — cone ka andar ka space cylinder se kam hota hai; figure 11.11 yahi compare karwati hai.",
+      "board_lines": [
+        "Fig 11.11 idea: cylinder & cone with same base radius r and same height h",
+        "Surface area (cm²) ≠ Volume (cm³)",
+        "Next focus: volumes of right circular cone (after surfaces done)"
+      ],
+      "common_mistake": "Students volume nikalte waqt slant height l use karne lagte hain — volume ke liye r aur h chahiye, l surface ke liye.",
+      "memory_trick": "SA = Skin (square units); Volume = Vast inside (cube units). Same r-h pair → compare shapes.",
+      "gesture_action": "Ek haath se cylinder (tin) dikhao, doosre se cone; dono ki height barabar dikhakar 'same r, same h' bolo",
+      "real_life_examples": [
+        "Same height-radius ka oil tin vs conical flask capacity comparison intuition",
+        "Birthday cone vs cylindrical chips can — equal height/radius par can zyada rakhta hai"
+      ],
+      "worked_example": {
+        "problem": "Ek cylinder aur ek cone dono ki त्रिज्या 7 cm aur ऊँचाई 14 cm hai. Kaun-sa statement sahi hai? (A) Dono ka CSA zaroor equal (B) Dono ka volume equal ho sakta hai figure se (C) Figure unhe same r,h par compare karne ke liye rakhti hai (D) Cone ka TSA hamesha cylinder se bada",
+        "steps": [
+          "CSA formulae alag: cylinder 2πrh, cone πrl — equal hone ka zaroori nahi",
+          "Volumes equal nahi hote same r,h par",
+          "NCERT figure ka purpose: same base radius aur height wale solids dikhana for upcoming volume discussion"
+        ],
+        "answer": "(C) Figure unhe same r aur same h par compare karne ke liye rakhti hai।"
+      },
+      "practice": {
+        "easy": [
+          "Surface area aur volume ke units mein kya antar hai?"
+        ],
+        "medium": [
+          "Kyun volume formula mein slant height l seedha use nahi karte? Ek line reason do."
+        ],
+        "hard": [
+          "Same r,h wale cylinder aur cone ki surfaces compare karte hue likho ki aage volume comparison kyun natural next step hai."
+        ]
+      },
+      "summary": "आकृति 11.11 same base-radius aur height wale cylinder-cone dikhakar volume chapter ka bridge banati hai; SA aur volume alag ideas hain.",
+      "revision_point": "Surfaces done for cone/sphere/hemisphere; next = volumes; same r,h → fair comparison.",
+      "exam_tip": "Paper mein SA aur volume formulae mix mat karo — alag box mein likhkar revise karo.",
+      "source_text_hint": "एक ही आधार त्रिज्या वाले और एक ही ऊँचाई वाले बेलन और शंकु"
+    }
+  ]
+}
