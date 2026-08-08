@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 685,
+    "chapter_name": "संख्या पद्धति",
+    "chapter_number": 1,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 1 — संख्या पद्धति (Number Systems) — ko samjhenge. Is chapter mein hum संख्या रेखा par प्राकृत, पूर्ण, पूर्णांक aur परिमेय संख्याओं ko ek bag mein collect karte hue dekhenge, phir अपरिमेय संख्याओं aur वास्तविक संख्या रेखा tak pahunchenge. Hum √2 aur √3 ko number line par locate karna, aur real numbers ke decimal expansions se rational-irrational mein bhed karna bhi seekhenge.",
+    "welcome": "Good morning, bacchon! Aaj Smart Board par ek mazedaar journey shuru karte hain — संख्या पद्धति. Socho tum संख्या रेखा par zero se chal rahe ho, aur ek thaila leke numbers ikattha kar rahe ho — 1, 2, 3… phir zero, phir negative integers, phir fractions… lekin kuch numbers abhi bhi bach jaate hain! Aaj hum unhe pehchanenge. Ready? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "संख्या रेखा पर प्राकृत, पूर्ण, पूर्णांक और परिमेय संख्याओं के संग्रह (N, W, Z, Q) को पहचानना और निरूपित करना",
+      "परिमेय संख्या की परिभाषा p/q (q ≠ 0) लागू करना तथा दो परिमेय संख्याओं के बीच अपरिमित परिमेय संख्याएँ ज्ञात करना",
+      "अपरिमेय और वास्तविक संख्याओं में अंतर स्पष्ट करना तथा वास्तविक संख्या रेखा की अवधारणा समझाना",
+      "संख्या रेखा पर √2 और √3 का स्थान निर्धारण करना तथा दशमलव प्रसार से परिमेय-अपरिमेय भेद की नींव समझना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "संख्या रेखा की यात्रा – प्राकृत, पूर्ण और पूर्णांक"
+      },
+      {
+        "number": 2,
+        "name": "परिमेय संख्याएँ और संग्रह Q"
+      },
+      {
+        "number": 3,
+        "name": "तुल्य परिमेय संख्याएँ और अद्वितीय निरूपण"
+      },
+      {
+        "number": 4,
+        "name": "दो परिमेय संख्याओं के बीच परिमेय संख्याएँ"
+      },
+      {
+        "number": 5,
+        "name": "अपरिमेय संख्याएँ"
+      },
+      {
+        "number": 6,
+        "name": "वास्तविक संख्याएँ और वास्तविक संख्या रेखा"
+      },
+      {
+        "number": 7,
+        "name": "संख्या रेखा पर √2 और √3 का निरूपण"
+      },
+      {
+        "number": 8,
+        "name": "वर्गमूल सर्पिल और दशमलव प्रसार की शुरुआत"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "संख्या रेखा की यात्रा – प्राकृत, पूर्ण और पूर्णांक",
+      "say": "Bacchon, pehli classes mein tum संख्या रेखा ke baare mein padh chuke ho — natural numbers, whole numbers, integers sab us line par dikhaye jaate hain. Aaj ek game socho: tum zero se shuru karke धनात्मक दिशा mein chal rahe ho. Jahan tak nazar jaaye, numbers, numbers aur numbers hi dikhte hain! Ab ek thaila taiyar rakho. Pehle 1, 2, 3 jaise प्राकृत संख्याएँ (natural numbers) uthao. Yeh list hamesha badhti rehti hai — kyunki har natural number ke baad ek aur aata hai. Isliye thaila mein अपरिमित रूप से अनेक प्राकृत संख्याएँ aa jaati hain. Is संग्रह ko symbol N se dikhate hain. Ab ghum jao, उल्टी दिशा mein zero uthao aur thaila mein daal do — ab tumhe पूर्ण संख्याओं (whole numbers) ka संग्रह milta hai, jise W se likhte hain. W = N union {0}. Ab aur aage — अनेक ऋणात्मक पूर्णांक bhi dikhte hain: minus 1, minus 2, minus 3. Sabko thaila mein daal do. Yeh नया संग्रह क्या है? ये सभी पूर्णांक (integers) hain, jise symbol Z se prakat kiya jaata hai. Z German shabd Zahlen se aaya hai — jiska arth hai ginna ya संख्या. Board par yaad rakho: N subset W subset Z. Lekin sawaal bacha hai — क्या अभी भी रेखा पर संख्याएँ बची रहती हैं? Haan, bilkul! Fractions jaise 1/2, 3/4, minus 2005/2006 abhi thaila ke bahar hain. Unhe hum agle concept mein uthayenge. Toh aaj ka pehla message clear: number line par natural, phir whole, phir integers collect karo, lekin journey poori nahi hui! Classroom tip: thaila metaphor yaad rakho — NCERT isi story se shuru karti hai.",
+      "example": "School ke attendance register mein roll number 1, 2, 3 natural numbers hain; agar absent equals 0 students likho toh whole numbers; temperature minus 3 degree Celsius integers ka real use hai.",
+      "board_lines": [
+        "N = {1, 2, 3, …} प्राकृत संख्याएँ (अपरिमित)",
+        "W = {0, 1, 2, 3, …} पूर्ण संख्याएँ = N ∪ {0}",
+        "Z = {…, −2, −1, 0, 1, 2, …} पूर्णांक; Z ← Zahlen (जर्मन: गिनना/संख्या)"
+      ],
+      "common_mistake": "Kai students zero ko प्राकृत संख्या maan lete hain — NCERT Example 1 ke anusaar zero पूर्ण संख्या hai, प्राकृत नहीं। Class 9 mein N generally {1,2,3,…} liya jaata hai.",
+      "memory_trick": "N-W-Z bag pack: Natural pehle, Whole mein Zero add, Zahlen se saare Integers — N se W, W se Z.",
+      "gesture_action": "Zero se right-hand side chalna (natural), peeche aa kar zero thaila mein daalna (whole), phir left side negative integers uthana — body se number line banao.",
+      "real_life_examples": [
+        "Bus stop countdown: 5, 4, 3, 2, 1 (natural); 0 minutes left (whole)",
+        "Bank balance +500, 0, −200 (overdraft) — integers daily life mein"
+      ],
+      "worked_example": {
+        "problem": "नीचे दिए कथन सत्य हैं या असत्य? कारण सहित लिखो: (i) प्रत्येक पूर्ण संख्या एक प्राकृत संख्या होती है।",
+        "steps": [
+          "पूर्ण संख्याओं का संग्रह W = {0, 1, 2, 3, …} याद करो",
+          "प्राकृत संख्याओं में सामान्यतः 0 शामिल नहीं होता: N = {1, 2, 3, …}",
+          "शून्य पूर्ण संख्या है पर प्राकृत नहीं — अतः कथन असत्य है"
+        ],
+        "answer": "असत्य — क्योंकि शून्य एक पूर्ण संख्या है परन्तु प्राकृत संख्या नहीं है।"
+      },
+      "practice": {
+        "easy": [
+          "प्राकृत, पूर्ण और पूर्णांक संख्याओं के प्रतीक N, W, Z लिखो।"
+        ],
+        "medium": [
+          "सिद्ध करो कि N ⊂ W ⊂ Z है। प्रत्येक संग्रह का एक उदाहरण दो जो अगले संग्रह में हो पर पिछले में न हो।"
+        ],
+        "hard": [
+          "यदि कोई छात्र कहे कि ऋणात्मक संख्याएँ पूर्ण संख्याएँ भी हैं, तो संख्या रेखा और परिभाषा के आधार पर सही-गलत सिद्ध करो।"
+        ]
+      },
+      "summary": "संख्या रेखा पर पहले N, फिर 0 जोड़कर W, फिर ऋणात्मक पूर्णांक जोड़कर Z मिलता है — पर रेखा पर अभी भी संख्याएँ बची रहती हैं।",
+      "revision_point": "N ⊂ W ⊂ Z; zero ∈ W लेकिन zero ∉ N; Z = Zahlen.",
+      "exam_tip": "True/False में हमेशा counter-example दो — जैसे हर पूर्ण संख्या प्राकृत है के लिए counter-example = 0।",
+      "source_text_hint": "अब आप घूम जाइए और विपरीत दिशा में चलते हुए शून्य को उठाइए"
+    },
+    {
+      "concept": "परिमेय संख्याएँ और संग्रह Q",
+      "say": "Ab thaila mein woh numbers daalte hain jo integers ke alawa bhi hain — jaise 1/2, 3/4, ya minus 2005/2006. In sabhi ko daalne ke baad jo संग्रह milta hai, use परिमेय संख्याएँ (rational numbers) kehte hain, aur symbol Q se likhte hain. English word rational शब्द ratio se aaya hai, aur अक्षर Q शब्द quotient se liya gaya hai — matlab भागफल. Definition clear suno: संख्या x को परिमेय कहा जाता है यदि इसे p/q के रूप में लिखा जा सके, जहाँ p और q पूर्णांक हैं और q ≠ 0। Teacher yahan जोर क्यों देते हैं कि q ≠ 0 होना चाहिए? क्योंकि किसी संख्या को शून्य से भाग नहीं दिया जा सकता — 5/0 defined नहीं है! Ab gaur karo: thaila ki हर पहले वाली संख्या भी p/q form में लिखी जा सकती है। Example: minus 25 = minus 25/1, यहाँ p = minus 25, q = 1. Isliye परिमेय संख्याओं के अंतर्गत प्राकृत, पूर्ण और पूर्णांक सब आ जाते हैं — N subset W subset Z subset Q. Exam tip: हर पूर्णांक परिमेय है — सत्य है, क्योंकि कोई भी integer m = m/1 लिखा जा सकता है। पर हर परिमेय पूर्णांक है — असत्य, जैसे 3/5 पूर्णांक नहीं। Bacchon, Q ek बडा परिवार है jisme fractions aur integers dono ghar karate hain. Agle concept mein dekhenge ki same rational ke kai forms ho sakte hain — 1/2 = 2/4 = 10/20 — lekin number line par hum simplest form choose karte hain. Yaad rakho definition word-to-word: p/q, integers, q not zero.",
+      "example": "Half roti = 1/2; cricket team mein 3 out of 11 = 3/11; temperature minus 7 degree = minus 7/1 — sab rational numbers hain.",
+      "board_lines": [
+        "x परिमेय ⇔ x = p/q, जहाँ p, q ∈ Z और q ≠ 0",
+        "Q ← Quotient (भागफल); rational ← ratio",
+        "N ⊂ W ⊂ Z ⊂ Q; उदाहरण: −25 = −25/1 ∈ Q"
+      ],
+      "common_mistake": "Students sochte hain sirf proper fractions (jaise 2/5) hi rational hain — integers aur improper fractions bhi rational hote hain jab tak p/q, q ≠ 0 form mein likhe jaa sakein.",
+      "memory_trick": "P-by-Q: p divided by q, q not zero — aur Q yaad rakho Quotient se.",
+      "gesture_action": "Do ungliyon se p upar, q neeche (fraction bar), phir q par cross mat lagao — q ≠ 0 zor se bolo.",
+      "real_life_examples": [
+        "Recipe: 3/4 कप आटा — daily life rational",
+        "Exam marks 17/20 — ratio/quotient form"
+      ],
+      "worked_example": {
+        "problem": "क्या शून्य एक परिमेय संख्या है? क्या इसे p/q रूप में लिख सकते हैं जहाँ p, q पूर्णांक और q ≠ 0?",
+        "steps": [
+          "परिभाषा लागू करो: क्या 0 = p/q लिखा जा सकता है?",
+          "हाँ — 0 = 0/1 (या 0/2, 0/5, …) जहाँ q ≠ 0",
+          "निष्कर्ष: शून्य परिमेय संख्या है"
+        ],
+        "answer": "हाँ, शून्य परिमेय है क्योंकि 0 = 0/1, जहाँ p = 0, q = 1 ≠ 0।"
+      },
+      "practice": {
+        "easy": [
+          "परिमेय संख्या की परिभाषा लिखो।"
+        ],
+        "medium": [
+          "दर्शाइए कि −12 और 0 दोनों परिमेय हैं।"
+        ],
+        "hard": [
+          "कथन जाँचो: (i) प्रत्येक पूर्णांक परिमेय होता है (ii) प्रत्येक परिमेय पूर्णांक होता है — कारण सहित सत्य/असत्य।"
+        ]
+      },
+      "summary": "परिमेय संख्याएँ p/q (q ≠ 0) रूप की होती हैं; संग्रह Q कहलाता है और इसमें N, W, Z सब समाहित हैं।",
+      "revision_point": "Rational = p/q with q ≠ 0; Q from quotient; Z ⊂ Q.",
+      "exam_tip": "परिभाषा लिखते समय q ≠ 0 कभी मत भूलना — examiner अक्सर इसी पर आधा अंक काटता है।",
+      "source_text_hint": "संख्या ‘x’ को परिमेय संख्या कहा जाता है, यदि इसे p/q के रूप में लिखा जा सकता हो"
+    },
+    {
+      "concept": "तुल्य परिमेय संख्याएँ और अद्वितीय निरूपण",
+      "say": "Bacchon, ek bahut important baat: परिमेय संख्या का p/q रूप अद्वितीय (unique) नहीं होता। Same value kai fractions se likhi ja sakti hai. Example: 1/2 = 2/4 = 10/20 = 25/50 = 47/94, ityadi. Inhe तुल्य परिमेय संख्याएँ (equivalent rationals) या तुल्य भिन्न कहते हैं। Phir bhi, jab hum kehte hain p/q एक परिमेय संख्या है ya jab hum use संख्या रेखा पर निरूपित करते हैं, tab hum मान लेते हैं कि q ≠ 0 और p तथा q का 1 के अतिरिक्त अन्य कोई उभयनिष्ठ गुणनखंड नहीं है — अर्थात् p और q असहभाज्य (coprime) हैं। Matlab fraction अपनी सबसे सरल अवस्था (lowest terms) में हो। Isliye संख्या रेखा पर 1/2 के तुल्य अपरिमित रूप से अनेक भिन्नों में से हम 1/2 ही लेते हैं जो सभी को निरूपित करती है। Board tip: हमेशा HCF(p, q) = 1 check करो। Agar 6/9 dikhe, toh divide by 3, result 2/3; number line par 2/3 mark hoga, 6/9 alag point nahi. Yeh confusion exams mein marks काटता है — students sochte hain 1/2 aur 2/4 दो अलग points hain. Nahi! Same rational, same point. Yaad rakho: अनगिनत नाम, एक ही पता — number line par ek hi ghar. Agle concept mein hum seekhenge ki किन्हीं दो परिमेय संख्याओं के बीच और भी परिमेय संख्याएँ कैसे निकालें — midpoint method aur equal-denominator method. Class mein practice: 18/24 ko simplify karke 3/4 banao.",
+      "example": "Money: 1/2 rupaya = 50 paise, aur 2/4 rupaya bhi same amount — alag likhaav, same value; number line par bhi ek hi point.",
+      "board_lines": [
+        "1/2 = 2/4 = 10/20 = 25/50 = 47/94 (तुल्य परिमेय)",
+        "संख्या रेखा पर: p/q lowest terms में — HCF(p, q) = 1, q ≠ 0",
+        "असहभाज्य (coprime) अंश-हर → अद्वितीय निरूपण बिंदु के लिए"
+      ],
+      "common_mistake": "Students 2/4 और 1/2 को संख्या रेखा पर दो अलग बिंदु मान लेते हैं — वास्तव में ये तुल्य हैं, एक ही बिंदु।",
+      "memory_trick": "अनगिनत नाम, एक पता — equivalent fractions many names, one number-line address (lowest terms).",
+      "gesture_action": "Ek ungli se number line par ek point chhuo, doosre haath ki paanch ungliyon se 1/2, 2/4, 3/6 names gino — sab same point!",
+      "real_life_examples": [
+        "Pizza: 2/4 slice = 1/2 pizza — same portion",
+        "Map scale 1:2 vs 2:4 — same ratio, different writing"
+      ],
+      "worked_example": {
+        "problem": "भिन्न 18/24 को असहभाज्य रूप में लिखो और बताओ संख्या रेखा पर कौन-सा रूप निरूपित करेंगे।",
+        "steps": [
+          "HCF(18, 24) ज्ञात करो = 6",
+          "18 ÷ 6 = 3, 24 ÷ 6 = 4 → 3/4",
+          "HCF(3, 4) = 1, अतः संख्या रेखा पर 3/4 निरूपित होगा"
+        ],
+        "answer": "18/24 = 3/4 (असहभाज्य रूप); संख्या रेखा पर 3/4।"
+      },
+      "practice": {
+        "easy": [
+          "तीन तुल्य भिन्न लिखो जो 2/5 के बराबर हों।"
+        ],
+        "medium": [
+          "क्या 14/21 और 10/15 संख्या रेखा पर एक ही बिंदु दर्शाते हैं? कारण दो।"
+        ],
+        "hard": [
+          "सिद्ध कीजिए कि किसी परिमेय संख्या के अपरिमित रूप से अनेक तुल्य निरूपण संभव हैं।"
+        ]
+      },
+      "summary": "एक परिमेय के अनेक p/q रूप हो सकते हैं; संख्या रेखा पर हम असहभाज्य (lowest terms) रूप चुनते हैं।",
+      "revision_point": "Equivalent rationals share one point; represent in coprime form HCF(p,q)=1.",
+      "exam_tip": "अद्वितीय निरूपण लिखते समय असहभाज्य / HCF = 1 शब्द ज़रूर लिखो।",
+      "source_text_hint": "परिमेय संख्याओं का p/q के रूप में अद्वितीय (unique) निरूपण नहीं होता है"
+    },
+    {
+      "concept": "दो परिमेय संख्याओं के बीच परिमेय संख्याएँ",
+      "say": "Ab NCERT Example 2 — 1 और 2 के बीच पाँच परिमेय संख्याएँ ज्ञात कीजिए। कम से कम दो विधियाँ हैं। विधि 1 — मध्यबिंदु विधि: r और s के बीच एक परिमेय = (r + s)/2। Toh 1 aur 2 ke beech (1+2)/2 = 3/2। Isi process ko dobara-dobara apply karke aur numbers nikal sakte ho — jaise 5/4, 7/4, 11/8, 13/8। विधि 2 — एक ही चरण में पाँच संख्याएँ: क्योंकि पाँच चाहिए, इसलिए 5+1 = 6 को हर बनाकर 1 और 2 लिखो — 1 = 6/6, 2 = 12/6। Ab beech mein 7/6, 8/6, 9/6, 10/6, 11/6 sab 1 aur 2 ke beech hain। Simplify karke: 7/6, 4/3, 3/2, 5/3, 11/6। टिप्पणी बहुत महत्वपूर्ण: प्रश्न ने सिर्फ पाँच माँगे, पर वास्तव में 1 और 2 के बीच अपरिमित रूप से अनेक परिमेय संख्याएँ होती हैं। व्यापक नियम: किन्हीं दो दी हुई परिमेय संख्याओं के बीच अपरिमित रूप से अनेक परिमेय संख्याएँ होती हैं — denseness of rationals. Isliye thaila भरने के बाद भी संख्या रेखा पर रिक्त स्थान बचते हैं — और किन्हीं दो रिक्त स्थानों के बीच भी अपरिमित संख्याएँ! सवाल उठता है: बची संख्याओं को क्या कहें? परिमेय से कैसे भेद करें? उत्तर अगले अनुच्छेद — अपरिमेय — में। Practice ke liye Exercise 1.1: 3 और 4 के बीच छह; 3/5 और 4/5 के बीच पाँच निकालना seekho.",
+      "example": "1 km और 2 km के पत्थरों के बीच road par डेढ़ किलोमीटर (3/2) milestone — midpoint method jaisa.",
+      "board_lines": [
+        "मध्यबिंदु: (r + s)/2, r और s के बीच",
+        "n संख्याएँ चाहिए ⇒ हर = n+1; जैसे 1=6/6, 2=12/6 → 7/6…11/6",
+        "किन्हीं दो परिमेयों के बीच अपरिमित परिमेय संख्याएँ (denseness)"
+      ],
+      "common_mistake": "Students sochte hain 1 और 2 के बीच सिर्फ 3/2 या गिनी-चुनी भिन्नें ही हैं — वास्तव में अपरिमित हैं; पाँच सिर्फ sample माँग है।",
+      "memory_trick": "पाँच चाहिए तो हर छह — n numbers chahiye toh denominator n+1 banao aur numerator beech wale lo.",
+      "gesture_action": "Board par 1 aur 2 mark karo, beech mein clap karke midpoint dikhao; phir ungliyon se infinite circle banao.",
+      "real_life_examples": [
+        "Thermometer par 36°C और 37°C के बीच 36.5, 36.25 — denseness intuition",
+        "Ruler par 3 cm और 4 cm के बीच अनगिनत मिलीमीटर-भिन्न बिंदु"
+      ],
+      "worked_example": {
+        "problem": "3 और 4 के बीच छः परिमेय संख्याएँ ज्ञात कीजिए (एक चरण विधि)।",
+        "steps": [
+          "छह संख्याएँ चाहिए ⇒ हर = 6+1 = 7",
+          "3 = 21/7, 4 = 28/7 लिखो",
+          "बीच की संख्याएँ: 22/7, 23/7, 24/7, 25/7, 26/7, 27/7"
+        ],
+        "answer": "22/7, 23/7, 24/7, 25/7, 26/7, 27/7 (अन्य सही समुच्चय भी मान्य)"
+      },
+      "practice": {
+        "easy": [
+          "1 और 2 के बीच कोई दो परिमेय संख्याएँ लिखो।"
+        ],
+        "medium": [
+          "3/5 और 4/5 के बीच पाँच परिमेय संख्याएँ ज्ञात कीजिए।"
+        ],
+        "hard": [
+          "मध्यबिंदु विधि से 2 और 3 के बीच कम से कम चार परिमेय संख्याएँ चरणबद्ध निकालो और denseness का कथन लिखो।"
+        ]
+      },
+      "summary": "दो विधियों से बीच की परिमेय संख्याएँ मिलती हैं; व्यापकतः किन्हीं दो परिमेयों के बीच अपरिमित परिमेय होती हैं।",
+      "revision_point": "Between any two rationals there are infinitely many rationals; use midpoint or (n+1) denominator method.",
+      "exam_tip": "दोनों विधियाँ याद रखो; उत्तर में अपरिमित रूप से अनेक वाली टिप्पणी लिखने पर अक्सर पूर्ण अंक मिलते हैं।",
+      "source_text_hint": "किन्हीं दो दी हुई परिमेय संख्याओं के बीच अपरिमित रूप से अनेक परिमेय संख्याएँ होती हैं"
+    },
+    {
+      "concept": "अपरिमेय संख्याएँ",
+      "say": "Ab woh sawaal: संख्या रेखा पर बची संख्याओं को क्या कहा जाता है? उत्तर — अपरिमेय संख्याएँ (irrational numbers)। लगभग 400 ईसा पूर्व, ग्रीस के पाइथागोरस के अनुयायियों ने इनका सबसे पहले पता लगाया। इन्हें irrational कहा गया क्योंकि इन्हें पूर्णांकों के अनुपात (ratio) के रूप में नहीं लिखा जा सकता। किंवदंती: क्रोटोन के हिपाक्स (Hippasus) — दुर्भाग्यपूर्ण अंत; चाहे root 2 की खोज हो या उसे बाहर उजागर करना। औपचारिक परिभाषा: संख्या s अपरिमेय है यदि इसे p/q रूप में न लिखा जा सके, जहाँ p, q पूर्णांक और q ≠ 0। अपरिमेय भी अपरिमित रूप से अनेक हैं। उदाहरण: root 2, root 3, root 15, pi, और 0.10110111011110…। टिप्पणी: प्रतीक square-root का मतलब धनात्मक वर्गमूल — root 4 = 2, हालाँकि 4 के वर्गमूल 2 और minus 2 दोनों हैं। पाइथागोरस के अनुयायियों ने सिद्ध किया root 2 अपरिमेय है; लगभग 425 ईसा पूर्व साइरीन के थियोडोरस ने root 3, 5, 6, 7, 10, 11, 12, 13, 14, 15, 17 भी दिखाए। root 2, root 3 की अपरिमेयता की उपपत्ति कक्षा 10 में। pi हजारों वर्षों से जानी जाती रही, पर लगभग 1700 ईसवी के अंत में लैम्बर्ट और लेजान्ड्रे ने सिद्ध किया कि pi अपरिमेय है। अगले भाग में 0.1011… और pi अपरिमेय क्यों — decimal expansions से समझेंगे। याद रखो: हर धनात्मक पूर्णांक का वर्गमूल अपरिमेय नहीं — root 4 = 2 परिमेय है! Exercise 1.2 का ये classic trap question hai.",
+      "example": "Unit square ka विकर्ण root 2 — naapne par saaf p/q fraction nahi milta; yahi Hippasus wali classic discovery hai.",
+      "board_lines": [
+        "s अपरिमेय ⇔ s को p/q (q ≠ 0) रूप में नहीं लिखा जा सकता",
+        "उदाहरण: √2, √3, √15, π, 0.10110111011110…",
+        "√ का अर्थ: धनात्मक वर्गमूल; √4 = 2 (न कि −2)"
+      ],
+      "common_mistake": "Students सोचते हैं सभी वर्गमूल अपरिमेय हैं — गलत; √9 = 3, √(16/25) = 4/5 परिमेय हो सकते हैं। सिर्फ non-perfect squares के मूल आमतौर पर अपरिमेय।",
+      "memory_trick": "IR-RATIO: I nahi Ratio — Irrational means cannot be written as ratio of integers.",
+      "gesture_action": "Fraction bar (p/q) banao, phir dono haath se nahi kaat do — cannot be p/q.",
+      "real_life_examples": [
+        "गोल मैदान का circumference/diameter लगभग pi — exact p/q नहीं",
+        "टाइल का विकर्ण जब भुजा 1 हो — length √2"
+      ],
+      "worked_example": {
+        "problem": "क्या सभी धनात्मक पूर्णांकों के वर्गमूल अपरिमेय होते हैं? यदि नहीं, तो एक परिमेय वर्गमूल का उदाहरण दो।",
+        "steps": [
+          "परिभाषा याद करो: अपरिमेय = p/q रूप में नहीं",
+          "√4 = 2 = 2/1, जो परिमेय है",
+          "अतः सभी धनात्मक पूर्णांकों के वर्गमूल अपरिमेय नहीं होते"
+        ],
+        "answer": "नहीं; उदाहरण: √4 = 2 (परिमेय)। (√9 = 3 भी मान्य)"
+      },
+      "practice": {
+        "easy": [
+          "पाँच अपरिमेय संख्याओं के उदाहरण लिखो।"
+        ],
+        "medium": [
+          "√2 अपरिमेय क्यों कहलाती है? परिभाषा के शब्दों में उत्तर दो।"
+        ],
+        "hard": [
+          "कथन: pi परिमेय है — असत्य सिद्ध करो (लैम्बर्ट-लेजांद्रे संदर्भ सहित) और एक non-terminating non-repeating उदाहरण भी दो।"
+        ]
+      },
+      "summary": "अपरिमेय संख्याएँ p/q रूप में नहीं लिखी जा सकतीं; √2, π आदि उदाहरण हैं; सभी वर्गमूल अपरिमेय नहीं होते।",
+      "revision_point": "Irrational ≠ ratio of integers; √(perfect square) can be rational; √ symbol means positive root.",
+      "exam_tip": "√4 = 2 वाली टिप्पणी और perfect square मूल परिमेय — Exercise 1.2 Q2 का सीधा जवाब।",
+      "source_text_hint": "संख्या ‘s’ को अपरिमेय संख्या कहा जाता है, यदि इसे p/q के रूप में न लिखा जा सकता हो"
+    },
+    {
+      "concept": "वास्तविक संख्याएँ और वास्तविक संख्या रेखा",
+      "say": "परिमेय वाला thaila लो — अब यदि इसमें सभी अपरिमेय संख्याएँ भी डाल दें, तो क्या संख्या रेखा पर कोई संख्या बची रहेगी? उत्तर है — नहीं! एक साथ ली गई सभी परिमेय और अपरिमेय संख्याओं के संग्रह को वास्तविक संख्याएँ (real numbers) कहते हैं, प्रतीक R। अतः वास्तविक संख्या या तो परिमेय होती है या अपरिमेय। बहुत महत्वपूर्ण correspondence: प्रत्येक वास्तविक संख्या को संख्या रेखा के एक अद्वितीय बिंदु से निरूपित किया जाता है; और संख्या रेखा का प्रत्येक बिंदु एक अद्वितीय वास्तविक संख्या को निरूपित करता है। यही कारण है कि संख्या रेखा को वास्तविक संख्या रेखा (real number line) कहा जाता है। 1870 में दो जर्मन गणितज्ञ — वैयरस्ट्रास (Weierstrass) और डेडेकिंड (Dedekind) — ने भिन्न विधियों से सिद्ध किया कि प्रत्येक वास्तविक संख्या के संगत रेखा पर एक बिंदु होता है और हर बिंदु के संगत एक अद्वितीय वास्तविक संख्या। Board hierarchy: N subset W subset Z subset Q subset R, aur R = Q union irrationals, jahan Q aur irrationals disjoint hain. True/False practice: (i) प्रत्येक अपरिमेय एक वास्तविक होती है — सत्य। (ii) संख्या रेखा का प्रत्येक बिंदु किसी प्राकृत संख्या u के रूप का होता है — असत्य, क्योंकि fractions, negatives, irrationals भी हैं। (iii) प्रत्येक वास्तविक अपरिमेय होती है — असत्य, क्योंकि 2 और 1/2 परिमेय वास्तविक हैं। Yaad rakho: Real means Rational या Irrational — कोई तीसरा gap number line पर नहीं बचा! Yeh chapter ka bada picture hai.",
+      "example": "Thermometer scale ek real number line jaisi hai — 36.5 rational, aur theoretically root-2 degree jaisa irrational reading bhi ek unique point pe baithti hai.",
+      "board_lines": [
+        "R = परिमेय ∪ अपरिमेय; प्रत्येक वास्तविक = परिमेय या अपरिमेय",
+        "प्रत्येक वास्तविक ↔ संख्या रेखा का अद्वितीय बिंदु",
+        "N ⊂ W ⊂ Z ⊂ Q ⊂ R (वास्तविक संख्या रेखा)"
+      ],
+      "common_mistake": "Students सोचते हैं वास्तविक संख्याएँ सिर्फ counting वाली हैं, या कि अपरिमेय वास्तविक नहीं — गलत; अपरिमेय भी R का हिस्सा हैं।",
+      "memory_trick": "R = Rest nothing left — rationals plus irrationals equal reals; line complete.",
+      "gesture_action": "Do mutthiyan — ek Q, ek Irrational — dono milakar chhati par R; phir hawa mein seedhi rekha khicho — real number line.",
+      "real_life_examples": [
+        "GPS coordinates / map distances — real-valued measurements",
+        "Time 2.5 hours (rational) aur theoretically √2 seconds mark — both on one continuum"
+      ],
+      "worked_example": {
+        "problem": "कथन सत्य/असत्य (कारण सहित): (i) प्रत्येक अपरिमेय संख्या एक वास्तविक संख्या होती है। (iii) प्रत्येक वास्तविक संख्या एक अपरिमेय संख्या होती है।",
+        "steps": [
+          "(i) R = Q ∪ irrationals, अतः हर अपरिमेय ∈ R → सत्य",
+          "(iii) 2 = 2/1 परिमेय है और वास्तविक भी — पर अपरिमेय नहीं",
+          "अतः (iii) असत्य"
+        ],
+        "answer": "(i) सत्य; (iii) असत्य, क्योंकि उदाहरणतः 2 वास्तविक है पर अपरिमेय नहीं।"
+      },
+      "practice": {
+        "easy": [
+          "वास्तविक संख्याओं का प्रतीक क्या है? R की परिभाषा एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "संख्या रेखा को वास्तविक संख्या रेखा क्यों कहते हैं?"
+        ],
+        "hard": [
+          "वेन आरेख से N, W, Z, Q, R का संबंध दिखाओ और एक संख्या प्रत्येक नई परत से चुनो।"
+        ]
+      },
+      "summary": "परिमेय + अपरिमेय = वास्तविक (R); संख्या रेखा का हर बिंदु एक अद्वितीय वास्तविक संख्या है।",
+      "revision_point": "R = Q ∪ irrationals; bijection between reals and points on the number line (Weierstrass–Dedekind).",
+      "exam_tip": "Chain N⊂W⊂Z⊂Q⊂R याद करो; True/False में counter-example (2 या √2) तैयार रखो।",
+      "source_text_hint": "सभी परिमेय संख्याओं और अपरिमेय संख्याओं के संग्रह से जो प्राप्त होता है, उसे वास्तविक संख्याओं"
+    },
+    {
+      "concept": "संख्या रेखा पर √2 और √3 का निरूपण",
+      "say": "Ab concrete construction — Example 3: संख्या रेखा पर √2 का स्थान निर्धारण। यूनानियों ने कैसे पाया होगा? एक एकक लंबाई की भुजा वाला वर्ग OABC लो (भुजा = 1)। पाइथागोरस प्रमेय: विकर्ण OB = square root of (1 squared plus 1 squared) = √2। संख्या रेखा पर निरूपण: शीर्ष O को शून्य के साथ संपाती रखते हुए आकृति को संख्या रेखा पर स्थानांतरित करो। अब परकार से O केंद्र और OB त्रिज्या लेकर चाप खींचो जो संख्या रेखा को बिंदु P पर काटे — तो P, √2 के संगत है। Example 4 — √3: आकृति दोबारा लो। OB पर एकक लंबाई का लंब BD बनाओ। पाइथागोरस: OD = square root of ( (√2) squared plus 1 squared ) = square root of (2+1) = √3। परकार से O केंद्र, OD त्रिज्या — चाप संख्या रेखा को Q पर काटे; Q, √3 के संगत। सामान्य नियम: √(n−1) का स्थान मिलने के बाद √n का स्थान निर्धारित कर सकते हो, जहाँ n धनात्मक पूर्णांक है — हर बार previous length पर unit perpendicular लगाकर। Exercise: दिखाओ कि संख्या रेखा पर √5 कैसे निरूपित हो — पहले √4 = 2 लो, phir length 2 पर unit perp, कर्ण √(4+1)=√5। Construction steps exam में अंक दिलवाते हैं — diagram, Pythagoras, aur compass arc, तीनों लिखो। Class tip: approx 1.414 se point अटकल मत लगाना, रचना करो।",
+      "example": "Classroom floor par 1-metre chalk square banao; विकर्ण tape se √2 metre aata hai — usi length ko number line par compass/arc se transfer karo.",
+      "board_lines": [
+        "√2: इकाई वर्ग → विकर्ण √(1²+1²)=√2 → चाप से बिंदु P",
+        "√3: √2 पर इकाई लंब → √(2+1)=√3 → चाप से बिंदु Q",
+        "√(n−1) ज्ञात ⇒ इकाई लंब लगाकर √n"
+      ],
+      "common_mistake": "Students सिर्फ √2 ≈ 1.414 लिखकर point अनुमान से लगा देते हैं — NCERT माँगता है ज्यामितीय रचना: वर्ग/लंब + परकार चाप।",
+      "memory_trick": "1 to √2 to √3 ladder: unit square, then unit perpendicular on previous hypotenuse — seedhi chadhо, mool badho.",
+      "gesture_action": "Hawa mein varg banao, vikarn khicho; compass ghumakar number line par arc kato — P = √2.",
+      "real_life_examples": [
+        "Carpenter ki squaring: 1-1 diagonal check लगभग √2",
+        "Football ground corner se unit steps se √2 / √3 distances mark karna"
+      ],
+      "worked_example": {
+        "problem": "संख्या रेखा पर √5 निरूपित करने के मुख्य चरण लिखो।",
+        "steps": [
+          "पहले √4 = 2 को संख्या रेखा पर चिह्नित करो",
+          "लंबाई 2 वाले खंड पर एकक लंबाई का लंब खड़ा करो; कर्ण = √(4+1)=√5",
+          "केंद्र मूल बिंदु, त्रिज्या = वह कर्ण — चाप से संख्या रेखा पर √5 का बिंदु प्राप्त करो"
+        ],
+        "answer": "√4=2 से इकाई लंब → कर्ण √5; परकार चाप से संख्या रेखा पर √5।"
+      },
+      "practice": {
+        "easy": [
+          "पाइथागोरस प्रमेय से इकाई वर्ग का विकर्ण क्यों √2 है?"
+        ],
+        "medium": [
+          "संख्या रेखा पर √2 निरूपित करने की रचना के चरण लिखो।"
+        ],
+        "hard": [
+          "√2 से शुरू करके √3 और फिर √5 तक पहुँचने का क्रम समझाओ — प्रत्येक चरण में कौन-सा लंब और कौन-सा कर्ण?"
+        ]
+      },
+      "summary": "इकाई वर्ग से √2, फिर इकाई लंब से √3; परकार चाप से दोनों वास्तविक संख्या रेखा पर अंकित होते हैं।",
+      "revision_point": "Construct √2 via unit square diagonal; √3 via unit perp on √2; generalize √n from √(n−1).",
+      "exam_tip": "रचना प्रश्न में neat diagram + Pythagoras equation + परकार से चाप तीनों अनिवार्य लिखो।",
+      "source_text_hint": "एक एकक (मात्राक) की लंबाई की भुजा वाला वर्ग OABC लीजिए"
+    },
+    {
+      "concept": "वर्गमूल सर्पिल और दशमलव प्रसार की शुरुआत",
+      "say": "Exercise 1.2 ka कक्षा क्रियाकलाप — वर्गमूल सर्पिल (square root spiral)। बड़ी कागज़ शीट लो। बिंदु O लो, एकक लंबाई का रेखाखंड OP1 खींचो। OP1 पर एकक लंब P1P2। फिर OP2 पर लंब P2P3; OP3 पर P3P4… जारी रखो — OPn−1 पर एकक लंब से Pn−1Pn। बिंदु O, P1, P2, P3, … मिलाने पर सुंदर सर्पिल बनता है जो √2, √3, √4, … दर्शाता है। यह hands-on activity hai jisse अपरिमेय दूरियाँ रचना से जीवंत होती हैं। अब अनुच्छेद 1.3 — वास्तविक संख्याएँ और उनके दशमलव प्रसार (decimal expansions)। नया दृष्टिकोण: क्या दशमलव प्रसार से परिमेय और अपरिमेय में भेद कर सकते हैं? और इन प्रसारों से संख्या रेखा पर वास्तविक कैसे दिखाएँ? परिमेय से शुरू करते हैं। NCERT तीन उदाहरण देती है: 10/3, 7/8 और 1/7। भाग करते समय शेषफलों (remainders) पर विशेष ध्यान दो — कोई प्रतिरूप (pattern) दिखता है क्या? 7/8 = 0.875, शेष शून्य हो जाता है — समाप्य (terminating) प्रसार। 10/3 = 3.333…, एक ही अंक दोहराता है — आवर्ती (repeating)। 1/7 = 0.142857142857…, छह अंकों का चक्र — लंबा repeating block। ये प्रतिरूप आगे चलकर बताएँगे कि परिमेय संख्याओं के दशमलव या तो समाप्त होते हैं या दोहराते हैं। अपरिमेय का प्रसार न समाप्त, न आवर्ती होता है — जैसे 0.10110111011110…। आज का takeaway: spiral se ज्यामितीय अपरिमेय; decimal se बीजगणितीय भेद की शुरुआत। Smart Board par division steps dikha kar remainder cycle highlight karo.",
+      "example": "1/7 = 0.142857142857… — remainder cycle 142857 दोहराता है; 7/8 = 0.875 exact terminate — pattern dekho!",
+      "board_lines": [
+        "वर्गमूल सर्पिल: O से इकाई; प्रत्येक OPk पर इकाई लंब → √2, √3, √4, …",
+        "अनुच्छेद 1.3: दशमलव प्रसार से परिमेय/अपरिमेय भेद",
+        "उदाहरण 5: 10/3, 7/8, 1/7 — शेषफल प्रतिरूप पर ध्यान दो"
+      ],
+      "common_mistake": "सर्पिल में छात्र हर बार पिछली छोटी भुजा पर लंब लगाते हैं — सही विधि: हमेशा मूल O से वर्तमान बिंदु तक के खंड OPk पर इकाई लंब।",
+      "memory_trick": "SPIRAL = Successive Perpendiculars Increasing Roots Along Line — unit perp, root grows.",
+      "gesture_action": "Kagaz par ungli se spiral ghumao: unit, perp, unit, perp — √2, √3, √4 bolte hue.",
+      "real_life_examples": [
+        "Art/rangoli mein square-root spiral jaisa badhta pattern",
+        "Calculator: 1÷7 dabane par repeating digits — decimal expansion live"
+      ],
+      "worked_example": {
+        "problem": "7/8 का दशमलव प्रसार भाग देकर ज्ञात कीजिए और बताइए यह किस प्रकार का प्रसार लगता है (समाप्त होने वाला / न समाप्त)।",
+        "steps": [
+          "7 ÷ 8 करो: 8×0.8 = 6.4, शेष संबंधी गणना जारी रखो",
+          "0.875 तक पहुँचो — 875 में अंतिम शेष 0",
+          "7/8 = 0.875 — समाप्य (terminating) दशमलव प्रसार"
+        ],
+        "answer": "7/8 = 0.875 (समाप्य दशमलव प्रसार)"
+      },
+      "practice": {
+        "easy": [
+          "वर्गमूल सर्पिल में OP1 की लंबाई क्या है?"
+        ],
+        "medium": [
+          "1/7 का भाग करके पहले छह दशमलव अंक लिखो — क्या कोई दोहराव दिखता है?"
+        ],
+        "hard": [
+          "10/3 और 7/8 के दशमलव प्रसार की तुलना करो। शेषफल प्रतिरूप से क्या अंतर स्पष्ट होता है?"
+        ]
+      },
+      "summary": "वर्गमूल सर्पिल √n दूरियाँ सिखाता है; दशमलव प्रसार (जैसे 10/3, 7/8, 1/7) परिमेय-अपरिमेय भेद की नई दृष्टि खोलता है।",
+      "revision_point": "Square-root spiral via successive unit perpendiculars; decimal expansions of rationals show terminating/repeating remainder patterns.",
+      "exam_tip": "क्रियाकलाप वर्णन में O से खंड पर लंब स्पष्ट लिखो; दशमलव में शेषफल का चक्र ज़रूर दिखाओ।",
+      "source_text_hint": "वर्गमूल सर्पिल की रचना कीजिए"
+    }
+  ]
+}
