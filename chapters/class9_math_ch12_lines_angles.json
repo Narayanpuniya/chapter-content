@@ -1,0 +1,385 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 690,
+    "chapter_name": "रेखाएँ और कोण",
+    "chapter_number": 12,
+    "book_name": "Class 9 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Mathematics ke Chapter 12 — रेखाएँ और कोण — ko padhenge. Is chapter mein hum review karenge line, ray, line segment aur types of angles; phir adjacent angles, linear pair, vertically opposite angles, intersecting aur parallel lines, Linear Pair Axiom, aur Theorem: jab do lines intersect karti hain toh vertically opposite angles equal hote hain. Yeh sab baatein proofs aur numerical problems ke liye foundation hain.",
+    "welcome": "Namaste class! Smart Board par aaj Geometry ka ek bahut useful chapter shuru karte hain — रेखाएँ और कोण. Socho: school exhibition ke liye baans se jhopdi ka model banana ho, architect building ka map banaye, ya science mein light ray diagram — har jagah lines aur angles ka knowledge chahiye. Teacher aaj physically nahi hain, lekin main tumhare saath step-by-step padhaunga. Ready ho? Chalk aur compass soch ke baith jao!",
+    "learning_outcomes": [
+      "रेखाखंड, किरण, रेखा, संरेख बिंदु aur कोण के प्रकार (न्यून, सम, अधिक, ऋजु, प्रतिवर्ती) ko clearly identify karna",
+      "पूरक, संपूरक, आसन्न कोण, रैखिक युग्म aur शीर्षाभिमुख कोण ki definitions apply karna",
+      "प्रतिच्छेदी aur समांतर रेखाओं ka difference aur parallel lines ke beech distance samajhna",
+      "रैखिक युग्म अभिगृहीत (6.1, 6.2) aur प्रमेय 6.1 (vertically opposite angles equal) se proofs aur numericals solve karna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "भूमिका – रेखाओं और कोणों का महत्व"
+      },
+      {
+        "number": 2,
+        "name": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु"
+      },
+      {
+        "number": 3,
+        "name": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक"
+      },
+      {
+        "number": 4,
+        "name": "पूरक, संपूरक और आसन्न कोण"
+      },
+      {
+        "number": 5,
+        "name": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय"
+      },
+      {
+        "number": 6,
+        "name": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ"
+      },
+      {
+        "number": 7,
+        "name": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2"
+      },
+      {
+        "number": 8,
+        "name": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "say": "Bacchon, pehle ek soft revision — Chapter 5 mein tum padh chuke ho ki ek रेखा खींचने के लिए न्यूनतम दो बिंदुओं की आवश्यकता होती है. Ab is chapter mein hum aage badhenge: jab do रेखाएँ परस्पर प्रतिच्छेद करती हैं, tab कोणों के गुण kya hote hain; aur jab ek रेखा do ya adhik समांतर रेखाओं ko alag-alag बिंदुओं par काटती है, tab bhi कोणों ke kya गुण milte hain. Important baat — hum in गुणों को निगमनिक तर्कण, yani deductive reasoning, se kuch statements सिद्ध भी करेंगे. Past classes mein tum activities se check kar chuke ho; ab proof style seekhenge. Daily life mein dekho — समतल पृष्ठों के किनारों, edges, के बीच अनेक प्रकार के कोण banate hain. School exhibition ke liye agar बाँस से झोंपड़ी का मॉडल banana ho, toh kuch बाँस समांतर, kuch तिरछे rakhne padenge — angles ka hisaab chahiye. Architect bahut-manzila building ka रेखाचित्र banate waqt intersecting aur parallel lines different angles par khinchta hai. Science mein light ke ray diagrams — जैसे अपवर्तन — mein intersecting aur parallel lines ke properties use hote hain. Forces ko directed line segments se dikhakar resultant nikalte hain. Minar ki ऊँचाई ya ship ki light-house se दूरी ke liye क्षैतिज aur line of sight ke beech angle chahiye. Toh yeh chapter sirf book ke liye nahi — real geometry tools hain aage ke chapters ke liye bhi.",
+      "example": "School mela mein बाँस से झोंपड़ी बनाते समय kuch poles parallel, kuch slanted rakhna — wahi lines aur angles ka practical use.",
+      "board_lines": [
+        "Is chapter: intersecting lines → angle properties; transversal on parallels → angle properties",
+        "Method: निगमनिक तर्कण (deductive reasoning) se statements सिद्ध करना",
+        "Real uses: architecture, light rays, forces, heights & distances"
+      ],
+      "common_mistake": "Students sochte hain yeh chapter sirf definitions ka hai — actually aage proofs aur parallel-lines theorems ki foundation yahi se banti hai.",
+      "memory_trick": "L-A-U: Lines cut → Angles form → Uses in life (building, light, forces).",
+      "gesture_action": "Do arms se do sticks dikhao — pehle cross karke intersect, phir parallel rakhkar distance dikhao",
+      "real_life_examples": [
+        "Architect ka multi-storey building plan — parallel walls aur intersecting roof lines",
+        "Physics/Science: refraction ray diagram mein normal, incident aur refracted rays ke angles"
+      ],
+      "worked_example": {
+        "problem": "Teen situations batao jahan daily life mein रेखाओं और कोणों का ज्ञान जरूरी है (NCERT introduction ke hisaab se).",
+        "steps": [
+          "Building/architecture: map mein parallel aur intersecting lines different angles par",
+          "Science: light refraction ke ray diagram mein intersecting/parallel line properties",
+          "Heights & distances: क्षैतिज और दृष्टि रेखा के बीच बने कोण se height/distance"
+        ],
+        "answer": "Architecture/model making; light ray diagrams (refraction); measuring height of tower or distance of ship using angle of elevation/sight."
+      },
+      "practice": {
+        "easy": [
+          "Is chapter mein hum mainly kaunse do situations ke angle properties padhenge?"
+        ],
+        "medium": [
+          "Deductive reasoning (निगमनिक तर्कण) ka matlab classroom words mein samjhao — activity-check se yeh kaise alag hai?"
+        ],
+        "hard": [
+          "Architect aur science (light/forces) ke examples se explain karo ki lines-angles knowledge ke bina design/diagram incomplete kyun reh jaata hai."
+        ]
+      },
+      "summary": "Is chapter mein intersecting aur parallel lines se bane angles ke properties seekhenge aur unhe proofs mein use karenge — daily life se lekar science tak.",
+      "revision_point": "Focus: intersecting lines + transversal on parallels → angle properties + deductive proofs.",
+      "exam_tip": "Introduction se 1-mark ‘application’ sawaal aa sakta hai — architecture, light rays, forces, height-distance yaad rakho.",
+      "source_text_hint": "एक रेखा को खींचने के लिए न्यूनतम दो बिंदुओं की आवश्यकता होती है"
+    },
+    {
+      "concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "say": "Ab basic terms ka पुनर्विलोकन — revision — karte hain, bilkul NCERT jaisa. रेखा का वह भाग जिसके दो अंत बिंदु हों — रेखाखंड (line segment). रेखा का वह भाग जिसका एक अंत बिंदु हो — किरण (ray). Poori रेखा dono directions mein endlessly jaati hai. Notation: generally रेखाखंड AB ko AB, uski लंबाई ko bhi AB, किरण AB ko AB, रेखा AB ko AB — book kehte hai hum alag-alag special symbols har baar nahi use karenge; अर्थ संदर्भ से स्पष्ट हो जाएगा. Kabhi-kabhi chhote letters l, m, n se bhi lines dikhayi jaati hain. Agar तीन या अधिक बिंदु एक ही रेखा पर स्थित हों, toh वे संरेख बिंदु (collinear points) कहलाते हैं; वरना असंरेख बिंदु (non-collinear points). Classroom tip: teen students ek seedhi line mein khade — collinear; agar teesra thoda aage-peeche — non-collinear. Yaad rakho — angle banane ke liye baad mein non-collinear rays chahiye. Geometry figures padhte waqt pehle identify karo: yeh segment hai, ray hai, ya full line? Segment ki length measure hoti hai; ray ki length nahi kehte usi tarah; line infinite hoti hai. Exam mein diagram mein arrows dono taraf = line; ek taraf arrow = ray; no arrows / two endpoints marked = segment. Yeh foundation saaf hogi toh aage adjacent angles aur linear pair bilkul clear lagenge. Har figure se pehle labels padho, phir type decide karo.",
+      "example": "Blackboard ke left corner se right corner tak chalk line — agar dono ends marked hain toh रेखाखंड; agar ek end se shuru karke endlessly extend socho toh किरण/रेखा.",
+      "board_lines": [
+        "रेखाखंड: 2 endpoints | किरण: 1 endpoint | रेखा: no endpoints (both ways infinite)",
+        "Notation: AB may mean segment/ray/line/length — अर्थ संदर्भ से",
+        "संरेख बिंदु: 3+ points on same line; else असंरेख"
+      ],
+      "common_mistake": "Students ray aur line segment ko mix kar dete hain — ray ka ek hi endpoint hota hai aur ek direction mein infinitely jaati hai; segment ke do endpoints hote hain aur limited length.",
+      "memory_trick": "S-R-L: Segment = Stick (do ends); Ray = Rocket (ek launch point); Line = Limitless both ways.",
+      "gesture_action": "Do ungliyan endpoints dikhao (segment); ek ungli se shuru karke door tak point (ray); dono haath opposite sides failao (line)",
+      "real_life_examples": [
+        "Railway track ki poori line vs station A se B tak ka track piece (segment)",
+        "Torch ki light beam — bulb se ek direction mein (ray jaisa idea)"
+      ],
+      "worked_example": {
+        "problem": "Points A, B, C ek hi seedhi line par hain; D us line par nahi hai. Kaun collinear hain? AB line segment hai ya ray — agar A aur B dono ends marked hain?",
+        "steps": [
+          "Same line par A,B,C → संरेख (collinear); D → असंरेख relative to that line",
+          "Do endpoints marked A aur B → रेखाखंड AB",
+          "Ray tab hoti jab sirf ek endpoint ho aur doosri taraf extend ho"
+        ],
+        "answer": "A, B, C collinear; D non-collinear with them on that line. AB with two endpoints = line segment."
+      },
+      "practice": {
+        "easy": [
+          "रेखाखंड और किरण में एक मुख्य अंतर लिखो।"
+        ],
+        "medium": [
+          "संरेख और असंरेख बिंदुओं की परिभाषा उदाहरण सहित लिखो।"
+        ],
+        "hard": [
+          "Diagram mein same label AB kab line, kab ray, kab segment samjha jaaye — NCERT notation rule explain karo."
+        ]
+      },
+      "summary": "Segment (2 ends), ray (1 end), line (infinite both ways); 3+ points on one line = collinear — yeh basic language aage ke angles ki.",
+      "revision_point": "Collinear = same line; notation AB context se; segment ≠ ray ≠ line.",
+      "exam_tip": "1-mark definition: collinear points — ‘तीन या अधिक बिंदु एक ही रेखा पर’ exact phrase yaad rakho.",
+      "source_text_hint": "यदि तीन या अधिक बिंदु एक ही रेखा पर स्थित हों, तो वे संरेख बिंदु"
+    },
+    {
+      "concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "say": "Jab दो किरणें एक ही अंत बिंदु से प्रारम्भ होती हैं, तो एक कोण बनता है. Dono किरणें = कोण की भुजाएँ (arms/sides); common endpoint = शीर्ष (vertex). Ab types — आकृति 6.1 jaisa: (i) न्यून कोण (acute): 0° se bada aur 90° se chhota. (ii) समकोण (right angle): ठीक 90°. (iii) अधिक कोण (obtuse): 90° se bada, 180° se chhota. (iv) ऋजु कोण (straight angle): exactly 180°. (v) प्रतिवर्ती कोण (reflex): 180° se bada, 360° se chhota. Classroom mein clock socho — 3 baje ka angle roughly right; 2 baje acute; 4–5 baje obtuse jaisa lag sakta hai. Straight angle ek seedhi line jaisa dikhta hai. Reflex woh bada angle hai jo peeche mudkar bada hissa leta hai — jaise 270°. Bahut students 120° ko reflex bol dete hain — galat! 120° obtuse hai kyunki 90 se bada, 180 se chhota. Reflex tab jab 180 cross ho. Naming: ∠AOB matlab vertex O beech mein, arms OA aur OB. Board tip: hamesha vertex beech mein likho. Yeh classification aage complementary-supplementary aur linear pair samajhne se pehle crystal clear honi chahiye, kyunki linear pair mein straight angle 180° ka idea chhupa hai. Roz practice: random degrees bolo aur type identify karo — speed badhegi.",
+      "example": "Copy ke kone ka angle ≈ 90° (समकोण); khuli book ke pages ka angle often अधिक कोण; poori seedhi line par bana angle = ऋजु कोण 180°.",
+      "board_lines": [
+        "Acute: 0° < θ < 90° | Right: θ = 90° | Obtuse: 90° < θ < 180°",
+        "Straight (ऋजु): θ = 180° | Reflex (प्रतिवर्ती): 180° < θ < 360°",
+        "Angle = two rays + common vertex; name ∠AOB (O = vertex)"
+      ],
+      "common_mistake": "120° ya 150° ko प्रतिवर्ती (reflex) bol dena — woh अधिक (obtuse) hote hain; reflex 180° se बड़ा होना चाहिए.",
+      "memory_trick": "A-R-O-S-Re: Acute-Right-Obtuse-Straight-Reflex — order chhote se bade measure tak.",
+      "gesture_action": "Do arms se 45° (acute), 90° (L-shape), 120° (obtuse), 180° (seedha), phir badi reflex turn dikhao",
+      "real_life_examples": [
+        "Wall aur floor ka junction ≈ समकोण",
+        "Fully opened folding bed/door nearly seedhi line — ऋजु कोण jaisa"
+      ],
+      "worked_example": {
+        "problem": "Classify: 35°, 90°, 125°, 180°, 270°.",
+        "steps": [
+          "35° → between 0 and 90 → न्यून (acute)",
+          "90° → समकोण; 125° → between 90 and 180 → अधिक (obtuse)",
+          "180° → ऋजु; 270° → between 180 and 360 → प्रतिवर्ती (reflex)"
+        ],
+        "answer": "35° acute; 90° right; 125° obtuse; 180° straight; 270° reflex."
+      },
+      "practice": {
+        "easy": [
+          "ऋजु कोण और समकोण का माप लिखो।"
+        ],
+        "medium": [
+          "क्या 180° अधिक कोण है? कारण सहित उत्तर दो।"
+        ],
+        "hard": [
+          "Ek angle 200° hai. Iske corresponding smaller angle (same arms) ka measure kya hoga aur dono types kaunse hain?"
+        ]
+      },
+      "summary": "Angles: acute (<90), right (90), obtuse (90–180), straight (180), reflex (180–360) — vertex aur arms se banate hain.",
+      "revision_point": "Boundaries yaad rakho: 90 aur 180 pe exact names change hote hain; reflex > 180.",
+      "exam_tip": "Fill-in/MCQ mein inequalities strict hoti hain — acute mein 90 include mat karo; obtuse mein 180 include mat karo.",
+      "source_text_hint": "एक न्यून कोण का माप 0° और 90° के बीच होता है"
+    },
+    {
+      "concept": "पूरक, संपूरक और आसन्न कोण",
+      "say": "Ab pairs of angles. Agar दो कोणों का योग एक समकोण, yani 90°, के बराबर हो — पूरक कोण (complementary angles). Example: 30° aur 60°. Agar योग 180° हो — संपूरक कोण (supplementary angles). Example: 110° aur 70°. Complementary aur supplementary sirf measures ke sum par depend karte hain — unhe adjacent hona zaroori nahi. Ab आसन्न कोण (adjacent angles) — आकृति 6.2. दो कोण आसन्न कहलाते हैं यदि: (1) एक उभयनिष्ठ शीर्ष हो, (2) एक उभयनिष्ठ भुजा हो, aur (3) उनकी वे भुजाएँ जो उभयनिष्ठ नहीं हैं, उभयनिष्ठ भुजा के विपरीत ओर स्थित हों. Figure mein ∠AOC aur ∠COB adjacent hain — common arm OC, common vertex O; non-common arms OA aur OB opposite sides of OC. Jab do angles adjacent hote hain, unka sum us angle ke barabar hota hai jo non-common arms se banta hai: ∠AOB = ∠AOC + ∠COB. Dhyan do — ∠AOB aur ∠AOC adjacent nahi hain kyunki non-common arms OC aur OB, common arm OA ke एक ही ओर hain. Yeh ‘opposite sides’ condition bahut students miss karte hain. Board par hamesha teen cheezein tick karo: common vertex? common arm? non-common arms opposite sides? Tabhi adjacent bolo. Complementary/supplementary alag idea hai — sum check karo; adjacent figure-based idea hai — position check karo.",
+      "example": "Window ke corner par 40° aur 50° milakar 90° — complementary; road ke straight turn par 120° aur 60° — supplementary (measures).",
+      "board_lines": [
+        "Complementary: ∠1 + ∠2 = 90° | Supplementary: ∠1 + ∠2 = 180°",
+        "Adjacent: common vertex + common arm + non-common arms on opposite sides",
+        "If adjacent: ∠AOB = ∠AOC + ∠COB"
+      ],
+      "common_mistake": "Sirf common vertex aur ek common arm dekh kar adjacent bol dena — agar non-common arms common arm ke same side par hain toh adjacent nahi.",
+      "memory_trick": "C90-S180: Complement se Ninety, Supplement se Straight (180). Adjacent = ‘Aas-paas opposite sides’.",
+      "gesture_action": "Do students ko common shoulder (vertex) aur common stick (arm) do; non-common arms ko opposite sides failao — adjacent pose",
+      "real_life_examples": [
+        "Set-square ke 30°-60° angles complementary banate hain with right angle of frame",
+        "Door frame corner: wall angle + door opening angle adjacent dikh sakte hain jab common edge shared ho"
+      ],
+      "worked_example": {
+        "problem": "∠AOC = 35°, ∠COB = 55°, aur yeh adjacent hain with non-common arms opposite. ∠AOB? Kya ∠AOC aur ∠COB complementary hain?",
+        "steps": [
+          "Adjacent sum: ∠AOB = 35° + 55° = 90°",
+          "35° + 55° = 90° → yes, complementary also",
+          "Note: complementary hone ke liye adjacent hona zaroori nahi tha, lekin yahan dono true"
+        ],
+        "answer": "∠AOB = 90°. Haan, yeh pair complementary bhi hai."
+      },
+      "practice": {
+        "easy": [
+          "पूरक कोणों का योग कितना होता है? संपूरक का?"
+        ],
+        "medium": [
+          "आसन्न कोणों की तीन शर्तें लिखो।"
+        ],
+        "hard": [
+          "Explain with reason: kyun ∠AOB aur ∠AOC (common arm OA, non-common OB & OC same side of OA) adjacent nahi kehlaate."
+        ]
+      },
+      "summary": "Complementary sum 90°, supplementary 180°; adjacent need common vertex, common arm, opposite non-common arms — then big angle = sum of two.",
+      "revision_point": "Adjacent ≠ automatically complementary/supplementary; check the three conditions carefully.",
+      "exam_tip": "Definition-based 2-mark: adjacent angles — ‘विपरीत ओर’ wali condition zaroor likho, warna half marks cut.",
+      "source_text_hint": "दो कोण आसन्न कोण कहलाते हैं, यदि उनमें एक उभयनिष्ठ शीर्ष हो"
+    },
+    {
+      "concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "say": "Ab special pairs. Agar आकृति 6.2 mein non-common arms OA aur OB ek रेखा bana dein, toh figure आकृति 6.3 jaisa ho jaata hai — tab ∠AOC aur ∠COB कोणों का एक रैखिक युग्म (linear pair of angles) बनाते हैं. Matlab: adjacent angles jinka non-common arms ek seedhi line banayein — linear pair. Unka sum 180° hota hai — aage Linear Pair Axiom mein clearly state karenge. Ab शीर्षाभिमुख कोण (vertically opposite angles). Jab दो रेखाएँ, मान लीजिए AB aur CD, परस्पर बिंदु O पर प्रतिच्छेद करती हैं — आकृति 6.4 — tab चार कोण बनते हैं. Vertically opposite pairs opposite corners par hote hain, vertex O common. Book poochti hai: ek pair ∠AOC aur ∠BOD; क्या आप दूसरा युग्म ज्ञात कर सकते हैं? Haan — ∠AOD aur ∠BOC. Intuition: crossing scissors ke opposite openings equal dikhte hain — later Theorem 6.1 se सिद्ध करेंगे ki woh equal hote hain. Abhi sirf identify karna seekho: intersecting lines → two pairs of vertically opposite angles; side-by-side angles on a straight line → linear pairs. Board par cross banao, opposite angles same colour se mark karo — yaad reh jaayega. Naming carefully: vertex hamesha beech mein. Galat pair choose karna numericals mein sabse common slip hai, isliye pehle colour-code, phir measure.",
+      "example": "Letter ‘X’ banao — upar-neeche opposite angles ek pair; left-right opposite doosra pair — vertically opposite.",
+      "board_lines": [
+        "Linear pair: adjacent angles whose non-common arms form a line → sum 180°",
+        "Two lines intersect at O → 4 angles; 2 pairs of vertically opposite angles",
+        "Pairs: ∠AOC & ∠BOD; ∠AOD & ∠BOC"
+      ],
+      "common_mistake": "Adjacent angles ko hi vertically opposite bol dena — vertically opposite ‘opposite’ hote hain, side-by-side nahi.",
+      "memory_trick": "Linear = Line (seedhi line par pair); Vertical = ‘X’ ke opposite corners.",
+      "gesture_action": "Do sticks cross karke ‘X’; opposite angles par fingers point karke ‘vertically opposite’ bolo; adjacent par ‘linear pair’",
+      "real_life_examples": [
+        "Scissors ya tongs kholte waqt opposite openings",
+        "Road crossing (plus junction) par opposite traffic corners ke angles"
+      ],
+      "worked_example": {
+        "problem": "Lines AB aur CD O par intersect. Angles: ∠AOC, ∠COB, ∠BOD, ∠DOA. Vertically opposite pairs aur ek linear pair likho.",
+        "steps": [
+          "Vertically opposite: ∠AOC with ∠BOD; ∠COB with ∠DOA",
+          "Linear pair example: ∠AOC aur ∠COB (arms along AB if A-O-B straight)",
+          "Similarly ∠AOC + ∠AOD = 180° if C-O-D straight"
+        ],
+        "answer": "V.O. pairs: (∠AOC, ∠BOD) and (∠AOD, ∠BOC). Linear pair e.g. ∠AOC & ∠COB (on straight line AOB)."
+      },
+      "practice": {
+        "easy": [
+          "रैखिक युग्म की परिभाषा एक वाक्य में लिखो।"
+        ],
+        "medium": [
+          "दो प्रतिच्छेदी रेखाओं से बने शीर्षाभिमुख कोणों के दोनों युग्म लिखो।"
+        ],
+        "hard": [
+          "Ek figure mein batao kaunse angles adjacent hain, kaunse linear pair, kaunse vertically opposite — teen columns mein classify karo."
+        ]
+      },
+      "summary": "Linear pair = adjacent on a straight line; vertically opposite = opposite angles when two lines cross — identify before proving equality.",
+      "revision_point": "X-figure: opposite = vertically opposite; side-by-side on a line = linear pair.",
+      "exam_tip": "Diagram questions mein pehle pairs label karo (VO / LP) — phir measure nikaalo; galat pair pick karna common error hai.",
+      "source_text_hint": "आप शीर्षाभिमुख कोणों को भी याद कर सकते हैं"
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "say": "Section 6.3 — प्रतिच्छेदी रेखाएँ और अप्रतिच्छेदी रेखाएँ. Ek paper par do alag lines PQ aur RS khincho. Do tarike possible — आकृति 6.5: (i) प्रतिच्छेदी रेखाएँ (intersecting lines) — ek point par milti hain; (ii) अप्रतिच्छेदी अर्थात् समांतर रेखाएँ (non-intersecting / parallel lines) — kabhi nahi milti, chahe extend karo. Yaad rakho रेखा दोनों दिशाओं में अनिश्चित रूप से विस्तृत होती है. Isliye agar do lines paper ke andar nahi mil rahi, extend karke check karo — milengi toh intersecting. Parallel lines mein, unke विभिन्न बिंदुओं पर उभयनिष्ठ लम्बों की लंबाइयाँ समान रहती हैं — yahi समान लंबाई दोनों समांतर रेखाओं के बीच की दूरी कहलाती है. Matlab distance between parallels constant hoti hai — ruler se perpendicular distances equal. Classroom activity: copy ke opposite long edges roughly parallel; notebook ki do crossing pencil lines intersecting. Railway tracks ideal parallel model — beech ki duri same. Geometry mein parallel symbol: PQ ∥ RS. Intersecting ke liye common point likho. Aage ke chapters mein transversal parallel lines ko kaategi — tab corresponding, alternate angles aayenge; foundation yahi hai ki parallel means never meet plus constant distance. Exam tip: ‘abhi nahi mil rahi’ proof nahi hai — infinite extension socho.",
+      "example": "Notebook ke opposite edges ≈ parallel (distance nearly same); letter ‘X’ ki strokes intersecting.",
+      "board_lines": [
+        "Intersecting: meet at exactly one point (in plane, distinct lines)",
+        "Parallel (non-intersecting): never meet even when extended",
+        "Distance between parallels = equal length of common perpendiculars"
+      ],
+      "common_mistake": "Paper ke andar nahi mil rahi isliye parallel maan lena — lines extend hoti hain; thodi tilt par door jaakar mil sakti hain.",
+      "memory_trick": "I-meet, P-never: Intersecting Meet; Parallel Permanent gap (constant distance).",
+      "gesture_action": "Do scale: pehle cross (intersect); phir barabar gap rakhkar parallel; ungli se beech ki equal distance dikhao",
+      "real_life_examples": [
+        "Railway tracks — समांतर, बीच की दूरी लगभग समान",
+        "Scissors blades closed parallel-ish, open hone par intersecting at pivot"
+      ],
+      "worked_example": {
+        "problem": "Do lines l aur m ke beech teen jagah perpendicular distances 3 cm, 3 cm, 3 cm measure hui. Kya conclude karoge? Agar distances 3, 4, 5 hon toh?",
+        "steps": [
+          "Equal common perpendicular lengths → lines parallel; distance = 3 cm",
+          "Unequal 3,4,5 → constant distance nahi → parallel nahi"
+        ],
+        "answer": "First case: l ∥ m with distance 3 cm. Second: not parallel (distances unequal)."
+      },
+      "practice": {
+        "easy": [
+          "अप्रतिच्छेदी रेखाओं को और किस नाम से पुकारते हैं?"
+        ],
+        "medium": [
+          "समांतर रेखाओं के बीच की दूरी की परिभाषा लिखो।"
+        ],
+        "hard": [
+          "Kyun sirf ‘abhi paper par nahi mil rahi’ parallel prove nahi karta? Line ki infinite extension se reason do."
+        ]
+      },
+      "summary": "Do lines: intersect at a point, ya parallel (never meet) with constant perpendicular distance between them.",
+      "revision_point": "Parallel ⇒ equal common perpendicular distances; lines extend both ways infinitely.",
+      "exam_tip": "Short answer: distance between parallel lines = length of common perpendicular — ‘उभयनिष्ठ लम्ब’ phrase use karo.",
+      "source_text_hint": "इन दोनों समांतर रेखाओं के विभिन्न बिंदुओं पर उनके उभयनिष्ठ लम्बों की लंबाइयाँ समान रहेंगी"
+    },
+    {
+      "concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "say": "Section 6.4 — कोणों के युग्म. आकृति 6.6: रेखा AB, us par point O se किरण OC. Angles: ∠AOC, ∠BOC, aur ∠AOB. Adjacent angles se: ∠AOC + ∠BOC = ∠AOB. Aur ∠AOB ek straight angle hai = 180°. Isliye ∠AOC + ∠BOC = 180°. अभिगृहीत 6.1: यदि एक किरण एक रेखा पर खड़ी हो, तो इस प्रकार बने दोनों आसन्न कोणों का योग 180° होता है. Jab do adjacent angles ka sum 180° ho, unhe linear pair kehte hain. Kya iska विलोम (converse) bhi true? Statement (A): यदि दो आसन्न कोणों का योग 180° है, तो उनकी अउभयनिष्ठ भुजाएँ एक रेखा बनाती हैं. Activity आकृति 6.7: alag-alag adjacent pairs banao, ruler ek non-common arm par rakho — doosri non-common arm tabhi ruler par aati hai jab sum 180° ho (jaise 125° + 55°). Isse converse true dikhta hai. अभिगृहीत 6.2: यदि दो आसन्न कोणों का योग 180° है, तो उनकी अउभयनिष्ठ भुजाएँ एक रेखा बनाती हैं. Dono axioms milakar रैखिक युग्म अभिगृहीत (Linear Pair Axiom) कहलाते हैं. Yaad rakho: axiom 6.1 ‘ray on a line ⇒ sum 180°’; axiom 6.2 ‘adjacent sum 180° ⇒ non-common arms form a line’. Dono ek doosre ke converse hain — Theorem 6.1 aur saare numerical proofs mein yeh fuel ki tarah kaam aayenge. Reason likhe bina marks mat gawaana.",
+      "example": "Wall se nikalti rod floor line par khadi — dono taraf ke adjacent angles milakar 180° (Axiom 6.1).",
+      "board_lines": [
+        "Axiom 6.1: Ray stands on a line ⇒ adjacent angles sum = 180°",
+        "Axiom 6.2 (converse): Adjacent angles sum 180° ⇒ non-common arms form a line",
+        "Together: Linear Pair Axiom (रैखिक युग्म अभिगृहीत)"
+      ],
+      "common_mistake": "Converse ko automatically true maan lena bina check — yahan book activity se Axiom 6.2 alag se accept karwati hai; har statement ka converse true nahi hota.",
+      "memory_trick": "6.1 Line→180; 6.2 180→Line. Yaad: ‘Line gives 180, 180 gives Line’.",
+      "gesture_action": "Ek arm se seedhi line, doosri arm se ‘ray standing’; dono adjacent angles fingers se 180 count karo",
+      "real_life_examples": [
+        "Electric pole standing on ground line — left aur right ground angles linear pair",
+        "Open book lying flat: two pages’ angles at spine can form linear pair when book fully open flat"
+      ],
+      "worked_example": {
+        "problem": "Ray OC stands on line AB. Agar ∠AOC = 125°, toh ∠BOC? Agar instead adjacent angles 70° aur 110° hain, kya non-common arms ek line banayenge?",
+        "steps": [
+          "Axiom 6.1: ∠AOC + ∠BOC = 180° ⇒ ∠BOC = 55°",
+          "70° + 110° = 180° aur adjacent ⇒ Axiom 6.2 ⇒ non-common arms form a line",
+          "State both axioms in answer for full marks"
+        ],
+        "answer": "∠BOC = 55°. Haan, 70°+110°=180° adjacent ⇒ अउभयनिष्ठ भुजाएँ एक रेखा बनाती हैं (Axiom 6.2)."
+      },
+      "practice": {
+        "easy": [
+          "अभिगृहीत 6.1 का कथन लिखो।"
+        ],
+        "medium": [
+          "अभिगृहीत 6.1 और 6.2 एक-दूसरे के विलोम कैसे हैं? एक-एक वाक्य में लिखो।"
+        ],
+        "hard": [
+          "आकृति 6.7 वाली activity ko words mein explain karke dikhao ki sirf sum=180° wali adjacent situation mein non-common arms collinear hote hain."
+        ]
+      },
+      "summary": "Linear Pair Axiom: ray on a line ⇒ adjacent sum 180°; aur converse — adjacent sum 180° ⇒ arms form a line.",
+      "revision_point": "Axiom 6.1 and 6.2 are converses; together = Linear Pair Axiom.",
+      "exam_tip": "Proofs mein ‘रैखिक युग्म अभिगृहीत’ likhkar reason do — bina reason ke marks nahi milte.",
+      "source_text_hint": "यदि एक किरण एक रेखा पर खड़ी हो, तो इस प्रकार बने दोनों आसन्न कोणों का योग 180° होता है"
+    },
+    {
+      "concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "say": "Ab sabse important result — प्रमेय 6.1: यदि दो रेखाएँ परस्पर प्रतिच्छेद करती हैं, तो शीर्षाभिमुख कोण बराबर होते हैं. आकृति 6.8: मान लीजिए रेखाएँ AB aur CD बिंदु O पर प्रतिच्छेद करती हैं. Vertically opposite pairs: (i) ∠AOC aur ∠BOD (ii) ∠AOD aur ∠BOC. सिद्ध करना है dono pairs equal hain. Proof: किरण OA रेखा CD पर खड़ी है. अतः ∠AOC + ∠AOD = 180° — रैखिक युग्म अभिगृहीत ...(1). इसी प्रकार ∠BOD + ∠AOD = 180° ...(2). (1) aur (2) se ∠AOC + ∠AOD = ∠BOD + ∠AOD, इसलिए ∠AOC = ∠BOD — equals axiom se. इसी प्रकार ∠AOD = ∠BOC सिद्ध होता है. उदाहरण 1: रेखाएँ PQ, RS बिंदु O पर प्रतिच्छेद; ∠POQ : ∠QOR = 5 : 7. Linear pair ⇒ 5x+7x=180 ⇒ ∠POQ=75°, ∠QOR=105°. Vertically opposite ⇒ opposite angles bhi 105° aur 75°. उदाहरण 2: किरण OP रेखा AB पर खड़ी; OQ aur OR bisect ∠AOP aur ∠BOP; ∠AOP=x ⇒ ∠QOR = x/2 + (180°−x)/2 = 90°. उदाहरण 3: चार किरणें — ek ray ko peeche extend karke line banao, do linear pairs jodo ⇒ चारों कोणों का योग 360°. Exercise 6.1 isi par based hai — ratios, VO angles, bisectors. Proof mein hamesha Linear Pair Axiom cite karo; numerical mein pehle LP, phir VO. Yaad: opposite twins equal, adjacent on line sum 180.",
+      "example": "Crossed bamboo sticks: measure one angle 70° — opposite bhi 70° (Theorem 6.1); adjacent 110°.",
+      "board_lines": [
+        "Thm 6.1: Two lines intersect ⇒ vertically opposite angles equal",
+        "Proof engine: Linear Pair Axiom twice + equals from equals",
+        "Ex: ratio 5:7 on linear pair → 75° & 105°; VO copies them"
+      ],
+      "common_mistake": "Vertically opposite ko ‘assume equal’ kar dena bina linear pair reason — exam mein proof steps chahiye: LP, LP, subtract/equals.",
+      "memory_trick": "VO = Twin: Vertically Opposite are Twins (equal). Proof fuel = Linear Pair battery.",
+      "gesture_action": "X banao; opposite angles par same fingers count (equal); adjacent par 180 wala clap",
+      "real_life_examples": [
+        "Window grill crossings — opposite angles equal dikhte hain",
+        "Plus-shaped road junction — opposite corner angles equal for straight roads"
+      ],
+      "worked_example": {
+        "problem": "Lines PQ aur RS O par intersect. ∠POQ : ∠QOR = 5 : 7. Saare four angles find karo.",
+        "steps": [
+          "∠POQ + ∠QOR = 180° (linear pair)",
+          "5k + 7k = 180° ⇒ 12k = 180° ⇒ k = 15° ⇒ ∠POQ = 75°, ∠QOR = 105°",
+          "Vertically opposite: opposite of 75° is 75°; opposite of 105° is 105°"
+        ],
+        "answer": "Four angles: 75°, 105°, 75°, 105° (alternating around the intersection)."
+      },
+      "practice": {
+        "easy": [
+          "प्रमेय 6.1 का कथन लिखो।"
+        ],
+        "medium": [
+          "दो रेखाएँ प्रतिच्छेद करती हैं। एक कोण 40° है। इसके शीर्षाभिमुख और आसन्न (रैखिक युग्म) कोण ज्ञात करो।"
+        ],
+        "hard": [
+          "Ray OP stands on AB; OQ bisects ∠AOP, OR bisects ∠POB. Prove ∠QOR = 90° (Example 2 style)."
+        ]
+      },
+      "summary": "Intersecting lines ⇒ vertically opposite angles equal (proved via Linear Pair Axiom); use with ratios/bisectors in examples.",
+      "revision_point": "Proof skeleton: LP sum 180 + LP sum 180 ⇒ VO angles equal; then apply to numericals.",
+      "exam_tip": "3-mark proof: given, to prove, figure, steps with ‘रैखिक युग्म अभिगृहीत’ aur ‘equals’ clearly cite karo.",
+      "source_text_hint": "यदि दो रेखाएँ परस्पर प्रतिच्छेद करती हैं, तो शीर्षाभिमुख कोण बराबर होते हैं"
+    }
+  ]
+}
