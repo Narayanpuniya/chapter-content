@@ -1,0 +1,350 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 702,
+    "chapter_name": "क्या हमारे आसपास के पदार्थ शुद्ध हैं",
+    "chapter_number": 2,
+    "book_name": "Class 9 Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 9 Science ke Chapter 2 — क्या हमारे आसपास के पदार्थ शुद्ध हैं (Is Matter Around Us Pure?) — ko padhenge. Is chapter mein hum samjhenge ki scientist ke liye 'शुद्ध' ka matlab kya hai, मिश्रण kya hota hai, समांगी aur विषमांगी मिश्रण kaise alag hote hain, aur विलयन, निलंबन aur कोलाइडल विलयन ke properties kya hain. Saath hi हम विलयन की सांद्रता, टिन्डल प्रभाव, भौतिक एवं रासायनिक परिवर्तन, aur तत्व (धातु–अधातु–उपधातु) bhi clear karenge — sab daily-life examples se.",
+    "welcome": "Good morning, class! Smart Board par aaj ek bahut practical chapter shuru karte hain — क्या हमारे आसपास के पदार्थ शुद्ध हैं. Socho: doodh ke packet par 'शुद्ध' likha hota hai, lekin scientist kehte hain doodh मिश्रण hai! Aaj hum yeh mystery solve karenge — pure substance kya hai, mixture kaise banate hain, solution-suspension-colloid kaise pehchante hain. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "वैज्ञानिक अर्थ में शुद्ध पदार्थ aur मिश्रण mein antar samajhna aur daily examples se pehchanna",
+      "समांगी (विलयन) aur विषमांगी मिश्रण ke properties compare karna; विलेय–विलायक identify karna",
+      "विलयन, निलंबन aur कोलाइड ko particle size, Tyndall effect, stability aur filtration se differentiate karna",
+      "विलयन की सांद्रता (तनु/सांद्र/संतृप्त) calculate karna aur भौतिक–रासायनिक परिवर्तन tatha तत्व (धातु/अधातु/उपधातु) ko classify karna"
+    ],
+    "concepts": [
+      {"number": 1, "name": "शुद्ध पदार्थ की वैज्ञानिक परिभाषा"},
+      {"number": 2, "name": "मिश्रण क्या है?"},
+      {"number": 3, "name": "समांगी और विषमांगी मिश्रण"},
+      {"number": 4, "name": "विलयन – गुणधर्म, विलेय और विलायक"},
+      {"number": 5, "name": "विलयन की सांद्रता"},
+      {"number": 6, "name": "निलंबन क्या है?"},
+      {"number": 7, "name": "कोलाइडल विलयन और टिन्डल प्रभाव"},
+      {"number": 8, "name": "भौतिक एवं रासायनिक परिवर्तन"},
+      {"number": 9, "name": "तत्व – धातु, अधातु और उपधातु"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "शुद्ध पदार्थ की वैज्ञानिक परिभाषा",
+      "say": "Bacchon, aaj Chapter 2 shuru karte hain — क्या हमारे आसपास के पदार्थ शुद्ध हैं. Pehle ek simple observation: kya tumne kabhi khane ke packets par 'शुद्ध' shabd dekha hai? Doodh, ghee, namak, masala, mineral water, juice — sab par pure likha milta hai. आम आदमी के लिए शुद्ध मतलब — कोई मिलावट न हो. Lekin scientists ke liye yeh sab वस्तुएँ विभिन्न पदार्थों के मिश्रण हैं, अतः शुद्ध नहीं हैं! Example: दूध जल, वसा, प्रोटीन आदि का मिश्रण है. Jab scientist kisi पदार्थ को शुद्ध कहता है, to iska matlab hai — उस पदार्थ में मौजूद सभी कण समान रासायनिक प्रकृति के हैं. Ek शुद्ध पदार्थ एक ही प्रकार के कणों से मिलकर बना होता है. Sugar ek पदार्थ है kyunki usme एक ही प्रकार का शुद्ध अवयव hai aur uska यौगिक समान रहता है. Sodium chloride khud ek शुद्ध पदार्थ hai — ise भौतिक विधि से उसके रासायनिक अवयवों में अलग nahi kar sakte, lekin घुले हुए सोडियम क्लोराइड को वाष्पीकरण या आसवन द्वारा जल से अलग kar sakte ho. Pure substance kisi bhi source se aaye, uske अभिलाक्षणिक गुण एकसमान होते हैं. पेय पदार्थ और मिट्टी में एकसमान कण नहीं होते — isliye woh शुद्ध नहीं. Yaad rakho: daily life ka 'pure' aur science ka 'pure' alag baatein hain!",
+      "example": "Packet par 'शुद्ध दूध' likha ho, phir bhi scientifically doodh मिश्रण hai — water, fat, protein milkar bane hain.",
+      "board_lines": [
+        "आम अर्थ: शुद्ध = बिना मिलावट",
+        "वैज्ञानिक अर्थ: सभी कण समान रासायनिक प्रकृति के",
+        "शुद्ध पदार्थ = एक ही प्रकार के कण; गुण स्रोत से स्वतंत्र एकसमान"
+      ],
+      "common_mistake": "Students sochte hain ki packet par 'शुद्ध' likha hai to woh scientifically pure substance hai — actually doodh, juice, ghee mixtures hain.",
+      "memory_trick": "PURE = Particles Uniform, Really Equal — sab particles chemically same type ke.",
+      "gesture_action": "Ek haath se packet dikhao ('शुद्ध' label), doosre haath se teen ungliyan failao (water–fat–protein) — dikhao ki label aur science alag hain.",
+      "real_life_examples": [
+        "Market ka 'शुद्ध घी' — scientist ke nazar mein mixed fats/compounds ka mixture ho sakta hai",
+        "Table salt (NaCl) as pure substance vs salty seawater as mixture"
+      ],
+      "worked_example": {
+        "problem": "एक साधारण व्यक्ति और वैज्ञानिक 'शुद्ध दूध' को किस प्रकार अलग-अलग समझते हैं? स्पष्ट कीजिए।",
+        "steps": [
+          "साधारण व्यक्ति: शुद्ध = कोई मिलावट नहीं (adulteration nahi)",
+          "वैज्ञानिक: दूध = जल + वसा + प्रोटीन आदि का मिश्रण → कण समान रासायनिक प्रकृति के नहीं",
+          "निष्कर्ष: label 'शुद्ध' होने पर भी scientifically दूध शुद्ध पदार्थ नहीं"
+        ],
+        "answer": "सामान्य अर्थ में शुद्ध = बिना मिलावट; वैज्ञानिक अर्थ में दूध मिश्रण है क्योंकि उसमें भिन्न रासायनिक प्रकृति के कण होते हैं।"
+      },
+      "practice": {
+        "easy": ["वैज्ञानिकों के अनुसार शुद्ध पदार्थ की परिभाषा एक पंक्ति में लिखो।"],
+        "medium": ["चीनी को शुद्ध पदार्थ क्यों माना जाता है? दो बिंदुओं में लिखो।"],
+        "hard": ["'पेय पदार्थ और मिट्टी शुद्ध नहीं हैं' — इस कथन को अभिलाक्षणिक गुणों और कणों की समानता के आधार पर सिद्ध करो।"]
+      },
+      "summary": "Scientist ke liye शुद्ध पदार्थ ek hi type ke chemically identical particles se banta hai; doodh jaise 'pure' labelled items actually mixtures hote hain.",
+      "revision_point": "Daily 'pure' ≠ scientific pure; pure = same chemical nature particles throughout.",
+      "exam_tip": "1–2 mark definition mein hamesha 'समान रासायनिक प्रकृति के कण' phrase zaroor likho — yeh NCERT keywords marks late hain.",
+      "source_text_hint": "जब एक वैज्ञानिक किसी पदार्थ को शुद्ध कहता है तो इसका तात्पर्य है कि उस पदार्थ में मौजूद सभी कण समान रासायनिक प्रकृति के हैं"
+    },
+    {
+      "concept": "मिश्रण क्या है?",
+      "say": "Ab aage badhte hain — जब हम अपने चारों ओर देखते हैं तो पाते हैं कि लगभग सभी पदार्थ दो या दो से अधिक शुद्ध अवयवों के मिलने से बने हैं. समुद्र का जल, खनिज, मिट्टी — ये सब मिश्रण हैं. Definition clear rakho: मिश्रण एक या एक से अधिक शुद्ध तत्वों या यौगिकों से मिलकर बना होता है. Isliye hum kah sakte hain — मिश्रण में एक से अधिक शुद्ध पदार्थ होते हैं. Important point: mixed hone ke baad bhi components apni identity rakhein — jaise namak pani mein dissolve hone ke baad taste se pehchana ja sakta hai. Sodium chloride ko water se वाष्पीकरण या आसवन se alag kar sakte ho, lekin NaCl khud ko physical methods se uske chemical components (sodium aur chlorine) mein tod nahi sakte — kyunki NaCl ek शुद्ध यौगिक/पदार्थ hai. Sugar bhi एक पदार्थ है. Contrast samajho: mixture = do ya zyada pure substances milakar; pure substance = ek hi type ke particles. Kitchen examples socho — chai, namkeen pani, aata-besan mix — sab mixtures. NCERT Figure 2.1 kitchen items dikhata hai jo hum daily use karte hain. Question poochho khud se: kya bazaar se kharida doodh, ghee, butter, namak, masala, mineral water ya juice scientifically शुद्ध hai? Aksar nahi — woh mixtures hain. Yeh foundation hai next section ke types of mixtures ke liye.",
+      "example": "समुद्र का जल — नमक, पानी और अन्य घुले पदार्थों का मिश्रण है; वाष्पीकरण से नमक अलग किया जा सकता है।",
+      "board_lines": [
+        "मिश्रण = एक या अधिक शुद्ध तत्व/यौगिक मिलकर",
+        "उदाहरण: समुद्री जल, खनिज, मिट्टी",
+        "मिश्रण में एक से अधिक शुद्ध पदार्थ होते हैं"
+      ],
+      "common_mistake": "Students मिश्रण aur यौगिक ko confuse karte hain — mixture physical mixing se banta hai aur components alag kiye ja sakte hain; compound chemical combination hai.",
+      "memory_trick": "MIX = More than one Independent Xubstance (substance) — do ya zyada pure substances.",
+      "gesture_action": "Do alag chalk pieces (namak aur pani) dikhao, milao, phir 'alag bhi kar sakte hain' gesture se evaporation act out karo.",
+      "real_life_examples": [
+        "नींबू पानी — नींबू, चीनी, नमक, जल का मिश्रण",
+        "मिट्टी — रेत, मिट्टी के कण, कार्बनिक पदार्थ आदि का मिश्रण"
+      ],
+      "worked_example": {
+        "problem": "क्या सोडियम क्लोराइड का जलीय विलयन मिश्रण है? सोडियम क्लोराइड स्वयं शुद्ध पदार्थ क्यों है?",
+        "steps": [
+          "NaCl + जल = दो शुद्ध पदार्थों का मिलना → मिश्रण (विलयन)",
+          "घुले NaCl को वाष्पीकरण/आसवन से जल से पृथक किया जा सकता है",
+          "NaCl स्वयं एक ही प्रकार के कणों वाला शुद्ध पदार्थ है; भौतिक विधि से Na और Cl में नहीं तोड़ा जा सकता"
+        ],
+        "answer": "हाँ, NaCl का जलीय विलयन मिश्रण है; NaCl स्वयं शुद्ध है क्योंकि उसे भौतिक विधि से रासायनिक अवयवों में नहीं बाँटा जा सकता।"
+      },
+      "practice": {
+        "easy": ["मिश्रण की परिभाषा लिखो।"],
+        "medium": ["समुद्री जल और शुद्ध जल में क्या अंतर है? मिश्रण की दृष्टि से समझाओ।"],
+        "hard": ["चीनी शुद्ध पदार्थ है जबकि चीनी का घोल मिश्रण है — दोनों कथनों को स्रोत पाठ के आधार पर सिद्ध करो।"]
+      },
+      "summary": "मिश्रण दो या अधिक शुद्ध तत्वों/यौगिकों से बनता है; आस-पास की अधिकतर वस्तुएँ — समुद्री जल, मिट्टी, खनिज — मिश्रण हैं।",
+      "revision_point": "Mixture = more than one pure substance; components often separable by physical methods.",
+      "exam_tip": "Definition ke saath hamesha 2 examples (समुद्री जल, मिट्टी) likho — examiner example-based marks deta hai.",
+      "source_text_hint": "मिश्रण एक या एक से अधिक शुद्ध तत्वों या यौगिकों से मिलकर बना होता है"
+    },
+    {
+      "concept": "समांगी और विषमांगी मिश्रण",
+      "say": "Ab Activity 2.1 jaisa sochte hain — कक्षा को अ, ब, स, द समूहों में बाँटो. Group अ: 50 mL जल + एक चम्मच कॉपर सल्फेट. Group ब: 50 mL जल + दो चम्मच कॉपर सल्फेट. Group स और द: कॉपर सल्फेट और पोटैशियम परमैंगनेट या साधारण नमक अलग-अलग मात्रा में. Jab milao, colour aur texture ki report banao. Group अ और ब को एक मिश्रण मिलता है जिसकी बनावट समान होती है — isse हम समांगी मिश्रण अथवा विलयन कहते हैं. अन्य उदाहरण: जल में नमक, जल में चीनी. Dono groups ke copper sulphate solutions ke रंगों की तीव्रता अलग है — matlab समांगी मिश्रण पृथक्-पृथक् संघटन रख सकते हैं. Ab Group स और द: उनके अंश भौतिक दृष्टि से पृथक् दिखते हैं — ऐसे मिश्रण को विषमांगी मिश्रण कहते हैं. उदाहरण: सोडियम क्लोराइड और लोहे की छीलन, नमक और सल्फर, जल और तेल. Activity 2.2 mein groups alag samples milate hain: crystals/powder of CuSO₄ → विलयन; चाक चूर्ण या आटा → निलंबन; दूध या स्याही → कोलाइड. Torch se light daalne, shant chhodne, aur छानने se difference clear hota hai. Short questions: (1) पदार्थ से आप क्या समझते हैं? (2) समांगी और विषमांगी मिश्रणों में अंतर बताएँ. Yaad rakho — homogeneous = composition uniform throughout; heterogeneous = parts physically distinct.",
+      "example": "नमक का पानी समांगी मिश्रण है; तेल और पानी विषमांगी मिश्रण है — तेल ऊपर तैरता दिखता है।",
+      "board_lines": [
+        "समांगी मिश्रण (विलयन): बनावट/संघटन समान — नमक+जल, चीनी+जल",
+        "विषमांगी: अंश भौतिक रूप से पृथक् — तेल+जल, नमक+लोहे की छीलन",
+        "समांगी मिश्रण अलग-अलग संघटन रख सकते हैं (तनु/गाढ़ा CuSO₄)"
+      ],
+      "common_mistake": "Students sochte hain homogeneous mixture hamesha same concentration ka hota hai — nahi; composition uniform hota hai, lekin different solutions alag concentration rakh sakte hain.",
+      "memory_trick": "HOMO = Homely One look (ek jaisa); HETERO = Have Extra Two looks (alag-alag dikhte hisse).",
+      "gesture_action": "Ek glass mein namak-pani milao (smooth stir — homogeneous); doosre mein tel-pani milao aur layers dikhao (heterogeneous).",
+      "real_life_examples": [
+        "नींबू शरबत — समांगी; सलाद — विषमांगी",
+        "हवा (gases का समांगी मिश्रण) vs रेत-नमक का ढेर (विषमांगी)"
+      ],
+      "worked_example": {
+        "problem": "समांगी और विषमांगी मिश्रणों में दो अंतर उदाहरण सहित लिखिए।",
+        "steps": [
+          "समांगी: अवयव समान रूप से वितरित, एक ही phase — जैसे जल में नमक",
+          "विषमांगी: अवयव भौतिक दृष्टि से पृथक् दिखते हैं — जैसे जल और तेल",
+          "अतिरिक्त: समांगी में संघटन पूरे में एकसमान; विषमांगी में अलग-अलग भागों में भिन्न"
+        ],
+        "answer": "समांगी मिश्रण एकसमान बनावट वाला विलयन होता है (नमक+जल); विषमांगी में अंश पृथक् दिखते हैं (तेल+जल)।"
+      },
+      "practice": {
+        "easy": ["समांगी मिश्रण के दो उदाहरण लिखो।"],
+        "medium": ["Activity 2.1 में समूह अ और ब के कॉपर सल्फेट घोलों के रंग अलग क्यों हैं? इससे समांगी मिश्रण के बारे में क्या पता चलता है?"],
+        "hard": ["नमक+सल्फर, जल+तेल, और चीनी+जल — प्रत्येक को समांगी/विषमांगी वर्गीकृत करो और एक-एक कारण दो।"]
+      },
+      "summary": "समांगी मिश्रण (विलयन) की बनावट एकसमान होती है; विषमांगी मिश्रण के अंश भौतिक रूप से अलग दिखते हैं — Activity 2.1 यही सिखाती है।",
+      "revision_point": "Homogeneous = uniform (solution); Heterogeneous = physically distinct parts; same solute can give different compositions.",
+      "exam_tip": "Difference table mein hamesha 'उदाहरण' column add karo — 3-mark questions mein examples se full marks milte hain.",
+      "source_text_hint": "समूह 'अ' और 'ब' को एक मिश्रण प्राप्त होता है जिसकी बनावट समान होती है। इस तरह के मिश्रण को हम समांगी मिश्रण अथवा विलयन कहते हैं"
+    },
+    {
+      "concept": "विलयन – गुणधर्म, विलेय और विलायक",
+      "say": "Section 2.2 — विलयन क्या है? विलयन दो या दो से अधिक पदार्थों का समांगी मिश्रण है. Daily examples: नींबू जल, सोडा जल. Aksar hum solution ko liquid sochte hain jisme solid, liquid ya gas mila ho, lekin प्रकृति में ठोस विलयन (मिश्र धातु) और गैसीय विलयन (वायु) भी होते हैं. विलयन के कणों में समांगिकता होती है — नींबू जल का स्वाद सदैव समान रहता है, matlab चीनी और नमक के कण समान रूप से वितरित हैं. Properties of solution: (1) यह समांगी मिश्रण है. (2) कण व्यास में 1 nm (10⁻⁹ m) से भी छोटे — आँख से नहीं दिखते. (3) इतने छोटे कि प्रकाश की किरण को नहीं फैलाते — इसलिए विलयन में प्रकाश का मार्ग दिखाई नहीं देता. (4) छानने से विलेय अलग नहीं होता; शांत छोड़ने पर कण नीचे नहीं बैठते — विलयन स्थायी है. Components: जिसकी मात्रा अधिक और जो दूसरे को घोलता है = विलायक (solvent); जो घुलता है (प्रायः कम मात्रा) = विलेय (solute). Examples: (i) चीनी+जल — चीनी विलेय, जल विलायक. (ii) टिंक्चर आयोडीन — आयोडीन विलेय, ऐल्कोहॉल विलायक. (iii) सोडा जल — CO₂ विलेय, जल विलायक. (iv) वायु — मुख्यतः O₂ (21%) और N₂ (78%); नाइट्रोजन को वायु का विलायक कहा जाता है. Alloys: धातुओं के समांगी मिश्रण — physical action se components alag nahi, phir bhi mixture maane jaate hain kyunki components ke गुण दिखाते हैं aur अलग संघटन रखते हैं. पीतल ≈ 30% जिंक + 70% कॉपर.",
+      "example": "टिंक्चर आयोडीन — आयोडीन (विलेय) ऐल्कोहॉल (विलायक) में घुला हुआ विलयन।",
+      "board_lines": [
+        "विलयन = समांगी मिश्रण; कण < 1 nm; Tyndall नहीं; स्थायी; छनते नहीं",
+        "विलायक = अधिक मात्रा वाला घटक; विलेय = घुलने वाला घटक",
+        "उदाहरण: चीनी+जल; टिंक्चर आयोडीन; सोडा जल; वायु; मिश्र धातु (पीतल)"
+      ],
+      "common_mistake": "Students sochte hain solution sirf liquid hota hai — solid solutions (alloys) aur gaseous solutions (air) bhi hote hain.",
+      "memory_trick": "SOLUTE is the 'little' one that dissolves; SOLVENT is the 'big' one that dissolves it — SOlute SOlves Into solvent.",
+      "gesture_action": "Chhoti ungli = solute (namak), badi mutthi = solvent (pani); milakar smooth solution dikhao, torch se path na dikhe — act out.",
+      "real_life_examples": [
+        "Soft drink / सोडा जल — गैस (CO₂) द्रव जल में",
+        "पीतल के बर्तन — कॉपर और जिंक की मिश्र धातु (ठोस विलयन)"
+      ],
+      "worked_example": {
+        "problem": "वायु में ऑक्सीजन 21% और नाइट्रोजन 78% है। विलेय और विलायक कौन है? वायु किस प्रकार का विलयन है?",
+        "steps": [
+          "अधिक मात्रा वाला घटक = नाइट्रोजन → विलायक",
+          "कम मात्रा / घुला घटक = ऑक्सीजन (और अन्य गैसें) → विलेय",
+          "दोनों गैसें → गैसीय विलयन (समांगी मिश्रण)"
+        ],
+        "answer": "नाइट्रोजन विलायक, ऑक्सीजन विलेय; वायु गैस-में-गैस विलयन/समांगी मिश्रण है।"
+      },
+      "practice": {
+        "easy": ["विलयन की दो गुणधर्म लिखो।"],
+        "medium": ["टिंक्चर आयोडीन और सोडा जल में विलेय व विलायक पहचानो।"],
+        "hard": ["मिश्र धातुओं को मिश्रण क्यों माना जाता है जबकि उन्हें भौतिक क्रिया द्वारा आसानी से अवयवों में नहीं बाँटा जा सकता? पीतल का उदाहरण दो।"]
+      },
+      "summary": "विलयन समांगी मिश्रण है — बहुत छोटे कण, Tyndall नहीं, स्थायी; विलेय विलायक में घुलता है; वायु और मिश्र धातु भी विलयन के उदाहरण हैं।",
+      "revision_point": "Solution: homogeneous, <1 nm, no Tyndall, stable, not filterable; solvent > solute usually.",
+      "exam_tip": "Properties list mein '1 nm / 10⁻⁹ m' zaroor likho — numerical size marks secure karta hai.",
+      "source_text_hint": "विलयन दो या दो से अधिक पदार्थों का समांगी मिश्रण है"
+    },
+    {
+      "concept": "विलयन की सांद्रता",
+      "say": "Section 2.2.1 — विलयन की सांद्रता. Activity 2.2 mein Group अ aur ब ke copper sulphate solutions ke रंग अलग थे — same solute, अलग मात्रा. विलयन में विलेय की मात्रा के आधार पर उसे तनु, सांद्र या संतृप्त कहा जाता है. तनु और सांद्र तुलनात्मक शब्द हैं — Group अ का विलयन Group ब की तुलना में तनु है. Activity 2.3: दो बीकरों में 50 mL जल; एक में नमक, दूसरे में चीनी या बेरियम क्लोराइड घolao; jab aur na घुले, गर्म करो — phir aur solute milao. Sawal: क्या किसी दिए गए ताप पर चीनी, नमक अथवा बेरियम क्लोराइड की जल में घोली गई मात्राएँ बराबर हैं? Answer idea: नहीं — अलग पदार्थों की घुलनशीलता अलग होती है. निश्चित तापमान पर जितना विलेय घुल सकता है उतनी ही क्षमता; अगर और नहीं घुलता तो संतृप्त विलयन. उस ताप पर संतृप्त विलयन में उपस्थित विलेय की मात्रा = घुलनशीलता. अगर मात्रा संतृप्तता से कम = असंतृप्त विलयन. संतृप्त विलयन को धीरे ठंडा करने पर क्या होगा? अक्सर अतिरिक्त विलेय क्रिस्टल के रूप में निकल आता है (concept check). सांद्रता = विलायक की मात्रा (द्रव्यमान/आयतन) में घुले विलेय की मात्रा. तीन विधियाँ: (i) द्रव्यमान प्रतिशत = (विलेय का द्रव्यमान / विलयन का द्रव्यमान) × 100; (ii) द्रव्यमान/आयतन प्रतिशत = (विलेय द्रव्यमान / विलयन आयतन) × 100; (iii) आयतन प्रतिशत = (विलेय आयतन / विलयन आयतन) × 100. Example 2.1: 40 g नमक in 320 g जल → विलयन = 360 g → (40/360)×100 = 11.1%.",
+      "example": "40 g नमक + 320 g जल → विलयन 360 g → द्रव्यमान प्रतिशत = 11.1%。",
+      "board_lines": [
+        "तनु / सांद्र = तुलनात्मक; संतृप्त = और विलेय न घुले उस ताप पर",
+        "घुलनशीलता = उस ताप पर संतृप्त विलयन में विलेय की मात्रा",
+        "द्रव्यमान % = (विलेय द्रव्यमान / विलयन द्रव्यमान) × 100"
+      ],
+      "common_mistake": "Students विलयन का द्रव्यमान = केवल विलायक का द्रव्यमान ले लेते हैं — सही: विलेय + विलायक।",
+      "memory_trick": "SAT = Stop Adding — संतृप्त पर और विलेय Stop; UNSAT = still Under capacity.",
+      "gesture_action": "Beaker mein namak daalte jao jab tak ghule; jab neeche jumne lage — 'संतृप्त!' bolo; thoda kam ho to 'असंतृप्त'.",
+      "real_life_examples": [
+        "गरम चाय में चीनी ठंडी चाय से अधिक घुलती है — ताप से घुलनशीलता बदलती है",
+        "Sherbet banate waqt zyada चीनी neeche बैठ जाए to solution संतृप्त/over-saturated feeling"
+      ],
+      "worked_example": {
+        "problem": "एक विलयन के 320 g विलायक जल में 40 g साधारण नमक विलेय है। विलयन की सांद्रता (द्रव्यमान प्रतिशत) का परिकलन कीजिए।",
+        "steps": [
+          "विलेय द्रव्यमान = 40 g; विलायक = 320 g",
+          "विलयन द्रव्यमान = 40 + 320 = 360 g",
+          "द्रव्यमान % = (40/360) × 100 = 11.1%"
+        ],
+        "answer": "11.1%"
+      },
+      "practice": {
+        "easy": ["संतृप्त और असंतृप्त विलयन में एक अंतर लिखो।"],
+        "medium": ["36 g सोडियम क्लोराइड को 100 g जल में 293 K पर घोला गया (संतृप्त)। द्रव्यमान प्रतिशत सांद्रता निकालो।"],
+        "hard": ["समझाओ: तनु और सांद्र तुलनात्मक क्यों हैं? Activity 2.2 के समूह अ और ब से उदाहरण दो, और बताओ गर्म करने पर संतृप्तता पर क्या प्रभाव पड़ सकता है।"]
+      },
+      "summary": "सांद्रता विलेय की मात्रा बताती है; संतृप्त/असंतृप्त ताप पर निर्भर; द्रव्यमान प्रतिशत = (विलेय/विलयन)×100 — Example 2.1 में 11.1%.",
+      "revision_point": "Saturated = max solute at that T; mass% uses mass of SOLUTION (solute+solvent).",
+      "exam_tip": "Numericals mein pehle विलयन द्रव्यमान = विलेय+विलायक likho — common careless error yahi hai.",
+      "source_text_hint": "विलायक की मात्रा (द्रव्यमान अथवा आयतन) में घुले हुए विलेय पदार्थ की मात्रा को विलयन की सांद्रता कहते हैं"
+    },
+    {
+      "concept": "निलंबन क्या है?",
+      "say": "Ab section 2.2.2 — निलंबन क्या है? Activity 2.2 mein Group स को चाक का चूर्ण या गेहूँ का आटा milaya tha. Jo विषमांगी घोल मिला — ठोस द्रव में परिक्षेपित — उसे निलंबन कहते हैं. Definition: निलंबन एक विषमांगी मिश्रण है, जिसमें विलेय पदार्थ कण घुलते नहीं हैं बल्कि माध्यम की समष्टि में निलंबित रहते हैं. ये निलंबित कण आँखों से देखे जा सकते हैं. Properties clearly board par likho: (1) यह एक विषमांगी मिश्रण है. (2) कण आँखों से देखे जा सकते हैं. (3) ये निलंबित कण प्रकाश की किरण को फैला देते हैं, जिससे उसका मार्ग दृष्टिगोचर हो जाता है. (4) जब शांत छोड़ते हैं तो कण नीचे बैठ जाते हैं — अर्थात निलंबन अस्थायी होता है. छानन विधि द्वारा इन कणों को मिश्रण से पृथक् किया जा सकता है. Jab sab particles neeche बैठ जाते हैं, निलंबन समाप्त हो जाता है तथा प्रकाश की किरण का प्रकीर्णन रुक जाता है. Compare mentally with solution: solution ke particles nahi dikhte, settle nahi hote, filter nahi hote, Tyndall nahi; suspension opposite hai. Real life: गंदला नदी का पानी, chalk-water, aata-pani — thodi der rakhne par particles नीचे. Filtration diagram (Figure 2.2) yaad rakho — काँच की छड़, कीप, छानक पत्र, छना द्रव. Classroom tip: suspension ko 'temporary muddy mix' socho — dikhta hai, baithta hai, chhanna padta hai.",
+      "example": "चाक का चूर्ण जल में मिलाओ — घोल गंदला दिखेगा, शांत छोड़ो तो चाक नीचे बैठ जाएगी, छानने पर छानक पत्र पर रह जाएगी।",
+      "board_lines": [
+        "निलंबन = विषमांगी; कण दिखते हैं; अस्थायी (नीचे बैठते हैं)",
+        "प्रकाश पथ दिखाई देता है; छानन से पृथक् संभव",
+        "उदाहरण: चाक+जल, आटा+जल; विपरीत: स्थायी विलयन"
+      ],
+      "common_mistake": "Students suspension ko solution bol dete hain agar thodi der milaya ho — settle hone do aur filter karo, tab pehchan clear hoti hai.",
+      "memory_trick": "SUSPEND = See Under Settling Particles Eventually — dikhte hain, baithte hain.",
+      "gesture_action": "Beaker mein mitti-pani hilao, torch se path dikhao, phir ruk jao — ungli se neeche settling dikhao, phir filter paper pe residue.",
+      "real_life_examples": [
+        "बरसात के बाद नदी का गंदला पानी — रेत/मिट्टी निलंबित",
+        "दीवार पेंट करने से पहले distemper/whitener पानी में — जल्दी बैठ जाता है"
+      ],
+      "worked_example": {
+        "problem": "निलंबन के चार गुणधर्म लिखिए। यह विलयन से किस प्रकार भिन्न है?",
+        "steps": [
+          "गुण: विषमांगी; कण दृश्य; प्रकाश फैलाते हैं; अस्थायी/छाने जा सकते हैं",
+          "विलयन: समांगी; कण अदृश्य; प्रकाश नहीं फैलाते; स्थायी/नहीं छनते",
+          "निष्कर्ष: particle size और stability मुख्य अंतर हैं"
+        ],
+        "answer": "निलंबन विषमांगी, दृश्य कण, Tyndall/प्रकीर्णन, अस्थायी व छनने योग्य है; विलयन इसका विपरीत समांगी-स्थायी व्यवहार दिखाता है।"
+      },
+      "practice": {
+        "easy": ["निलंबन की परिभाषा लिखो।"],
+        "medium": ["निलंबन को शांत छोड़ने पर प्रकाश का प्रकीर्णन क्यों रुक जाता है?"],
+        "hard": ["Activity 2.2 के आधार पर समूह स के प्रेक्षण लिखो: क्या कण दिखे, torch path, settling, filtration residue — और निष्कर्ष दो।"]
+      },
+      "summary": "निलंबन विषमांगी मिश्रण है जिसमें बड़े कण निलंबित रहते हैं — दिखते हैं, प्रकाश फैलाते हैं, बैठ जाते हैं और छाने जा सकते हैं।",
+      "revision_point": "Suspension = heterogeneous + visible + unsettled/temporary + filterable + scatters light.",
+      "exam_tip": "Comparison table: विलयन | निलंबन | कोलाइड — columns: particle size, Tyndall, stability, filtration — exam favourite.",
+      "source_text_hint": "निलंबन एक विषमांगी मिश्रण है, जिसमें विलेय पदार्थ कण घुलते नहीं हैं बल्कि माध्यम की समष्टि में निलंबित रहते हैं"
+    },
+    {
+      "concept": "कोलाइडल विलयन और टिन्डल प्रभाव",
+      "say": "Section 2.2.3 — कोलाइडल विलयन क्या है? Activity 2.2 mein Group द को दूध या स्याही दी गई — मिलाकर कोलाइड या कोलाइडल विलयन मिला. कोलाइड के कण विलयन में समान रूप से फैले होते हैं. निलंबन की अपेक्षा कण छोटे होने से मिश्रण समांगी प्रतीत होता है, लेकिन वास्तविकता में विषमांगी है — जैसे दूध. टिन्डल प्रभाव: कोलाइडल कण आँख से नहीं दिखते पर प्रकाश की किरण को आसानी से फैला देते हैं — प्रकाश का फैलाना टिन्डल प्रभाव कहलाता है; टिन्डल वैज्ञानिक ने खोजा. कमरे में छोटे छिद्र से किरण आने पर धूल/कार्बन कणों से Tyndall दिखता है; घने जंगल में सूर्य की किरण — कोहरे के जल कण कोलाइड जैसे. Figure 2.3: (अ) कॉपर सल्फेट विलयन Tyndall नहीं; (ब) दूध+पानी Tyndall दर्शाता है. कोलाइड के गुण: विषमांगी; कण इतने छोटे कि पृथक् रूप में आँख से नहीं; इतने बड़े कि प्रकाश फैलाकर मार्ग दृश्य बनाएँ; शांत छोड़ने पर तल पर नहीं बैठते — स्थायी; साधारण छानन से पृथक् नहीं, पर अपकेंद्रीकरण (centrifugation) से संभव. कोलाइड = परिक्षिप्त प्रावस्था (dispersed phase) + परिक्षेपण माध्यम (dispersion medium). Table 2.1 examples: ऐरोसोल — कोहरा/बादल (द्रव dispers in गैस), धुआँ (ठोस in गैस); फोम — शेविंग क्रीम; इमल्शन — दूध, फेस क्रीम; सोल — मैग्नीशिया-मिल्क, कीचड़; ठोस फोम — रबड़, स्पंज, प्यूमिस; जैल — जेली, पनीर, मक्खन; ठोस सोल — रंगीन रत्न, दूधिया काँच. Questions: समांगी/विषमांगी विभेद; विलयन–निलंबन–कोलाइड अंतर; 36 g NaCl in 100 g water at 293 K — concentration.",
+      "example": "दूध कोलाइड है — समांगी जैसा दिखता है पर विषमांगी है; torch/light path Tyndall effect दिखाता है।",
+      "board_lines": [
+        "कोलाइड: विषमांगी पर समांगी-सा दिखता; स्थायी; साधारण छानन नहीं",
+        "टिन्डल प्रभाव = कणों द्वारा प्रकाश का प्रकीर्णन/फैलना",
+        "परिक्षिप्त प्रावस्था + परिक्षेपण माध्यम; उदा. दूध = इमल्शन"
+      ],
+      "common_mistake": "Students sochte hain ki jo Tyndall dikhaye woh hamesha suspension hai — colloids bhi Tyndall dikhate hain; suspension settle hota hai, colloid generally nahi.",
+      "memory_trick": "C-T-S: Colloid shows Tyndall, Stays stable — CTS yaad rakho.",
+      "gesture_action": "Dark room mein torch se doodh-pani wale glass par beam dikhao — 'ये रहा टिन्डल!' — phir clear salt solution par dikhao ki path nahi.",
+      "real_life_examples": [
+        "जंगल में पेड़ों के बीच सूर्य की किरणों का चमकता मार्ग — टिन्डल प्रभाव",
+        "कोहरा/बादल — द्रव ऐरोसोल; शेविंग क्रीम — फोम"
+      ],
+      "worked_example": {
+        "problem": "विलयन, निलंबन और कोलाइड एक-दूसरे से किस प्रकार भिन्न हैं? तीन बिंदुओं में तुलना कीजिए।",
+        "steps": [
+          "कण आकृति/दृश्यता: विलयन अदृश्य बहुत छोटे; निलंबन दृश्य बड़े; कोलाइड मध्य — आँख से पृथक् नहीं",
+          "टिन्डल: विलयन नहीं; निलंबन हाँ; कोलाइड हाँ",
+          "स्थायित्व/छानन: विलयन स्थायी व नहीं छनता; निलंबन अस्थायी व छनता; कोलाइड स्थायी, साधारण छानन नहीं (अपकेंद्रीकरण)"
+        ],
+        "answer": "विलयन: <1 nm, no Tyndall, स्थायी; निलंबन: बड़े कण, Tyndall, अस्थायी/छनता; कोलाइड: मध्य आकार, Tyndall, स्थायी, centrifugation से पृथक्।"
+      },
+      "practice": {
+        "easy": ["टिन्डल प्रभाव की परिभाषा लिखो।"],
+        "medium": ["सारणी 2.1 से दो कोलाइड उदाहरण लो और प्रत्येक में परिक्षिप्त प्रावस्था व परिक्षेपण माध्यम बताओ।"],
+        "hard": ["कॉपर सल्फेट विलयन टिन्डल क्यों नहीं दिखाता जबकि दूध-पानी दिखाता है? Activity 2.2 और Figure 2.3 से जोड़कर लिखो।"]
+      },
+      "summary": "कोलाइड विषमांगी पर समांगी-सा दिखता है, टिन्डल प्रभाव दिखाता है, स्थायी रहता है; dispersed phase + dispersion medium se classify hota hai — दूध, कोहरा, जेली आदि।",
+      "revision_point": "Colloid ≈ looks homogeneous, is heterogeneous; Tyndall yes; stable; not ordinary filtration.",
+      "exam_tip": "Tyndall effect ke liye hamesha do daily examples likho — जंगल की किरणें aur कमरे की धूल — 2-mark sure-shot.",
+      "source_text_hint": "प्रकाश की किरण का फैलाना टिन्डल प्रभाव कहा जाता है"
+    },
+    {
+      "concept": "भौतिक एवं रासायनिक परिवर्तन",
+      "say": "Section 2.3 — भौतिक एवं रासायनिक परिवर्तन. पिछले अध्याय में पदार्थ के भौतिक गुण पढ़े — रंग, कठोरता, दृढ़ता, बहाव, घनत्व, द्रवनांक, क्वथनांक — जिन्हें हम अवलोकन एवं वर्णन कर सकते हैं. अवस्थाओं का अंतःरूपांतरण एक भौतिक परिवर्तन है — पदार्थों के संघटन में बिना परिवर्तन के, रासायनिक प्रकृति भी नहीं बदलती. बर्फ, जल और वाष्प अलग दिखते हैं और भिन्न भौतिक गुण दिखाते हैं, लेकिन रासायनिक रूप से समान हैं — तीनों H₂O. जल तथा खाना पकाने वाले तेल दोनों द्रव हैं, पर रासायनिक गुणधर्म भिन्न — गंध और ज्वलनशीलता में अंतर. तेल हवा में जलता है, जल आग बुझाता है. जलना एक रासायनिक परिवर्तन है — पदार्थ दूसरे से क्रिया करके अपने रासायनिक संघटन में परिवर्तन लाता है; नया पदार्थ बनता है. रासायनिक परिवर्तन को रासायनिक प्रतिक्रिया भी कहते हैं. मोमबत्ती के जलने में भौतिक एवं रासायनिक दोनों परिवर्तन होते हैं — क्या तुम पहचान सकते हो? भौतिक: मोम का पिघलना (solid→liquid, composition same). रासायनिक: मोम/वाष्प का जलकर नए पदार्थ (CO₂, जलवाष्प आदि) बनना. Practice classification from NCERT: पेड़ों को काटना (physical — shape/size); मक्खन बर्तन में पिघलना (physical); अलमारी में जंग लगना (chemical — rust); जल का उबलकर वाष्प (physical); विद्युत से जल का H₂ और O₂ में विघटित होना (chemical); जल में नमक घुलना (physical); फलों से सलाद (physical mixing); लकड़ी और कागज जलना (chemical). आस-पास की चीज़ों को शुद्ध पदार्थ या मिश्रण में अलग करने का प्रयत्न करो — next section elements/compounds ke liye bridge.",
+      "example": "मोमबत्ती: मोम पिघलना = भौतिक परिवर्तन; मोम का जलना = रासायनिक परिवर्तन।",
+      "board_lines": [
+        "भौतिक: संघटन/रासायनिक प्रकृति नहीं बदलती — बर्फ↔जल↔वाष्प",
+        "रासायनिक: नया पदार्थ; संघटन बदलता — जलना, जंग",
+        "मोमबत्ती = दोनों प्रकार के परिवर्तन एक साथ"
+      ],
+      "common_mistake": "Students पानी का उबलना chemical samajh lete hain — actually sirf state change hai, H₂O hi rehta hai.",
+      "memory_trick": "P for Physical = Properties look change, Particle recipe same; C for Chemical = Composition Changes, Create new substance.",
+      "gesture_action": "Ice cube melt karne ka gesture (physical), phir matchstick jalaane ka (chemical — new smoke/ash) — contrast clear karo.",
+      "real_life_examples": [
+        "अलमारी में लोहे पर जंग — रासायनिक परिवर्तन",
+        "मक्खन गर्म कड़ाही में पिघलना — भौतिक परिवर्तन"
+      ],
+      "worked_example": {
+        "problem": "निम्न को भौतिक या रासायनिक परिवर्तन में वर्गीकृत करें: (a) मक्खन पिघलना (b) जंग लगना (c) जल उबलना (d) कागज जलना।",
+        "steps": [
+          "(a) पिघलना — अवस्था बदलती, संघटन वही → भौतिक",
+          "(b) जंग — नया पदार्थ (आयरन ऑक्साइड) → रासायनिक",
+          "(c) उबलना — जल→वाष्प, H₂O वही → भौतिक; (d) जलना → नए उत्पाद → रासायनिक"
+        ],
+        "answer": "(a) भौतिक (b) रासायनिक (c) भौतिक (d) रासायनिक"
+      },
+      "practice": {
+        "easy": ["भौतिक परिवर्तन की परिभाषा एक उदाहरण सहित लिखो।"],
+        "medium": ["बर्फ, जल और वाष्प रासायनिक रूप से समान क्यों कहे जाते हैं?"],
+        "hard": ["मोमबत्ती जलने में होने वाले एक भौतिक और एक रासायनिक परिवर्तन पहचानकर कारण सहित लिखो।"]
+      },
+      "summary": "भौतिक परिवर्तन में संघटन नहीं बदलता (अवस्था परिवर्तन); रासायनिक परिवर्तन में नया पदार्थ बनता है — मोमबत्ती दोनों का अच्छा उदाहरण है।",
+      "revision_point": "Physical = same substance/composition; Chemical = new substance (reaction).",
+      "exam_tip": "Classification lists mein har item ke saath एक शब्द कारण (अवस्था/नया पदार्थ) likho — half mark bachata hai.",
+      "source_text_hint": "अवस्थाओं का अंतःरूपांतरण एक भौतिक परिवर्तन है क्योंकि ये परिवर्तन पदार्थों के संघटन में बिना परिवर्तन किए होते हैं"
+    },
+    {
+      "concept": "तत्व – धातु, अधातु और उपधातु",
+      "say": "Last section of our source — 2.4 शुद्ध पदार्थों के क्या प्रकार हैं? पदार्थों को रासायनिक संघटन के आधार पर तत्वों या यौगिकों में वर्गीकृत किया जा सकता है. 2.4.1 तत्व: रॉबर्ट बॉयल पहले वैज्ञानिक थे जिन्होंने सन् 1661 में सर्वप्रथम 'तत्व' शब्द का प्रयोग किया. फ्रांस के रसायनज्ञ एंटॉनी लॉरेंट लवाइजिए (1743–1794) ने प्रयोग द्वारा परिभाषा दी — तत्व पदार्थ का वह मूल रूप है जिसे रासायनिक प्रतिक्रिया द्वारा अन्य सरल पदार्थों में विभाजित नहीं किया जा सकता. तत्वों को साधारणतया धातु, अधातु तथा उपधातु में वर्गीकृत करते हैं. धातुओं के गुण: चमकीली; चाँदी जैसी सफेद या सोने जैसी पीली; ताप तथा विद्युत की सुचालक; तन्य (तार के रूप में खींची जा सकती हैं); आघातवर्ध्य (पीटकर महीन चादर); प्रतिध्वनिपूर्ण. उदाहरण: सोना, चाँदी, ताँबा, लोहा, सोडियम, पोटैशियम; पारा धातु होते हुए भी कमरे के तापमान पर द्रव. अधातुएँ प्रायः: विभिन्न रंगों की; ताप और विद्युत की कुचालक; चमकीली, प्रतिध्वनिपूर्ण और आघातवर्ध्य नहीं. उदाहरण: हाइड्रोजन, ऑक्सीजन, आयोडीन, कार्बन (कोल, कोक), ब्रोमीन, क्लोरीन. कुछ तत्व धातु और अधातु के बीच के गुण दिखाते हैं — उपधातु (metalloids) जैसे बोरॉन, सिलिकॉन, जर्मेनियम. इसे भी जानें: ज्ञात तत्वों की संख्या 100 से अधिक; इनमें 92 प्राकृतिक, शेष मानव-निर्मित; अधिकतर ठोस; 11 तत्व कमरे के तापमान पर गैसें; 2 तत्व — पारा तथा ब्रोमीन — कमरे के तापमान पर द्रव. Yaad rakho classification table exam mein bahut aata hai — metals vs non-metals properties contrast clear likho.",
+      "example": "ताँबा तार बनाता है (तन्य) और बिजली चलाता है (सुचालक) — धातु; सल्फर/कार्बन सामान्यतः कुचालक — अधातु।",
+      "board_lines": [
+        "तत्व = रासायनिक प्रतिक्रिया से सरलतर पदार्थों में नहीं टूटता (लवाइजिए)",
+        "धातु: चमक, चालक, तन्य, आघातवर्ध्य, सोनोरस; पारा = द्रव धातु",
+        "अधातु: प्रायः कुचालक; उपधातु: बीच के गुण — B, Si, Ge"
+      ],
+      "common_mistake": "Students पारा को अधातु मान लेते हैं क्योंकि वह द्रव है — पारा धातु है; ब्रोमीन द्रव अधातु है।",
+      "memory_trick": "MALT-C: Metals are Attractive (lustre), Lead electricity, Thin wires (ductile), Can hammer (malleable) + Clang (sonorous).",
+      "gesture_action": "Imaginary copper wire खींचो (ductile), sheet पीटो (malleable), bulb jalao (conductor) — metal properties act out.",
+      "real_life_examples": [
+        "घर की तारें — ताँबा/एल्युमिनियम धातु सुचालक",
+        "थर्मामीटर में पारा — कमरे के ताप पर द्रव धातु"
+      ],
+      "worked_example": {
+        "problem": "निम्न को धातु/अधातु/उपधातु में वर्गीकृत करें: सोना, ऑक्सीजन, सिलिकॉन, पारा, ब्रोमीन। एक-एक कारण दीजिए।",
+        "steps": [
+          "सोना — चमक, तन्य/आघातवर्ध्य → धातु; पारा — धातु पर द्रव",
+          "ऑक्सीजन, ब्रोमीन — अधातु (ब्रोमीन द्रव अधातु)",
+          "सिलिकॉन — धातु व अधातु के बीच गुण → उपधातु"
+        ],
+        "answer": "सोना व पारा = धातु; ऑक्सीजन व ब्रोमीन = अधातु; सिलिकॉन = उपधातु।"
+      },
+      "practice": {
+        "easy": ["लवाइजिए के अनुसार तत्व की परिभाषा लिखो।"],
+        "medium": ["धातुओं के पाँच गुणधर्म सूचीबद्ध करो और दो उदाहरण दो।"],
+        "hard": ["'पारा और ब्रोमीन दोनों कमरे के तापमान पर द्रव हैं' — फिर भी वर्गीकरण में अंतर क्या है? धातु/अधातु गुणों से समझाओ।"]
+      },
+      "summary": "तत्व रासायनिक रूप से अविभाज्य मूल पदार्थ हैं — धातु, अधातु और उपधातु में बँटे; पारा द्रव धातु है, ब्रोमीन द्रव अधातु, और 11 गैसें कमरे के ताप पर।",
+      "revision_point": "Element: cannot be broken chemically into simpler substances; metals vs non-metals vs metalloids.",
+      "exam_tip": "Exception facts yaad rakho: Hg liquid metal; Br liquid non-metal; 11 gases; >100 elements, 92 natural — short-answer favourites.",
+      "source_text_hint": "तत्व पदार्थ का वह मूल रूप है जिसे रासायनिक प्रतिक्रिया द्वारा अन्य सरल पदार्थों में विभाजित नहीं किया जा सकता"
+    }
+  ]
+}
