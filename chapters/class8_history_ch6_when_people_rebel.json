@@ -1,0 +1,314 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 621,
+    "chapter_name": "जब जनता बगावत करती है",
+    "chapter_number": 6,
+    "book_name": "Class 8 Social Science",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 8",
+    "subject": "Social Science"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 8 Social Science ke Chapter 6 — जब जनता बगावत करती है (1857 और उसके बाद) — ko padhenge. Is chapter mein pehle Company ki neetiyon se nawabon, kisaanon aur sipahiyon par padne wale asar samjhenge; phir dharm-sudhaar ke darr, afwahon aur Awadh ke kabze se bana gussa; aur ant mein 1857 ka sainya vidroh kaise Meerut se Delhi tak faila aur Nana Saheb, Rani Lakshmibai, Begum Hazrat Mahal jaise netaon ke saath janvidroh ban gaya — yeh poori kahani clear hogi.",
+    "welcome": "Good morning, class! Aaj Smart Board par ek bahut zaroori chapter shuru karte hain — जब जनता बगावत करती है. Socho: agar kisi gaon ke kisaan, sipahi, rani aur nawab — sabko ek saath lagta hai ki unka dharm, zameen aur samman cheena ja raha hai — toh kya hota hai? 1857 mein bilkul yahi hua. Aaj hum us badi bagawat ki roots aur pehle kadam samjhenge. Ready ho? Chalo blackboard ki taraf!",
+    "learning_outcomes": [
+      "Company ki neetiyon se nawabon, raniyon aur Mughal baadshah ki chinti satta ko explain karna",
+      "Kisaanon aur sipahiyon ke asantosh — lagaan, dharmik bhavnayein, samudra-paar service — ko alag-alag points mein batana",
+      "Angrezi sudharon aur missionari activities par logon ki reaction aur afwahon (chaurasi niyam, greased cartridges) ko source-based samajhna",
+      "1857 ke sequence — Mangal Pandey, Meerut, Delhi, Bahadur Shah Zafar — aur bagawat ke failne (Kanpur, Lucknow, Jhansi) ko sahi order mein yaad rakhna"
+    ],
+    "concepts": [
+      {"number": 1, "name": "नीतियाँ और लोग – कंपनी के फैसलों का असर"},
+      {"number": 2, "name": "नवाबों की छिनती सत्ता"},
+      {"number": 3, "name": "किसान और सिपाही"},
+      {"number": 4, "name": "सुधारों पर प्रतिक्रिया"},
+      {"number": 5, "name": "जनता की नज़र से – स्रोत 1 और 2"},
+      {"number": 6, "name": "सैनिक विद्रोह जनविद्रोह बन गया"},
+      {"number": 7, "name": "मेरठ से दिलली तक"},
+      {"number": 8, "name": "बगावत फैलने लगी"}
+    ]
+  },
+  "generated": [
+    {
+      "concept": "नीतियाँ और लोग – कंपनी के फैसलों का असर",
+      "say": "Bacchon, pehle chapters mein humne East India Company ki neetiyon aur unke asar ke baare mein padha tha. Aaj ka chapter — जब जनता बगावत करती है — usi story ka next strong part hai. Dekho, Company ki policies sirf ek group ko nahi chhui thien. Rajas, ranis, kisaan, zamindar, adivasi, sipahi — sab par tarah-tarah se asar pada. Jab koi neeti logon ke hit mein nahi hoti, ya unki bhavnaon ko thes pahunchati hai, toh log uska virodh karte hain — yeh baat tum pehle bhi dekh chuke ho. 1857 isliye special hai kyunki yahan bahut se alag-alag asantosh ek saath mil gaye. Socho classroom jaisa: agar ek rule sirf monitor ko pareshaan kare, toh chhota protest hota hai; lekin agar same rule class ke har group ko hurt kare — captains, students, parents — toh bada resistance ban sakta hai. Company ke 100 saal ke fateh aur shasan ke baad, May 1857 mein shuru hui bagawat ne Company ke astitva ko hi khatre mein daal diya. Kuch log maante hain ki unnisvin sadi mein upniveshvaad ke khilaaf duniya bhar mein yeh sabse bada sashastra sangharsh tha. Toh aaj hum pehle yeh samjhenge ki ground pe kya-kya gussa pak raha tha — nawabon ki satta ka chhinna, kisaanon ka lagaan, sipahiyon ke dharmik darr, aur sudharon ko lekar shak. Board tip: 1857 ko sirf ‘cartridge story’ mat samajhna — woh spark thi, lekin fuel pehle se bikhra hua tha. Ready? Ab next concept mein nawabon ki chinti satta dekhenge.",
+      "example": "School mein agar ek naya rule monitor, team captains aur ordinary students — teeno ko ek saath hurt kare, toh chhota complaint bada class protest ban sakta hai — bilkul aise hi Company ke decisions ne alag-alag groups ko ek saath gusse mein la diya.",
+      "board_lines": [
+        "Company neetiyan → rajas, ranis, kisaan, zamindar, adivasi, sipahi — sab par asar",
+        "Jab neeti hit/bhavna ke against → log virodh karte hain",
+        "1857 = kai asantosh milkar bada sashastra sangharsh bane"
+      ],
+      "common_mistake": "Students sochte hain 1857 sirf sipahiyon ka sudden gussa tha — actually pehle se nawab, kisaan, dharmik shak aur political decisions ka gussa jama ho chuka tha.",
+      "memory_trick": "P-L-R: Policies hurt People → Resistance grows. Pehle Policy, phir People, phir Rebellion.",
+      "gesture_action": "Haath se alag-alag groups dikhao (raja, kisaan, sipahi), phir dono haath jodkar ‘ek bada gussa’ wala circle banao",
+      "real_life_examples": [
+        "Gaon mein agar lagaan badhe, naukri ke niyam badlen, aur dharmik feeling hurt ho — teen alag gusse mil sakte hain",
+        "Class council election rules agar captains aur ordinary students dono ke against hon toh bada opposition banta hai"
+      ],
+      "worked_example": {
+        "problem": "Kyun kehte hain ki 1857 sirf ek chhoti military problem nahi thi? Source ke hisaab se do reasons do.",
+        "steps": [
+          "Recall: Company policies ne kai samajik tabkon — rajas, kisaan, sipahi — sabko affect kiya",
+          "Note: May 1857 ki bagawat ne Company ke astitva ko khatre mein daala; kai log ise 19th century ka bada anti-colonial armed struggle maante hain",
+          "Conclude: isliye yeh wide popular rebellion ka background rakhta hai, sirf ek regiment ka temporary gussa nahi"
+        ],
+        "answer": "Kyunki (1) alag-alag tabkon ka asantosh pehle se maujood tha, aur (2) bagawat itni faili ki Company ka astitva hi khatre mein aa gaya — yeh sirf chhota military quarrel nahi tha."
+      },
+      "practice": {
+        "easy": ["Company ki neetiyon se kaun-kaun se samajik tabke prabhavit hue? Kam se kam chaar naam likho."],
+        "medium": ["‘Jo neetiyan janata ke hit mein nahi hoti, log unka virodh karte hain’ — is statement ko 1857 ke background se jodkar explain karo."],
+        "hard": ["1857 ko kuch log 19th century ka sabse bada anti-colonial armed struggle kyun kehte hain? Chapter ke opening ideas se reason likho."]
+      },
+      "summary": "Company ki neetiyon ne kai tabkon ko hurt kiya; jab yeh asantosh milkar faila, 1857 jaisa bada vidroh sambhav hua.",
+      "revision_point": "1857 = many grievances + one spark; policies pehle, rebellion baad mein.",
+      "exam_tip": "Introduction question mein hamesha likho: 1857 sirf sipahi gussa nahi — rajas, kisaan, dharmik shak sab milkar aaye.",
+      "source_text_hint": "इन नीतियों से राजाओं, रानियों, किसानों, ज़मींदारों, आदिवासियों, सिपाहियों, सब पर तरह-तरह से असर पड़े"
+    },
+    {
+      "concept": "नवाबों की छिनती सत्ता",
+      "say": "Ab section — नवाबों की छिनती सत्ता. Atharahvin sadi ke madhya se hi rajas aur nawabon ki taakat chhinne lagi thi. Unki satta aur samman, dono khatam hote ja rahe the. Bahut se darbaron mein Residents tainaat kar diye gaye the — matlab Company ka apna official wahan baithkar local shasak ki azaadi ghatata ja raha tha. Unki senayon ko bhang kar diya gaya, aur unke rajswa vasuli ke adhikar aur ilake ek-ek karke chheene ja rahe the. Bahut se local shasakon ne apne hiton ki raksha ke liye Company se baatcheet bhi ki. Example: Jhansi ki Rani Lakshmibai chahti thin ki unke pati ki mrityu ke baad unke god liye hue bete ko Company raja maan le. Peshwa Bajirao Dwitiya ke dattak putra Nana Saheb ne bhi Company se agrah kiya ki unke pita ko jo pension milti thi, woh mrityu ke baad unhe milne lage. Lekin apni shreshthata aur sainik taakat ke nashe mein Company ne in nivedanon ko thukra diya. Awadh ki riyasat Angrezon ke kabze mein jaane wali aakhiri riyasaton mein se thi. 1801 mein Awadh par Subsidiary Alliance thopi gayi, aur 1856 mein Angrezon ne use apne kabze mein le liya. Governor-General Dalhousie ne elaan kiya ki riyasat ka shasan theek se nahi chalaya ja raha, isliye shasan ko durust karne ke liye British prabhutva zaroori hai. Company ne Mughalon ke shasan ko khatam karne ki bhi poori yojana bana li thi. Company dwara jaari sikkon par se Mughal baadshah ka naam hata diya gaya. 1849 mein Dalhousie ne kaha ki Bahadur Shah Zafar ki mrityu ke baad baadshah ke parivar ko Lal Qila se nikaal kar Delhi mein kahin aur basaya jayega. 1856 mein Governor-General Canning ne faisla kiya ki Bahadur Shah Zafar aakhiri Mughal baadshah honge — unki mrityu ke baad kisi vanshaj ko baadshah nahi maana jayega, sirf rajkumaron ke roop mein manyata milegi. Yaad rakho chain: Resident → army dissolve → revenue loss → adoption/pension reject → Awadh annex → Mughal end-plan.",
+      "example": "Socho kisi school house captain ki power dheere-dheere teacher representative le le — pehle decisions check, phir team tod de, phir budget chheen le — bilkul aise hi nawabon ki satta chhinti gayi.",
+      "board_lines": [
+        "Residents in courts → local freedom ↓; armies disbanded; revenue rights taken",
+        "Rani Lakshmibai (adopted son) & Nana Saheb (pension) — requests rejected",
+        "Awadh: Subsidiary Alliance 1801 → annexed 1856 (Dalhousie: ‘misgoverned’); Mughal end-plan by Dalhousie & Canning"
+      ],
+      "common_mistake": "Students Awadh annexation ko sirf 1857 se jodte hain aur 1801 Subsidiary Alliance bhool jaate hain — pehle alliance, baad mein 1856 kabza.",
+      "memory_trick": "R-A-M: Residents cut power; Adoption/pension Appeals rejected; Awadh annexed + Mughal plan. Yaad: RAM = Rulers And Mughals lose power.",
+      "gesture_action": "Ek student ‘nawab’ bane, doosra ‘Resident’ uske kandhe pe haath rakhkar ‘control’ dikhaye; phir crown/hat dheere-dheere hatao — satta chhinna",
+      "real_life_examples": [
+        "Family property dispute jahan dattak/god liye bacche ko haq nahi milta — Rani Lakshmibai wala adoption mudda samajhne mein madad karta hai",
+        "Local club president ki powers committee dheere-dheere kaat de — Resident system jaisa feel"
+      ],
+      "worked_example": {
+        "problem": "Dalhousie aur Canning ne Mughal baadshahi ke baare mein kaun-kaun se mahatvapurn faisle liye?",
+        "steps": [
+          "1849 — Dalhousie: Bahadur Shah Zafar ki mrityu ke baad parivar ko Lal Qila se hata kar Delhi mein kahin aur basaya jayega",
+          "Sikkons se Mughal baadshah ka naam hata diya gaya",
+          "1856 — Canning: Zafar aakhiri Mughal baadshah; baad mein vanshaj sirf rajkumar, baadshah nahi"
+        ],
+        "answer": "Dalhousie (1849) ne Lal Qila se parivar hatane ka elaan kiya; Company ne sikkon se Mughal naam hataaya; Canning (1856) ne Zafar ko aakhiri baadshah ghoshit kiya — baad mein koi vanshaj baadshah nahi maana jayega."
+      },
+      "practice": {
+        "easy": ["Jhansi ki Rani Lakshmibai ne Company se kya maang ki thi?"],
+        "medium": ["Awadh par 1801 aur 1856 mein kya-kya hua? Do points mein likho."],
+        "hard": ["‘Nawabon ki satta chhinna 1857 ki bagawat ka important background kyun hai?’ — Resident system, Awadh annexation aur Mughal end-plan ko jodkar paragraph likho."]
+      },
+      "summary": "Residents, army dissolution, Awadh annexation aur Mughal end-plan se rajas-nawabon ki satta aur samman dono tootne lage — Company ne unki appeals bhi thukra di.",
+      "revision_point": "Lakshmibai = adopted heir; Nana Saheb = pension; Awadh 1801→1856; Canning: Zafar last Mughal emperor.",
+      "exam_tip": "3-mark mein ‘nawabs lose power’ ke liye hamesha Residents + army/revenue loss + Awadh + Mughal policy — yeh chaar hooks use karo.",
+      "source_text_hint": "अठारहवीं सदी के मध्य से ही राजाओं और नवाबों की ताकत छिनने लगी थी"
+    },
+    {
+      "concept": "किसान और सिपाही",
+      "say": "Ab aate hain किसान और सिपाही par — yeh 1857 ka bohot strong root hai. Gaon mein kisaan aur zamindar bhari-bharkam lagaan aur kar vasuli ke sakht tor-tariqon se pareshaan the. Bahut se log mahajanon se liya karz nahi lautaa paa rahe the, aur is wajah se unki peedhiyon purani zameenen haath se nikalti ja rahi thin. Company ke tahat kaam karne wale Bharatiya sipahiyon ke asantosh ki apni alag wajah thi. Woh apne vetan, bhatton aur seva sharton ke kaaran pareshaan the. Kai naye niyam unki dharmik bhavnaon aur aasthaon ko thes pahunchate the. Us zamane mein bahut se log samudra-paar nahi jaana chahte the — unhe lagta tha ki samudra yatra se unka dharm aur jati bhrasht ho jayenge. Jab 1824 mein sipahiyon ko Company ki ore se ladne ke liye samudra ke raaste Burma jaane ka aadesh mila, toh unhone is hukm ko maanne se inkaar kar diya. Unhe zameen ke raaste jaane mein aitraaz nahi tha. Sarkar ka hukm na maanne ke kaaran unhe sakht saza di gayi. Kyunki yeh mudda abhi khatam nahi hua tha, 1856 mein Company ko naya kanoon banana pada — isme saaf kaha gaya ki agar koi vyakti Company ki sena mein naukri karega, toh zarurat padne par use samudra-paar bhi jaana pad sakta hai. Sipahi gaon ke haalat se bhi pareshaan the. Bahut se sipahi khud kisaan the; unhone apne parivar gaon mein chhodkar aaye the. Isliye kisaanon ka gussa jaldi hi sipahiyon mein bhi fail gaya. Activity socho: agar tum Company ki sena mein sipahi ho aur nahi chahte ki tumhara bhatija fauj mein aaye — toh tum use vetan-sharten, dharmik thes, Burma/samudra rule, aur gaon ki zameen-karz ki pareshani bataoge. Board tip: Peasant anger + Sepoy anger = linked chain, alag boxes nahi.",
+      "example": "Aaj bhi agar kisi jawan ki salary kam ho, rules uske faith ko hurt karen, aur ghar mein kheti-karz ki tension ho — toh gusse ki do lehrein ek saath mil jaati hain; 1857 mein bilkul yahi hua.",
+      "board_lines": [
+        "Peasants/zamindars: heavy lagaan, harsh collection, debt → land loss",
+        "Sepoys: pay, allowances, service terms; religious feelings hurt",
+        "1824 Burma sea-route refusal → harsh punishment; 1856 law: overseas service compulsory for Company army recruits"
+      ],
+      "common_mistake": "Students sochte hain sipahi sirf cartridge ki wajah se gusse mein the — pehle se pay, overseas service aur gaon ke kisaan-gusse ka link maujood tha.",
+      "memory_trick": "L-D-S: Lagaan & Debt for peasants; Sepoy pay/faith; Sea-service law 1856. LDS = Land-Debt-Sea.",
+      "gesture_action": "Ek haath se ‘heavy bag’ (lagaan) uthhao, doosre se ‘salute then stop’ (order refuse) dikhao — phir dono haath milao: kisaan-gussa sipahi tak pahuncha",
+      "real_life_examples": [
+        "Kisaan family mein bank/moneylender ka karz chukana mushkil — zameen pressure waisa hi feel",
+        "Naukrri ke naye transfer rules agar family faith/customs se takraayein toh asantosh badhta hai"
+      ],
+      "worked_example": {
+        "problem": "1824 aur 1856 ke events sipahiyon ke asantosh se kaise jude hain?",
+        "steps": [
+          "1824: Burma jaane ka sea-route order — sipahiyon ne inkaar (dharm/jati bhrasht hone ka darr); zameen-route se aitraaz nahi tha; saza di gayi",
+          "Mudda khatam nahi hua, isliye 1856 mein naya kanoon",
+          "1856 law: Company army naukri = zarurat padne par samudra-paar jaana pad sakta hai — yeh darr aur gussa badhane wala step tha"
+        ],
+        "answer": "1824 ke sea-route inkaar aur saza ne dharmik tension dikhaya; 1856 ke kanoon ne overseas service ko compulsory bana diya — dono sipahi asantosh ke clear evidence hain."
+      },
+      "practice": {
+        "easy": ["Kisaan aur zamindar kis cheez se pareshaan the?"],
+        "medium": ["Sipahi gaon ke haalat se kyun pareshaan the? Do reasons likho."],
+        "hard": ["Agar tum Company army ka sipahi ho aur apne bhatije ko fauj mein aane se rokna chahte ho, toh use kaun-kaun se kaaran bataoge? Chapter ke points se jawab likho."]
+      },
+      "summary": "Heavy lagaan-debt se kisaan gusse mein the; sipahi pay, dharmik rules aur 1856 overseas-service law se pareshaan the — aur kyunki kai sipahi khud kisaan the, gussa share ho gaya.",
+      "revision_point": "Peasants = tax + debt + land loss; Sepoys = pay/terms + faith + 1824/1856 sea service; link = many sepoys were peasants.",
+      "exam_tip": "‘Peasants and sepoys’ question mein hamesha link sentence likho: bahut se sipahi khud kisaan the, isliye gaon ka gussa fauj mein faila.",
+      "source_text_hint": "गाँवों में किसान और ज़मींदार भारी-भरकम लगान और कर वसूली के सख्त तौर-तरीकों से परेशान थे"
+    },
+    {
+      "concept": "सुधारों पर प्रतिक्रिया",
+      "say": "Ab section — सुधारों पर प्रतिक्रिया. Angrezon ko lagta tha ki Bharatiya samaj ko sudharna zaroori hai. Sati pratha ko rokne aur vidhwa vivah ko badhava dene ke liye kanoon banaye gaye. Angrezi bhasha ki shiksha ko jamkar protsahan diya gaya. 1830 ke baad Company ne Isai missionariyon ko khulkar kaam karne aur yahan tak ki zameen-sampatti jutaane ki bhi chhoot de di. 1850 mein ek naya kanoon banaya gaya jisse Isai dharm apnana aur aasaan ho gaya — isme pravadhan tha ki agar koi Bharatiya vyakti Isai dharm apnata hai, toh bhi purkhon ki sampatti par uska adhikar pehle jaisa hi rahega. Bahut se Bharatiyon ko yakeen ho gaya tha ki Angrez unka dharm, unke samajik riti-riwaz aur paramparagat jeevan-shaili ko nasht kar rahe hain. Doosri taraf aise Bharatiya bhi the jo maujooda samajik vyavastha mein badlav chahte the — in sudharakon aur unke andolanon ke baare mein aap doosre adhyay/context mein padhte ho, lekin yahan key point yeh hai ki Company ke ‘reform’ ko sab log positive nahi dekh rahe the. Classroom tip: reform ka matlab hamesha sabke liye faydemand nahi hota — jab change upar se aaye aur logon ko lage unki identity cheeni ja rahi hai, toh fear badh jaata hai. 1857 ke pehle yeh fear bahut strong ho chuka tha. Exam mein confuse mat hona: NCERT yeh nahi kehta ki saare reforms galat the; woh kehta hai ki kai logon ne inhe apne dharm aur parampara par hamla samjha. Yaad rakho formula: Social legislation + English education + missionary freedom + 1850 conversion-property law → widespread fear of cultural/religious destruction.",
+      "example": "Agar school suddenly naye uniform, nayi language aur naye festival rules laaye bina community ko samjhaye, toh kai parivar ‘hamari pehchaan mit rahi hai’ soch sakte hain — waisa hi fear 1850s mein faila.",
+      "board_lines": [
+        "Reforms: anti-Sati laws; widow remarriage encouraged; English education promoted",
+        "After 1830: Christian missionaries freer — even land/property allowed",
+        "1850 law: convert to Christianity → still keep ancestral property rights → fear of religion/custom being destroyed"
+      ],
+      "common_mistake": "Students sochte hain ki saare Bharatiya in reforms ke against the — NCERT clearly kehta hai kuch Bharatiya samajik badlav chahte the bhi.",
+      "memory_trick": "S-E-M-C: Sati/widow laws; English education; Missionaries free; Conversion property law 1850. SEMC = ‘Some English Mission Changes’ scared many.",
+      "gesture_action": "Ek haath se ‘book/law’ dikhao (reform), doosre haath se apne seene par ‘faith/custom’ protect karne wala gesture — tension dikhao",
+      "real_life_examples": [
+        "Naye school subject/language ko force karna — kuch families progress maanti hain, kuch identity threat",
+        "Inheritance rule change hone par ghar mein tension — 1850 property-after-conversion law samajhne mein madad"
+      ],
+      "worked_example": {
+        "problem": "1850 ke kanoon ne kai Bharatiyon mein darr kyun paida kiya?",
+        "steps": [
+          "Law ne kaha: Isai dharm apnane par bhi purkhon ki sampatti ka adhikar same rahega",
+          "Isse conversion practically aasaan/less costly feel hua",
+          "Bahut logon ne ise Angrezon dwara dharm aur parampara nasht karne ki yojana ka hissa samjha"
+        ],
+        "answer": "Kyunki is kanoon se Isai dharm apnana aasaan laga (property rights safe), aur kai logon ko yakeen ho gaya ki Angrez unka dharm aur samajik riti-riwaz mita rahe hain."
+      },
+      "practice": {
+        "easy": ["1830 ke baad Company ne Isai missionariyon ko kaunsi chhoot di?"],
+        "medium": ["Angrezi sudharon par do tarah ki Bharatiya pratikriyaein kya thin?"],
+        "hard": ["‘Reforms intended as improvement were seen by many as an attack on religion and custom.’ Is statement ko Sati/widow laws, English education, missionaries aur 1850 law se prove karo."]
+      },
+      "summary": "Company ke samajik-dharmik sudharon, Angrezi shiksha, missionari azaadi aur 1850 conversion-property law ne kai logon mein yeh darr paida kiya ki unka dharm aur parampara nasht ho rahe hain — haalaanki kuch Bharatiya badlav chahte the.",
+      "revision_point": "Reform fear ≠ everyone opposed change; key trigger laws: missionaries after 1830 + 1850 property-on-conversion.",
+      "exam_tip": "‘Response to reforms’ mein dono sides likho — fear of cultural destruction AND Indians who wanted social change — balanced answer zyada marks lata hai.",
+      "source_text_hint": "बहुत सारे भारतीयों को यकीन हो गया था कि अंग्रेज़ उनका धर्म, उनके सामाजिक रीति-रिवाज़ और परंपरागत जीवनशैली को नष्ट कर रहे हैं"
+    },
+    {
+      "concept": "जनता की नज़र से – स्रोत 1 और 2",
+      "say": "Ab bahut interesting hissa — जनता की नज़र से. Us zamane mein log Angrez shasan ke baare mein kya soch rahe the, yeh dekhne ke liye Source 1 aur Source 2 padhte hain. Source 1: Maharashtra ke ek gaon ke Brahman Vishnubhatt Godse ki pustak माझा प्रवास. Vishnubhatt aur unke chacha Mathura ke yagya mein ja rahe the; raaste mein kuch sipahiyon ne salaah di ki wapas laut jao, kyunki teen din ke bheetar charon taraf kohram mach jayega. Sipahiyon ne kaha: Angrez sarkar Hinduon aur Musalmanon ke dharm ko nasht karne par aamada hai… unhone chaurasi niyamon ki ek suchi banayi hai aur Calcutta mein saare rajas-rajkumaron ki maujoodgi mein uska elaan kar diya hai. Raja in niyamon ko maanne ke liye taiyar nahi; unhone Angrezon ko ghatak parinaamon ki chetavani di. Dharmayuddh ke liye tarikh tay ho chuki thi, aur Meerut chhavni se ek gupt yojana taiyar karke vibhinn chhavniyon mein bhej di gayi thi. Source 2: Subedar Sitaram Pandey ke sansmaran — From Sepoy to Subedar. Unhe 1812 mein Bengal Native Army mein bharti kiya gaya; 48 saal naukri; 1860 mein sevanivritt. Unhone bagawat dabane mein Angrezon ki madad ki, haalaanki unka beta vidrohion ke saath tha aur Angrezon ne use Sitaram ki aankhon ke saamne maar daala. Sitaram kehte hain: Awadh par hue kabze se sipahiyon ke bheetar gehra avishwas bhar gaya; Awadh ke nawab aur Delhi baadshah ke numaindon ne sena ki nabz jaani; unhone bataya ki videshiyon ne baadshah ke saath kitna bada dhokha kiya; hazaar jhooth gadh kar sipahiyon ko bagawat ke liye uksaya taaki Delhi mein baadshah ko dobara gaddi par baithaya ja sake. Activity: Sitaram aur Vishnubhatt ke mutabik logon ke dimaag mein mukhya chintaayein kaun-si thin? Shasakon ne kya bhumika nibhai? Sipahi kya role dikhate hain? Board tip: Sources = people’s fears + rumours + political mobilisation — exam mein quote-based answers ke liye gold.",
+      "example": "WhatsApp pe achanak afwah failna ki ‘naye 84 rules aa gaye hain aur kal se shuru’ — log ghabra jaate hain; 1857 mein chaurasi niyamon ki suchi waisi hi powerful afwah/belief ban gayi.",
+      "board_lines": [
+        "Source 1 (Vishnubhatt Godse, Majha Pravas): fear that British will destroy Hindu-Muslim religion; ‘84 rules’; secret plan from Meerut",
+        "Source 2 (Sitaram Pandey): Awadh annexation → deep distrust; agents of Awadh/Delhi stirred sepoys to restore Emperor",
+        "Key worries: religion in danger; rulers plotting/warning; sepoys carrying news & plans"
+      ],
+      "common_mistake": "Students Source 1 ki ‘chaurasi niyam’ ko official proven law list maan lete hain — text ise sipahiyon/logon ke bayan aur hawa mein faili baat ke roop mein deta hai; focus fear aur communication par hai.",
+      "memory_trick": "V-S: Vishnubhatt = 84 rules & dharmayuddh talk; Sitaram = Awadh distrust & restore Delhi throne. VS = Voices of Sepoy times.",
+      "gesture_action": "Do students — ek ‘messenger sipahi’ market mein khabar failaye, doosra ‘listener’ ghabra kar peeche hate — afwah ka scene act out karo",
+      "real_life_examples": [
+        "Exam se pehle class mein galat date ki afwah failna — tension kaise failti hai, yahi pattern",
+        "Village meeting mein koi kehe ‘naye niyam aa gaye’ bina notice dekhe — logon ka darr badh jaata hai"
+      ],
+      "worked_example": {
+        "problem": "Sitaram aur Vishnubhatt ke mutabik logon ke dimaag mein mukhya chintaayein kaun-si thin? Shasakon aur sipahiyon ki bhumika kya thi?",
+        "steps": [
+          "Chintaayein: dharm (Hindu-Muslim) nasht hone ka darr; Awadh kabze se avishwas; baadshah ke saath dhokha",
+          "Shasak: rajas rules maanne se inkaar / chetavani; Awadh-Delhi ke numainde sipahiyon ko uksate / restore emperor ka plan",
+          "Sipahi: khabrein-afwahein failana, gupt yojana chhavniyon mein bhejna, bagawat ke liye organise hona"
+        ],
+        "answer": "Mukhya chinta: dharm aur parampara par khatra + Awadh/Delhi political betrayal. Shasak warn/mobilise karte dikhte hain; sipahi news, plans aur rebellion ka active medium banate hain."
+      },
+      "practice": {
+        "easy": ["माझा प्रवास kisne likhi? Sipahiyon ne Vishnubhatt ko kya salaah di?"],
+        "medium": ["Sitaram Pandey ke according Awadh ke kabze ne sipahiyon mein kya bhara?"],
+        "hard": ["Source 1 aur Source 2 ko compare karke likho: dharm ka darr aur rajneetik mobilisation (Delhi baadshah/Awadh) 1857 se pehle kaise ek saath kaam kar rahe the."]
+      },
+      "summary": "Vishnubhatt ke bayan mein dharm-vinash aur ‘84 rules’ ka darr hai; Sitaram kehte hain Awadh kabze ne avishwas bhara aur agents ne sipahiyon ko baadshah wapas lane ke liye uksaya — dono sources logon ki nazar dikhate hain.",
+      "revision_point": "Source 1 = religion/84 rules/Meerut secret plan; Source 2 = Awadh distrust + restore Bahadur Shah.",
+      "exam_tip": "Source-based question mein pehle writer/book ka naam, phir 2-3 exact concerns, phir conclusion — examiner ‘from the source’ answers pasand karta hai.",
+      "source_text_hint": "अंग्रेज़ सरकार हिंदुओं और मुसलमानों के धर्म को नष्ट करने पर आमादा है"
+    },
+    {
+      "concept": "सैनिक विद्रोह जनविद्रोह बन गया",
+      "say": "Ab core turning idea — सैनिक विद्रोह जनविद्रोह बन गया. Pehle definition clear karo: सैनिक विद्रोह — jab sipahi ikattha hokar apne sainik afsaron ka hukm maanne se inkaar kar dete hain. Shasak aur praja ke beech sangharsh anokhi baat nahi, lekin kabhi-kabhi yeh itna fail jaata hai ki rajya ki satta chhin-bhin ho jaati hai. Bahut se log maanane lagte hain ki un sabka shatru ek hai, isliye woh sab kuch karna chahte hain — communication, pehelkadmi aur aatmavishwas zaroori ho jaata hai. Bharat ke uttari bhagon mein 1857 mein aisi hi stithi paida ho gayi. Fateh aur shasan ke 100 saal baad East India Company ko bhari vidroh se joojhna pad raha tha. May 1857 mein shuru hui bagawat ne Company ka astitva hi khatre mein daal diya. Meerut se shuru karke sipahiyon ne kai jagah bagawat ki; samaj ke vibhinn tabkon ke asankhya log vidrohi tevaron ke saath uth khade hue. Isi samay sarkar ne har regiment ke kuch logon ko nayi rifle ke istemaal ka tariqa batane ke liye alag-alag chhavniyon mein bheja. Training ke dauran kahin se khabar fail gayi ki in rifles mein istemaal hone wale cartridges par gay aur suar ki charbi ka lep chadhaaya gaya hai. Regiment ke log doosron ko likhkar yeh khabar bhejne lage — jaldi har regiment mein utejna ka mahaul ban gaya. Kuch bole ki unki chaalis saal ki naukri mein sarkar ne mazhab ko chot nahi pahunchayi thi; lekin Awadh kabze se sipahi pehle se gusse mein the. Swarthi logon ne kahani gadh di ki Angrez sabko Isai banana chahte hain, isliye aise cartridge banaye. Colonel ko laga yeh bechaini khud khatam ho jayegi. Classroom tip: greased cartridge = spark; Awadh + religion fear + multi-class anger = firewood. Jab sipahi + kisaan + local leaders ek shatru ke against milte hain, mutiny popular rebellion ban jaati hai.",
+      "example": "Diwali cracker ki chingari socho — agar aas-paas sukha ghaas pada ho toh chhoti spark badi aag ban jaati hai; cartridge ki afwah spark thi, pehle se jama gussa ghaas tha.",
+      "board_lines": [
+        "Mutiny = soldiers together refuse officers’ orders",
+        "Popular rebellion = many social groups feel one common enemy; need organisation, communication, confidence",
+        "Greased cartridges (cow + pig fat rumour) + Awadh anger → excitement in every regiment; 1857 threatened Company rule"
+      ],
+      "common_mistake": "Students poori 1857 ko sirf ‘cartridge greased thi’ tak seemit kar dete hain — NCERT dikhata hai rumour spark thi, lekin deeper distrust (Awadh, religion, conversion fear) pehle se tha.",
+      "memory_trick": "M→P: Mutiny becomes Popular when Many People share one enemy. Cartridge = Click spark; Awadh = already Angry.",
+      "gesture_action": "Pehle sirf 3 students ‘sipahi refuse order’ dikhayein; phir poori class khadi ho jaye — mutiny se janvidroh ka farq act out karo",
+      "real_life_examples": [
+        "Team ke 2 players protest vs poori school strike — scale ka farq samajh aata hai",
+        "Ek rumour + pehle se unpaid wages = chhota complaint bada protest ban sakta hai"
+      ],
+      "worked_example": {
+        "problem": "Sainya vidroh aur janvidroh mein kya antar hai? 1857 isse kaise related hai?",
+        "steps": [
+          "Define mutiny: soldiers collectively refuse officers’ commands",
+          "Define popular rebellion: conflict spreads; many groups see one enemy; people organise, communicate, gain confidence; state power breaks",
+          "Apply 1857: started with sepoys (Meerut etc.) but countless people from different social groups rose — hence mutiny became popular rebellion"
+        ],
+        "answer": "Sainya vidroh mainly fauj ka hukm-inkaar hai; janvidroh mein kai samajik tabke ek saath uthte hain. 1857 mein sipahi bagawat failkar samaj ke kai tabkon tak pahunchi, isliye mutiny popular rebellion ban gayi."
+      },
+      "practice": {
+        "easy": ["सैनिक विद्रोह ki definition likho."],
+        "medium": ["Nayi rifle ke cartridges ko lekar kaunsi khabar faili aur uska sipahiyon par kya asar hua?"],
+        "hard": ["‘Cartridge ki afwah akeli 1857 ka kaaran nahi thi.’ Sitaram ke bayan (Awadh anger, conversion fear) se argue karke 5-6 lines likho."]
+      },
+      "summary": "1857 mein sainya vidroh isliye janvidroh bana kyunki kai tabke ek shatru ke against uth khade hue; greased cartridge rumour ne pehle se maujood Awadh-dharm gusse ko har regiment mein utejit kar diya.",
+      "revision_point": "Mutiny = army refusal; Popular rebellion = multi-class uprising; cartridge = spark on dry anger.",
+      "exam_tip": "Definition + example combo: pehle mutiny define karo, phir likho 1857 mein yeh janvidroh kaise bani — marks secure hote hain.",
+      "source_text_hint": "सैनिक विद्रोह जनविद्रोह बन गया"
+    },
+    {
+      "concept": "मेरठ से दिलली तक",
+      "say": "Ab timeline crystal clear karte hain — मेरठ से दिलली तक. 8 April 1857 ko yuva sipahi Mangal Pandey ko Barrackpore mein apne afsaron par hamla karne ke aarop mein phaansi de di gayi. Chand din baad Meerut mein tainaat kuch sipahiyon ne naye cartridges ke saath fauji abhyas karne se inkaar kar diya — unhe lagta tha un cartridges par gay aur suar ki charbi ka lep hai. 85 sipahiyon ko naukri se nikaal diya gaya; afsaron ka hukm na maanne ke aarop mein 10-10 saal ki saza di gayi — yeh 9 May 1857 ki baat hai. Meerut ke doosre Bharatiya sipahiyon ki pratikriya zabardast rahi. 10 May ko sipahiyon ne Meerut jail par dhawa bolkar band sipahiyon ko azaad kara liya; Angrez afsaron par hamla karke unhe maar giraya; bandook-hathiyar kabze mein liye; Angrezi imaarten aur sampattiyan aag ke hawaale kar di; firangiyon ke khilaaf yuddha ka elaan kar diya. ‘Firangi’ matlab videshi — is shabd mein apmaan ka bhaav aata hai. Sawal tha: Angrezon ke jaane ke baad desh ka shasan kaun chalayega? Sipahiyon ne jawab dhoondh liya tha — Mughal samrat Bahadur Shah Zafar. Meerut ke kuch sipahi 10 May raat ko ghodon par sawaar muh-andhere hi Delhi pahunch gaye. Unke aane ki khabar se Delhi ki tukdiyon ne bhi bagawat kar di; yahan bhi Angrez afsar maare gaye; desi sipahiyon ne hathiyar-gola barood liya, imaarton mein aag lagayi. Vijayi sipahi Lal Qila ke aaspaas jama ho gaye. Budhe baadshah Angrezon ki bhari taakat se do-do haath karne ko taiyar nahi the, lekin sipahi ade rahe; aakhirakar jabran mahal mein ghus gaye aur Bahadur Shah Zafar ko apna neta ghoshit kar diya. Baadshah ko maanna pada; unhone desh bhar ke mukhiyaon-shasakon ko chitthi likhkar Angrezon se ladne ke liye Bharatiya rajyon ka ek sangh banane ka aahvaan kiya. Is ek matra kadam ke gahre parinaam aaye — kyunki Angrezon se pehle bade hisse par Mughal samrajya tha, aur kai chhote shasak Mughal naam par hi shasan chalate the; unhe laga agar Mughal baadshah dobara shasan sthapit karen toh woh apne ilake befikr chala sakenge. Angrezon ko ummeed nahi thi; lekin jab Zafar ne support de diya, stithi raatonraat badal gayi — jab logon ko raasta dikhai deta hai, unka utsah, himmat aur aatmavishwas badh jaata hai.",
+      "example": "Cricket team mein agar star senior captain banne se mana kare lekin poori junior team use force karke leader bana de — match ka mood suddenly badal jaata hai; Delhi mein Zafar ke support ne waisa hi confidence boost diya.",
+      "board_lines": [
+        "8 Apr 1857: Mangal Pandey hanged (Barrackpore)",
+        "9 May: 85 Meerut sepoys dismissed + 10 years’ punishment; 10 May: jail break, kill officers, seize arms, declare war",
+        "Night of 10 May → Delhi; sepoys force Bahadur Shah Zafar as leader; he calls for confederation of Indian states"
+      ],
+      "common_mistake": "Students Mangal Pandey ko Meerut ka neta bata dete hain — Pandey Barrackpore (8 April) se jude; Meerut uprising 9–10 May hai.",
+      "memory_trick": "8-9-10: 8 April Pandey; 9 May punishment; 10 May Meerut rises & rides to Delhi. Easy date ladder!",
+      "gesture_action": "Classroom mein ‘Meerut corner’ se ‘Delhi corner’ (blackboard/Lal Qila) tak daud kar pahucho — sipahiyon ki night ride feel karo",
+      "real_life_examples": [
+        "Postage stamp / statue of Mangal Pandey — national memory mein uski jagah",
+        "Leadership vacuum: group protest tab tez hota hai jab koi recognised symbol/leader mil jaye — Zafar wahi symbol bane"
+      ],
+      "worked_example": {
+        "problem": "Meerut se Delhi tak ki ghatnaon ko sahi chronological order mein likho (Mangal Pandey se Zafar ke aahvaan tak).",
+        "steps": [
+          "8 April 1857: Mangal Pandey phaansi (Barrackpore)",
+          "Meerut: cartridge drill inkaar → 9 May: 85 sipahi nikaale + 10 saal saza → 10 May: jail free, officers maare, aag, yuddha elaan",
+          "10 May raat: Delhi pahunchna → Delhi bagawat → Zafar ko neta banana → unka rajyon ke sangh ka aahvaan"
+        ],
+        "answer": "Pandey hanged (8 Apr) → Meerut refusal & 9 May punishments → 10 May Meerut revolt → same night to Delhi → Delhi sepoys join → Bahadur Shah Zafar forced as leader → letters calling Indian states to unite against British."
+      },
+      "practice": {
+        "easy": ["‘Firangi’ shabd ka kya matlab hai?"],
+        "medium": ["Sipahiyon ne Bahadur Shah Zafar ko neta kyun banaya? Do reasons likho."],
+        "hard": ["‘Bahadur Shah Zafar ke support ne stithi raatonraat kyun badal di?’ Mughal legitimacy aur logon ke aatmavishwas ko explain karo."]
+      },
+      "summary": "Mangal Pandey ki phaansi ke baad Meerut (9–10 May) mein bagawat phooti; sipahi Delhi le gaye aur Bahadur Shah Zafar ko neta bana kar Mughal symbol ke neeche sangharsh ko naya confidence diya.",
+      "revision_point": "Dates: 8 Apr Pandey; 9 May punishments; 10 May Meerut→Delhi; Zafar = symbolic leader + confederation call.",
+      "exam_tip": "Timeline question mein Barrackpore aur Meerut mat milao; ‘firangi’ ka meaning + insult tone bhi short note mein laao.",
+      "source_text_hint": "8 अप्रैल 1857 को युवा सिपाही – मंगल पांडे – को बैरकपुर में"
+    },
+    {
+      "concept": "बगावत फैलने लगी",
+      "say": "Last big section of this extract — बगावत फैलने लगी. Jab Delhi se Angrezon ke pair ukhad gaye, lagbhag ek hafte tak kahin koi vidroh nahi hua — khabar failne mein time lagta hai. Phir vidrohon ka silsila shuru ho gaya. Ek ke baad ek, har regiment mein sipahiyon ne vidroh kar diya aur woh Delhi, Kanpur aur Lucknow jaise mukhya binduon par doosri tukdiyon ka saath dene nikal pade. Unki dekha-dekhi kasbon aur gaon ke log bhi bagawat ke raaste par chalne lage; local netaon, zamindaron aur mukhiyaon ke peeche organise ho gaye. Swargiya Peshwa Bajirao ke dattak putra Nana Saheb Kanpur ke paas rahte the — unhone sena ikattha ki, British sainikon ko shehar se khader diya, khud ko Peshwa ghoshit kiya, aur elaan kiya ki woh baadshah Bahadur Shah Zafar ke tahat governor hain. Lucknow ki gaddi se hataye gaye Nawab Wajid Ali Shah ke bete Birjis Qadr ko naya nawab banaya gaya; unhone bhi Zafar ko apna baadshah maan liya. Unki maan Begum Hazrat Mahal ne Angrezon ke khilaaf vidrohon ko badhava dene mein badh-chadkar hissa liya. Jhansi mein Rani Lakshmibai bhi vidrohi sipahiyon ke saath ja milin; Nana Saheb ke senapati Tantia Tope ke saath milkar Angrezon ko bhari chunauti di. Madhya Pradesh ke Mandla kshetra mein, Rajgarh ki Rani Avantibai Lodhi ne 4,000 sainikon ki fauj taiyar ki aur Angrezon ke khilaaf netritva kiya kyunki British shasan ne unke rajya ke prashasan par niyantran kar liya tha. Vidrohi tukdiyon ke saamne Angrezon ki sankhya bahut kam thi; kai morchon par unki zabardast haar hui — logon ko yakeen ho gaya ki Angrezon ka shasan khatam ho chuka hai. Khaas taur se Awadh mein chautarfa bagawat thi. 6 August 1857 ko Lieutenant Colonel Tytler ne telegram bheja: ‘Hamare log virodhiyon ki sankhya aur lagataar ladai se thak gaye hain. Ek-ek gaon hamare khilaaf hai. Zamindar bhi hamare khilaaf khade ho rahe hain.’ Faizabad ke Maulvi Ahmadullah Shah ne bhavishyavani ki ki Angrez shasan jaldi khatam hoga; unhone samajha ki janata kya chahti hai, aur vishal samarthak jutaa liye. Pattern yaad rakho: Delhi symbol → regiments join → towns/villages rise → regional leaders accept Zafar’s supremacy → British panic in Awadh.",
+      "example": "School inter-house contest mein agar ek strong house jeet jaye, toh doosre houses ka confidence badhkar contest fail jaata hai — Delhi ke baad bagawat ka failna waisa hi wave effect tha.",
+      "board_lines": [
+        "After Delhi: week’s pause → then regiments rise; people follow local leaders to Delhi, Kanpur, Lucknow",
+        "Leaders: Nana Saheb (Kanpur/Peshwa under Zafar); Begum Hazrat Mahal & Birjis Qadr (Lucknow); Rani Lakshmibai + Tantia Tope (Jhansi); Rani Avantibai Lodhi (4,000 troops); Maulvi Ahmadullah Shah (Faizabad)",
+        "Awadh: almost every village against British — Tytler’s 6 Aug 1857 telegram"
+      ],
+      "common_mistake": "Students sirf Rani Lakshmibai ya Nana Saheb yaad rakhte hain aur Begum Hazrat Mahal, Avantibai Lodhi, Ahmadullah Shah bhool jaate hain — NCERT in sabko important leaders maanta hai.",
+      "memory_trick": "K-L-J-A: Kanpur Nana; Lucknow Begum/Birjis; Jhansi Lakshmibai-Tantia; Awadh everywhere + Ahmadullah. KLJA = ‘Khilaf Ladai Jaldi Aam’.",
+      "gesture_action": "Map/air mein Delhi se teer Kanpur-Lucknow-Jhansi ki taraf kheenchho; phir poori class ‘gaon-gaon khilaaf’ bolkar haath uthaye",
+      "real_life_examples": [
+        "Local leader (sarpanch/teacher) ke peeche gaon organise hona — 1857 ke mukhiya-zamindar pattern jaisa",
+        "News delay: aaj bhi remote area mein badi khabar late pahunchti hai — pehle hafte shanti, phir silsila"
+      ],
+      "worked_example": {
+        "problem": "1857 mein Kanpur, Lucknow aur Jhansi ke netaon ne Bahadur Shah Zafar se apna sambandh kaise joda?",
+        "steps": [
+          "Nana Saheb: Peshwa ghoshit, lekin kaha woh Zafar ke tahat governor hain",
+          "Lucknow: Birjis Qadr naya nawab; Zafar ko baadshah maana; Begum Hazrat Mahal ne vidroh badhaya",
+          "Jhansi: Rani Lakshmibai vidrohi sipahiyon ke saath; Tantia Tope ke saath British ko challenge — wider revolt network ka hissa"
+        ],
+        "answer": "Kai netaon ne locally power li, lekin Mughal/Zafar supremacy accept karke bagawat ko ek political chhatr di — Nana as governor under Zafar; Birjis Qadr accepted Zafar as emperor; Jhansi leaders joined rebel side against British."
+      },
+      "practice": {
+        "easy": ["Begum Hazrat Mahal kaun thin aur unhone kya kiya?"],
+        "medium": ["Lieutenant Colonel Tytler ke 6 August 1857 ke telegram se Awadh ki stithi ke baare mein kya pata chalta hai?"],
+        "hard": ["‘Bagawat failne par logon ka aatmavishwas kyun badha?’ Delhi ke baad British haar, regional leaders, aur Awadh ke gaon-zamindar virodh ko jodkar explain karo."]
+      },
+      "summary": "Delhi ke baad bagawat regiment-regiment aur gaon-gaon faili; Nana Saheb, Begum Hazrat Mahal, Rani Lakshmibai, Avantibai Lodhi aur Ahmadullah Shah jaise netaon ne Angrezon ko serious challenge diya — Awadh mein chautarfa bagawat thi.",
+      "revision_point": "Spread map: Delhi → Kanpur (Nana) → Lucknow (Begum/Birjis) → Jhansi (Lakshmibai/Tantia) → Mandla/Rajgarh (Avantibai) → Faizabad (Ahmadullah); Awadh villages united against British.",
+      "exam_tip": "Leaders ke naam ke saath hamesha place likho — Nana-Kanpur, Begum-Lucknow, Lakshmibai-Jhansi — map-based aur 5-mark answers strong bante hain.",
+      "source_text_hint": "जब दिलली से अंग्रेज़ों के पैर उखड़ गए तो लगभग एक हफ़्ते तक कहीं कोई विद्रोह नहीं हुआ"
+    }
+  ]
+}
