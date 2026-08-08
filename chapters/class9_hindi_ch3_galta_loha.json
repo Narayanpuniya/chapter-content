@@ -1,0 +1,296 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 628,
+    "chapter_name": "संवादहीन",
+    "chapter_number": 3,
+    "book_name": "Class 9 Hindi",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 9",
+    "subject": "Hindi"
+  },
+  "concept_map": {
+    "chapter_overview": "यह पाठ शेखर जोशी की संवेदनशील कहानी ‘संवादहीन’ है जिसमें एक वृद्धा ताई और उसके तोते मिट्ठू के रिश्ते के जरिए अकेलापन, पलायन और आदर्श-यथार्थ का द्वंद्व उजागर होता है. शीर्षक याद दिलाता है कि आज घर भरे होने पर भी दिलों में संवाद नहीं बचता. कक्षा में हम लेखक, पात्र, शैली और आज के जीवन से जुड़ा संदेश bilingual तरीके से समझेंगे — कहानी रटवाए बिना, सोचने और महसूस करने पर जोर देकर.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Class 9 Hindi — Chapter 3: संवादहीन. Socho: ghar bada ho, phir bhi agar koi baat karne wala na ho, toh kaisa lagta hai? Aaj hum शेखर जोशी जी ke saath ताई aur मिट्ठू se milenge — ek aisi dosti jo sirf pet-pani nahi, dil ka sunapan bhi bharti hai. Dil se suno — yeh sirf parrot-story nahi, hamare gaon-shehar ka mirror hai.",
+    "learning_outcomes": [
+      "शेखर जोशी का संक्षिप्त परिचय और उनकी ग्रामीण-मजदूर संवेदना वाली लेखन दृष्टि समझना",
+      "कहानी की पृष्ठभूमि, केंद्रीय विषय और ‘संवादहीन’ शीर्षक की सार्थकता स्पष्ट करना",
+      "मुख्य पात्रों (ताई, मिट्ठू, जगन मास्टर) की भूमिका और आपसी संबंधों का विश्लेषण करना",
+      "शैली, संदेश और आज के जीवन में अकेलापन/संवाद से जोड़कर उत्तर लिखना"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "लेखक परिचय — शेखर जोशी"
+      },
+      {
+        "number": 2,
+        "name": "पृष्ठभूमि और केंद्रीय विषय"
+      },
+      {
+        "number": 3,
+        "name": "मुख्य पात्र और उनकी भूमिका"
+      },
+      {
+        "number": 4,
+        "name": "आदर्श बनाम यथार्थ — जगन मास्टर का द्वंद्व"
+      },
+      {
+        "number": 5,
+        "name": "साहित्यिक शैली और तकनीक"
+      },
+      {
+        "number": 6,
+        "name": "नैतिक संदेश और आज की प्रासंगिकता"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "लेखक परिचय — शेखर जोशी",
+      "say": "Bacchon, pehle writer ko jaano — warna kahani sirf plot ban kar reh jaati hai. Yeh path NCERT Class 9 Hindi ka Chapter 3 hai: संवादहीन. Author hain शेखर जोशी — Hindi ke bahut soft, sanvedansheel kathakaar, jo pahadi/grameen jeevan ko andar se jaante the. Unka janm 1932 mein Almora, Uttarakhand (tab Uttar Pradesh) mein hua; unka niddhan 2022 mein hua. Pehla kahani-sangrah ‘कोसी का घटवार’ 1958 mein aaya. Aur bhi naam yaad rakhna useful hai: साथ के लोग, दाज्यू, हलवाहा, नौरंगी बीमार है, आदमी का डर, डांगरी वाले, मेरा पहाड़; शब्दचित्र — एक पेड़ की याद; संस्मरण — स्मृति में रहें वे; कविता — न रोको उन्हें शुभा; आत्मवृत्त — मेरा ओलिया गाँव. Unki kahaniyon ka bada collection ‘शेखर जोशी कथा समग्र’ ke naam se bhi chhapa. Awards: UP Hindi Sansthan ke Mahavir Prasad Dwivedi Puraskar aur Sahitya Bhushan; Madhya Pradesh ke Maithilisharan Gupt samman aur Shrilal Shukla Smriti IFFCO Sahitya Puraskar. Ab sabse important baat: Shekhar Joshi sirf sundar pahadi bhasha ke liye nahi padhe jaate — unke lekhan mein grameen-shahri madhyavarg ke jeevan-mulya aur factory mazdooron ke jeevan-sangharsh dono milte hain. Samvadheen mein bhi wahi aankh dikhai deti hai: woh budhe logon ke akelepan ko ‘chhota’ nahi maante. Classroom tip: exam mein author intro mein birth-year/place, do-teen works, aur ‘ग्रामीण संवेदना / मजदूर जीवन’ zaroor likho. English mein bolo toh — Shekhar Joshi writes with quiet empathy for loneliness and labour; he shows how silence can hurt more than poverty. Aaj hum unke is path se seekhenge ki literature sirf entertainment nahi, rishte aur sunapan ka X-ray bhi hai.",
+      "example": "Jaise gaon ka teacher bacchon ke ghar ki majboori samajhkar soft baat karta hai, waise Shekhar Joshi budhe logon aur mazdooron ke dukh ko bina shor ke, lehja mein dikhate hain.",
+      "board_lines": [
+        "लेखक: शेखर जोशी (1932–2022) | अल्मोड़ा",
+        "रचनाएँ: कोसी का घटवार, दाज्यू, मेरा पहाड़, कथा समग्र",
+        "विशेषता: ग्रामीण-मजदूर संवेदना + अकेलापन का यथार्थ"
+      ],
+      "common_mistake": "Students kabhi-kabhi is path ko ‘गलता लोहा’ ya kisi aur lekhak se mix kar lete hain. Sahi jawab: कहानी — संवादहीन; लेखक — शेखर जोशी.",
+      "memory_trick": "S-A-S: शेखर → अल्मोड़ा → संवादहीन — ‘SAS’ yaad: Soft author, Almora roots, Samvadheen story.",
+      "gesture_action": "Apne dil par haath rakhkar bolo ‘संवेदना’, phir aankh se gaon-ghar ko dekhne ka gesture — ‘यथार्थ’.",
+      "real_life_examples": [
+        "Gaon se shehar gaye parivar ke budhe dada-dadi akela ghar sambhalte hain — Shekhar Joshi isi duniya ko likhte hain",
+        "Factory/mill worker ki struggle wali kahaniyan padhna — unki writing ka doosra strong side"
+      ],
+      "worked_example": {
+        "problem": "शेखर जोशी का संक्षिप्त जीवन-परिचय देते हुए बताइए कि उनकी रचनाओं की मुख्य विशेषता क्या है?",
+        "steps": [
+          "Janm-varsh/sthan (1932, Almora) aur niddhan (2022) briefly likho",
+          "Do-teen pramukh rachnaon ke naam do (कोसी का घटवार, दाज्यू, मेरा पहाड़)",
+          "Visheshata: grameen-shahri madhyavarg, mazdoor sangharsh, akelepan ki sanvedana — clearly likho"
+        ],
+        "answer": "शेखर जोशी (1932–2022) अल्मोड़ा से जुड़े हिंदी कथाकार थे; ‘कोसी का घटवार’, ‘दाज्यू’, ‘मेरा पहाड़’ प्रमुख रचनाएँ हैं। उनकी विशेषता ग्रामीण-शहरी मध्यवर्ग और मजदूर जीवन के संघर्षों का संवेदनशील चित्रण है।"
+      },
+      "practice": {
+        "easy": [
+          "संवादहीन कहानी के लेखक का नाम लिखिए।"
+        ],
+        "medium": [
+          "शेखर जोशी की दो प्रमुख रचनाओं के नाम लिखकर उनकी लेखन दृष्टि एक वाक्य में बताइए।"
+        ],
+        "hard": [
+          "शेखर जोशी को केवल पहाड़ी कथाकार क्यों नहीं, सामाजिक संवेदनशील लेखक भी कहा जा सकता है? अपने शब्दों में लिखिए।"
+        ]
+      },
+      "summary": "शेखर जोशी ग्रामीण-मजदूर संवेदना के लेखक हैं; संवादहीन उन्हीं की अकेलापन-दृष्टि का उदाहरण है।",
+      "revision_point": "Author = शेखर जोशी (1932–2022, Almora); keywords: ग्रामीण संवेदना, मजदूर संघर्ष, अकेलापन।",
+      "exam_tip": "लेखक-परिचय में सिर्फ जन्म-मृत्यु मत लिखो — एक पंक्ति ‘ग्रामीण/मजदूर जीवन की संवेदना’ जरूर जोड़ो, वरना marks katte hain।",
+      "source_text_hint": "शेखर जोशी का जन्म सन् 1932"
+    },
+    {
+      "concept": "पृष्ठभूमि और केंद्रीय विषय",
+      "say": "Ab path ka core samajhte hain — setting aur central theme. Scene gaon ke beech ek bade ghar ka soona khandahar jaisa hai. Pehle wahan put-parivar, bahu-betiyan, naukar-chakar, gay-dhor — sab tha; dheere-dheere bete shehar chale gaye, betiyan apni grihasthi mein rami, kaam-kaaj paraye haathon mein chala gaya. Ab do praani bachhe: ताई aur uska तोता मिट्ठू. Central theme clear hai: insan ka sabse bada dukh sirf garibi nahi, संवाद का अभाव hai. Title ‘संवादहीन’ isliye powerful hai — yeh poochhta hai ki jab ghar soona pad jaaye, toh kisse baat karein? English mein: loneliness after migration, and the fragile comfort of companionship. Ek aur layer: aadarsh vs yatharth — jagan master chahte hain panchhi azaad ho, lekin unki azaadi Tai ke dil ka sahara tod deti hai. Classroom question: Tai apne liye chulha tak nahi jalaati thi, phir Mittu ke liye daal-bhat kyun banati? Answer — companionship hunger se bhi zaroori lag sakti hai. Yeh theme sirf ‘parrot story’ nahi; yeh contemporary life ki visangatiyon — palayan, akelepan, aur incomplete dialogue — ka demand hai ki hum budhon ko sirf paise nahi, baat-cheet bhi dein.",
+      "example": "Agar mummy-papa shehar kamane chale jaayein aur dada-dadi gaon mein akela reh jaayein, toh TV/phone hone par bhi dil soona padta hai — bilkul Tai jaisi situation.",
+      "board_lines": [
+        "स्थान: गाँव का सूना बड़ा घर | साथी: ताई + मिट्ठू",
+        "केंद्रीय विषय: अकेलापन, पलायन, संवाद का अभाव",
+        "शीर्षक सार्थक: घर भरा हो, दिल संवादहीन"
+      ],
+      "common_mistake": "Students theme ko sirf ‘तोता उड़ गया’ likh dete hain. Asli point: mittu ke udne se pehle hi parivar ke jaane se Tai संवादहीन ho chuki thi.",
+      "memory_trick": "P-A-S: पलायन → अकेलापन → संवादहीन — teen steps mein title yaad.",
+      "gesture_action": "Ek haath se ‘ghar khali’ dikhao, doosra haath muh ke paas ‘baat nahi’ — phir dono haath milao ‘संवाद chahiye’.",
+      "real_life_examples": [
+        "Gaon ke budhe log phone par ‘hello’ sunte hain, lekin din bhar baat karne wala koi nahi hota",
+        "Hostel mein naya student kitabon ke beech bhi lonely feel karta hai jab koi dost na ho"
+      ],
+      "worked_example": {
+        "problem": "कहानी का शीर्षक ‘संवादहीन’ कहाँ तक सार्थक है? संक्षेप में स्पष्ट कीजिए।",
+        "steps": [
+          "Tai ke ghar ke soonepan aur parivar ke shehar jaane ka zikr karo",
+          "Mittu ko sanvad ka madhyam batao — aur uske udne/naye tote ki chuppi dikhao",
+          "Conclude: title isliye sarthak kyunki kahani ke kai paatr alag-alag tarah se dialogue se vanchit hain"
+        ],
+        "answer": "शीर्षक पूर्णतः सार्थक है क्योंकि ताई परिवार के पलायन के बाद संवाद से वंचित हो जाती हैं; मिट्ठू थोड़ी देर संवाद भरता है, पर उसके चले जाने और एवजी तोते की चुप्पी से अकेलापन और गहरा हो जाता है।"
+      },
+      "practice": {
+        "easy": [
+          "कहानी का केंद्रीय विषय एक वाक्य में लिखिए।"
+        ],
+        "medium": [
+          "ताई के बड़े घर को सूना खंडहर क्यों कहा गया होगा?"
+        ],
+        "hard": [
+          "‘पलायन और अकेलापन आधुनिक जीवन की विसंगतियाँ हैं’ — इस कथन की पुष्टि संवादहीन के आधार पर कीजिए।"
+        ]
+      },
+      "summary": "सूने घर में ताई-मिट्ठू के रिश्ते के जरिए कहानी अकेलापन, पलायन और संवादहीनता को केंद्रीय विषय बनाती है।",
+      "revision_point": "Theme = loneliness + migration + lack of dialogue; title attacks emotional silence, not just empty rooms.",
+      "exam_tip": "शीर्षक-सार्थकता वाले उत्तर में सिर्फ मिट्ठू mat lao — परिवार का पलायन + एवजी तोते की चुप्पी + आदर्श-यथार्थ, teen layers likho।",
+      "source_text_hint": "अकेलेपन की संवेदनशील कहानी है"
+    },
+    {
+      "concept": "मुख्य पात्र और उनकी भूमिका",
+      "say": "Characters ko map karte hain — exam mein ‘पात्र-चित्रण’ aata hai. Pehla aur sabse central paatr: ताई. Woh sirf ‘budhiya’ nahi; uske andar mamta, tezi, thakan, aur jeene ki zidd milti hai. Apne liye vrat-upvas ka bahana karti hain, lekin Mittu ke liye niyam se khana banati hain — yeh uska character strength hai. Doosra: मिट्ठू — sirf parrot nahi, sanvad ka madhyam aur mamta ka kendra. Woh Tai ke shabdon ko duhrata hai, kabhi lad-pyaar, kabhi nok-jhonk — bilkul ghar ke bacche jaisa. Teesra: गणपत — jo pahadi totaa lekar aata hai aur baad mein substitute totaa lane ka suggestion bhi deta hai; pratik hai un logon ka jo dukh ‘solve’ karne ki koshish karte hain. Phir जगन मास्टर aur उनकी पत्नी: Masterain Tai ke liye mittu sambhalti hain, lekin Master swatantra-vichar wale aadmi hain — pinjara dekhkar bechaini hoti hai, azaadi dena chahte hain. English tip: Tai embodies aged loneliness; Mittu is companionship made audible; Jagan Master is idealism that forgets consequence. Classroom activity: teen columns banao — पात्र | चाहत | परिणाम. Yaad rakho: is kahani mein ‘hero’ koi superhero nahi — ordinary Tai aur uska chhota sa saathi hi moral centre hain. Naya totaa end mein chup rehta hai — woh bhi ek ‘character’ banjata hai jo संवादहीनता ko prove karta hai.",
+      "example": "Jaise kisi akele dada ko radio/TV se awaaz chahiye hoti hai taaki ghar jeeta lage, waise Tai ko Mittu ki awaaz chahiye thi — pet se zyada dil ke liye.",
+      "board_lines": [
+        "ताई: वृद्धा + ममता + सूनेपन का केंद्र",
+        "मिट्ठू: संवाद-माध्यम | गणपत: सहारा देने वाला",
+        "जगन मास्टर: आदर्शवादी | एवजी तोता: चुप्पी का प्रतीक"
+      ],
+      "common_mistake": "Students Mittu ko sirf ‘तोता/पालतू’ likhte hain; uski role as संवाद और ममता miss kar dete hain. Strong answer mein companion + dialogue dono likho.",
+      "memory_trick": "T-M-J: ताई — मिट्ठू — जगन. Teen poles: Loneliness, Love-talk, Liberty-ideal.",
+      "gesture_action": "Teen students: ek ‘Tai’ (haath seine par), ek ‘Mittu’ (bolte hue wings), ek ‘Master’ (pinjara kholne ka gesture).",
+      "real_life_examples": [
+        "Budhe log pet animal/plant se baat karte hain kyunki ghar mein insan free nahi hota",
+        "Class mein shy student ko ek accha dost mil jaaye toh poora mood badal jaata hai — Mittu wali energy"
+      ],
+      "worked_example": {
+        "problem": "ताई और मिट्ठू के संबंध की दो विशेषताएँ उदाहरण सहित लिखिए।",
+        "steps": [
+          "Pehli visheshata: mamta/sneha — Tai Mittu ke liye khana banati, usse ‘beta’ kehti",
+          "Doosri: sanvad + nok-jhonk — kabhi pyar, kabhi jhagda, phir man-manauval",
+          "Conclude: yeh rista sirf malik-panchhi nahi, parivar jaisa hai"
+        ],
+        "answer": "ताई-मिट्ठू संबंध में गहरी ममता और संवाद दोनों हैं—ताई उसे बेटे की तरह पालती हैं तथा दोनों में प्रेम के साथ नोक-झोंक भी चलती है, जिससे सूना घर रौशन होता है।"
+      },
+      "practice": {
+        "easy": [
+          "कहानी के दो मुख्य पात्रों के नाम लिखिए।"
+        ],
+        "medium": [
+          "मिट्ठू ताई के लिए केवल तोता क्यों नहीं कहा जा सकता?"
+        ],
+        "hard": [
+          "जगन मास्टर और ताई — दोनों मिट्ठू से प्रेम/करुणा रखते हैं, फिर भी उनके दृष्टिकोण में क्या अंतर है? स्पष्ट कीजिए।"
+        ]
+      },
+      "summary": "ताई अकेलेपन का केंद्र हैं, मिट्ठू संवाद का सहारा है, और जगन मास्टर आदर्श की टक्कर यथार्थ से कराते हैं।",
+      "revision_point": "Tai = loneliness + mamta; Mittu = dialogue; Jagan = ideal freedom; new parrot = silence.",
+      "exam_tip": "पात्र-चित्रण में सिर्फ ‘अच्छे/बुरे’ mat likho — प्रत्येक पात्र का ‘कार्य + प्रतीक’ (जैसे मिट्ठू = संवाद) zaroor do।",
+      "source_text_hint": "दो मुख्य पात्र ताई और मिट्ठू"
+    },
+    {
+      "concept": "आदर्श बनाम यथार्थ — जगन मास्टर का द्वंद्व",
+      "say": "Bacchon, ab kahani ka sabse sharp conflict — idealism versus reality. Jagan Master dusre mizaaj ke aadmi hain: swatantra vichar, niyam-siddhant, dusron ki azaadi par rukawat nahi daalna chahte. Unhe pinjare mein band Mittu dekhkar bechaini hoti hai — yeh unki करुणा aur नैतिकता hai, galat intention nahi. Woh kamra band karke darwaza kholte hain, dana bikherte hain, thodi azaadi dete hain; Mittu pehle nahi nikalta, phir nikalta hai, aur ek din roshandan se ud jaata hai. Yahan twist aata hai: Master ke haath ke ‘saare toote ud gaye’ — matlab unka aadarsh tut gaya. English mein: good intentions can still create painful outcomes if they ignore someone’s emotional world. Tai ke lautein se pehle village mein substitute totaa lane ka plan banta hai; Master naye tote ko ‘Ram-Ram, Sitaram, Har Gange’ sikhane lagte hain — yeh scene थोड़ा हास्य भी laata hai, aur थोड़ा करुणा. Point yeh hai: azaadi har praani ka haq ho sakti hai, lekin Tai ke liye Mittu azaadi ka symbol nahi, jeene ka sahara tha. Classroom tip: exam mein mat likho ‘Master villain hai’. Likho — unka aadarsh incomplete tha kyunki unhone Tai ke akelepan ko center mein nahi rakha. Yeh द्वंद्व hi kahani ko deep banata hai.",
+      "example": "Teacher chahe ki har student freely bolte rahein (ideal), lekin agar ek shy child ko zabardasti stage par khada kar diya aur woh toot gaya — intention acchi, par yatharth dard bhari. Master-Mittu jaisa tension.",
+      "board_lines": [
+        "जगन मास्टर: स्वतंत्रता + करुणा (आदर्श)",
+        "परिणाम: मिट्ठू उड़ गया — ताई का सहारा टूटा",
+        "द्वंद्व: पिंजरे की बेड़ियाँ vs रिश्ते की ज़रूरत"
+      ],
+      "common_mistake": "Students Master ko bilkul ‘galat/zulmi’ ya bilkul ‘hero’ bana dete hain. Balanced answer: करुणा सही, पर परिणाम की जिम्मेदारी भी unpar aati hai.",
+      "memory_trick": "A-Y-U: आदर्श → यथार्थ → उड़ान. Ideal khola, reality ud gayi.",
+      "gesture_action": "Ek haath se pinjara kholo (freedom), doosre haath se dil todne ka gesture (Tai ka dukh) — phir socho balance.",
+      "real_life_examples": [
+        "Parents phone chheen kar ‘padhai ke liye accha’ kehte hain, lekin bacche ka social world toot jaata hai — intention vs impact",
+        "Kisi ko ‘tum azaad ho, jao’ keh dena asaan hai; uske baad akela padne wale ka dard dekhna mushkil"
+      ],
+      "worked_example": {
+        "problem": "जगन मास्टर द्वारा मिट्ठू को पिंजरे से बाहर निकालना किस भावना या मूल्य का संकेत देता है? तर्क सहित लिखिए।",
+        "steps": [
+          "Master ke swatantra vichar aur pinjara dekhkar bechaini ka zikr karo",
+          "Clarify: yeh udaseenta nahi, karuna/naitikta hai",
+          "Phir ek line result ki: aadarsh ke saath yatharth ki zimmedari bhi judni chahiye"
+        ],
+        "answer": "यह करुणा और नैतिकता का संकेत है क्योंकि जगन मास्टर पिंजरे में बंद प्राणी की यातना से व्यथित होकर उसे स्वतंत्रता देना चाहते हैं; पर कहानी यह भी दिखाती है कि आदर्श को यथार्थ की जिम्मेदारी से जोड़ना जरूरी है।"
+      },
+      "practice": {
+        "easy": [
+          "मिट्ठू का उड़ जाना किस विचार को प्रस्तुत करता है?"
+        ],
+        "medium": [
+          "‘जगन मास्टर दूसरे मिजाज के आदमी थे’ — उनका व्यक्तित्व दो बिंदुओं में बताइए।"
+        ],
+        "hard": [
+          "क्या मिट्ठू की आज़ादी सही थी या ताई का सहारा ज़रूरी था? आदर्श और यथार्थ दोनों पक्ष रखकर अपना मत दीजिए।"
+        ]
+      },
+      "summary": "जगन मास्टर की करुणा आज़ादी का आदर्श दिखाती है, पर यथार्थ में ताई का संवाद-सहारा टूट जाता है — यही द्वंद्व कहानी की गहराई है।",
+      "revision_point": "Master = compassion + idealism; flying away = freedom; cost = Tai’s deeper silence.",
+      "exam_tip": "MCQ/long answer dono mein ‘उदासीनता/असावधानी’ trap options hote hain — sahi angle अक्सर करुणा और नैतिकता + आज़ादी की चाह hota hai।",
+      "source_text_hint": "जगन मास्टर दूसरे मिजाज के आदमी"
+    },
+    {
+      "concept": "साहित्यिक शैली और तकनीक",
+      "say": "Ab style aur technique — examiner ‘भाषा-शैली’ poochta hai. Shekhar Joshi ki bhasha simple, bolchal ke qareeb, aur bhari huyi emotion se soft hai — shabdon ka shor nahi, ehsaas ka pressure hai. Technique 1: संवाद और दुहराव — Mittu ke ‘Ram-Ram’, ‘Sitaram’, ‘Har Har Gange’, ‘Kategi-kategi’ jaise tukde ghar ko awaaz dete hain; jab yeh awaaz khatam hoti hai, silence aur bhari lagti hai. Technique 2: प्रतीक — pinjara (bandish/suraksha dono), soona khandahar (parivar ka tootna), naya totaa (nakli sanvad / incomplete replacement), udaan (swatantrata). Technique 3: व्यंग्य-हास्य की हल्की परत — Master naye tote ko rataate hain, gala sukhata hai, ‘mar ja’ tak nikal aata hai — yeh scene padhte hue smile bhi aati hai, aur pity bhi. Technique 4: आदर्श-यथार्थ का द्वंद्व bina lecture diye dikhana. Technique 5: मानवीकरण — Mittu ko bacche/naujawan jaisa behave karaya gaya hai. English tip: the craft is quiet realism — everyday village detail carries big social meaning. Classroom activity: board par teen boxes — भाषा | प्रतीक | द्वंद्व — aur examples bharo. Yaad rakho: is path mein alankar dikhane se zyada ‘अनुभूति’ important hai.",
+      "example": "Phone par ‘missed call’ ki buzz ghar mein jeevant lagti hai; jab phone silent rehta hai toh sunapan kaatne lagta hai — bilkul Mittu ki awaaz aur uske baad ki chuppi jaisa technique.",
+      "board_lines": [
+        "शैली: सरल यथार्थ + संवेदनशील संवाद",
+        "प्रतीक: पिंजरा, सूना घर, उड़ान, एवजी तोता",
+        "तकनीक: दुहराव, मानवीकरण, आदर्श-यथार्थ द्वंद्व"
+      ],
+      "common_mistake": "Students style mein sirf ‘सरल भाषा’ likhkar ruk jaate hain. Better answer: सरल भाषा + प्रतीक + संवाद-दुहराव + हास्य-व्यंग्य की बूंद।",
+      "memory_trick": "S-P-D: सरलता — प्रतीक — द्वंद्व. Style ka SPD formula.",
+      "gesture_action": "Pehle quietly baat karo (soft style), phir imaginary cage dikhao (symbol), phir do raaste — left ideal, right real.",
+      "real_life_examples": [
+        "Film mein hero ke jaane ke baad khali room ka shot — bina dialogue ke dukh; yahi visual silence technique hai",
+        "Class mein joke ke beech serious baat — hasi ke baad soch; Master-tote ratai jaisa mix"
+      ],
+      "worked_example": {
+        "problem": "संवादहीन कहानी की भाषा-शैली की दो विशेषताएँ उदाहरण सहित लिखिए।",
+        "steps": [
+          "Pehli: saral, sanvedansheel yatharth-bhasha",
+          "Doosri: sanvad/duhrav aur prateek (pinjara, udaan)",
+          "Ek chhoti misal se clear karo"
+        ],
+        "answer": "कहानी की भाषा सरल और संवेदनशील है; इसमें संवाद-दुहराव तथा पिंजरा/उड़ान जैसे प्रतीकों से अकेलापन और आज़ादी का द्वंद्व प्रभावी ढंग से उभरता है।"
+      },
+      "practice": {
+        "easy": [
+          "कहानी में प्रयुक्त कोई एक प्रमुख प्रतीक लिखिए।"
+        ],
+        "medium": [
+          "मिट्ठू के बार-बार दुहराए वाक्यों से कहानी में क्या प्रभाव पैदा होता है?"
+        ],
+        "hard": [
+          "‘संवादहीन’ में हास्य और करुणा कैसे साथ-साथ आते हैं? जगन मास्टर वाले प्रसंग से समझाइए।"
+        ]
+      },
+      "summary": "सरल यथार्थवादी शैली, संवाद-दुहराव और पिंजरा-उड़ान जैसे प्रतीकों से कहानी अकेलापन को कलात्मक गहराई देती है।",
+      "revision_point": "Style keywords: सरल यथार्थ, प्रतीक, मानवीकरण, आदर्श-यथार्थ, हल्का हास्य.",
+      "exam_tip": "भाषा-शैली वाले प्रश्न में कम से कम एक प्रतीक + एक संवाद-तकनीक zaroor likho — sirf ‘सरल भाषा’ se full marks mushkil।",
+      "source_text_hint": "कभी प्रेमपूर्ण संवाद है तो कभी नोक-झोंक"
+    },
+    {
+      "concept": "नैतिक संदेश और आज की प्रासंगिकता",
+      "say": "Aakhiri aur sabse zaroori hissa — moral message aur aaj se connection. Message 1: बुजुर्गों को सिर्फ खाना-कपड़ा नहीं, संवाद और समय चाहिए. Message 2: पलायन/शहर की भागदौड़ रिश्ते तोड़ सकती है — isliye door rehkar bhi baat rakhni chahiye. Message 3: आदर्श अच्छी चीज़ है, पर दूसरों की भावनात्मक ज़रूरत को समझे बिना ‘सही काम’ भी चोट पहुँचा सकता है. Message 4: जानवर-पक्षी भी संवेदना का माध्यम बन सकते हैं, lekin asal zimmedari insan ke rishte nibhane ki hai. Message 5: nakli replacement — naya totaa — asli sanvad nahi laata; waise hi phone/gift kabhi-kabhi presence ka alternate nahi ban pate. English mein: the story asks teens to practise listening, not just liking; presence over pretence. Aaj relevance crystal clear hai — nuclear families, hostel life, migrant parents, grandparents alone in villages, aur social media par ‘connected’ dikhne ke bawajood dil se संवादहीन hona. Classroom pledge: is hafte ghar ke kisi budhe member se 10 minute bina phone ke baat karo. Exam tip: ‘संदेश/प्रासंगिकता’ mein personal example do — examiner ko lage tumne feel kiya, sirf ratta nahi mara. Yeh path humse kehta hai — bolo, suno, saath raho; warna ghar bhi khandahar ban jaata hai.",
+      "example": "Sunday ko dada ke paas baithkar unki purani baatein sunna — exam marks nahi, lekin unka din roshan kar deta hai. Tai ko bhi aisi hi awaaz chahiye thi.",
+      "board_lines": [
+        "संदेश: संवाद = असली सहारा",
+        "सचेत रहो: पलायन + आदर्श बिना समझ = गहरा अकेलापन",
+        "आज: बुजुर्ग/परिवार से समय दो, सिर्फ चीज़ें नहीं"
+      ],
+      "common_mistake": "Students message ko sirf ‘जानवरों से प्यार करो’ likh dete hain. Asli moral zyada bada hai: मानवीय संवाद और ज़िम्मेदार आज़ादी।",
+      "memory_trick": "S-P-A: संवाद — परिवार — आदर्श+यथार्थ. Teen words mein poora message.",
+      "gesture_action": "Phone neeche rakho, neighbour/partner student se 10 second eye-contact karke ‘kaise ho?’ bolo — live संवाद practice.",
+      "real_life_examples": [
+        "Gaon mein akeli dadi ko weekly video-call + holidays mein ghar aana — small acts, bada farq",
+        "Class friend upset ho toh advice se pehle suno — aadarsh lecture se pehle yatharth empathy"
+      ],
+      "worked_example": {
+        "problem": "संवादहीन कहानी आज के विद्यार्थियों के लिए क्यों प्रासंगिक है? तीन बिंदुओं में लिखिए।",
+        "steps": [
+          "Akelepan/nuclear family/migration se jodo",
+          "Budhon ke saath sanvad ki zaroorat likho",
+          "Ideal vs real — decision lene se pehle impact sochne ki baat karo"
+        ],
+        "answer": "यह कहानी आज इसलिए प्रासंगिक है क्योंकि पलायन और व्यस्तता से बुजुर्ग अकेले पड़ रहे हैं; संवादहीनता बढ़ रही है; तथा अच्छे लगने वाले निर्णयों का भावनात्मक परिणाम भी सोचना युवाओं को सिखाती है।"
+      },
+      "practice": {
+        "easy": [
+          "कहानी का एक मुख्य नैतिक संदेश लिखिए।"
+        ],
+        "medium": [
+          "‘ताई के जीवन के दुख का मुख्य कारण क्या था?’ — अपने शब्दों में उत्तर दीजिए।"
+        ],
+        "hard": [
+          "यदि आप जगन मास्टर की जगह होते तो मिट्ठू के साथ क्या करते और क्यों? आदर्श तथा ताई की स्थिति दोनों रखकर उत्तर दीजिए।"
+        ]
+      },
+      "summary": "कहानी सिखाती है कि अकेलेपन का इलाज संवाद है; आज़ादी और आदर्श तभी पूरे हैं जब किसी का सहारा न टूटे।",
+      "revision_point": "Moral = dialogue over silence; care for elders; idealism must meet empathy.",
+      "exam_tip": "‘केंद्रीय संदेश’ लिखते समय तीन words use karo — अकेलापन, संवाद, आदर्श-यथार्थ — examiner instantly score karta hai।",
+      "source_text_hint": "पलायन, अकेलेपन और आदर्श एवं यथार्थ"
+    }
+  ]
+}
