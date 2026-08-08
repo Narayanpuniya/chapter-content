@@ -1,0 +1,386 @@
+{
+  "chapter_ctx": {
+    "chapter_id": 726,
+    "chapter_name": "भिन्न एवं दशमलव",
+    "chapter_number": 7,
+    "book_name": "Class 7 Mathematics",
+    "board": "NCERT",
+    "medium": "Hindi",
+    "class_name": "Class 7",
+    "subject": "Mathematics"
+  },
+  "concept_map": {
+    "chapter_overview": "Aaj hum NCERT Class 7 Mathematics ke Chapter 7 — भिन्न एवं दशमलव — ka pehla bada hisa padhenge: भिन्नों का गुणन. Hum seekhenge ki fraction ko whole number se, mixed fraction se, aur doosre fraction se kaise multiply karte hain; 'का' operator ka matlab kya hota hai; aur proper/improper fractions ke product ka value kitna bada ya chhota hota hai — sab NCERT ke figures aur examples se.",
+    "welcome": "Namaste bacchon! Smart Board par aaj Maths ka maza aayega — भिन्न एवं दशमलव. Socho: agar kisi आयत ki लंबाई 7½ cm aur चौड़ाई 3½ cm ho, to क्षेत्रफल kaise nikaalein? Iske liye भिन्नों को गुणा करना aana zaroori hai. Chinta mat karo — hum dheere-dheere, pictures ke saath samjhenge. Ready? Chalo shuru karte hain!",
+    "learning_outcomes": [
+      "एक भिन्न को पूर्ण संख्या से गुणा करना aur rule yaad rakhna: अंश × पूर्ण संख्या, हर same",
+      "मिश्रित भिन्न को विषम भिन्न mein badal kar पूर्ण संख्या se multiply karna",
+      "'का' ko multiplication operator ki tarah use karke word problems solve karna",
+      "दो भिन्नों का गुणन (अंश×अंश)/(हर×हर) karna aur proper/improper products ki comparison samajhna"
+    ],
+    "concepts": [
+      {
+        "number": 1,
+        "name": "भिन्नों का गुणन – क्षेत्रफल से शुरुआत"
+      },
+      {
+        "number": 2,
+        "name": "एक भिन्न का पूर्ण संख्या से गुणन"
+      },
+      {
+        "number": 3,
+        "name": "विषम एवं मिश्रित भिन्न × पूर्ण संख्या"
+      },
+      {
+        "number": 4,
+        "name": "भिन्न प्रचालक 'का' के रूप में"
+      },
+      {
+        "number": 5,
+        "name": "'का' से रोज़मर्रा की समस्याएँ"
+      },
+      {
+        "number": 6,
+        "name": "भिन्न का भिन्न से गुणन"
+      },
+      {
+        "number": 7,
+        "name": "दो भिन्नों के गुणन का नियम"
+      },
+      {
+        "number": 8,
+        "name": "गुणनफल का मान – उचित और विषम भिन्नें"
+      }
+    ]
+  },
+  "generated": [
+    {
+      "concept": "भिन्नों का गुणन – क्षेत्रफल से शुरुआत",
+      "say": "Bacchon, pehle ek simple baat yaad karo — आयत का क्षेत्रफल कैसे ज्ञात करते हैं? Haan, लंबाई × चौड़ाई. Agar kisi आयत ki लंबाई 7 cm aur चौड़ाई 4 cm ho, to क्षेत्रफल 7 × 4 = 28 वर्ग सेमी hota hai. Easy hai na? Ab socho — agar लंबाई aur चौड़ाई पूर्ण संख्या na ho, balki भिन्न ho? NCERT poochta hai: agar लंबाई 7½ cm aur चौड़ाई 3½ cm ho, to क्षेत्रफल kya hoga? Tum bolo — 7½ × 3½. Mixed fractions ko improper banao: 7½ = 15/2 aur 3½ = 7/2. Ab humein 15/2 × 7/2 nikalna padega. Yeh numbers भिन्नें hain. Matlab क्षेत्रफल nikalne ke liye humein भिन्नों को गुणा करना aana chahiye. Isliye aaj ka section hai — भिन्नों का गुणन. Yeh sirf book ka rule nahi hai; daily life mein ribbon, water bottle, picnic, classroom ke students — sab jagah fractions multiply karne padte hain. Pehle hum ek fraction ko whole number se multiply karenge, phir mixed fractions, phir 'का' wala operator, aur baad mein do fractions ka product. Board par likho: क्षेत्रफल = लंबाई × चौड़ाई, aur jab dono sides fractions hon to product of fractions seekhna zaroori hai. Clear? Chalo agle concept mein pictures se shuru karte hain!",
+      "example": "आयत: लंबाई 7½ cm, चौड़ाई 3½ cm → क्षेत्रफल = 15/2 × 7/2 वर्ग सेमी (abhi multiply seekhenge).",
+      "board_lines": [
+        "आयत का क्षेत्रफल = लंबाई × चौड़ाई",
+        "उदाहरण: 7 cm × 4 cm = 28 cm²",
+        "अगर भुजाएँ भिन्न हों: 7½ × 3½ = 15/2 × 7/2 → भिन्नों का गुणन ज़रूरी"
+      ],
+      "common_mistake": "Students 7½ × 3½ ko 7×3 = 21 aur ½×½ = ¼ karke 21¼ likh dete hain — galat! Pehle mixed ko improper banao, phir multiply.",
+      "memory_trick": "Area pehle, rule baad mein: Jab side fraction ho, pehle 'भिन्न गुणा' socho — sidha 7×3 mat karo.",
+      "gesture_action": "Haathon se बडा rectangle banao (7×4), phir chhote half-steps se mixed lengths dikhao — 'ab fraction multiply chahiye!'",
+      "real_life_examples": [
+        "Copy/notebook ke page ka area jab sides centimetre mein mixed numbers hon",
+        "Khet ya classroom floor ka area jab measurement 3½ m jaisi ho"
+      ],
+      "worked_example": {
+        "problem": "Ek आयत ki लंबाई 5 cm aur चौड़ाई 3 cm hai. क्षेत्रफल batao. Agar लंबाई 5½ cm aur चौड़ाई 2 cm ho, to क्षेत्रफल nikalne ke liye kaunsa naya skill chahiye?",
+        "steps": [
+          "Pehla case: 5 × 3 = 15 cm² (पूर्ण संख्याओं का गुणन)",
+          "Doosra case: 5½ = 11/2, isliye 11/2 × 2 chahiye — yahan भिन्न × पूर्ण संख्या aata hai",
+          "Conclude: jab measurement fraction ho, भिन्नों का गुणन seekhna zaroori hai"
+        ],
+        "answer": "Pehla क्षेत्रफल 15 cm². Doosre case mein भिन्नों का गुणन (11/2 × 2) seekhna padega."
+      },
+      "practice": {
+        "easy": [
+          "आयत का क्षेत्रफल ka formula likho aur 6 cm × 4 cm ka area nikaalo."
+        ],
+        "medium": [
+          "7½ aur 3½ ko विषम भिन्न (improper fraction) mein likho. Kyun area ke liye inka गुणन zaroori hai?"
+        ],
+        "hard": [
+          "Agar student seedha 7½ × 3½ = 21¼ likhe bina improper banaye, to galat kahan hua? Sahi method 2–3 steps mein likho."
+        ]
+      },
+      "summary": "आयत का क्षेत्रफल लंबाई × चौड़ाई hota hai; jab sides fractions hon, humein भिन्नों का गुणन seekhna padta hai — yahi chapter ka pehla goal hai.",
+      "revision_point": "7½ = 15/2, 3½ = 7/2 → area ke liye fraction multiplication chahiye.",
+      "exam_tip": "Word problem mein pehle mixed fraction ko improper banao, phir multiply — directly whole parts mat multiply karo.",
+      "source_text_hint": "यदि आयत की लंबाई एवं चैड़ाई क्रमशः 7 1/2 cm एवं 3 1/2"
+    },
+    {
+      "concept": "एक भिन्न का पूर्ण संख्या से गुणन",
+      "say": "Ab board par आकृति 2.1 socho — ek वृत्त hai jismein छायांकित parts hain. Har shaded part वृत्त का 1/4 भाग hai. Agar do shaded parts milayein, to kitna hoga? Addition se: 1/4 + 1/4 = 2/4. Multiplication se bhi soch sakte ho: 2 × (1/4) = 2/4. आकृति 2.2 mein yahi 2/4 dikhta hai. Matlab do pieces milana = fraction ko 2 se multiply karna. NCERT aur examples deta hai: 3 × (1/2). Teen half pieces: 1/2 + 1/2 + 1/2 = 3/2. Isliye 3 × (1/2) = 3/2. Same cheez doosri tarah: (1/2) × 3 = 3/2. Order badalne se product same! Rule bilkul simple hai — पूर्ण संख्या को भिन्न के अंश से गुणा करो, हर same rakho. Example: 2 × (3/7) = (2×3)/7 = 6/7. Aur 5 × (2/3) = 10/3. Try करो: 8/3 × 7 aur 7/4 × 5. Board tip: shaded pieces count karo, phir formula se check karo. Proper fraction ho ya improper, rule same rehta hai jab whole number se multiply karte ho. Class mein practice: 9 × (6/7), (1/3) × 8, 13 × (6/11). Agar product improper aaye to mixed bana sakte ho. Yaad rakho — अंश badalta hai, हर nahi!",
+      "example": "दो छायांकित भाग: 2 × (1/4) = 2/4; teen halves: 3 × (1/2) = 3/2.",
+      "board_lines": [
+        "2 × (1/4) = 2/4   और   3 × (1/2) = 3/2",
+        "नियम: पूर्ण संख्या × अंश / हर  (हर अपरिवर्तित)",
+        "उदाहरण: 5 × (2/3) = 10/3 ;  2 × (3/7) = 6/7"
+      ],
+      "common_mistake": "Students kabhi-kabhi अंश aur हर dono ko whole number se multiply kar dete hain — jaise 2 × (3/7) = 6/14. Galat! Sirf अंश multiply hota hai.",
+      "memory_trick": "A-H rule: अंश Active (multiply), हर Holding (same rakho) jab whole number se multiply karo.",
+      "gesture_action": "Ek circle ke 4 parts fingers se dikhao; do fingers up karke 2 × (1/4) = 2/4 act out karo.",
+      "real_life_examples": [
+        "Pizza ke 1/4 slices — 3 slices = 3 × (1/4) of pizza",
+        "Ribbon ke equal folds — har fold total ka 1/n; do folds = 2/n"
+      ],
+      "worked_example": {
+        "problem": "ज्ञात कीजिए: (a) 2 × (3/7)  (b) (1/3) × 8  (c) 5 × (2/3). Agar product विषम भिन्न ho to मिश्रित भिन्न mein bhi likho.",
+        "steps": [
+          "(a) 2 × 3/7 = 6/7 (proper — mixed ki zaroorat nahi)",
+          "(b) 1×8 / 3 = 8/3 = 2⅔",
+          "(c) 5×2 / 3 = 10/3 = 3⅓"
+        ],
+        "answer": "(a) 6/7; (b) 8/3 = 2⅔; (c) 10/3 = 3⅓"
+      },
+      "practice": {
+        "easy": [
+          "3 × (1/5) aur 4 × (2/7) गुणा करके लिखो।"
+        ],
+        "medium": [
+          "चित्र से समझाओ: 2 × (2/5) = 4/5. आकृति 2.4/2.5 jaisi thinking use karke 2–3 lines likho."
+        ],
+        "hard": [
+          "8/3 × 7 aur 7/4 × 5 nikaalo; dono answers को मिश्रित भिन्न mein likho aur batao हर kyun same raha."
+        ]
+      },
+      "summary": "पूर्ण संख्या × भिन्न = (पूर्ण संख्या × अंश)/हर; pictures mein shaded parts jodna hi multiplication hai.",
+      "revision_point": "अंश multiply, हर same — 3 × (1/2) = 3/2.",
+      "exam_tip": "Agar answer improper aaye to question poochhe to mixed mein convert karo — NCERT clearly kehta hai.",
+      "source_text_hint": "एक भिन्न का पूर्ण संख्या से गुणन"
+    },
+    {
+      "concept": "विषम एवं मिश्रित भिन्न × पूर्ण संख्या",
+      "say": "Bacchon, abhi tak humne ज्यादातर उचित भिन्नें dekhi — jaise 1/2, 2/3, 2/7, 3/5 — jahan अंश हर से छोटा hota hai. NCERT kehta hai विषम भिन्नों ke liye bhi wahi rule hai: पूर्ण संख्या ko अंश se multiply karo, हर same rakho. Example: (5/2)×3 = (5×3)/2 = 15/2. Try करो — प्रयास कीजिए: (8/3)×7 = 56/3 = 18⅔, aur (7/4)×5 = 35/4 = 8¾. Agar product विषम भिन्न aaye to मिश्रित भिन्न mein bhi likho. Ab mixed fraction! Rule yaad rakho: किसी मिश्रित भिन्न को एक पूर्ण संख्या से गुणा करने के लिए सर्वप्रथम मिश्रित भिन्न को विषम भिन्न में परिवर्तित कीजिए, tab multiply karo. NCERT example: 6⅓ × 7. Pehle 6⅓ = 19/3; phir (19/3)×7 = 57/7 = 8⅐. Isi tarah 4⅖ × 5: pehle 4⅖ = 22/5; phir (22/5)×5 = 22. Board par teen steps likho — (1) mixed ko improper banao: (whole×हर + अंश)/हर (2) अंश × पूर्ण संख्या (3) simplify ya mixed mein wapas. Practice: 3⅕ × 6, 5¾ × 4. Common galati — sirf whole part multiply karke fraction chhod dena. Aisa mat karna! Pehle convert, phir multiply. Clear ho gaya na?",
+      "example": "4⅖ × 5 = 22/5 × 5 = 22; aur 6⅓ × 7 = 19/3 × 7 = 57/7 = 8⅐.",
+      "board_lines": [
+        "विषम भिन्न: 3 × (5/2) = 15/2",
+        "मिश्रित → विषम → गुणा: 4⅖ = 22/5;  22/5 × 5 = 22",
+        "6⅓ × 7 = 19/3 × 7 = 57/7 = 8 1/7"
+      ],
+      "common_mistake": "Mixed × whole mein students sirf whole part multiply karte hain (jaise 4⅖ × 5 = 20) aur fraction part chhod dete hain — hamesha pehle improper banao.",
+      "memory_trick": "M-I-M: Mixed → Improper → Multiply. Teen letters, teen steps!",
+      "gesture_action": "Teen ungliyan: pehli 'mixed todо' (improper), doosri 'multiply', teesri 'simplify/mixed wapas'.",
+      "real_life_examples": [
+        "2½ metres cloth × 3 pieces chahiye → pehle 5/2 × 3",
+        "1¾ litre juice × 4 bottles ke liye total"
+      ],
+      "worked_example": {
+        "problem": "गुणा कीजिए और मिश्रित भिन्न में लिखिए: 4⅖ × 5 aur 2⅗ × 4.",
+        "steps": [
+          "4⅖ = (4×5+2)/5 = 22/5; 22/5 × 5 = 22",
+          "2⅗ = (2×5+3)/5 = 13/5; 13/5 × 4 = 52/5 = 10⅖",
+          "Dono mein pehle convert, phir अंश×पूर्ण संख्या"
+        ],
+        "answer": "4⅖ × 5 = 22;  2⅗ × 4 = 52/5 = 10⅖"
+      },
+      "practice": {
+        "easy": [
+          "5/2 × 3 aur 8/3 × 7 nikaalo (मिश्रित रूप में भी)."
+        ],
+        "medium": [
+          "3⅕ × 6 ko pehle विषम भिन्न banao, phir multiply karke मिश्रित लिखो।"
+        ],
+        "hard": [
+          "NCERT jaisa: 4⅖ × 5 aur 2⅘ × 5 compare karke batao kab answer पूर्ण संख्या ban sakta hai."
+        ]
+      },
+      "summary": "Improper aur mixed fractions par bhi same multiplication rule; mixed ko pehle improper mein badlo, phir अंश × पूर्ण संख्या.",
+      "revision_point": "M-I-M: Mixed → Improper → Multiply; हर mat badlo.",
+      "exam_tip": "Conversion step clearly dikhao — (whole×denominator + numerator)/denominator — examiner yahi marks deta hai.",
+      "source_text_hint": "किसी मिश्रित भिन्न को एक पूर्ण संख्या से गुणा करने के लिए सर्वप्रथम मिश्रित भिन्न को विषम भिन्न में परिवर्तित कीजिए"
+    },
+    {
+      "concept": "भिन्न प्रचालक 'का' के रूप में",
+      "say": "Bacchon, ab bahut important idea — भिन्न, प्रचालक 'का' के रूप में. Hindi mein hum kehte hain '2 का आधा' ya '3 का 1/2'. Mathematics mein yeh 'का' actually गुणन ko dikhata hai! आकृति 2.6 dekho: do identical squares. Har shaded piece एक के 1/2 ko निरूपित karta hai. Dono shaded pieces milakar 2 के 1/2 ko dikhate hain. Unhe jodo — milkar 1 banta hai. Isliye 2 का 1/2 = 1. Aur multiply se bhi: (1/2)×2 = 1. Same answer! आकृति 2.7 mein teen squares ke shaded halves milakar 3 का 1/2 = 3/2 banate hain, aur (1/2)×3 = 3/2. Toh rule crystal clear hai — 'का' means multiply. Farida ke paas 20 टॉफ़ियाँ hain. Reshma ke paas Farida ki toffees ka 1/5 hai. Reshma ke paas kitni? Kyunki 'का' गुणन दर्शाता है, isliye (1/5)×20 = 4 toffees. Similarly, 16 का 1/2 = (1/2)×16 = 8. Ab tum try करो: (i) 10 का 1/2 (ii) 16 का 1/4 (iii) 25 का 2/5. Answers milenge 5, 4 aur 10. Class tip: jab bhi sentence mein fraction ke saath 'का' dikhe, turant multiplication likho. Yeh baad ki word problems ka master key hai — yaad rakhna!",
+      "example": "2 का 1/2 = (1/2)×2 = 1; Reshma: Farida ki 20 toffees ka 1/5 = 4.",
+      "board_lines": [
+        "'का' = गुणन (multiplication)",
+        "2 का 1/2 = (1/2)×2 = 1 ;  3 का 1/2 = (1/2)×3 = 3/2",
+        "20 का 1/5 = (1/5)×20 = 4"
+      ],
+      "common_mistake": "Students 'का' ko subtraction ya division samajh lete hain — jaise 20 का 1/5 = 20−5. Galat! 'का' hamesha × hai.",
+      "memory_trick": "KA = × : jitni baar 'का' dikhe fraction ke saath, utni baar multiply yaad karo.",
+      "gesture_action": "Ek haath se 'का' word air mein likho, doosre haath se × sign banao — link strong karo.",
+      "real_life_examples": [
+        "Class ke 30 students ka 1/3 absent → (1/3)×30 = 10",
+        "₹50 ka 1/5 discount → (1/5)×50 = ₹10"
+      ],
+      "worked_example": {
+        "problem": "ज्ञात कीजिए: (i) 10 का 1/2  (ii) 16 का 1/4  (iii) 25 का 2/5",
+        "steps": [
+          "(i) (1/2)×10 = 10/2 = 5",
+          "(ii) (1/4)×16 = 16/4 = 4",
+          "(iii) (2/5)×25 = 50/5 = 10"
+        ],
+        "answer": "(i) 5  (ii) 4  (iii) 10"
+      },
+      "practice": {
+        "easy": [
+          "12 का 1/3 aur 18 का 1/2 nikaalo."
+        ],
+        "medium": [
+          "आकृति 2.6/2.7 jaisi soch se explain karo: kyun 3 का 1/2 = 3/2 hota hai?"
+        ],
+        "hard": [
+          "Farida ke paas 35 pencils hain. Meena ke paas Farida ka 2/7 hai. Meena ke paas kitni pencils hain? Steps likho."
+        ]
+      },
+      "summary": "Hindi 'का' fraction ke saath multiplication dikhata hai: a का (m/n) = (m/n)×a.",
+      "revision_point": "'का' = × ; 2 का 1/2 = 1; 20 का 1/5 = 4.",
+      "exam_tip": "Word problem mein pehle sentence se fraction × number likho, phir calculate — language ko maths mein translate karna hi half marks hai.",
+      "source_text_hint": "भिन्न, प्रचालक 'का' के रूप में"
+    },
+    {
+      "concept": "'का' से रोज़मर्रा की समस्याएँ",
+      "say": "Ab NCERT Example 1 — bilkul exam jaisa! Ek class mein 40 students hain. कुल संख्या का 1/5 अंग्रेज़ी पढ़ना पसंद करते हैं, कुल का 2/5 गणित, aur baaki विज्ञान. Sawal: (i) Kitne अंग्रेज़ी pasand karte hain? (ii) Kitne गणित? (iii) कुल का कितना भाग विज्ञान pasand karta hai? Solution: Total = 40. अंग्रेज़ी = 40 का 1/5 = (1/5)×40 = 8. गणित = 40 का 2/5 = (2/5)×40 = 16 — yeh khud try karo, NCERT bhi kehta hai स्वयं प्रयास कीजिए. अंग्रेज़ी + गणित = 8 + 16 = 24. विज्ञान = 40 − 24 = 16. Desired fraction for science = 16/40 (simplify 2/5). Picnic example bhi yaad rakho: Vidya aur Pratap — maa ne 5 litre pani diya. Vidya ने कुल पानी का 2/5 use kiya; baaki Pratap. Vidya = (2/5)×5 = 2 litre. Pratap ne total ka kitna fraction piya? Remaining = 1 − 2/5 = 3/5. Board steps hamesha: (1) 'का' → × (2) calculate number (3) remaining = total − used ya 1 − fraction. Practice Exercise 2.1 style: 24 का 1/2, 18 का 2/3, 16 का 3/4, 20 का 4/5. Yeh word problems real life se judi hain — marks ke liye language carefully padho!",
+      "example": "40 students: अंग्रेज़ी = 8, गणित = 16, विज्ञान = 16; विज्ञान वाला भाग = 16/40.",
+      "board_lines": [
+        "40 का 1/5 = 8 (अंग्रेज़ी);  40 का 2/5 = 16 (गणित)",
+        "विज्ञान = 40 − 24 = 16 ; भिन्न = 16/40",
+        "पिकनिक: 5 L का 2/5 = 2 L (विद्या); प्रताप का भाग = 3/5"
+      ],
+      "common_mistake": "Science wale fraction mein students 16 likh kar ruk jaate hain — question 'कितना भाग' poochhe to fraction 16/40 chahiye, sirf number nahi.",
+      "memory_trick": "N-F-R: Number nikaalo → Fraction of remaining → Recheck total (parts sum = whole).",
+      "gesture_action": "40 ungliyan imaginary; 1/5 alag (8), 2/5 alag (16), baaki dono haath se 16 — science!",
+      "real_life_examples": [
+        "Picnic bottle: total pani ka kitna fraction kisi ne piya",
+        "Class survey: kitne students kis subject ko pasand karte hain"
+      ],
+      "worked_example": {
+        "problem": "40 विद्यार्थियों की कक्षा में 1/5 अंग्रेज़ी, 2/5 गणित pasand karte hain, शेष विज्ञान. (i) अंग्रेज़ी kitne? (ii) गणित kitne? (iii) विज्ञान का भाग (fraction) kya?",
+        "steps": [
+          "अंग्रेज़ी = (1/5)×40 = 8",
+          "गणित = (2/5)×40 = 16; योग = 24; विज्ञान संख्या = 40−24 = 16",
+          "विज्ञान का भाग = 16/40 (= 2/5 simplified)"
+        ],
+        "answer": "(i) 8 (ii) 16 (iii) 16/40 (या 2/5)"
+      },
+      "practice": {
+        "easy": [
+          "24 का 1/2 aur 46 का 1/2 ज्ञात करो।"
+        ],
+        "medium": [
+          "विद्या ने 5 लीटर का 2/5 पिया। उसने कितना पिया? प्रताप ने कुल का कौन-सा भिन्न पिया?"
+        ],
+        "hard": [
+          "35 students: 2/5 art, 1/5 music, baaki dance. Dance kitne? Dance ka fraction of total kya? Steps + simplify."
+        ]
+      },
+      "summary": "'का' se word problems: fraction × total = number; remaining number ya remaining fraction dono carefully likho.",
+      "revision_point": "40 का 1/5 = 8; science fraction = 16/40; Vidya 2 L, Pratap 3/5.",
+      "exam_tip": "'कितने' vs 'कितना भाग' alag answers — number aur fraction dono confuse mat karna.",
+      "source_text_hint": "40 विद्यार्थियों की एक कक्षा में कुल विद्यार्थियों की संख्या का 1/5"
+    },
+    {
+      "concept": "भिन्न का भिन्न से गुणन",
+      "say": "Ab naya level — भिन्न का भिन्न से गुणन! Farida ke paas 9 cm lambi ribbon thi. Usne ise चार समान भागों mein kata — पट्टी को दो बार मोड़ा. Har part कुल लंबाई का 9/4 cm. Phir ek part liya aur ek baar fold karke दो बराबर भाग kiye. Ek chhota tukda kya निरूपित karega? Yeh (9/4) का 1/2 yani (1/2)×(9/4). Pehle simple case seekhte hain: (1/2)×(1/3). Step (a): संपूर्ण को तीन समान भागों mein baanto — ek part 1/3, usse shade karo jaise आकृति 2.8. Step (b): us shaded एक तिहाई ko 2 equal parts mein baanto — har chhota piece (1/3) का 1/2 = (1/2)×(1/3) dikhata hai, आकृति 2.9. Piece A nikaalo. Step (c): baaki 1/3 parts ko bhi 2-2 parts mein kaato — ab कुल 6 समान भाग. A unmein se एक भाग hai. Isliye A = संपूर्ण का 1/6. Matlab (1/2)×(1/3) = 1/6. Kyun 6? Kyunki whole ko 2×3 = 6 parts mein baanta, 1 part liya. Same tarah (1/3)×(1/2) bhi 1/6 — क्रम बदलने पर भी गुणनफल समान! Boxes bharo: (1/2)×(1/7)=1/14; (1/5)×(1/7)=1/35; (1/7)×(1/2)=1/14. Yeh folding-picture samajh agle formula ki strong foundation hai. Class mein paper fold karke zaroor try karna!",
+      "example": "Ribbon: (1/2)×(9/4); simple model: (1/2)×(1/3)=1/6 = (1×1)/(2×3).",
+      "board_lines": [
+        "(1/2)×(1/3) = 1/6 = (1×1)/(2×3)",
+        "पूरे को 2×3 = 6 भागों में बाँटा → 1 भाग = 1/6",
+        "(1/2)×(1/3) = (1/3)×(1/2) = 1/6  (क्रम बदलो, गुणनफल समान)"
+      ],
+      "common_mistake": "Students (1/2)×(1/3) ko 1/5 likh dete hain (अंश+अंश / हर+हर jaisa soch) — galat! Parts 2×3=6 hote hain, sum nahi.",
+      "memory_trick": "Fold-Fold-Count: pehle ek fraction se fold, phir doosre se, total parts = हर×हर.",
+      "gesture_action": "Paper fold: pehle 3 strips, ek shade; usse horizontally half — chhota piece 1/6 dikhao.",
+      "real_life_examples": [
+        "Ribbon/ya lace ko pehle 4 equal, phir ek piece ko aadha — chhota piece fraction×fraction",
+        "Chocolate bar: 1/3 lo, uska aadha khaao = (1/2)×(1/3) of bar"
+      ],
+      "worked_example": {
+        "problem": "सुशांत एक घंटे में पुस्तक का 1/3 भाग पढ़ता है। वह 5½ घंटों में पुस्तक का कितना भाग पढ़ेगा?",
+        "steps": [
+          "1 घंटे में पढ़ा भाग = 1/3",
+          "5½ = 11/2 घंटे, इसलिए पढ़ा भाग = (11/2)×(1/3)",
+          "(11×1)/(2×3) = 11/15"
+        ],
+        "answer": "5½ घंटे में पुस्तक का 11/15 भाग"
+      },
+      "practice": {
+        "easy": [
+          "(1/2)×(1/7) aur (1/5)×(1/7) बक्सों की तरह भरकर लिखो।"
+        ],
+        "medium": [
+          "चित्र विधि से समझाओ कि (1/3)×(1/4) = 1/12 क्यों होता है।"
+        ],
+        "hard": [
+          "Farida की 9 cm ribbon: एक चौथाई का आधा क्या निरूपित करेगा? (1/2)×(9/4) का मान भी निकालो।"
+        ]
+      },
+      "summary": "Fraction × fraction ko folding/parts se samjho: (1/2)×(1/3)=1/6 kyunki whole 2×3=6 equal parts mein banta hai.",
+      "revision_point": "(1/2)×(1/3)=(1×1)/(2×3)=1/6; commutative bhi — order same product.",
+      "exam_tip": "Diagram questions mein steps likho: kitne parts, kaunsa piece A, whole ka kitna — sirf answer 1/6 se marks kam milte hain.",
+      "source_text_hint": "भिन्न का भिन्न से गुणन"
+    },
+    {
+      "concept": "दो भिन्नों के गुणन का नियम",
+      "say": "Ab formula crystal clear karte hain, bacchon. Humne picture se dekha tha (1/2)×(1/3) = (1×1)/(2×3). NCERT ka general rule suno carefully: दो भिन्नों का गुणन हम अंशों का गुणनफल बटे हरों का गुणनफल ke रूप mein karte hain. Yani (a/b)×(c/d) = (a×c)/(b×d). Example lo: (1/2)×(5/3). Hum jaante hain 5/3 = (1/3)×5. Isliye (1/2)×(5/3) = (1/2)×(1/3)×5 = (1/6)×5 = 5/6. Seedha formula se bhi: (1×5)/(2×3) = 5/6 — same answer! आकृति 2.10 mein paanch equal shapes dikhaye gaye hain. Pehle circle ko 3 समान भागों mein baanto, phir har part ko 2 parts mein; ek chhota piece 1/6 hai; aise 5 pieces milakar 5×(1/6) = 5/6. Similarly (3/5)×(1/7) = (3×1)/(5×7) = 3/35. Aur (2/3)×(7/5) = (2×7)/(3×5) = 14/15. अब प्रयास कीजिए: (2/3)×(4/5) = 8/15; (8/3)×(4/7) = 32/21; (3/4)×(2/3) = 6/12 = 1/2; (2/3)×(1/5) = 2/15. Agar koi mixed fraction ho to pehle usse विषम भिन्न banao, phir yahi rule lagao. उदाहरण 2 yaad rakho: सुशांत 5½ घंटे में पुस्तक का (11/2)×(1/3) = 11/15 भाग पढ़ता है. Board mantra bold likho — Numerator×Numerator over Denominator×Denominator. Baad mein lowest terms mein simplify kar sakte ho, lekin pehle yeh rule bilkul clear hona chahiye!",
+      "example": "(2/3)×(7/5)=14/15; (3/5)×(1/7)=3/35; (1/2)×(5/3)=5/6.",
+      "board_lines": [
+        "(a/b)×(c/d) = (a×c)/(b×d)",
+        "(1/2)×(5/3) = 5/6 ;  (3/5)×(1/7) = 3/35",
+        "(2/3)×(7/5) = 14/15   → अंश×अंश / हर×हर"
+      ],
+      "common_mistake": "Students kabhi अंश×हर aur हर×अंश cross multiply (jaise addition ke liye) kar dete hain — multiplication mein cross nahi, seedha अंश-अंश, हर-हर.",
+      "memory_trick": "Upar-Upar, Neeche-Neeche: numerators saath, denominators saath — 'UNUN' rule.",
+      "gesture_action": "Do fingers up (numerators multiply), do fingers down (denominators multiply) — phir ek fraction shape.",
+      "real_life_examples": [
+        "Book reading: hours (mixed) × fraction of book per hour",
+        "Recipe: 2/3 cup ka 3/4 part use karna = (2/3)×(3/4)"
+      ],
+      "worked_example": {
+        "problem": "ज्ञात कीजिए: (i) (2/3)×(4/5)  (ii) (8/3)×(4/7)  (iii) (3/4)×(2/3)",
+        "steps": [
+          "(i) (2×4)/(3×5) = 8/15",
+          "(ii) (8×4)/(3×7) = 32/21 = 1 11/21",
+          "(iii) (3×2)/(4×3) = 6/12 = 1/2 (simplify)"
+        ],
+        "answer": "(i) 8/15  (ii) 32/21 = 1 11/21  (iii) 1/2"
+      },
+      "practice": {
+        "easy": [
+          "(1/4)×(1/3) aur (1/2)×(1/5) nikaalo; check karo order reverse same hai ya nahi."
+        ],
+        "medium": [
+          "(2/3)×(7/5) aur (3/5)×(1/7) गुणा करके न्यूनतम रूप में लिखो।"
+        ],
+        "hard": [
+          "सुशांत 1 घंटे में पुस्तक का 1/3 पढ़ता है। 5½ घंटे में कितना भाग? पूर्ण steps + improper conversion."
+        ]
+      },
+      "summary": "Do fractions multiply: (अंश×अंश)/(हर×हर); pictures aur Farida ribbon isi rule ko justify karte hain.",
+      "revision_point": "(a/b)×(c/d)=(ac)/(bd); (1/2)×(5/3)=5/6; (2/3)×(7/5)=14/15.",
+      "exam_tip": "Pehle multiply, phir lowest terms; agar mixed answer maanga ho to improper ko mixed banao.",
+      "source_text_hint": "अंशों का गुणनफल हरों का गुणनफल के रूप में करते हैं"
+    },
+    {
+      "concept": "गुणनफल का मान – उचित और विषम भिन्नें",
+      "say": "Last powerful idea — गुणनफल का मान. Whole numbers mein 3×4 = 12, aur 12 dono se बड़ा hai. Kya fractions mein bhi hamesha product बड़ा hota hai? Nahi! Pehle दो उचित भिन्नें — dono 1 se chhoti: (2/3)×(4/5) = 8/15. Compare karo: 8/15 < 2/3 aur 8/15 < 4/5. Product दोनों से कम! Aur examples: (1/2)×(5/7) = 5/14 — yeh 1/2 aur 5/7 dono se chhota. (3/8)×(5/7) = 15/56 bhi dono se chhota. NCERT rule: जब दो उचित भिन्नों को गुणा किया जाता है तो गुणनफल दोनों भिन्नों से कम होता है. Paanch aur examples banao aur check karo. Ab दो विषम भिन्नें — dono 1 se बड़ी: (7/3)×(5/2) = 35/6. Yahan 35/6 > 7/3 aur 35/6 > 5/2. Rule: दो विषम भिन्नों का गुणनफल उनमें से प्रत्येक से बड़ा होता है. Ab एक उचित और एक विषम: (2/3)×(7/5) = 14/15. Yahan 14/15 < 7/5 lekin 14/15 > 2/3 — product ek se chhota, ek se बड़ा, beech mein! Class project: proper×proper, improper×improper, aur mixed case ke 5-5 examples banao. Yeh comparison exam ke reason questions ke liye bahut useful hai — ratto mat, examples se feel karo!",
+      "example": "Proper: (2/3)×(4/5)=8/15 (dono se chhota); Improper: (7/3)×(5/2)=35/6 (dono se बडा); Mixed: (2/3)×(7/5)=14/15 (2/3 se बडा, 7/5 se chhota).",
+      "board_lines": [
+        "उचित × उचित → गुणनफल दोनों से छोटा  (8/15 < 2/3, 4/5)",
+        "विषम × विषम → गुणनफल दोनों से बड़ा  (35/6 > 7/3, 5/2)",
+        "उचित × विषम → एक से छोटा, एक से बड़ा  (14/15)"
+      ],
+      "common_mistake": "Students sochte hain multiplication hamesha number बडा karti hai — proper fractions mein product chhota ho sakta hai!",
+      "memory_trick": "P-P Small, I-I Tall, P-I Middle: Proper-Proper chhota; Improper-Improper बडा; Proper-Improper beech mein.",
+      "gesture_action": "Haath neeche (proper×proper product shrinks), haath upar (improper×improper grows), ek upar ek neeche (mixed case).",
+      "real_life_examples": [
+        "Aadha of aadha pizza = 1/4 — product chhota (proper×proper)",
+        "1⅓ plates × 2½ servings type quantities — product improper se aur बडा"
+      ],
+      "worked_example": {
+        "problem": "(2/3)×(4/5) aur (7/3)×(5/2) nikaalo. Har product ko uske factors se compare karke rule likho.",
+        "steps": [
+          "(2/3)×(4/5)=8/15; 8/15<2/3 aur 8/15<4/5 → उचित×उचित rule",
+          "(7/3)×(5/2)=35/6; 35/6>7/3 aur 35/6>5/2 → विषम×विषम rule",
+          "(2/3)×(7/5)=14/15; 14/15>2/3 lekin 14/15<7/5 → mixed case"
+        ],
+        "answer": "8/15 (dono proper se chhota); 35/6 (dono improper se बडा); 14/15 (beech mein)."
+      },
+      "practice": {
+        "easy": [
+          "(1/2)×(5/7) nikaalo aur batao product 1/2 se chhota hai ya बडा।"
+        ],
+        "medium": [
+          "Paanch उचित×उचित examples banao aur verify karo ki product dono se chhota hai."
+        ],
+        "hard": [
+          "(2/3)×(7/5)=14/15 ke liye prove-style likho: kyun 14/15 ek se chhota aur doosre se बडा hai. Inequalities clear dikhao."
+        ]
+      },
+      "summary": "Proper×proper → product chhota; improper×improper → product बडा; proper×improper → product beech mein hota hai.",
+      "revision_point": "8/15 < both proper; 35/6 > both improper; 14/15 between 2/3 and 7/5.",
+      "exam_tip": "Comparison questions mein hamesha calculate + do inequalities likho — sirf rule ratne se full marks mushkil.",
+      "source_text_hint": "जब दो उचित भिन्नों को गुणा किया जाता है तो गुणनफल दोनों भिन्नों से कम होता है"
+    }
+  ]
+}
