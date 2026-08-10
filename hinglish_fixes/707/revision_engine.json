@@ -1,0 +1,32 @@
+{
+  "points": [
+    {
+      "concept": "गति का परिचय और सापेक्ष गति",
+      "point": "Motion is relative — same object can be at rest for one observer and in motion for another."
+    },
+    {
+      "concept": "गति का वर्णन – निर्देश बिंदु",
+      "point": "No reference point → position incomplete. Always state origin + distance + direction."
+    },
+    {
+      "concept": "सरल रेखीय गति – दूरी और विस्थापन",
+      "point": "|displacement| ≤ distance; equal only for straight path without turning back."
+    },
+    {
+      "concept": "एकसमान गति और असमान गति",
+      "point": "Uniform motion ↔ equal distances in equal intervals of time."
+    },
+    {
+      "concept": "चाल और औसत चाल",
+      "point": "Average speed = total distance / total time — always, even if speed changed."
+    },
+    {
+      "concept": "वेग – दिशा के साथ चाल",
+      "point": "Average velocity = displacement/time; can be zero even when average speed is not."
+    },
+    {
+      "concept": "त्वरण – वेग परिवर्तन की दर",
+      "point": "a = (v−u)/t in m s⁻²; negative a means speeding down along the line of motion."
+    }
+  ]
+}

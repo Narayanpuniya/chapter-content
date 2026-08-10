@@ -1,0 +1,32 @@
+{
+  "tricks": [
+    {
+      "concept": "गति का परिचय और सापेक्ष गति",
+      "trick": "R-O-M: Relative to Observer — Motion. 'किसके हिसाब से?' पूछो, फिर बताओ गति है या नहीं।"
+    },
+    {
+      "concept": "गति का वर्णन – निर्देश बिंदु",
+      "trick": "O-D-D: Origin + Distance + Direction. तीनों मिलकर position complete।"
+    },
+    {
+      "concept": "सरल रेखीय गति – दूरी और विस्थापन",
+      "trick": "D-Path, Disp-Short: Distance = path length; Displacement = shortest (start→end)."
+    },
+    {
+      "concept": "एकसमान गति और असमान गति",
+      "trick": "U-E-E: Uniform = Equal distance in Equal time."
+    },
+    {
+      "concept": "चाल और औसत चाल",
+      "trick": "S-by-T: Speed = Distance by Time. Average = Total distance by Total time."
+    },
+    {
+      "concept": "वेग – दिशा के साथ चाल",
+      "trick": "V-D: Velocity needs Direction. Speed नहीं, Displacement/time = average velocity."
+    },
+    {
+      "concept": "त्वरण – वेग परिवर्तन की दर",
+      "trick": "A-VUT: Acceleration = Velocity change Upon Time — a = (v−u)/t."
+    }
+  ]
+}

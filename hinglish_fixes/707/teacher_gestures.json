@@ -1,0 +1,32 @@
+{
+  "gestures": [
+    {
+      "at_concept": "गति का परिचय और सापेक्ष गति",
+      "action": "एक student को bus बनाकर आगे चलने दो; दूसरा roadside पर खड़ा रहे — दोनों अलग-अलग बताएँ कि पेड़/bus किस direction में 'move' दिखती है।"
+    },
+    {
+      "at_concept": "गति का वर्णन – निर्देश बिंदु",
+      "action": "Blackboard पर एक point O mark करो (station), उससे north arrow और 'School 2 km' लिखो — reference clearly दिखाओ।"
+    },
+    {
+      "at_concept": "सरल रेखीय गति – दूरी और विस्थापन",
+      "action": "Floor पर chalk से सीधी line O-A-B बनाओ; student O से A जाकर वापस O आए — distance लंबे हाथ से, displacement zero (दोनों हाथ मिलाओ)।"
+    },
+    {
+      "at_concept": "एकसमान गति और असमान गति",
+      "action": "Metronome/clap हर second पर: student हर clap पर same steps आगे — uniform; फिर irregular steps — non-uniform."
+    },
+    {
+      "at_concept": "चाल और औसत चाल",
+      "action": "Board पर formula υ = s/t बड़ा लिखो; एक student distance walk करे, दूसरा stopwatch — class average speed निकाले।"
+    },
+    {
+      "at_concept": "वेग – दिशा के साथ चाल",
+      "action": "सीधी line पर जाओ और वापस आओ — distance हाथ फैला कर दिखाओ, displacement के लिए start point पर वापस खड़े होकर 'zero' दिखाओ।"
+    },
+    {
+      "at_concept": "त्वरण – वेग परिवर्तन की दर",
+      "action": "हाथ से slow से fast swing (positive a), फिर brake दिखाते हुए slow down (negative a)."
+    }
+  ]
+}
