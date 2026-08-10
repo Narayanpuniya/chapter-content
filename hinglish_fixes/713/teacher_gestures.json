@@ -1,0 +1,40 @@
+{
+  "gestures": [
+    {
+      "at_concept": "खाद्य संसाधन सुधार की आवश्यकता",
+      "action": "एक हाथ से बढ़ती भीड़ (population) दिखाओ, दूसरे से छोटा field (limited land), फिर दोनों हाथ ऊपर करके 'capacity बढ़ाओ' gesture."
+    },
+    {
+      "at_concept": "फसलों से पोषण तथा खरीफ-रबी फसलें",
+      "action": "Left hand up for monsoon (खरीफ–धान), right hand down for winter (रबी–गेहूँ); plate gesture for carbs-protein-fat."
+    },
+    {
+      "at_concept": "फसल उत्पादन सुधार के तीन प्रमुख वर्ग",
+      "action": "तीन उंगलियाँ दिखाओ: 1 seed select, 2 water/nutrient care, 3 shield for protection."
+    },
+    {
+      "at_concept": "फसल की किस्मों में सुधार",
+      "action": "दो उंगलियाँ मिलाओ (cross/hybridisation), फिर एक उंगली से 'gene dart' insert gesture (GM)."
+    },
+    {
+      "at_concept": "किस्म सुधार के महत्वपूर्ण कारक",
+      "action": "उंगलियों पर गिनते हुए छह factors: yield, quality, resist, early mature, wide adapt, agronomy."
+    },
+    {
+      "at_concept": "फसल उत्पादन प्रबंध तथा पोषक प्रबंध",
+      "action": "बड़ी मुट्ठी = वृहत् पोषक (ज़्यादा चाहिए), छोटी pinch = सूक्ष्म पोषक (कम मात्रा, फिर भी ज़रूरी)."
+    },
+    {
+      "at_concept": "खाद – कम्पोस्ट, वर्मीकम्पोस्ट तथा हरी खाद",
+      "action": "गड्ढा dig gesture (compost), उंगली से worm wriggle (vermi), फिर green plant को मिट्टी में मिलाने का action (green manure)."
+    },
+    {
+      "at_concept": "उर्वरक तथा कार्बनिक खेती",
+      "action": "एक हाथ से quick sprint (fertilizer yield), दूसरे से slow steady walk (manure long-term); neem leaf sprinkle for organic pest control."
+    },
+    {
+      "at_concept": "सिंचाई तथा फसल पैटर्न",
+      "action": "हाथ से पानी देना (irrigation); दो उंगलियाँ साथ (mixed); फिर उंगलियों को alternate rows में लगाओ (intercropping)."
+    }
+  ]
+}
