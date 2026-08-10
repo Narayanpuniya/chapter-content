@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "ध्वनि ऊर्जा का एक रूप है",
+      "action": "ज़ोर से ताली बजाओ, फिर धीरे — पूछो: कहाँ से energy आई? हाथों की mechanical energy!"
+    },
+    {
+      "at_concept": "ध्वनि का उत्पादन – कंपन",
+      "action": "दो उंगलियों को जल्दी-जल्दी आगे-पीछे हिलाओ (vibration), फिर रुक जाओ (no vibration = silence)."
+    },
+    {
+      "at_concept": "कंपन के विभिन्न तरीके और वाक-तंतु",
+      "action": "गले पर हाथ रखकर बोलो (vocal cords), फिर rubber band खींचकर छोड़ो (see vibration)."
+    },
+    {
+      "at_concept": "ध्वनि का संचरण – माध्यम और विक्षोभ",
+      "action": "एक line में students खड़े; पहला धक्का दे, chain में disturbance आगे बढ़े — कोई student end तक न भागे."
+    },
+    {
+      "at_concept": "संपीडन और विरलन",
+      "action": "हाथों को पास लाओ (compression), फिर दूर करो (rarefaction); बार-बार C-R wave दिखाओ."
+    },
+    {
+      "at_concept": "ध्वनि तरंगें अनुदैर्घ्य तरंगें हैं",
+      "action": "एक हाथ से slinky push-pull दिखाओ; दूसरी उंगली से mark आगे-पीछे (parallel oscillation)."
+    },
+    {
+      "at_concept": "अनुप्रस्थ तरंगें – तुलना",
+      "action": "एक हाथ आगे (wave direction), दूसरा ऊपर-नीचे (transverse); फिर दूसरा आगे-पीछे (longitudinal)."
+    },
+    {
+      "at_concept": "ध्वनि तरंग के अभिलक्षण – आवृत्ति, आयाम, तारत्व",
+      "action": "जल्दी-जल्दी ताली (high frequency/pitch), धीरे ताली (low pitch); soft vs hard desk hit (amplitude/loudness)."
+    }
+  ]
+}
