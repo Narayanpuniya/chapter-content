@@ -1,0 +1,40 @@
+{
+  "gestures": [
+    {
+      "at_concept": "गुरुत्वाकर्षण – परिचय और न्यूटन की सोच",
+      "action": "एक हाथ से apple गिराते हुए दिखाओ, दूसरे हाथ से moon Earth के around circle बनाएँ — same force बताओ."
+    },
+    {
+      "at_concept": "अभिकेंद्रीय बल और चंद्रमा की कक्षा",
+      "action": "हाथ में imaginary string-stone घुमाओ, फिर suddenly हाथ खोल दो — सीधी line दिखाओ (tangent)."
+    },
+    {
+      "at_concept": "गुरुत्वाकर्षण का सार्वत्रिक नियम",
+      "action": "दो fists को bodies बनाओ, बीच दूरी बढ़ाओ-घटाओ — दूरी बढ़े तो fingers से force छोटा दिखाओ (1/d²)."
+    },
+    {
+      "at_concept": "सार्वत्रिक नियम का महत्व",
+      "action": "पाँव से ज़मीन दबाओ (bound to Earth), उंगली से moon orbit, planets circle, फिर हाथ से wave (tides)."
+    },
+    {
+      "at_concept": "मुक्त पतन",
+      "action": "पत्थर ऊपर फेंको (act), रुकने का point दिखाओ, फिर नीचे गिरते हुए दोनों हाथ से g arrow नीचे."
+    },
+    {
+      "at_concept": "गुरुत्वीय त्वरण g का परिकलन",
+      "action": "Board पर formula लिखो, तीन उंगलियों से G, M, R count करो, फिर 'nine point eight' बोलकर नीचे arrow."
+    },
+    {
+      "at_concept": "गुरुत्व के प्रभाव में वस्तुओं की गति",
+      "action": "एक हाथ paper, एक stone — पहले अलग time दिखाओ; फिर 'vacuum' बोलकर दोनों एक साथ नीचे लाओ."
+    },
+    {
+      "at_concept": "द्रव्यमान तथा भार",
+      "action": "एक bag उठाओ — 'mass same everywhere'; फिर नीचे की तरफ खींचो — 'weight = pull of Earth'."
+    },
+    {
+      "at_concept": "चंद्रमा पर वस्तु का भार",
+      "action": "Earth पर भारी steps दिखाओ; Moon पर हल्की bounce — 'same mass, less weight'."
+    }
+  ]
+}

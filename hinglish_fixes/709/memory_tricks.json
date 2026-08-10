@@ -1,0 +1,40 @@
+{
+  "tricks": [
+    {
+      "concept": "गुरुत्वाकर्षण – परिचय और न्यूटन की सोच",
+      "trick": "S-C-P: सेब–चंद्रमा–ग्रह. तीन scenes, एक force — Gravitation."
+    },
+    {
+      "concept": "अभिकेंद्रीय बल और चंद्रमा की कक्षा",
+      "trick": "C-T-T: Circle needs Centre-pull (अभिकेंद्रीय); Leave string → Tangent flight."
+    },
+    {
+      "concept": "गुरुत्वाकर्षण का सार्वत्रिक नियम",
+      "trick": "G-M-M over D-square: 'जी एम एम, डी का स्क्वेयर' — F = GMm/d²."
+    },
+    {
+      "concept": "सार्वत्रिक नियम का महत्व",
+      "trick": "B-C-P-T: बाँधना–चंद्रमा–ग्रह–ज्वार (Tides). Universal law की चार सेवाएँ."
+    },
+    {
+      "concept": "मुक्त पतन",
+      "trick": "Free fall = Only Gravity. F = mg, g = GM/R²."
+    },
+    {
+      "concept": "गुरुत्वीय त्वरण g का परिकलन",
+      "trick": "6.7, 6, 6.4 → 'साढ़े छे, छे, छे दशमलव चार' से 9.8 याद करो: G-M-R → g."
+    },
+    {
+      "concept": "गुरुत्व के प्रभाव में वस्तुओं की गति",
+      "trick": "Paper vs Stone: Air delays paper. No air → same g for all. Equations: replace a by g."
+    },
+    {
+      "concept": "द्रव्यमान तथा भार",
+      "trick": "Mass is Matter (constant); Weight is Pull (mg, changes). M-constant, W-variable."
+    },
+    {
+      "concept": "चंद्रमा पर वस्तु का भार",
+      "trick": "Moon Mass Less → Moon Weight Less. m same, W changes. 'छठा भार, पूरा द्रव्यमान'."
+    }
+  ]
+}

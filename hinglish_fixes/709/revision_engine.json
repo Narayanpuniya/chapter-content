@@ -1,0 +1,40 @@
+{
+  "points": [
+    {
+      "concept": "गुरुत्वाकर्षण – परिचय और न्यूटन की सोच",
+      "point": "गुरुत्वाकर्षण = वह बल जो सेब, चंद्रमा और ग्रहों — सभी पर एक जैसा विचार देता है।"
+    },
+    {
+      "concept": "अभिकेंद्रीय बल और चंद्रमा की कक्षा",
+      "point": "Centripetal force → towards centre; Moon stays in orbit due to Earth's gravity providing it."
+    },
+    {
+      "concept": "गुरुत्वाकर्षण का सार्वत्रिक नियम",
+      "point": "Universal law: F = GMm/d²; G ≈ 6.67×10⁻¹¹ N m² kg⁻²; inverse-square."
+    },
+    {
+      "concept": "सार्वत्रिक नियम का महत्व",
+      "point": "Importance: binding to Earth + Moon orbit + planets + tides."
+    },
+    {
+      "concept": "मुक्त पतन",
+      "point": "Free fall → only gravity; g = GM/R² near surface; F = mg."
+    },
+    {
+      "concept": "गुरुत्वीय त्वरण g का परिकलन",
+      "point": "Substitute G, M_earth, R_earth → g ≈ 9.8 m s⁻²."
+    },
+    {
+      "concept": "गुरुत्व के प्रभाव में वस्तुओं की गति",
+      "point": "g independent of mass; vacuum → same rate; use kinematic eqs with ±g."
+    },
+    {
+      "concept": "द्रव्यमान तथा भार",
+      "point": "m constant everywhere; W = mg (newtons); same place ⇒ W ∝ m."
+    },
+    {
+      "concept": "चंद्रमा पर वस्तु का भार",
+      "point": "W_moon = GM_moon m / R_moon²; mass same, weight smaller on Moon."
+    }
+  ]
+}
