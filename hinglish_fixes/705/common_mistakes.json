@@ -1,0 +1,40 @@
+{
+  "mistakes": [
+    {
+      "concept": "कोशिका की खोज – रॉबर्ट हुक",
+      "mistake": "Students सोचते हैं Hooke ने living plant cells देखी थीं — actually cork के empty box-like compartments (dead cell walls) देखे; living free cells बाद में Leeuwenhoek ने देखे।"
+    },
+    {
+      "concept": "सजीव किससे बने होते हैं? – प्याज की झिल्ली",
+      "mistake": "Students cover slip जल्दबाज़ी में रखते हैं और air bubbles आ जाते हैं — bubbles को cell समझ बैठे। Cover slip always needle से slanted रखो।"
+    },
+    {
+      "concept": "एककोशिक और बहुकोशिक जीव",
+      "mistake": "Students सोचते हैं unicellular मतलब 'incomplete' या 'non-living' — गलत; unicellular जीव पूर्णतः जीवित और स्वतंत्र हैं।"
+    },
+    {
+      "concept": "कोशिका सिद्धांत का इतिहास",
+      "mistake": "Students cell theory सिर्फ Schleiden-Schwann तक रुक जाते हैं — Virchow का 'pre-existing cells' वाला point miss कर देते हैं, जो NCERT clearly देता है।"
+    },
+    {
+      "concept": "कोशिका का आकार, आकृति और कोशिकांग",
+      "mistake": "Students सोचते हैं सिर्फ multicellular में division of labour होता है — NCERT कहता है unicellular में भी organelles के through labour division होता है।"
+    },
+    {
+      "concept": "प्लैज्मा झिल्ली – वर्णात्मक पारगम्यता और विसरण",
+      "mistake": "Students सोचते हैं plasma membrane सब कुछ रोक देती है या सब कुछ छोड़ देती है — actually selective: कुछ allow, कुछ restrict।"
+    },
+    {
+      "concept": "परासरण – अल्प, सम और अतिपरासरणी विलयन",
+      "mistake": "Students hypotonic-hypertonic उलटा याद करते हैं — tip: HYPO = 'हीन' solute बाहर → पानी cell में; HYPER = 'अधिक' solute बाहर → पानी बाहर।"
+    },
+    {
+      "concept": "कोशिका भित्ति और जीवद्रव्य कुंचन",
+      "mistake": "Students plasmolysis को सिर्फ 'cell मरना' समझते हैं — पहले shrink/separate from wall होता है; boiling से dead cells में plasmolysis नहीं होता।"
+    },
+    {
+      "concept": "केंद्रक – क्रोमोसोम और DNA",
+      "mistake": "Students chromosome और DNA को एक ही चीज़ मान लेते हैं — chromosome = DNA + proteins; gene = DNA का functional segment।"
+    }
+  ]
+}

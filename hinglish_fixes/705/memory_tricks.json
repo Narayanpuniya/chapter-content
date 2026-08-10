@@ -1,0 +1,40 @@
+{
+  "tricks": [
+    {
+      "concept": "कोशिका की खोज – रॉबर्ट हुक",
+      "trick": "HOOK-65: Hooke in 1665 hooked the cell — cork boxes like honeycomb rooms."
+    },
+    {
+      "concept": "सजीव किससे बने होते हैं? – प्याज की झिल्ली",
+      "trick": "P-W-S-S-C: Peel → Watch-glass water → Slide drop → Stain → Cover-slip (no bubbles)."
+    },
+    {
+      "concept": "एककोशिक और बहुकोशिक जीव",
+      "trick": "UNI-A-C-P-B: Unicellular — Amoeba, Chlamydomonas, Paramoecium, Bacteria."
+    },
+    {
+      "concept": "कोशिका सिद्धांत का इतिहास",
+      "trick": "H-L-B-S-S-P-V-E: Hooke, Leeuwenhoek, Brown, Schleiden, Schwann, Purkinje, Virchow, Electron microscope."
+    },
+    {
+      "concept": "कोशिका का आकार, आकृति और कोशिकांग",
+      "trick": "SHAPE = Size & shape Help A cell Perform its Exact job."
+    },
+    {
+      "concept": "प्लैज्मा झिल्ली – वर्णात्मक पारगम्यता और विसरण",
+      "trick": "SELECTIVE = Some Enter, Lots Exit Carefully — Through Intracellular Valve (Energy-aware later); gases DIFFUSE high→low."
+    },
+    {
+      "concept": "परासरण – अल्प, सम और अतिपरासरणी विलयन",
+      "trick": "Hypo-Hippo: hypotonic में cell hippo की तरह फूल जाती है; Hyper = cell shrivels."
+    },
+    {
+      "concept": "कोशिका भित्ति और जीवद्रव्य कुंचन",
+      "trick": "PLASMO-LYSIS = Plasma membrane Leaves the wall In Salty/Sugar solution."
+    },
+    {
+      "concept": "केंद्रक – क्रोमोसोम और DNA",
+      "trick": "Nu-DNA-Gene: Nucleus holds DNA on chromosomes; Genes are DNA's working pieces."
+    }
+  ]
+}
