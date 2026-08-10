@@ -1,0 +1,40 @@
+{
+  "mistakes": [
+    {
+      "concept": "शुद्ध पदार्थ की वैज्ञानिक परिभाषा",
+      "mistake": "Students सोचते हैं कि packet पर 'शुद्ध' लिखा है तो वह scientifically pure substance है — actually दूध, juice, घी mixtures हैं।"
+    },
+    {
+      "concept": "मिश्रण क्या है?",
+      "mistake": "Students मिश्रण और यौगिक को confuse करते हैं — mixture physical mixing से बनता है और components अलग किए जा सकते हैं; compound chemical combination है।"
+    },
+    {
+      "concept": "समांगी और विषमांगी मिश्रण",
+      "mistake": "Students सोचते हैं homogeneous mixture हमेशा same concentration का होता है — नहीं; composition uniform होता है, लेकिन different solutions अलग concentration रख सकते हैं।"
+    },
+    {
+      "concept": "विलयन – गुणधर्म, विलेय और विलायक",
+      "mistake": "Students सोचते हैं solution सिर्फ liquid होता है — solid solutions (alloys) और gaseous solutions (air) भी होते हैं।"
+    },
+    {
+      "concept": "विलयन की सांद्रता",
+      "mistake": "Students विलयन का द्रव्यमान = केवल विलायक का द्रव्यमान ले लेते हैं — सही: विलेय + विलायक।"
+    },
+    {
+      "concept": "निलंबन क्या है?",
+      "mistake": "Students suspension को solution बोल देते हैं अगर थोड़ी देर मिलाया हो — settle होने दो और filter करो, तब पहचान clear होती है।"
+    },
+    {
+      "concept": "कोलाइडल विलयन और टिन्डल प्रभाव",
+      "mistake": "Students सोचते हैं कि जो Tyndall दिखाए वह हमेशा suspension है — colloids भी Tyndall दिखाते हैं; suspension settle होता है, colloid generally नहीं।"
+    },
+    {
+      "concept": "भौतिक एवं रासायनिक परिवर्तन",
+      "mistake": "Students पानी का उबलना chemical समझ लेते हैं — actually सिर्फ state change है, H₂O ही रहता है।"
+    },
+    {
+      "concept": "तत्व – धातु, अधातु और उपधातु",
+      "mistake": "Students पारा को अधातु मान लेते हैं क्योंकि वह द्रव है — पारा धातु है; ब्रोमीन द्रव अधातु है।"
+    }
+  ]
+}

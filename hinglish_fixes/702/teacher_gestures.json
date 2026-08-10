@@ -1,0 +1,40 @@
+{
+  "gestures": [
+    {
+      "at_concept": "शुद्ध पदार्थ की वैज्ञानिक परिभाषा",
+      "action": "एक हाथ से packet दिखाओ ('शुद्ध' label), दूसरे हाथ से तीन उंगलियाँ फैलाओ (water–fat–protein) — दिखाओ कि label और science अलग हैं।"
+    },
+    {
+      "at_concept": "मिश्रण क्या है?",
+      "action": "दो अलग chalk pieces (नमक और पानी) दिखाओ, मिलाओ, फिर 'अलग भी कर सकते हैं' gesture से evaporation act out करो।"
+    },
+    {
+      "at_concept": "समांगी और विषमांगी मिश्रण",
+      "action": "एक glass में नमक-पानी मिलाओ (smooth stir — homogeneous); दूसरे में तेल-पानी मिलाओ और layers दिखाओ (heterogeneous)."
+    },
+    {
+      "at_concept": "विलयन – गुणधर्म, विलेय और विलायक",
+      "action": "छोटी उंगली = solute (नमक), बड़ी मुट्ठी = solvent (पानी); मिलाकर smooth solution दिखाओ, torch से path न दिखे — act out."
+    },
+    {
+      "at_concept": "विलयन की सांद्रता",
+      "action": "Beaker में नमक डालते जाओ जब तक घुले; जब नीचे जमने लगे — 'संतृप्त!' बोलो; थोड़ा कम हो तो 'असंतृप्त'."
+    },
+    {
+      "at_concept": "निलंबन क्या है?",
+      "action": "Beaker में मिट्टी-पानी हिलाओ, torch से path दिखाओ, फिर रुक जाओ — उंगली से नीचे settling दिखाओ, फिर filter paper पे residue."
+    },
+    {
+      "at_concept": "कोलाइडल विलयन और टिन्डल प्रभाव",
+      "action": "Dark room में torch से दूध-पानी वाले glass पर beam दिखाओ — 'ये रहा टिन्डल!' — फिर clear salt solution पर दिखाओ कि path नहीं।"
+    },
+    {
+      "at_concept": "भौतिक एवं रासायनिक परिवर्तन",
+      "action": "Ice cube melt करने का gesture (physical), फिर matchstick जलाने का (chemical — new smoke/ash) — contrast clear करो।"
+    },
+    {
+      "at_concept": "तत्व – धातु, अधातु और उपधातु",
+      "action": "Imaginary copper wire खींचो (ductile), sheet पीटो (malleable), bulb जलाओ (conductor) — metal properties act out."
+    }
+  ]
+}

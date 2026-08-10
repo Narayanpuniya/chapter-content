@@ -1,0 +1,40 @@
+{
+  "points": [
+    {
+      "concept": "शुद्ध पदार्थ की वैज्ञानिक परिभाषा",
+      "point": "Daily 'pure' ≠ scientific pure; pure = same chemical nature particles throughout."
+    },
+    {
+      "concept": "मिश्रण क्या है?",
+      "point": "Mixture = more than one pure substance; components often separable by physical methods."
+    },
+    {
+      "concept": "समांगी और विषमांगी मिश्रण",
+      "point": "Homogeneous = uniform (solution); Heterogeneous = physically distinct parts; same solute can give different compositions."
+    },
+    {
+      "concept": "विलयन – गुणधर्म, विलेय और विलायक",
+      "point": "Solution: homogeneous, <1 nm, no Tyndall, stable, not filterable; solvent > solute usually."
+    },
+    {
+      "concept": "विलयन की सांद्रता",
+      "point": "Saturated = max solute at that T; mass% uses mass of SOLUTION (solute+solvent)."
+    },
+    {
+      "concept": "निलंबन क्या है?",
+      "point": "Suspension = heterogeneous + visible + unsettled/temporary + filterable + scatters light."
+    },
+    {
+      "concept": "कोलाइडल विलयन और टिन्डल प्रभाव",
+      "point": "Colloid ≈ looks homogeneous, is heterogeneous; Tyndall yes; stable; not ordinary filtration."
+    },
+    {
+      "concept": "भौतिक एवं रासायनिक परिवर्तन",
+      "point": "Physical = same substance/composition; Chemical = new substance (reaction)."
+    },
+    {
+      "concept": "तत्व – धातु, अधातु और उपधातु",
+      "point": "Element: cannot be broken chemically into simpler substances; metals vs non-metals vs metalloids."
+    }
+  ]
+}
