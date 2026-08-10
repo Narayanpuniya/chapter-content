@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "ऊतक क्या है?",
+      "action": "पहले एक student अकेला सब काम करे (अमीबा), फिर class को groups में बाँटो — muscle, nerve, blood — हर group अपना काम दिखाए।"
+    },
+    {
+      "at_concept": "पौधे और जंतुओं के ऊतकों में अंतर",
+      "action": "एक student statue बन कर खड़ा रहे (plant — no movement, need support); दूसरा room में घूमे (animal — needs living muscle/energy)."
+    },
+    {
+      "at_concept": "विभज्योतक",
+      "action": "उंगली tip से ऊपर खींचो (apical length), कमर से चौड़ी दिखाओ (lateral girth), घुटने/joints पे point करो (intercalary near nodes)."
+    },
+    {
+      "at_concept": "स्थायी ऊतक और विभेदीकरण",
+      "action": "हाथ से 'divide-divide' gesture (meristem), फिर freeze करके अलग-अलग poses (storage/support/transport) — differentiation to permanent roles."
+    },
+    {
+      "at_concept": "सरल स्थायी ऊतक",
+      "action": "Soft sponge squeeze (parenchyma storage), rubber band bend (collenchyma), hard stick break-not-bend (sclerenchyma)."
+    },
+    {
+      "at_concept": "एपिडर्मिस, स्टोमेटा और छाल",
+      "action": "Palm से leaf surface cover (epidermis), दो उंगलियों से kidney-shaped guard cells बनाओ और छेद खोल/बंद (stomata), फिर fist tight (cork waterproof)."
+    },
+    {
+      "at_concept": "जटिल स्थायी ऊतक – जाइलम और फ्लोएम",
+      "action": "एक हाथ नीचे से ऊपर (xylem water), दूसरा हाथ leaves से पूरे body को point (phloem food distribution)."
+    },
+    {
+      "at_concept": "जंतु ऊतक और एपिथीलियमी ऊतक",
+      "action": "Chest पे हाथ रखकर साँस लो (muscle movement), नाड़ी पे pulse (blood connective), skin पे palm (epithelial cover)."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "mistakes": [
+    {
+      "concept": "ऊतक क्या है?",
+      "mistake": "Students सोचते हैं कि कोई भी cells का झुंड tissue है — actually cells आकृति में समान होनी चाहिए और एक ही कार्य एक साथ करना चाहिए।"
+    },
+    {
+      "concept": "पौधे और जंतुओं के ऊतकों में अंतर",
+      "mistake": "Students सोचते हैं plants और animals के tissues बिल्कुल same होते हैं — structure, growth pattern और living/dead nature में clear differences हैं।"
+    },
+    {
+      "concept": "विभज्योतक",
+      "mistake": "Students सोचते हैं पूरा plant हर जगह equally बढ़ता है — actually वृद्धि meristem regions तक limited है।"
+    },
+    {
+      "concept": "स्थायी ऊतक और विभेदीकरण",
+      "mistake": "Students meristem और permanent tissue को confuse करते हैं — meristem divides; permanent tissue generally does not divide after differentiation."
+    },
+    {
+      "concept": "सरल स्थायी ऊतक",
+      "mistake": "Students collenchyma और sclerenchyma दोनों को 'support' बोलकर confuse करते हैं — collenchyma living+flexible; sclerenchyma dead+hard lignified."
+    },
+    {
+      "concept": "एपिडर्मिस, स्टोमेटा और छाल",
+      "mistake": "Students सोचते हैं stomata सिर्फ साँस के लिए हैं — actually gas exchange + transpiration; photosynthesis के लिए CO₂ stomata से आती है।"
+    },
+    {
+      "concept": "जटिल स्थायी ऊतक – जाइलम और फ्लोएम",
+      "mistake": "Students xylem-phloem का direction reverse कर देते हैं — xylem water up; phloem food from leaves to other parts (not only 'down')."
+    },
+    {
+      "concept": "जंतु ऊतक और एपिथीलियमी ऊतक",
+      "mistake": "Students blood को अलग mystery substance समझते हैं — NCERT clearly कहता है रक्त संयोजी ऊतक का एक प्रकार है."
+    }
+  ]
+}
