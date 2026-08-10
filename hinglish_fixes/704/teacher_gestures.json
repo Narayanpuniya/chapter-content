@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "पदार्थों में आवेशित कण – इलेक्ट्रॉन और प्रोटॉन",
+      "action": "Left हाथ से छोटा circle (e⁻, light), right हाथ से बड़ा fist (p⁺, heavy) — opposite charges दिखाओ।"
+    },
+    {
+      "at_concept": "टॉमसन का परमाणु मॉडल",
+      "action": "एक हाथ से बड़ा ball (positive sphere), उँगलियों से छोटे dots दबाओ (electrons embedded) — plum pudding दिखाओ।"
+    },
+    {
+      "at_concept": "रदरफोर्ड का अल्फा-कण प्रकीर्णन प्रयोग",
+      "action": "Students को 'alpha particles' बनाओ — ज़्यादातर सीधे चलो, कुछ थोड़ा मुड़ो, एक student 180° घूम कर वापस आओ।"
+    },
+    {
+      "at_concept": "रदरफोर्ड का नाभिकीय मॉडल और कमियाँ",
+      "action": "एक student centre (nucleus) बनो; दूसरा circle करता-करता अंदर की तरफ spiral करके गिर जाए — instability act out।"
+    },
+    {
+      "at_concept": "बोर का परमाण्विक मॉडल",
+      "action": "Floor पर chalk से 3 concentric circles — K, L, M — students सिर्फ lines पर खड़े हों, बीच में न आएँ।"
+    },
+    {
+      "at_concept": "न्यूट्रॉन की खोज",
+      "action": "तीन cards दिखाओ: e⁻ (minus), p⁺ (plus), n (zero) — n वाले card को centre 'nucleus' zone में रखो।"
+    },
+    {
+      "at_concept": "इलेक्ट्रॉनों का वितरण – बोर-बरी स्कीम",
+      "action": "चार concentric rings पर 2, 8, 18, 32 fingers/count दिखाओ; outermost पर 'stop at 8' signal."
+    },
+    {
+      "at_concept": "संयोजकता",
+      "action": "एक हाथ में 7 fingers (F), दूसरे से 1 finger add करके '8' — gain easier than losing seven."
+    }
+  ]
+}

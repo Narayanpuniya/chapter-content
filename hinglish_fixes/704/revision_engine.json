@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "concept": "पदार्थों में आवेशित कण – इलेक्ट्रॉन और प्रोटॉन",
+      "point": "e⁻ = −1, negligible mass; p⁺ = +1, mass 1 u ≈ 2000× electron; canal rays = positive radiation (1886)."
+    },
+    {
+      "concept": "टॉमसन का परमाणु मॉडल",
+      "point": "Thomson = positive sphere + embedded e⁻; charges equal → neutral; no nucleus yet."
+    },
+    {
+      "concept": "रदरफोर्ड का अल्फा-कण प्रकीर्णन प्रयोग",
+      "point": "Most α straight → empty space; few deflect → small +ve region; 1/12000 rebound → tiny dense nucleus (≈10⁵ times smaller radius)."
+    },
+    {
+      "concept": "रदरफोर्ड का नाभिकीय मॉडल और कमियाँ",
+      "point": "Nucleus at centre (+ve, mass); e⁻ in circular orbits; drawback = radiating accelerating charge → collapse."
+    },
+    {
+      "concept": "बोर का परमाण्विक मॉडल",
+      "point": "Discrete orbits (K,L,M,N); no radiation while in orbit; energy levels — Bohr 1922 Nobel."
+    },
+    {
+      "concept": "न्यूट्रॉन की खोज",
+      "point": "Neutron n: 0 charge, mass ≈ 1 u; in all nuclei except ordinary H; discovered by Chadwick, 1932."
+    },
+    {
+      "concept": "इलेक्ट्रॉनों का वितरण – बोर-बरी स्कीम",
+      "point": "2n²; outer max 8; fill inner first — C(2,4), Na(2,8,1), filled K+L = 10 e⁻."
+    },
+    {
+      "concept": "संयोजकता",
+      "point": "Valency from valence electrons toward octet; F/Cl = 1 (not 7); O = 2; Na = 1; Mg = 2; Al = 3; noble = 0."
+    }
+  ]
+}

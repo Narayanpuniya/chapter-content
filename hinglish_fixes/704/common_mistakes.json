@@ -1,0 +1,36 @@
+{
+  "mistakes": [
+    {
+      "concept": "पदार्थों में आवेशित कण – इलेक्ट्रॉन और प्रोटॉन",
+      "mistake": "Students सोचते हैं Dalton के atom अब भी अविभाज्य हैं — NCERT clearly कहती है electron-proton discovery ने उस धारणा को गलत साबित कर दिया।"
+    },
+    {
+      "concept": "टॉमसन का परमाणु मॉडल",
+      "mistake": "Students सोचते हैं Thomson model में nucleus है — गलत; nucleus Rutherford ने दिया। Thomson में positive charge पूरे गोले में फैला है।"
+    },
+    {
+      "concept": "रदरफोर्ड का अल्फा-कण प्रकीर्णन प्रयोग",
+      "mistake": "Students लिखते हैं 'सभी अल्फा कण वापस लौटे' — गलत; केवल लगभग 1 in 12000 वापस आए, अधिकांश सीधे निकले।"
+    },
+    {
+      "concept": "रदरफोर्ड का नाभिकीय मॉडल और कमियाँ",
+      "mistake": "Students Rutherford की कमी को 'nucleus गलत है' लिख देते हैं — nucleus सही था; समस्या electron orbits की classical instability है।"
+    },
+    {
+      "concept": "बोर का परमाण्विक मॉडल",
+      "mistake": "Students लिखते हैं Bohr ने nucleus discover किया — गलत; nucleus Rutherford का है, Bohr ने orbits की नियमबद्धता दी।"
+    },
+    {
+      "concept": "न्यूट्रॉन की खोज",
+      "mistake": "Students neutron को electron के साथ shell में रख देते हैं — गलत; neutron नाभिक में होता है, कक्षाओं में नहीं।"
+    },
+    {
+      "concept": "इलेक्ट्रॉनों का वितरण – बोर-बरी स्कीम",
+      "mistake": "Students M shell में सीधा 18 भरने लगते हैं पहले 18 तत्वों में — भूल जाते हैं कि बाह्यतम में 8 की सीमा और क्रमबद्ध भराव लागू होता है।"
+    },
+    {
+      "concept": "संयोजकता",
+      "mistake": "Students फ्लोरीन/क्लोरिन की संयोजकता 7 लिख देते हैं — NCERT के अनुसार अष्टक के लिए 1 e⁻ लेना आसान, अतः संयोजकता 1।"
+    }
+  ]
+}
