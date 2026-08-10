@@ -1,0 +1,36 @@
+{
+  "tricks": [
+    {
+      "concept": "गति का कारण और बल की अवधारणा",
+      "trick": "K-D-T: खींचो–धकेलो–ठोको = Force. तीन actions, एक concept."
+    },
+    {
+      "concept": "बल के प्रभाव – चाल, दिशा और आकार",
+      "trick": "C-D-S: चाल–दिशा–आकार (Shape). Force तीन चीज़ें बदल सकता है."
+    },
+    {
+      "concept": "संतुलित और असंतुलित बल",
+      "trick": "Balance = Cancel = No change. Unbalance = Net force = Motion change."
+    },
+    {
+      "concept": "घर्षण बल तथा नेट बल की भूमिका",
+      "trick": "Push > Friction = Move. Net force Zero = Constant speed (or rest)."
+    },
+    {
+      "concept": "गैलीलियो के प्रयोग – एकसमान गति का विचार",
+      "trick": "Incline ↓ speed↑; Incline ↑ speed↓; Flat ideal → endless roll. Galileo's story in three slopes."
+    },
+    {
+      "concept": "न्यूटन का प्रथम नियम – जड़त्व का नियम",
+      "trick": "I-R-U: Inertia — Rest — Uniform motion. First law = keep IRU until external force."
+    },
+    {
+      "concept": "जड़त्व के दैनिक अनुभव और गतिविधियाँ",
+      "trick": "Brake-आगे, Start-पीछे, Turn-Side. तीन inertia experiences in a vehicle."
+    },
+    {
+      "concept": "जड़त्व तथा द्रव्यमान",
+      "trick": "Heavy = Happy to stay (ज़्यादा inertia). Mass measures inertia."
+    }
+  ]
+}

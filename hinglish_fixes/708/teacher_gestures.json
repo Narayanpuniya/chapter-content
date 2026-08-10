@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "गति का कारण और बल की अवधारणा",
+      "action": "एक हाथ से trolley push, दूसरे से drawer pull, फिर foot से imaginary ball kick — तीनों को force बताओ."
+    },
+    {
+      "at_concept": "बल के प्रभाव – चाल, दिशा और आकार",
+      "action": "एक spring खींचो (shape), ball को तेज़/slow push दिखाओ (speed), फिर ball की direction left-right change करो."
+    },
+    {
+      "at_concept": "संतुलित और असंतुलित बल",
+      "action": "दो students opposite directions में equal pull (no move), फिर एक stronger pull करे (block moves that side)."
+    },
+    {
+      "at_concept": "घर्षण बल तथा नेट बल की भूमिका",
+      "action": "Box push slowly (no move), harder (still stuck), then strongest (slides) — friction balancing act दिखाओ."
+    },
+    {
+      "at_concept": "गैलीलियो के प्रयोग – एकसमान गति का विचार",
+      "action": "हाथ से V-shape double incline बनाओ, ball left से right same height, फिर right side flatten करके endless motion दिखाओ."
+    },
+    {
+      "at_concept": "न्यूटन का प्रथम नियम – जड़त्व का नियम",
+      "action": "एक student still खड़ा (rest), दूसरा सीधी line में equal steps (uniform motion); तीसरा gently push करके 'external force' दिखाओ."
+    },
+    {
+      "at_concept": "जड़त्व के दैनिक अनुभव और गतिविधियाँ",
+      "action": "Students को pretend seatbelt पहनते हुए sudden brake (lean forward) और sudden start (lean back) act out करने दो."
+    },
+    {
+      "at_concept": "जड़त्व तथा द्रव्यमान",
+      "action": "एक empty bag और books-भरा bag दोनों को same push से compare करके mass-inertia link दिखाओ."
+    }
+  ]
+}

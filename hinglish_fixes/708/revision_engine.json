@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "concept": "गति का कारण और बल की अवधारणा",
+      "point": "Force = push/pull/kick; कारण of change in motion; प्रभाव दिखता है, बल स्वयं नहीं।"
+    },
+    {
+      "concept": "बल के प्रभाव – चाल, दिशा और आकार",
+      "point": "Effects of force: speed up/slow down, change direction, change shape."
+    },
+    {
+      "concept": "संतुलित और असंतुलित बल",
+      "point": "Balanced → no change; Unbalanced → change in state of motion (net force direction)."
+    },
+    {
+      "concept": "घर्षण बल तथा नेट बल की भूमिका",
+      "point": "Friction opposes motion; constant velocity needs balanced forces (net force zero)."
+    },
+    {
+      "concept": "गैलीलियो के प्रयोग – एकसमान गति का विचार",
+      "point": "Ideal horizontal frictionless → constant velocity forever; friction makes real balls stop."
+    },
+    {
+      "concept": "न्यूटन का प्रथम नियम – जड़त्व का नियम",
+      "point": "No external force → keep rest OR uniform straight-line motion; opposition to change = inertia."
+    },
+    {
+      "concept": "जड़त्व के दैनिक अनुभव और गतिविधियाँ",
+      "point": "Vehicle: brake→forward, start→backward, turn→sideways; coin-card = inertia of rest demo."
+    },
+    {
+      "concept": "जड़त्व तथा द्रव्यमान",
+      "point": "Inertia ∝ mass (qualitative); mass = measure of inertia."
+    }
+  ]
+}
