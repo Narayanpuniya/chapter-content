@@ -1,0 +1,36 @@
+{
+  "mistakes": [
+    {
+      "concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "mistake": "Students सोचते हैं यह chapter सिर्फ definitions का है — actually आगे proofs और parallel-lines theorems की foundation यहीं से बनती है।"
+    },
+    {
+      "concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "mistake": "Students ray और line segment को mix कर देते हैं — ray का एक ही endpoint होता है और एक direction में infinitely जाती है; segment के दो endpoints होते हैं और limited length।"
+    },
+    {
+      "concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "mistake": "120° या 150° को प्रतिवर्ती (reflex) बोल देना — वह अधिक (obtuse) होते हैं; reflex 180° से बड़ा होना चाहिए।"
+    },
+    {
+      "concept": "पूरक, संपूरक और आसन्न कोण",
+      "mistake": "सिर्फ common vertex और एक common arm देख कर adjacent बोल देना — अगर non-common arms common arm के same side पर हैं तो adjacent नहीं।"
+    },
+    {
+      "concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "mistake": "Adjacent angles को ही vertically opposite बोल देना — vertically opposite ‘opposite’ होते हैं, side-by-side नहीं।"
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "mistake": "Paper के अंदर नहीं मिल रही इसलिए parallel मान लेना — lines extend होती हैं; थोड़ी tilt पर दूर जाकर मिल सकती हैं।"
+    },
+    {
+      "concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "mistake": "Converse को automatically true मान लेना बिना check — यहाँ book activity से Axiom 6.2 अलग से accept करवाती है; हर statement का converse true नहीं होता।"
+    },
+    {
+      "concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "mistake": "Vertically opposite को ‘assume equal’ कर देना बिना linear pair reason — exam में proof steps चाहिए: LP, LP, subtract/equals।"
+    }
+  ]
+}

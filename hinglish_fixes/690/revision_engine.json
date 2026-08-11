@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "point": "Focus: intersecting lines + transversal on parallels → angle properties + deductive proofs."
+    },
+    {
+      "concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "point": "Collinear = same line; notation AB context से; segment ≠ ray ≠ line."
+    },
+    {
+      "concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "point": "Boundaries याद रखो: 90 और 180 पे exact names change होते हैं; reflex > 180."
+    },
+    {
+      "concept": "पूरक, संपूरक और आसन्न कोण",
+      "point": "Adjacent ≠ automatically complementary/supplementary; check the three conditions carefully."
+    },
+    {
+      "concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "point": "X-figure: opposite = vertically opposite; side-by-side on a line = linear pair."
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "point": "Parallel ⇒ equal common perpendicular distances; lines extend both ways infinitely."
+    },
+    {
+      "concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "point": "Axiom 6.1 and 6.2 are converses; together = Linear Pair Axiom."
+    },
+    {
+      "concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "point": "Proof skeleton: LP sum 180 + LP sum 180 ⇒ VO angles equal; then apply to numericals."
+    }
+  ]
+}

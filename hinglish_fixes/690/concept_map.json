@@ -1,0 +1,44 @@
+{
+  "chapter_overview": "आज हम NCERT Class 9 Mathematics के Chapter 12 — रेखाएँ और कोण — को पढ़ेंगे। इस chapter में हम review करेंगे line, ray, line segment और types of angles; फिर adjacent angles, linear pair, vertically opposite angles, intersecting और parallel lines, Linear Pair Axiom, और Theorem: जब दो lines intersect करती हैं तो vertically opposite angles equal होते हैं। यह सब बातें proofs और numerical problems के लिए foundation हैं।",
+  "welcome": "नमस्ते class! Smart Board पर आज Geometry का एक बहुत useful chapter शुरू करते हैं — रेखाएँ और कोण। सोचो: school exhibition के लिए बांस से झोपड़ी का model बनाना हो, architect building का map बनाये, या science में light ray diagram — हर जगह lines और angles का knowledge चाहिए। Teacher आज physically नहीं हैं, लेकिन मैं तुम्हारे साथ step-by-step पढ़ाऊँगा। Ready हो? Chalk और compass सोच के बैठ जाओ!",
+  "learning_outcomes": [
+    "रेखाखंड, किरण, रेखा, संरेख बिंदु और कोण के प्रकार (न्यून, सम, अधिक, ऋजु, प्रतिवर्ती) को clearly identify करना",
+    "पूरक, संपूरक, आसन्न कोण, रैखिक युग्म और शीर्षाभिमुख कोण की definitions apply करना",
+    "प्रतिच्छेदी और समांतर रेखाओं का difference और parallel lines के बीच distance समझना",
+    "रैखिक युग्म अभिगृहीत (6.1, 6.2) और प्रमेय 6.1 (vertically opposite angles equal) से proofs और numericals solve करना"
+  ],
+  "concepts": [
+    {
+      "number": 1,
+      "name": "भूमिका – रेखाओं और कोणों का महत्व"
+    },
+    {
+      "number": 2,
+      "name": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु"
+    },
+    {
+      "number": 3,
+      "name": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक"
+    },
+    {
+      "number": 4,
+      "name": "पूरक, संपूरक और आसन्न कोण"
+    },
+    {
+      "number": 5,
+      "name": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय"
+    },
+    {
+      "number": 6,
+      "name": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ"
+    },
+    {
+      "number": 7,
+      "name": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2"
+    },
+    {
+      "number": 8,
+      "name": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण"
+    }
+  ]
+}

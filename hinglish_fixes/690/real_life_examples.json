@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "items": [
+        "Architect का multi-storey building plan — parallel walls और intersecting roof lines",
+        "Physics/Science: refraction ray diagram में normal, incident और refracted rays के angles"
+      ]
+    },
+    {
+      "concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "items": [
+        "Railway track की पूरी line vs station A से B तक का track piece (segment)",
+        "Torch की light beam — bulb से एक direction में (ray जैसा idea)"
+      ]
+    },
+    {
+      "concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "items": [
+        "Wall और floor का junction ≈ समकोण",
+        "Fully opened folding bed/door nearly सीधी line — ऋजु कोण जैसा"
+      ]
+    },
+    {
+      "concept": "पूरक, संपूरक और आसन्न कोण",
+      "items": [
+        "Set-square के 30°-60° angles complementary बनाते हैं with right angle of frame",
+        "Door frame corner: wall angle + door opening angle adjacent दिख सकते हैं जब common edge shared हो"
+      ]
+    },
+    {
+      "concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "items": [
+        "Scissors या tongs खोलते वक़्त opposite openings",
+        "Road crossing (plus junction) पर opposite traffic corners के angles"
+      ]
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "items": [
+        "Railway tracks — समांतर, बीच की दूरी लगभग समान",
+        "Scissors blades closed parallel-ish, open होने पर intersecting at pivot"
+      ]
+    },
+    {
+      "concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "items": [
+        "Electric pole standing on ground line — left और right ground angles linear pair",
+        "Open book lying flat: two pages’ angles at spine can form linear pair when book fully open flat"
+      ]
+    },
+    {
+      "concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "items": [
+        "Window grill crossings — opposite angles equal दिखते हैं",
+        "Plus-shaped road junction — opposite corner angles equal for straight roads"
+      ]
+    }
+  ]
+}

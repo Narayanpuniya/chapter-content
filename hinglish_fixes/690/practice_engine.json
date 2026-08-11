@@ -1,0 +1,100 @@
+{
+  "sets": [
+    {
+      "concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "easy": [
+        "इस chapter में हम mainly कौनसे दो situations के angle properties पढ़ेंगे?"
+      ],
+      "medium": [
+        "Deductive reasoning (निगमनिक तर्कण) का मतलब classroom words में समझाओ — activity-check से यह कैसे अलग है?"
+      ],
+      "hard": [
+        "Architect और science (light/forces) के examples से explain करो कि lines-angles knowledge के बिना design/diagram incomplete क्यों रह जाता है।"
+      ]
+    },
+    {
+      "concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "easy": [
+        "रेखाखंड और किरण में एक मुख्य अंतर लिखो।"
+      ],
+      "medium": [
+        "संरेख और असंरेख बिंदुओं की परिभाषा उदाहरण सहित लिखो।"
+      ],
+      "hard": [
+        "Diagram में same label AB कब line, कब ray, कब segment समझा जाये — NCERT notation rule explain करो।"
+      ]
+    },
+    {
+      "concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "easy": [
+        "ऋजु कोण और समकोण का माप लिखो।"
+      ],
+      "medium": [
+        "क्या 180° अधिक कोण है? कारण सहित उत्तर दो।"
+      ],
+      "hard": [
+        "एक angle 200° है। इसके corresponding smaller angle (same arms) का measure क्या होगा और दोनों types कौनसे हैं?"
+      ]
+    },
+    {
+      "concept": "पूरक, संपूरक और आसन्न कोण",
+      "easy": [
+        "पूरक कोणों का योग कितना होता है? संपूरक का?"
+      ],
+      "medium": [
+        "आसन्न कोणों की तीन शर्तें लिखो।"
+      ],
+      "hard": [
+        "Explain with reason: क्यों ∠AOB और ∠AOC (common arm OA, non-common OB & OC same side of OA) adjacent नहीं कहलाते।"
+      ]
+    },
+    {
+      "concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "easy": [
+        "रैखिक युग्म की परिभाषा एक वाक्य में लिखो।"
+      ],
+      "medium": [
+        "दो प्रतिच्छेदी रेखाओं से बने शीर्षाभिमुख कोणों के दोनों युग्म लिखो।"
+      ],
+      "hard": [
+        "एक figure में बताओ कौनसे angles adjacent हैं, कौनसे linear pair, कौनसे vertically opposite — तीन columns में classify करो।"
+      ]
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "easy": [
+        "अप्रतिच्छेदी रेखाओं को और किस नाम से पुकारते हैं?"
+      ],
+      "medium": [
+        "समांतर रेखाओं के बीच की दूरी की परिभाषा लिखो।"
+      ],
+      "hard": [
+        "क्यों सिर्फ ‘अभी paper पर नहीं मिल रही’ parallel prove नहीं करता? Line की infinite extension से reason दो।"
+      ]
+    },
+    {
+      "concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "easy": [
+        "अभिगृहीत 6.1 का कथन लिखो।"
+      ],
+      "medium": [
+        "अभिगृहीत 6.1 और 6.2 एक-दूसरे के विलोम कैसे हैं? एक-एक वाक्य में लिखो।"
+      ],
+      "hard": [
+        "आकृति 6.7 वाली activity को words में explain करके दिखाओ कि सिर्फ sum=180° वाली adjacent situation में non-common arms collinear होते हैं।"
+      ]
+    },
+    {
+      "concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "easy": [
+        "प्रमेय 6.1 का कथन लिखो।"
+      ],
+      "medium": [
+        "दो रेखाएँ प्रतिच्छेद करती हैं। एक कोण 40° है। इसके शीर्षाभिमुख और आसन्न (रैखिक युग्म) कोण ज्ञात करो।"
+      ],
+      "hard": [
+        "Ray OP stands on AB; OQ bisects ∠AOP, OR bisects ∠POB. Prove ∠QOR = 90° (Example 2 style)."
+      ]
+    }
+  ]
+}

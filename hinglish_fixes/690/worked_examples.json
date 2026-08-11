@@ -1,0 +1,83 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "problem": "तीन situations बताओ जहाँ daily life में रेखाओं और कोणों का ज्ञान ज़रूरी है (NCERT introduction के हिसाब से).",
+      "steps": [
+        "Building/architecture: map में parallel और intersecting lines different angles पर",
+        "Science: light refraction के ray diagram में intersecting/parallel line properties",
+        "Heights & distances: क्षैतिज और दृष्टि रेखा के बीच बने कोण से height/distance"
+      ],
+      "answer": "Architecture/model making; light ray diagrams (refraction); measuring height of tower or distance of ship using angle of elevation/sight."
+    },
+    {
+      "concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "problem": "Points A, B, C एक ही सीधी line पर हैं; D उस line पर नहीं है। कौन collinear हैं? AB line segment है या ray — अगर A और B दोनों ends marked हैं?",
+      "steps": [
+        "Same line पर A,B,C → संरेख (collinear); D → असंरेख relative to that line",
+        "दो endpoints marked A और B → रेखाखंड AB",
+        "Ray तब होती जब सिर्फ एक endpoint हो और दूसरी तरफ extend हो"
+      ],
+      "answer": "A, B, C collinear; D non-collinear with them on that line. AB with two endpoints = line segment."
+    },
+    {
+      "concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "problem": "Classify: 35°, 90°, 125°, 180°, 270°.",
+      "steps": [
+        "35° → between 0 and 90 → न्यून (acute)",
+        "90° → समकोण; 125° → between 90 and 180 → अधिक (obtuse)",
+        "180° → ऋजु; 270° → between 180 and 360 → प्रतिवर्ती (reflex)"
+      ],
+      "answer": "35° acute; 90° right; 125° obtuse; 180° straight; 270° reflex."
+    },
+    {
+      "concept": "पूरक, संपूरक और आसन्न कोण",
+      "problem": "∠AOC = 35°, ∠COB = 55°, और यह adjacent हैं with non-common arms opposite। ∠AOB? क्या ∠AOC और ∠COB complementary हैं?",
+      "steps": [
+        "Adjacent sum: ∠AOB = 35° + 55° = 90°",
+        "35° + 55° = 90° → yes, complementary also",
+        "Note: complementary होने के लिए adjacent होना ज़रूरी नहीं था, लेकिन यहाँ दोनों true"
+      ],
+      "answer": "∠AOB = 90°. हाँ, यह pair complementary भी है।"
+    },
+    {
+      "concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "problem": "Lines AB और CD O पर intersect। Angles: ∠AOC, ∠COB, ∠BOD, ∠DOA। Vertically opposite pairs और एक linear pair लिखो।",
+      "steps": [
+        "Vertically opposite: ∠AOC with ∠BOD; ∠COB with ∠DOA",
+        "Linear pair example: ∠AOC और ∠COB (arms along AB if A-O-B straight)",
+        "Similarly ∠AOC + ∠AOD = 180° if C-O-D straight"
+      ],
+      "answer": "V.O. pairs: (∠AOC, ∠BOD) and (∠AOD, ∠BOC). Linear pair e.g. ∠AOC & ∠COB (on straight line AOB)."
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "problem": "दो lines l और m के बीच तीन जगह perpendicular distances 3 cm, 3 cm, 3 cm measure हुई। क्या conclude करोगे? अगर distances 3, 4, 5 हों तो?",
+      "steps": [
+        "Equal common perpendicular lengths → lines parallel; distance = 3 cm",
+        "Unequal 3,4,5 → constant distance नहीं → parallel नहीं"
+      ],
+      "answer": "First case: l ∥ m with distance 3 cm. Second: not parallel (distances unequal)."
+    },
+    {
+      "concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "problem": "Ray OC stands on line AB। अगर ∠AOC = 125°, तो ∠BOC? अगर instead adjacent angles 70° और 110° हैं, क्या non-common arms एक line बनायेंगे?",
+      "steps": [
+        "Axiom 6.1: ∠AOC + ∠BOC = 180° ⇒ ∠BOC = 55°",
+        "70° + 110° = 180° और adjacent ⇒ Axiom 6.2 ⇒ non-common arms form a line",
+        "State both axioms in answer for full marks"
+      ],
+      "answer": "∠BOC = 55°. हाँ, 70°+110°=180° adjacent ⇒ अउभयनिष्ठ भुजाएँ एक रेखा बनाती हैं (Axiom 6.2)."
+    },
+    {
+      "concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "problem": "Lines PQ और RS O पर intersect। ∠POQ : ∠QOR = 5 : 7। सारे four angles find करो.",
+      "steps": [
+        "∠POQ + ∠QOR = 180° (linear pair)",
+        "5k + 7k = 180° ⇒ 12k = 180° ⇒ k = 15° ⇒ ∠POQ = 75°, ∠QOR = 105°",
+        "Vertically opposite: opposite of 75° is 75°; opposite of 105° is 105°"
+      ],
+      "answer": "Four angles: 75°, 105°, 75°, 105° (alternating around the intersection)."
+    }
+  ]
+}

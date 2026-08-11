@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "when_concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "write": [
+        "Is chapter: intersecting lines → angle properties; transversal on parallels → angle properties",
+        "Method: निगमनिक तर्कण (deductive reasoning) से statements सिद्ध करना",
+        "Real uses: architecture, light rays, forces, heights & distances"
+      ]
+    },
+    {
+      "when_concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "write": [
+        "रेखाखंड: 2 endpoints | किरण: 1 endpoint | रेखा: no endpoints (both ways infinite)",
+        "Notation: AB may mean segment/ray/line/length — अर्थ संदर्भ से",
+        "संरेख बिंदु: 3+ points on same line; else असंरेख"
+      ]
+    },
+    {
+      "when_concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "write": [
+        "Acute: 0° < θ < 90° | Right: θ = 90° | Obtuse: 90° < θ < 180°",
+        "Straight (ऋजु): θ = 180° | Reflex (प्रतिवर्ती): 180° < θ < 360°",
+        "Angle = two rays + common vertex; name ∠AOB (O = vertex)"
+      ]
+    },
+    {
+      "when_concept": "पूरक, संपूरक और आसन्न कोण",
+      "write": [
+        "Complementary: ∠1 + ∠2 = 90° | Supplementary: ∠1 + ∠2 = 180°",
+        "Adjacent: common vertex + common arm + non-common arms on opposite sides",
+        "If adjacent: ∠AOB = ∠AOC + ∠COB"
+      ]
+    },
+    {
+      "when_concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "write": [
+        "Linear pair: adjacent angles whose non-common arms form a line → sum 180°",
+        "Two lines intersect at O → 4 angles; 2 pairs of vertically opposite angles",
+        "Pairs: ∠AOC & ∠BOD; ∠AOD & ∠BOC"
+      ]
+    },
+    {
+      "when_concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "write": [
+        "Intersecting: meet at exactly one point (in plane, distinct lines)",
+        "Parallel (non-intersecting): never meet even when extended",
+        "Distance between parallels = equal length of common perpendiculars"
+      ]
+    },
+    {
+      "when_concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "write": [
+        "Axiom 6.1: Ray stands on a line ⇒ adjacent angles sum = 180°",
+        "Axiom 6.2 (converse): Adjacent angles sum 180° ⇒ non-common arms form a line",
+        "Together: Linear Pair Axiom (रैखिक युग्म अभिगृहीत)"
+      ]
+    },
+    {
+      "when_concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "write": [
+        "Thm 6.1: Two lines intersect ⇒ vertically opposite angles equal",
+        "Proof engine: Linear Pair Axiom twice + equals from equals",
+        "Ex: ratio 5:7 on linear pair → 75° & 105°; VO copies them"
+      ]
+    }
+  ]
+}

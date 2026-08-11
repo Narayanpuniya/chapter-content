@@ -1,0 +1,36 @@
+{
+  "summaries": [
+    {
+      "concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "summary": "इस chapter में intersecting और parallel lines से बने angles के properties सीखेंगे और उन्हें proofs में use करेंगे — daily life से लेकर science तक।"
+    },
+    {
+      "concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "summary": "Segment (2 ends), ray (1 end), line (infinite both ways); 3+ points on one line = collinear — यह basic language आगे के angles की।"
+    },
+    {
+      "concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "summary": "Angles: acute (<90), right (90), obtuse (90–180), straight (180), reflex (180–360) — vertex और arms से बनते हैं।"
+    },
+    {
+      "concept": "पूरक, संपूरक और आसन्न कोण",
+      "summary": "Complementary sum 90°, supplementary 180°; adjacent need common vertex, common arm, opposite non-common arms — then big angle = sum of two."
+    },
+    {
+      "concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "summary": "Linear pair = adjacent on a straight line; vertically opposite = opposite angles when two lines cross — identify before proving equality."
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "summary": "दो lines: intersect at a point, या parallel (never meet) with constant perpendicular distance between them."
+    },
+    {
+      "concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "summary": "Linear Pair Axiom: ray on a line ⇒ adjacent sum 180°; और converse — adjacent sum 180° ⇒ arms form a line."
+    },
+    {
+      "concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "summary": "Intersecting lines ⇒ vertically opposite angles equal (proved via Linear Pair Axiom); use with ratios/bisectors in examples."
+    }
+  ]
+}

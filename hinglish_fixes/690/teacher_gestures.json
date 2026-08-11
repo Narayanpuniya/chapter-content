@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "भूमिका – रेखाओं और कोणों का महत्व",
+      "action": "दो arms से दो sticks दिखाओ — पहले cross करके intersect, फिर parallel रखकर distance दिखाओ"
+    },
+    {
+      "at_concept": "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+      "action": "दो उँगलियाँ endpoints दिखाओ (segment); एक उँगली से शुरू करके दूर तक point (ray); दोनों हाथ opposite sides फैलाओ (line)"
+    },
+    {
+      "at_concept": "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+      "action": "दो arms से 45° (acute), 90° (L-shape), 120° (obtuse), 180° (सीधा), फिर बड़ी reflex turn दिखाओ"
+    },
+    {
+      "at_concept": "पूरक, संपूरक और आसन्न कोण",
+      "action": "दो students को common shoulder (vertex) और common stick (arm) दो; non-common arms को opposite sides फैलाओ — adjacent pose"
+    },
+    {
+      "at_concept": "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+      "action": "दो sticks cross करके ‘X’; opposite angles पर fingers point करके ‘vertically opposite’ बोलो; adjacent पर ‘linear pair’"
+    },
+    {
+      "at_concept": "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+      "action": "दो scale: पहले cross (intersect); फिर बराबर gap रखकर parallel; उँगली से बीच की equal distance दिखाओ"
+    },
+    {
+      "at_concept": "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+      "action": "एक arm से सीधी line, दूसरी arm से ‘ray standing’; दोनों adjacent angles fingers से 180 count करो"
+    },
+    {
+      "at_concept": "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण",
+      "action": "X बनाओ; opposite angles पर same fingers count (equal); adjacent पर 180 वाला clap"
+    }
+  ]
+}

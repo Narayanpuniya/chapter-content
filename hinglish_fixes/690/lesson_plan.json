@@ -1,0 +1,28 @@
+{
+  "concept_sequence": [
+    "भूमिका – रेखाओं और कोणों का महत्व",
+    "आधारभूत पद – रेखाखंड, किरण, रेखा और संरेख बिंदु",
+    "कोणों के प्रकार – न्यून से प्रतिवर्ती तक",
+    "पूरक, संपूरक और आसन्न कोण",
+    "रैखिक युग्म और शीर्षाभिमुख कोणों का परिचय",
+    "प्रतिच्छेदी रेखाएँ और समांतर रेखाएँ",
+    "रैखिक युग्म अभिगृहीत – अभिगृहीत 6.1 और 6.2",
+    "प्रमेय 6.1 – शीर्षाभिमुख कोण और उदाहरण"
+  ],
+  "example_sequence": [
+    "Architect का multi-storey building plan — parallel walls और intersecting roof lines",
+    "Railway track की पूरी line vs station A से B तक का track piece (segment)",
+    "Wall और floor का junction ≈ समकोण",
+    "Set-square के 30°-60° angles complementary बनाते हैं with right angle of frame",
+    "Scissors या tongs खोलते वक़्त opposite openings",
+    "Railway tracks — समांतर, बीच की दूरी लगभग समान",
+    "Electric pole standing on ground line — left और right ground angles linear pair",
+    "Window grill crossings — opposite angles equal दिखते हैं"
+  ],
+  "learning_outcomes": [
+    "रेखाखंड, किरण, रेखा, संरेख बिंदु और कोण के प्रकार (न्यून, सम, अधिक, ऋजु, प्रतिवर्ती) को clearly identify करना",
+    "पूरक, संपूरक, आसन्न कोण, रैखिक युग्म और शीर्षाभिमुख कोण की definitions apply करना",
+    "प्रतिच्छेदी और समांतर रेखाओं का difference और parallel lines के बीच distance समझना",
+    "रैखिक युग्म अभिगृहीत (6.1, 6.2) और प्रमेय 6.1 (vertically opposite angles equal) से proofs और numericals solve करना"
+  ]
+}
