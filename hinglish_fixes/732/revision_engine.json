@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "concept": "प्रतिशतता – राशियों की तुलना की एक विधि",
+      "point": "Different totals → use % (out of 100), not raw marks."
+    },
+    {
+      "concept": "प्रतिशतता के अर्थ – प्रति एक सौ",
+      "point": "% = out of 100; 1% = 1/100 = 0.01."
+    },
+    {
+      "concept": "प्रतिशतता जब योग 100 न हो",
+      "point": "(भाग/कुल) × 100 = % जब योग ≠ 100।"
+    },
+    {
+      "concept": "आशा और अनवर की विधियाँ – कौन उपयुक्त?",
+      "point": "Asha: denom×n=100; Anwar unitary always OK."
+    },
+    {
+      "concept": "भिन्न संख्याओं को प्रतिशत में बदलना",
+      "point": "fraction × 100 = %; >1 fraction ⇒ >100%."
+    },
+    {
+      "concept": "दशमलव भिन्न को प्रतिशत में बदलना",
+      "point": "decimal × 100 = %; watch the decimal places (0.09 → 9%)."
+    },
+    {
+      "concept": "प्रतिशत को भिन्न या दशमलव में बदलना",
+      "point": "% → ÷100; missing part = 100% − sum of known parts."
+    },
+    {
+      "concept": "अनुमान और प्रतिशतता के उपयोग",
+      "point": "number = (p/100)×whole; whole = number×(100/p); shaded fraction×100=%."
+    }
+  ]
+}

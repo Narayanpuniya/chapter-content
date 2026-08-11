@@ -1,0 +1,36 @@
+{
+  "tricks": [
+    {
+      "concept": "प्रतिशतता – राशियों की तुलना की एक विधि",
+      "trick": "C-P-C: Compare Percent, not Crude scores. Comparison के लिए Percent Common scale!"
+    },
+    {
+      "concept": "प्रतिशतता के अर्थ – प्रति एक सौ",
+      "trick": "PER-CENT = PER 100. % sign में ‘/100’ छुपा है — Cent = 100!"
+    },
+    {
+      "concept": "प्रतिशतता जब योग 100 न हो",
+      "trick": "P-O-T: Part Over Total × 100. Part/Total × 100 = Percent!"
+    },
+    {
+      "concept": "आशा और अनवर की विधियाँ – कौन उपयुक्त?",
+      "trick": "Asha = Adjust denominator to 100. Anwar = Always works (unitary ×100)."
+    },
+    {
+      "concept": "भिन्न संख्याओं को प्रतिशत में बदलना",
+      "trick": "F×C = P: Fraction × Century (100) = Percent. Proper < 100, Improper can > 100!"
+    },
+    {
+      "concept": "दशमलव भिन्न को प्रतिशत में बदलना",
+      "trick": "D×100: Decimal × 100. Point jumps two steps right — 0.75 → 75%."
+    },
+    {
+      "concept": "प्रतिशत को भिन्न या दशमलव में बदलना",
+      "trick": "Percent → ‘per’ cent → divide by 100. Drop % and slide point two left: 25% → 0.25."
+    },
+    {
+      "concept": "अनुमान और प्रतिशतता के उपयोग",
+      "trick": "OF means multiply: ‘25% OF 40’ = (25/100)×40. Whole from part: Part × (100/p%)."
+    }
+  ]
+}

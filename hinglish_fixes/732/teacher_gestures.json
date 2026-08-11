@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "प्रतिशतता – राशियों की तुलना की एक विधि",
+      "action": "दो हाथ दिखाओ — एक ‘320’ (बड़ा), एक ‘300’ (छोटा); फिर दोनों को ‘out of 100’ scale पर लाकर Rita का हाथ ऊपर उठाओ."
+    },
+    {
+      "at_concept": "प्रतिशतता के अर्थ – प्रति एक सौ",
+      "action": "100 उंगलियाँ/dots imagine करके 1 उंगली उठाओ — ‘यह 1%!’ — फिर board पर 1/100 = 0.01 लिखो."
+    },
+    {
+      "at_concept": "प्रतिशतता जब योग 100 न हो",
+      "action": "20 fingers/dots में से 8 red circle करो, फिर ‘scale up to 100’ gesture से 40 दिखाओ."
+    },
+    {
+      "at_concept": "आशा और अनवर की विधियाँ – कौन उपयुक्त?",
+      "action": "Left hand ‘Asha — ×5/×5 balance’, right hand ‘Anwar — scale to 100’; जब 6 दिखाओ तो left hand shake ‘no’, right hand thumbs up."
+    },
+    {
+      "at_concept": "भिन्न संख्याओं को प्रतिशत में बदलना",
+      "action": "एक पूरा circle = 100%; उससे छोटा slice = proper; circle के बाहर extra slice दिखाओ = 125% price/amount."
+    },
+    {
+      "at_concept": "दशमलव भिन्न को प्रतिशत में बदलना",
+      "action": "Board पर decimal point finger से दो jumps right करो — ‘jump jump percent!’"
+    },
+    {
+      "at_concept": "प्रतिशत को भिन्न या दशमलव में बदलना",
+      "action": "पूरा class = 100% pie; 30% boys slice अलग, बाकी 70% girls — हाथ से pie cut दिखाओ."
+    },
+    {
+      "at_concept": "अनुमान और प्रतिशतता के उपयोग",
+      "action": "Wallet से ‘₹200 save’ gesture, फिर 4 equal parts में full price ₹800 spread करके दिखाओ (each part ₹200 = 25%)."
+    }
+  ]
+}

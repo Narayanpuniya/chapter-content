@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "concept": "प्रतिशतता – राशियों की तुलना की एक विधि",
+      "items": [
+        "दो schools के exam: 45/50 vs 80/100 — percent से ही fair comparison",
+        "Cricket: 40 runs in 20 balls vs 55 in 40 — strike rate (जैसे percent) से compare"
+      ]
+    },
+    {
+      "concept": "प्रतिशतता के अर्थ – प्रति एक सौ",
+      "items": [
+        "Class में 100 students, 22 spectacles पहनते हैं → 22% spectacles",
+        "₹100 में ₹5 GST → 5% tax — सीधा percent"
+      ]
+    },
+    {
+      "concept": "प्रतिशतता जब योग 100 न हो",
+      "items": [
+        "40 students में 10 prefects → (10/40)×100 = 25%",
+        "50 लड्डू में 15 खराब → 30% खराब"
+      ]
+    },
+    {
+      "concept": "आशा और अनवर की विधियाँ – कौन उपयुक्त?",
+      "items": [
+        "3/5 कपड़ा सूती → ×20/×20 → 60/100 = 60% (Asha-style)",
+        "7 में से 2 खराब — 7×?≠100 naturally → Anwar: (2/7)×100"
+      ]
+    },
+    {
+      "concept": "भिन्न संख्याओं को प्रतिशत में बदलना",
+      "items": [
+        "Class 30 में 18 present → (18/30)×100 = 60% attendance",
+        "Phone price ₹8000 से ₹10000 — new = 125% of old (increase अलग concept)"
+      ]
+    },
+    {
+      "concept": "दशमलव भिन्न को प्रतिशत में बदलना",
+      "items": [
+        "Battery 0.45 charged → 45% battery",
+        "Discount sticker 0.15 off → 15% छूट"
+      ]
+    },
+    {
+      "concept": "प्रतिशत को भिन्न या दशमलव में बदलना",
+      "items": [
+        "Exam: 40% theory + 60% practical = 100% assessment",
+        "Pocket money: 50% snacks + 30% bus ⇒ 20% बचाओ"
+      ]
+    },
+    {
+      "concept": "अनुमान और प्रतिशतता के उपयोग",
+      "items": [
+        "Shop: 20% off on ₹500 shirt → save ₹100, pay ₹400",
+        "Survey: class के 25% football — 40 में 10 kids"
+      ]
+    }
+  ]
+}
