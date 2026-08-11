@@ -1,0 +1,48 @@
+{
+  "chapter_overview": "नमस्ते! आज हम NCERT Class 7 Mathematics के Chapter 11 — रेखा एवं कोण — पढ़ेंगे. पहले line segment, ray और line को clearly अलग करेंगे; फिर complementary (पूरक) और supplementary (संपूरक) angles सीखेंगे. उसके बाद intersecting lines, transversal (तिर्यक छेदी रेखा), और जब parallel lines को transversal काटती है तो corresponding और alternate interior angles equal होते हैं — यह सब classroom examples और numericals से समझेंगे.",
+  "welcome": "अरे class, Smart Board पर आज Geometry का मज़ा आएगा! सोचो — blackboard stand, window की जाली, road crossing, railway track — हर जगह lines मिलती हैं और angles बनते हैं. Teacher physically नहीं हैं इस subject के लिए, लेकिन मैं तुम्हारे साथ बिल्कुल school वाली Hinglish में पढ़ाऊँगा. Copy-pencil ready? चलो शुरू करते हैं — रेखा एवं कोण!",
+  "learning_outcomes": [
+    "रेखाखंड, किरण और रेखा को identify करके उनके symbols/notation से नाम देना",
+    "पूरक कोण (sum 90°) और संपूरक कोण (sum 180°) के pairs पहचानना और measure निकालना",
+    "प्रतिच्छेदी रेखाएँ और तिर्यक छेदी रेखा (transversal) समझना",
+    "Transversal से बने corresponding, alternate interior/exterior और same-side interior angles नाम देना; parallel lines पर corresponding और alternate interior angles equal apply करना"
+  ],
+  "concepts": [
+    {
+      "number": 1,
+      "name": "भूमिका – रेखाखंड, रेखा और किरण"
+    },
+    {
+      "number": 2,
+      "name": "कोणों की पहचान – न्यून, अधिक और समकोण"
+    },
+    {
+      "number": 3,
+      "name": "पूरक कोण (Complementary Angles)"
+    },
+    {
+      "number": 4,
+      "name": "संपूरक कोण (Supplementary Angles)"
+    },
+    {
+      "number": 5,
+      "name": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण"
+    },
+    {
+      "number": 6,
+      "name": "प्रतिच्छेदी रेखाएँ"
+    },
+    {
+      "number": 7,
+      "name": "तिर्यक छेदी रेखा (Transversal)"
+    },
+    {
+      "number": 8,
+      "name": "तिर्यक छेदी रेखा द्वारा निर्मित कोण"
+    },
+    {
+      "number": 9,
+      "name": "समांतर रेखाओं की तिर्यक छेदी रेखा"
+    }
+  ]
+}

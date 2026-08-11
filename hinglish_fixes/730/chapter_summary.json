@@ -1,0 +1,9 @@
+{
+  "overview": "नमस्ते! आज हम NCERT Class 7 Mathematics के Chapter 11 — रेखा एवं कोण — पढ़ेंगे. पहले line segment, ray और line को clearly अलग करेंगे; फिर complementary (पूरक) और supplementary (संपूरक) angles सीखेंगे. उसके बाद intersecting lines, transversal (तिर्यक छेदी रेखा), और जब parallel lines को transversal काटती है तो corresponding और alternate interior angles equal होते हैं — यह सब classroom examples और numericals से समझेंगे.",
+  "learning_outcomes": [
+    "रेखाखंड, किरण और रेखा को identify करके उनके symbols/notation से नाम देना",
+    "पूरक कोण (sum 90°) और संपूरक कोण (sum 180°) के pairs पहचानना और measure निकालना",
+    "प्रतिच्छेदी रेखाएँ और तिर्यक छेदी रेखा (transversal) समझना",
+    "Transversal से बने corresponding, alternate interior/exterior और same-side interior angles नाम देना; parallel lines पर corresponding और alternate interior angles equal apply करना"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "when_concept": "भूमिका – रेखाखंड, रेखा और किरण",
+      "write": [
+        "रेखाखंड: 2 अंत बिंदु | किरण: 1 प्रारंभिक बिंदु | रेखा: कोई अंत बिंदु नहीं",
+        "Fig 5.2: (i) रेखाखंड  (ii) रेखा  (iii) किरण",
+        "Notation: AB (segment), PQ (line), OC (ray) — अर्थ संदर्भ से"
+      ]
+    },
+    {
+      "when_concept": "कोणों की पहचान – न्यून, अधिक और समकोण",
+      "write": [
+        "Do lines/segments intersect → कोण बनते हैं (Fig 5.3)",
+        "Notation: ∠PQR — middle letter = vertex",
+        "न्यून < 90° | सम = 90° | अधिक > 90° (और < 180°)"
+      ]
+    },
+    {
+      "when_concept": "पूरक कोण (Complementary Angles)",
+      "write": [
+        "पूरक (Complementary): ∠A + ∠B = 90°",
+        "Complement of θ = 90° − θ",
+        "Example: 30° ↔ 60°; 45° ↔ 45°"
+      ]
+    },
+    {
+      "when_concept": "संपूरक कोण (Supplementary Angles)",
+      "write": [
+        "संपूरक (Supplementary): ∠A + ∠B = 180°",
+        "Supplement of θ = 180° − θ",
+        "दो समकोण संपूरक होते हैं (90°+90°=180°)"
+      ]
+    },
+    {
+      "when_concept": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+      "write": [
+        "पूरक युग्म: sum = 90° | संपूरक युग्म: sum = 180°",
+        "अपने पूरक के समान: 45° | अपने संपूरक के समान: 90°",
+        "आसन्न + संपूरक ⇒ रैखिक युग्म (linear pair)"
+      ]
+    },
+    {
+      "when_concept": "प्रतिच्छेदी रेखाएँ",
+      "write": [
+        "प्रतिच्छेदी रेखाएँ: एक उभयनिष्ठ बिंदु = प्रतिच्छेद बिंदु",
+        "दो भिन्न रेखाएँ अधिकतम एक बिंदु पर मिलती हैं",
+        "Intersect हमेशा 90° पर नहीं — कभी acute/obtuse भी"
+      ]
+    },
+    {
+      "when_concept": "तिर्यक छेदी रेखा (Transversal)",
+      "write": [
+        "तिर्यक छेदी रेखा (Transversal): 2+ रेखाओं को भिन्न बिंदुओं पर काटती है",
+        "Fig 5.11: t is transversal to l and m",
+        "Fig 5.12: t transversal नहीं हो सकती — भिन्न बिंदु शर्त जाँचो"
+      ]
+    },
+    {
+      "when_concept": "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+      "write": [
+        "Interior: 3,4,5,6 | Exterior: 1,2,7,8",
+        "Corresponding: (1,5)(2,6)(3,7)(4,8)",
+        "Alt. interior: (3,6)(4,5) | Alt. exterior: (1,8)(2,7) | Same-side int.: (3,5)(4,6)"
+      ]
+    },
+    {
+      "when_concept": "समांतर रेखाओं की तिर्यक छेदी रेखा",
+      "write": [
+        "समांतर रेखाएँ: कभी नहीं मिलतीं",
+        "Parallel + Transversal ⇒ संगत कोण equal",
+        "Parallel + Transversal ⇒ एकांतर अंतः कोण equal"
+      ]
+    }
+  ]
+}

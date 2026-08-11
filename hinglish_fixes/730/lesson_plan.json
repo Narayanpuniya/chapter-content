@@ -1,0 +1,30 @@
+{
+  "concept_sequence": [
+    "भूमिका – रेखाखंड, रेखा और किरण",
+    "कोणों की पहचान – न्यून, अधिक और समकोण",
+    "पूरक कोण (Complementary Angles)",
+    "संपूरक कोण (Supplementary Angles)",
+    "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+    "प्रतिच्छेदी रेखाएँ",
+    "तिर्यक छेदी रेखा (Transversal)",
+    "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+    "समांतर रेखाओं की तिर्यक छेदी रेखा"
+  ],
+  "example_sequence": [
+    "School ground की race track start से finish — रेखाखंड; road दोनों तरफ extend — रेखा जैसी",
+    "Blackboard stand / window frame के corners — समकोण",
+    "Set-square के 30°–60°–90° triangle में 30° और 60° complementary",
+    "Open book बिल्कुल flat table पर — pages के बीच लगभग 180°; थोड़ा fold करो तो दो supplementary parts",
+    "Door almost closed (छोटा angle) vs almost open — complementary/supplementary intuition से compare",
+    "Window की जाली / grill — bars cross करके intersecting lines",
+    "Railway: एक track कई tracks को crossing point पर काटती है",
+    "Window grill में slanted bar horizontal bars को काटे — 8 angles naming practice",
+    "Ruled notebook lines (parallel) + margin (transversal) — corresponding corners equal angles"
+  ],
+  "learning_outcomes": [
+    "रेखाखंड, किरण और रेखा को identify करके उनके symbols/notation से नाम देना",
+    "पूरक कोण (sum 90°) और संपूरक कोण (sum 180°) के pairs पहचानना और measure निकालना",
+    "प्रतिच्छेदी रेखाएँ और तिर्यक छेदी रेखा (transversal) समझना",
+    "Transversal से बने corresponding, alternate interior/exterior और same-side interior angles नाम देना; parallel lines पर corresponding और alternate interior angles equal apply करना"
+  ]
+}

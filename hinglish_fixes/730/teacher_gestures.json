@@ -1,0 +1,40 @@
+{
+  "gestures": [
+    {
+      "at_concept": "भूमिका – रेखाखंड, रेखा और किरण",
+      "action": "दो उँगलियाँ endpoints दिखाओ (segment); एक उँगली से शुरू करके दूर point करो (ray); दोनों हाथ opposite sides फैलाओ (line)"
+    },
+    {
+      "at_concept": "कोणों की पहचान – न्यून, अधिक और समकोण",
+      "action": "दो arms से V छोटा (acute), L shape (right), wide open V (obtuse) दिखाओ"
+    },
+    {
+      "at_concept": "पूरक कोण (Complementary Angles)",
+      "action": "दो हाथों से L (90°) बनाओ, फिर उस L को दो acute pieces में तोड़ो — complementary pair"
+    },
+    {
+      "at_concept": "संपूरक कोण (Supplementary Angles)",
+      "action": "दोनों arms सीधी एक line में फैलाओ (180°), फिर एक elbow से तोड़ो — दो parts supplementary"
+    },
+    {
+      "at_concept": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+      "action": "एक हाथ 45° show (self-complement); दोनों arms से दो right angles (self-supplement pair)"
+    },
+    {
+      "at_concept": "प्रतिच्छेदी रेखाएँ",
+      "action": "दो pencils/pens को cross करके intersection point उँगली से छुओ"
+    },
+    {
+      "at_concept": "तिर्यक छेदी रेखा (Transversal)",
+      "action": "दो parallel arms horizontal रखो, तीसरी arm diagonally काटो — transversal gesture"
+    },
+    {
+      "at_concept": "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+      "action": "Air में F, Z और C shapes finger से बनाओ — हर shape के matching angle pair याद करो"
+    },
+    {
+      "at_concept": "समांतर रेखाओं की तिर्यक छेदी रेखा",
+      "action": "दो parallel arms, तीसरी diagonal; corresponding corners पे उँगली रखकर equal बोलो"
+    }
+  ]
+}

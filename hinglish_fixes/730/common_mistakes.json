@@ -1,0 +1,40 @@
+{
+  "mistakes": [
+    {
+      "concept": "भूमिका – रेखाखंड, रेखा और किरण",
+      "mistake": "बहुत बच्चे किरण और रेखाखंड को mix कर देते हैं — ray का सिर्फ एक endpoint होता है और एक direction में infinitely जाती है; segment के दो endpoints होते हैं और limited length होती है."
+    },
+    {
+      "concept": "कोणों की पहचान – न्यून, अधिक और समकोण",
+      "mistake": "Students angle PQR लिखते वक्त letters का order गलत रखते हैं — हमेशा vertex बीच में होना चाहिए; वरना examiner confuse हो सकता है."
+    },
+    {
+      "concept": "पूरक कोण (Complementary Angles)",
+      "mistake": "Students कभी-कभी complementary को 180 degree वाले pair से confuse कर देते हैं — 90 = complementary (पूरक), 180 = supplementary (संपूरक)."
+    },
+    {
+      "concept": "संपूरक कोण (Supplementary Angles)",
+      "mistake": "Students सोचते हैं दो acute angles भी supplementary हो सकते हैं — गलत; दो acute का sum हमेशा 180 से कम होता है."
+    },
+    {
+      "concept": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+      "mistake": "65° और 115° को complementary बोल देना — sum 180 है, यह supplementary हैं, complementary नहीं."
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ",
+      "mistake": "Students मान लेते हैं intersecting lines हमेशा perpendicular होती हैं — गलत; perpendicular special case है जब angle 90° हो."
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा (Transversal)",
+      "mistake": "Students सोचते हैं transversal सिर्फ parallel lines के लिए होती है — नहीं; पहले general definition है, parallel case बाद में special properties देता है."
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+      "mistake": "Alternate interior और corresponding को mix करना — corresponding same side of transversal plus matching position; alternate interior opposite sides of transversal plus between the two lines."
+    },
+    {
+      "concept": "समांतर रेखाओं की तिर्यक छेदी रेखा",
+      "mistake": "बिना parallel verify किए corresponding angles equal मान लेना — equality parallel होने पर ही guaranteed है इस chapter के results के according."
+    }
+  ]
+}

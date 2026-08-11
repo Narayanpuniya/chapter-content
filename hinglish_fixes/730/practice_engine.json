@@ -1,0 +1,112 @@
+{
+  "sets": [
+    {
+      "concept": "भूमिका – रेखाखंड, रेखा और किरण",
+      "easy": [
+        "रेखाखंड और किरण में एक मुख्य अंतर बताओ."
+      ],
+      "medium": [
+        "अपने classroom से एक रेखाखंड और एक किरण जैसा real example लिखो और reason दो."
+      ],
+      "hard": [
+        "Diagram में तीन objects: ruler edge (ends marked), sun ray sketch (एक start), railway track both ways. हर एक को segment/ray/line classify करो."
+      ]
+    },
+    {
+      "concept": "कोणों की पहचान – न्यून, अधिक और समकोण",
+      "easy": [
+        "न्यून कोण और अधिक कोण की definition एक-एक line में लिखो."
+      ],
+      "medium": [
+        "अपने bag के दस shapes list करके हर एक में एक acute या right या obtuse angle identify करो."
+      ],
+      "hard": [
+        "Triangle ABC में अगर angle B = 90 degree, तो angle A और C किस type के हो सकते हैं? Reason दो."
+      ]
+    },
+    {
+      "concept": "पूरक कोण (Complementary Angles)",
+      "easy": [
+        "65° के पूरक का माप क्या है?"
+      ],
+      "medium": [
+        "क्या 100° और 20° complementary हो सकते हैं? Why/why not?"
+      ],
+      "hard": [
+        "ऐसा कोण ज्ञात करो जो अपने पूरक के समान हो।"
+      ]
+    },
+    {
+      "concept": "संपूरक कोण (Supplementary Angles)",
+      "easy": [
+        "125° के संपूरक का माप क्या होगा?"
+      ],
+      "medium": [
+        "क्या दो समकोण संपूरक हो सकते हैं? Reason with numbers."
+      ],
+      "hard": [
+        "ऐसा कोण ज्ञात करो जो अपने संपूरक के समान हो।"
+      ]
+    },
+    {
+      "concept": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+      "easy": [
+        "यदि दो कोण पूरक हैं, तो उनके मापों का योग ____ है।"
+      ],
+      "medium": [
+        "एक कोण 45° से बड़ा है। क्या इसका पूरक 45° से बड़ा, बराबर या छोटा होगा?"
+      ],
+      "hard": [
+        "∠1 और ∠2 संपूरक हैं। यदि ∠1 में 10° कमी हो, तो ∠2 में कितनी वृद्धि चाहिए कि वे संपूरक रहें?"
+      ]
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ",
+      "easy": [
+        "प्रतिच्छेद बिंदु किसे कहते हैं?"
+      ],
+      "medium": [
+        "अपने घर/school से दो उदाहरण लिखो जहाँ रेखाएँ समकोण पर प्रतिच्छेद करती हैं."
+      ],
+      "hard": [
+        "आयत के चार शीर्षों पर प्रतिच्छेदी रेखाओं द्वारा बने कोणों के माप क्या होंगे?"
+      ]
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा (Transversal)",
+      "easy": [
+        "तिर्यक छेदी रेखा की परिभाषा अपने शब्दों में लिखो।"
+      ],
+      "medium": [
+        "दो दी हुई रेखाओं के लिए क्या केवल एक ही transversal संभव है? Explain."
+      ],
+      "hard": [
+        "Figure 5.12 जैसी situation सोचकर explain करो कब cutting line transversal count नहीं होती."
+      ]
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+      "easy": [
+        "अंतःकोण कौन-से हैं अगर angles 1 से 8 तक standard marking हो?"
+      ],
+      "medium": [
+        "संगत कोणों की तीन विशेषताएँ लिखो (NCERT note जैसी)।"
+      ],
+      "hard": [
+        "एक rough figure बनाओ और चारों corresponding pairs number करके list करो."
+      ]
+    },
+    {
+      "concept": "समांतर रेखाओं की तिर्यक छेदी रेखा",
+      "easy": [
+        "समांतर रेखाओं की परिभाषा लिखो।"
+      ],
+      "medium": [
+        "Tracing-slide activity का conclusion एक वाक्य में लिखो (corresponding angles)."
+      ],
+      "hard": [
+        "दिया: l ∥ m, transversal t. ∠3 = ∠7 (vertically opposite) और ∠7 = ∠8 (corresponding). समझाओ कि ∠3 = ∠8 (alternate interior)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – रेखाखंड, रेखा और किरण",
+      "items": [
+        "School ground की race track start से finish — रेखाखंड; road दोनों तरफ extend — रेखा जैसी",
+        "Mobile flashlight / torch beam — bulb से एक direction (किरण)"
+      ]
+    },
+    {
+      "concept": "कोणों की पहचान – न्यून, अधिक और समकोण",
+      "items": [
+        "Blackboard stand / window frame के corners — समकोण",
+        "Scissors खोलने पर blades के बीच बनने वाले angles — acute से obtuse तक"
+      ]
+    },
+    {
+      "concept": "पूरक कोण (Complementary Angles)",
+      "items": [
+        "Set-square के 30°–60°–90° triangle में 30° और 60° complementary",
+        "Window frame का right angle दो wooden strips से divide — उनके angles sum 90°"
+      ]
+    },
+    {
+      "concept": "संपूरक कोण (Supplementary Angles)",
+      "items": [
+        "Open book बिल्कुल flat table पर — pages के बीच लगभग 180°; थोड़ा fold करो तो दो supplementary parts",
+        "सीधी wall edge पर leaning stick — दोनों तरफ के angles sum 180°"
+      ]
+    },
+    {
+      "concept": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+      "items": [
+        "Door almost closed (छोटा angle) vs almost open — complementary/supplementary intuition से compare",
+        "Two tiles meeting at corner making 90° vs two roads making straight 180°"
+      ]
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ",
+      "items": [
+        "Window की जाली / grill — bars cross करके intersecting lines",
+        "Road crossing / चौराहा — दो roads मिलती हैं"
+      ]
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा (Transversal)",
+      "items": [
+        "Railway: एक track कई tracks को crossing point पर काटती है",
+        "Road crossing multiple parallel lanes diagonally"
+      ]
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+      "items": [
+        "Window grill में slanted bar horizontal bars को काटे — 8 angles naming practice",
+        "Notebook margin cutting ruled lines — corresponding corners same look"
+      ]
+    },
+    {
+      "concept": "समांतर रेखाओं की तिर्यक छेदी रेखा",
+      "items": [
+        "Ruled notebook lines (parallel) + margin (transversal) — corresponding corners equal angles",
+        "Parallel fencing wires crossed by a diagonal support bar"
+      ]
+    }
+  ]
+}

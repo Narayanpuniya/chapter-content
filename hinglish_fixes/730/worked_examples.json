@@ -1,0 +1,94 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – रेखाखंड, रेखा और किरण",
+      "problem": "तीन figures हैं: (i) A और B marked endpoints वाला stick; (ii) point O से शुरू करके arrow एक तरफ; (iii) line दोनों तरफ arrows के साथ. इन्हें क्रम से नाम दो.",
+      "steps": [
+        "(i) दो अंत बिंदु A, B → रेखाखंड AB",
+        "(ii) एक प्रारंभिक बिंदु O + एक direction → किरण",
+        "(iii) कोई endpoint नहीं, दोनों तरफ infinite → रेखा"
+      ],
+      "answer": "(i) रेखाखंड (ii) किरण (iii) रेखा"
+    },
+    {
+      "concept": "कोणों की पहचान – न्यून, अधिक और समकोण",
+      "problem": "Figure में दो lines AB और CD, O पर intersect करती हैं. बनाए गए चार कोणों के names लिखो (angle AOC type).",
+      "steps": [
+        "Intersection point O = common vertex",
+        "Rays OA, OB, OC, OD से चार कोण",
+        "Names: ∠AOC, ∠COB, ∠BOD, ∠DOA"
+      ],
+      "answer": "चार कोण: ∠AOC, ∠COB, ∠BOD, ∠DOA (शीर्ष O)"
+    },
+    {
+      "concept": "पूरक कोण (Complementary Angles)",
+      "problem": "दो पूरक कोणों के मापों का अंतर 12° है। कोणों के माप ज्ञात कीजिए।",
+      "steps": [
+        "छोटे कोण = x°, बड़े = (x + 12)°",
+        "Complementary: x + (x + 12) = 90",
+        "2x + 12 = 90 → 2x = 78 → x = 39; बड़ा = 51"
+      ],
+      "answer": "39° और 51°"
+    },
+    {
+      "concept": "संपूरक कोण (Supplementary Angles)",
+      "problem": "दो संपूरक कोणों में बड़े कोण का माप छोटे कोण के माप से 44° अधिक है। कोणों के माप ज्ञात कीजिए।",
+      "steps": [
+        "छोटा = x°, बड़ा = (x + 44)°",
+        "Supplementary: x + x + 44 = 180",
+        "2x = 136 → x = 68; बड़ा = 112"
+      ],
+      "answer": "68° और 112°"
+    },
+    {
+      "concept": "प्रश्नावली अभ्यास – पूरक, संपूरक और आसन्न कोण",
+      "problem": "Pairs identify करो — पूरक या संपूरक: (a) 63°, 27° (b) 130°, 50° (c) 45°, 45°",
+      "steps": [
+        "(a) 63+27=90 → पूरक",
+        "(b) 130+50=180 → संपूरक",
+        "(c) 45+45=90 → पूरक"
+      ],
+      "answer": "(a) पूरक (b) संपूरक (c) पूरक"
+    },
+    {
+      "concept": "प्रतिच्छेदी रेखाएँ",
+      "problem": "दो distinct lines P और Q तीन अलग points पर intersect करती दिखाई दें — क्या possible है? Why?",
+      "steps": [
+        "अगर दो points common → lines coincident (same line)",
+        "Distinct lines at most one common point",
+        "इसलिए तीन points पर intersect impossible for distinct lines"
+      ],
+      "answer": "संभव नहीं — दो भिन्न रेखाएँ एक से अधिक बिंदु पर नहीं मिल सकतीं।"
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा (Transversal)",
+      "problem": "यदि एक रेखा तीन रेखाओं की तिर्यक छेदी रेखा है, तो कितने प्रतिच्छेदन बिंदु हैं?",
+      "steps": [
+        "Transversal हर line को अलग point पर काटती है",
+        "तीन lines → तीन distinct intersection points (सामान्य स्थिति)",
+        "Answer 3"
+      ],
+      "answer": "3 प्रतिच्छेदन बिंदु"
+    },
+    {
+      "concept": "तिर्यक छेदी रेखा द्वारा निर्मित कोण",
+      "problem": "Transversal figure में ∠3 और ∠6 कैसे related हैं? ∠1 और ∠5? ∠3 और ∠5?",
+      "steps": [
+        "∠3 और ∠6: बीच में + transversal के opposite sides → एकांतर अंतः कोण",
+        "∠1 और ∠5: corresponding positions / same side of transversal → संगत कोण",
+        "∠3 और ∠5: interior + same side of transversal → एक ही तरफ अंतःकोण"
+      ],
+      "answer": "∠3,∠6 = alternate interior; ∠1,∠5 = corresponding; ∠3,∠5 = same-side interior"
+    },
+    {
+      "concept": "समांतर रेखाओं की तिर्यक छेदी रेखा",
+      "problem": "दो समांतर रेखाएँ transversal से कटी हैं। यदि एक संगत कोण 110° है, तो उसके संगत युग्म का माप क्या होगा? यदि एकांतर अंतः कोण में एक 70° है तो दूसरा?",
+      "steps": [
+        "Rule: parallel ⇒ corresponding angles equal → दूसरा corresponding = 110°",
+        "Rule: parallel ⇒ alternate interior equal → दूसरा = 70°",
+        "Bonus: 110° का adjacent linear pair 70° हो सकता है straight line पर"
+      ],
+      "answer": "संगत युग्म = 110°; एकांतर अंतः युग्म का दूसरा = 70°"
+    }
+  ]
+}
