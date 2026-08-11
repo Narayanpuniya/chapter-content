@@ -1,0 +1,44 @@
+{
+  "chapter_overview": "आज हम NCERT Class 7 Mathematics के Chapter 14 — परिमेय संख्याएँ (Rational Numbers) — को पढ़ेंगे. पहले हम देखेंगे कि counting numbers से natural, whole, integers और fractions तक number system कैसे बढ़ी. फिर सीखेंगे कि −3/4 जैसी numbers के लिए rational numbers की ज़रूरत क्यों पड़ी, rational number क्या होती है (p/q form), positive-negative rationals, number line पर representation, standard form, और उनकी comparison.",
+  "welcome": "Good morning, class! Smart Board पर आज एक बहुत important chapter शुरू करते हैं — परिमेय संख्याएँ. अब तक तुम natural numbers, whole numbers, integers और fractions पढ़ चुके हो. लेकिन सोचो — समुद्र तल से नीचे 3/4 km depth को कैसे लिखें? −3/4 न integer है न ordinary fraction. आज हम number system को और आगे बढ़ाएँगे. Ready हो? चलो शुरू करते हैं!",
+  "learning_outcomes": [
+    "Number system का natural → whole → integers → fractions → rational numbers तक extension समझना",
+    "परिमेय संख्या को p/q (p, q पूर्णांक, q ≠ 0) के form में पहचानना और examples देना",
+    "धनात्मक/ऋणात्मक परिमेय संख्याएँ, समतुल्य रूप, मानक रूप और number line पर निरूपण सीखना",
+    "दो rational numbers की तुलना करना — especially negative rationals के rules correctly apply करना"
+  ],
+  "concepts": [
+    {
+      "number": 1,
+      "name": "भूमिका – संख्या पद्धति का विस्तार"
+    },
+    {
+      "number": 2,
+      "name": "परिमेय संख्याओं की आवश्यकता"
+    },
+    {
+      "number": 3,
+      "name": "परिमेय संख्याएँ क्या हैं?"
+    },
+    {
+      "number": 4,
+      "name": "अंश, हर और समतुल्य परिमेय संख्याएँ"
+    },
+    {
+      "number": 5,
+      "name": "धनात्मक और ऋणात्मक परिमेय संख्याएँ"
+    },
+    {
+      "number": 6,
+      "name": "संख्या रेखा पर परिमेय संख्याएँ"
+    },
+    {
+      "number": 7,
+      "name": "मानक रूप में परिमेय संख्याएँ"
+    },
+    {
+      "number": 8,
+      "name": "परिमेय संख्याओं की तुलना"
+    }
+  ]
+}

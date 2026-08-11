@@ -1,0 +1,31 @@
+{
+  "book_name": "Class 7 Mathematics",
+  "chapter_name": "परिमेय संख्याएँ",
+  "class": "Class 7",
+  "subject": "Mathematics",
+  "board": "NCERT",
+  "medium": "Hindi",
+  "generated_date": "2026-08-08T07:36:41",
+  "files": [
+    "board_sequence.json",
+    "chapter_metadata.json",
+    "chapter_summary.json",
+    "common_mistakes.json",
+    "concept_map.json",
+    "concept_summary.json",
+    "daily_life_examples.json",
+    "exam_priority.json",
+    "highlight_sequence.json",
+    "lesson_plan.json",
+    "memory_tricks.json",
+    "practice_engine.json",
+    "real_life_examples.json",
+    "revision_engine.json",
+    "runtime.json",
+    "teacher_gestures.json",
+    "teacher_script.json",
+    "teaching_flow.json",
+    "worked_examples.json"
+  ],
+  "validation_status": "passed"
+}

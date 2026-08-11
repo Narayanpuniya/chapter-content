@@ -1,0 +1,9 @@
+{
+  "overview": "आज हम NCERT Class 7 Mathematics के Chapter 14 — परिमेय संख्याएँ (Rational Numbers) — को पढ़ेंगे. पहले हम देखेंगे कि counting numbers से natural, whole, integers और fractions तक number system कैसे बढ़ी. फिर सीखेंगे कि −3/4 जैसी numbers के लिए rational numbers की ज़रूरत क्यों पड़ी, rational number क्या होती है (p/q form), positive-negative rationals, number line पर representation, standard form, और उनकी comparison.",
+  "learning_outcomes": [
+    "Number system का natural → whole → integers → fractions → rational numbers तक extension समझना",
+    "परिमेय संख्या को p/q (p, q पूर्णांक, q ≠ 0) के form में पहचानना और examples देना",
+    "धनात्मक/ऋणात्मक परिमेय संख्याएँ, समतुल्य रूप, मानक रूप और number line पर निरूपण सीखना",
+    "दो rational numbers की तुलना करना — especially negative rationals के rules correctly apply करना"
+  ]
+}

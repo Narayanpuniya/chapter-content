@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "concept": "भूमिका – संख्या पद्धति का विस्तार",
+      "point": "Natural (1,2,3…) → Whole (+0) → Integers (+negatives) → next: Rational Numbers."
+    },
+    {
+      "concept": "परिमेय संख्याओं की आवश्यकता",
+      "point": "−3/4 = neither integer nor (ordinary) fraction ⇒ need to extend number system to rationals."
+    },
+    {
+      "concept": "परिमेय संख्याएँ क्या हैं?",
+      "point": "Rational ⇔ p/q with integers p, q and q ≠ 0; includes negatives like −3/4 and decimals like 0.5."
+    },
+    {
+      "concept": "अंश, हर और समतुल्य परिमेय संख्याएँ",
+      "point": "Integers ⊂ Rationals; equivalent rationals by ×/÷ same nonzero integer on p and q."
+    },
+    {
+      "concept": "धनात्मक और ऋणात्मक परिमेय संख्याएँ",
+      "point": "Positive if p,q same sign; negative if opposite; 0 is neither positive nor negative rational."
+    },
+    {
+      "concept": "संख्या रेखा पर परिमेय संख्याएँ",
+      "point": "Mark |p/q| on the correct side of 0; negatives are left-side mirrors of positives."
+    },
+    {
+      "concept": "मानक रूप में परिमेय संख्याएँ",
+      "point": "Standard form: positive denominator, HCF(p,q)=1; if denominator negative, divide by −HCF."
+    },
+    {
+      "concept": "परिमेय संख्याओं की तुलना",
+      "point": "On number line, right is greater; for two negatives, flip the inequality after comparing without signs."
+    }
+  ]
+}

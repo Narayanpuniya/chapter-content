@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "भूमिका – संख्या पद्धति का विस्तार",
+      "action": "हाथ से सीधी ladder बनाओ — तीन steps: Natural, Whole, Integers — फिर ऊपर fourth step ‘Rational’ दिखाओ."
+    },
+    {
+      "at_concept": "परिमेय संख्याओं की आवश्यकता",
+      "action": "एक हाथ ऊपर ‘पहाड़ 3/4 km’, दूसरा हाथ नीचे ‘समुंदर −3/4 km’ — दोनों sides दिखाओ."
+    },
+    {
+      "at_concept": "परिमेय संख्याएँ क्या हैं?",
+      "action": "Board पर p/q बड़ा लिखो; q के नीचे ‘≠ 0’ circle करो; students से बुलवाओ ‘denominator never zero’."
+    },
+    {
+      "at_concept": "अंश, हर और समतुल्य परिमेय संख्याएँ",
+      "action": "दो उँगलियों से अंश और हर को एक साथ ‘pinch-multiply’ दिखाओ — दोनों साथ, कभी अकेला नहीं."
+    },
+    {
+      "at_concept": "धनात्मक और ऋणात्मक परिमेय संख्याएँ",
+      "action": "दो thumbs up = positive rational; एक up एक down = negative; fists closed = zero neither."
+    },
+    {
+      "at_concept": "संख्या रेखा पर परिमेय संख्याएँ",
+      "action": "Arms खुले: right hand ‘+1/2’, left hand ‘−1/2’ — chest = 0, equal stretch."
+    },
+    {
+      "at_concept": "मानक रूप में परिमेय संख्याएँ",
+      "action": "तीन उँगलियाँ: (1) हर पर plus, (2) HCF=1, (3) minus सिर्फ ऊपर — ‘DHM ready’."
+    },
+    {
+      "at_concept": "परिमेय संख्याओं की तुलना",
+      "action": "Number line air-draw: left छोटा, right बड़ा; −1/2 left, −1/5 थोड़ा right — ‘यह बड़ी’."
+    }
+  ]
+}

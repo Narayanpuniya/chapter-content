@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – संख्या पद्धति का विस्तार",
+      "items": [
+        "Class में students गिनना = natural; empty desk count = 0 (whole); temperature +/− = integers",
+        "रोटी का आधा हिस्सा = fraction — अभी तक पढ़ा; negative depth के लिए rational चाहिए"
+      ]
+    },
+    {
+      "concept": "परिमेय संख्याओं की आवश्यकता",
+      "items": [
+        "Bank: ₹150 profit = +150; ₹100 loss = −100 (integers) — fractional loss/profit भी हो सकता है",
+        "Basement parking: ground से 1/2 floor नीचे → −1/2 floor (rational idea)"
+      ]
+    },
+    {
+      "concept": "परिमेय संख्याएँ क्या हैं?",
+      "items": [
+        "Cricket: 3 runs in 2 overs → rate 3/2 (ratio → rational form)",
+        "Shop: ₹23 for 10 items → 23/10 = 2.3 per item (decimal as rational)"
+      ]
+    },
+    {
+      "concept": "अंश, हर और समतुल्य परिमेय संख्याएँ",
+      "items": [
+        "Pizza: 1/2 = 2/4 = 3/6 — same share, अलग cutting — equivalent idea",
+        "Money: ₹−5 = −5/1 rupee — integer as rational in accounts"
+      ]
+    },
+    {
+      "concept": "धनात्मक और ऋणात्मक परिमेय संख्याएँ",
+      "items": [
+        "Temperature: +2/5° rise vs −2/5° fall — positive vs negative rational change",
+        "Lift: 3/4 floor up (+) vs 3/4 floor down (−)"
+      ]
+    },
+    {
+      "concept": "संख्या रेखा पर परिमेय संख्याएँ",
+      "items": [
+        "Village road: school 1/2 km east, home 1/2 km west of चौक — mirror distances",
+        "Thermometer scale: +1/2° and −1/2° equally away from 0"
+      ]
+    },
+    {
+      "concept": "मानक रूप में परिमेय संख्याएँ",
+      "items": [
+        "Recipe simplify: 45/30 cup = 3/2 cup — same quantity, simplest form",
+        "Class votes: −18/45 agreement ratio → −2/5 standard for report"
+      ]
+    },
+    {
+      "concept": "परिमेय संख्याओं की तुलना",
+      "items": [
+        "Debt: −₹1/2 thousand vs −₹1/5 thousand — कम negative = better (बड़ा algebraically)",
+        "Temperature: −1/2° colder than −1/5° — smaller on number line"
+      ]
+    }
+  ]
+}

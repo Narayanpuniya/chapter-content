@@ -1,0 +1,36 @@
+{
+  "mistakes": [
+    {
+      "concept": "भूमिका – संख्या पद्धति का विस्तार",
+      "mistake": "Students सोचते हैं 0 natural number है — NCERT में natural/counting numbers 1, 2, 3… हैं; 0 जोड़ने पर whole numbers बनते हैं."
+    },
+    {
+      "concept": "परिमेय संख्याओं की आवश्यकता",
+      "mistake": "Students −3/4 को ‘fraction’ बोल देते हैं — NCERT clear है: −3/4 न पूर्णांक है न भिन्न; इसलिए नया type — rational."
+    },
+    {
+      "concept": "परिमेय संख्याएँ क्या हैं?",
+      "mistake": "Students सोचते हैं सिर्फ positive fractions ही rational हैं — −3/4 भी rational है क्योंकि p और q integers हो सकते हैं."
+    },
+    {
+      "concept": "अंश, हर और समतुल्य परिमेय संख्याएँ",
+      "mistake": "Students सिर्फ अंश को multiply/divide कर देते हैं, हर को छोड़ देते हैं — तब number बदल जाती है, equivalent नहीं मिलती."
+    },
+    {
+      "concept": "धनात्मक और ऋणात्मक परिमेय संख्याएँ",
+      "mistake": "Students (−3)/(−5) को negative समझ लेते हैं — दोनों minus cancel होते हैं, result positive होता है."
+    },
+    {
+      "concept": "संख्या रेखा पर परिमेय संख्याएँ",
+      "mistake": "Students −3/2 को −3 और −2 के बीच नहीं, कहीं और mark कर देते हैं — पहले |3/2|=1.5 याद करो, फिर left side same distance."
+    },
+    {
+      "concept": "मानक रूप में परिमेय संख्याएँ",
+      "mistake": "Students HCF से divide करके भी हर negative छोड़ देते हैं — standard form में हर हमेशा धनात्मक होना चाहिए।"
+    },
+    {
+      "concept": "परिमेय संख्याओं की तुलना",
+      "mistake": "Students सोचते हैं −1/2 > −1/5 क्योंकि 1/2 > 1/5 — गलत! Negative में order उल्टा हो जाता है।"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tricks": [
+    {
+      "concept": "भूमिका – संख्या पद्धति का विस्तार",
+      "trick": "N-W-I ladder: Natural → Whole (add 0) → Integers (add negatives). फिर Rational आएगा!"
+    },
+    {
+      "concept": "परिमेय संख्याओं की आवश्यकता",
+      "trick": "UP fraction, DOWN minus-fraction: ऊपर 3/4, नीचे −3/4 — Rational की entry ticket!"
+    },
+    {
+      "concept": "परिमेय संख्याएँ क्या हैं?",
+      "trick": "P-over-Q, Q-not-zero: परिमेय = p/q, हर कभी zero नहीं!"
+    },
+    {
+      "concept": "अंश, हर और समतुल्य परिमेय संख्याएँ",
+      "trick": "SAME-SAME: Numerator और denominator पर SAME nonzero number — तभी equivalent!"
+    },
+    {
+      "concept": "धनात्मक और ऋणात्मक परिमेय संख्याएँ",
+      "trick": "SIGN-SAME = PLUS: दोनों चिह्न same तो धनात्मक; अलग तो ऋणात्मक। Zero अकेला राजा — न + न −।"
+    },
+    {
+      "concept": "संख्या रेखा पर परिमेय संख्याएँ",
+      "trick": "MIRROR-ZERO: Number line पर 0 शीशा है — दाईं 1/2 तो बाईं −1/2, same distance!"
+    },
+    {
+      "concept": "मानक रूप में परिमेय संख्याएँ",
+      "trick": "D-H-M: Denominator Positive — HCF One — Minus on Numerator. यही मानक रूप!"
+    },
+    {
+      "concept": "परिमेय संख्याओं की तुलना",
+      "trick": "NEG-FLIP: ऋणात्मक जोड़ी में बड़ी absolute = छोटी number! चिह्न छोड़ो, जवाब उल्टा करो।"
+    }
+  ]
+}
