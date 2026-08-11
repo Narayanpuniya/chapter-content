@@ -1,0 +1,100 @@
+{
+  "sets": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "easy": [
+        "∆ABC में शीर्ष C की सम्मुख भुजा कौनसी है?"
+      ],
+      "medium": [
+        "∆PQR में: (i) शीर्ष Q की सम्मुख भुजा (ii) भुजा PR का सम्मुख कोण लिखो।"
+      ],
+      "hard": [
+        "एक figure में vertices X, Y, Z marked हैं। Table बनाओ: हर शीर्ष | सम्मुख भुजा | उस भुजा का सम्मुख कोण — तीन rows complete करो।"
+      ]
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "easy": [
+        "विषमबाहु और समबाहु त्रिभुज में मुख्य अंतर एक line में लिखो।"
+      ],
+      "medium": [
+        "क्या एक अधिक कोण त्रिभुज समबाहु हो सकता है? Why/why not?"
+      ],
+      "hard": [
+        "तीन triangles: (i) sides 3,4,5 with right angle (ii) sides 6,6,6 (iii) angles 20°,30°,130°. हर एक को sides + angles दोनों bases पर classify करो।"
+      ]
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "easy": [
+        "एक triangle में कितनी माध्यिकाएँ होती हैं?"
+      ],
+      "medium": [
+        "∆PQR में side QR का midpoint D है। PD को क्या कहेंगे? QD और DR के बारे में क्या relation है?"
+      ],
+      "hard": [
+        "क्या obtuse triangle में भी median पूरी तरह अंदर होती है? Figure सोचकर reason दो।"
+      ]
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "easy": [
+        "शीर्षलंब की definition एक line में लिखो (लंब word ज़रूर use करो)।"
+      ],
+      "medium": [
+        "न्यून, समकोण, अधिक — हर case में A से BC तक altitude foot कहाँ पड़ेगा (अंदर / शीर्ष पर / बाहर)?"
+      ],
+      "hard": [
+        "क्या किसी triangle की median और altitude एक ही रेखाखंड हो सकती है? कौनसे type में? Reason दो।"
+      ]
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "easy": [
+        "∆PQR में QR का midpoint D. सिर्फ midpoint दिया हो तो PD क्या है — माध्यिका या शीर्षलंब?"
+      ],
+      "medium": [
+        "∆XYZ में altitude XL बाहर है। यह triangle किस angle-type का होगा?"
+      ],
+      "hard": [
+        "आकृति खींचकर पुष्टि कीजिए कि एक समद्विबाहु त्रिभुज में शीर्षलंब व माध्यिका एक ही रेखाखंड हो सकता है। Steps लिखो।"
+      ]
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "easy": [
+        "बाह्य कोण गुण एक line में statement लिखो।"
+      ],
+      "medium": [
+        "Exterior 70°, एक remote interior 25°. दूसरा remote interior find करो।"
+      ],
+      "hard": [
+        "दो remote interiors 60° और 80°. Exterior find करो. फिर adjacent interior भी निकालो (linear pair से)।"
+      ]
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "easy": [
+        "Remote interiors 60° और 80° हैं। बाह्य कोण की माप ज्ञात कीजिए।"
+      ],
+      "medium": [
+        "Exterior 110°, remotes marked 50° और 70°. क्या figure में त्रुटि है? Comment with calculation."
+      ],
+      "hard": [
+        "Exterior right angle है। Remote interiors में से एक दूसरे से 10° बड़ा। दोनों remotes find करो।"
+      ]
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "easy": [
+        "अगर किसी triangle के दो angles 70° और 50° हैं, तीसरा angle find करो।"
+      ],
+      "medium": [
+        "एक समकोण त्रिभुज में एक acute angle 35°. दूसरा acute find करो।"
+      ],
+      "hard": [
+        "Exterior at C is 110°, ∠A=40°. पहले ∠B exterior property से निकालो, फिर ∠C angle-sum / linear pair से verify करो कि दोनों methods match करते हैं।"
+      ]
+    }
+  ]
+}

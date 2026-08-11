@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "items": [
+        "Traffic warning triangle / set-square — तीन corners और तीन edges clearly दिखते हैं",
+        "Sandwich या pizza slice triangular cut — तीन sides, तीन tip points (vertices)"
+      ]
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "items": [
+        "Road side warning triangle अक्सर समबाहु जैसा; carpenter set-square समकोण",
+        "Kite के triangular panels — कभी समद्विबाहु, कभी विषमबाहु"
+      ]
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "items": [
+        "Triangular park के tip से opposite side के बिल्कुल बीच gate तक path — median जैसा",
+        "Flag के triangular cloth tip से base midpoint तक stitch line — median idea"
+      ]
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "items": [
+        "पहाड़ की ऊँचाई — tip से sea-level/base तक vertical distance (altitude idea)",
+        "Flag pole ground पर लंब — triangular support frame की height measure"
+      ]
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "items": [
+        "समबाहु warning triangle के symmetry fold — center crease median cum altitude",
+        "Isosceles roof gable — ridge से base midpoint तक vertical beam often both roles"
+      ]
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "items": [
+        "Road Y-junction पर triangular island — एक arm extend सोचो, outer turn angle दो opposite corner angles के sum जैसा",
+        "Set-square edge table से थोड़ा बाहर — outer angle measure करके interiors से match"
+      ]
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "items": [
+        "Architecture triangular window — outer trim angle verify by adding two far corner angles",
+        "Sports field triangular corner flags — extended sideline outer angle vs two interiors"
+      ]
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "items": [
+        "Triangular slice of bread — तीन corner openings add करके roughly half-turn / straight",
+        "Set-square 30-60-90: 30+60+90=180 — pocket check anytime"
+      ]
+    }
+  ]
+}

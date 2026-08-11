@@ -1,0 +1,36 @@
+{
+  "tricks": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "trick": "V-O-S: Vertex Opposite Side. जो vertex दबाओ, उससे दूर वाली side सम्मुख. A→BC, B→CA, C→AB."
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "trick": "S-I-E sides: Scalene All Different, Isosceles Identical pair, Equilateral Equal all. A-R-O angles: Acute All <90, Right one 90, Obtuse one >90."
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "trick": "Median = Mid. M for Midpoint. 'Median Mid से मिलती है' — याद रखने का shortcut."
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "trick": "Altitude = अति सीधा लंब. A for At right angle to base. Height = perpendicular distance."
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "trick": "Equal sides → Equal treatment: जहाँ sides equal, median और altitude मिल सकते हैं. Scalene = Separate lines."
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "trick": "E = R + R: Exterior = Remote + Remote. Adjacent मत जोड़ना — वह तो linear pair में 180° के लिए है."
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "trick": "Check-Sum: Exterior पहले sum से check. Match = सही figure; mismatch = त्रुटि."
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "trick": "Triangle → Straight line feeling: तीन angles मिलकर सीधी line (180°). T for Triangle, T for One-Eighty Together."
+    }
+  ]
+}

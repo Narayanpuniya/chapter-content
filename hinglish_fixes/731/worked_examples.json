@@ -1,0 +1,84 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "problem": "∆ABC के छः अवयवों (तीन भुजाओं तथा तीन कोणों) के नाम लिखिए। Also: भुजा AC के सम्मुख कोण का नाम बताओ।",
+      "steps": [
+        "Sides: AB, BC, CA",
+        "Angles: ∠BAC (∠A), ∠ABC (∠B), ∠BCA (∠C)",
+        "भुजा AC (यानी CA) को touch नहीं करता वह vertex B — इसलिए सम्मुख कोण = ∠ABC"
+      ],
+      "answer": "भुजाएँ AB, BC, CA; कोण ∠A, ∠B, ∠C. भुजा AC का सम्मुख कोण = ∠B (∠ABC)"
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "problem": "आकृति 6.2 जैसी सोचो: एक triangle में sides 5 cm, 5 cm, 6 cm और एक angle 90°. भुजाओं और कोणों दोनों आधारों पर classify करो।",
+      "steps": [
+        "दो sides equal (5=5) → समद्विबाहु",
+        "एक angle 90° → समकोण त्रिभुज",
+        "Combined name: समद्विबाहु समकोण त्रिभुज"
+      ],
+      "answer": "भुजाओं पर: समद्विबाहु; कोणों पर: समकोण त्रिभुज"
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "problem": "∆ABC में, BM एक माध्यिका है। लिखो: M किस side का मध्य बिंदु है? और BM के बारे में एक true statement.",
+      "steps": [
+        "Median vertex B से opposite side AC के midpoint तक",
+        "इसलिए M मध्य बिंदु of AC ⇒ AM = MC",
+        "BM हमेशा ∆ के अंदर"
+      ],
+      "answer": "M भुजा AC का मध्य बिंदु है; BM माध्यिका है और ∆ABC के अभ्यंतर में है।"
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "problem": "∆ABC समकोण है at B. क्या AB और BC खुद altitudes हो सकते हैं? Explain.",
+      "steps": [
+        "∠B = 90° ⇒ AB ⊥ BC",
+        "Vertex A से opposite side BC: AB ⊥ BC, तो AB itself altitude from A to line BC",
+        "Similarly BC altitude from C to line AB"
+      ],
+      "answer": "हाँ — समकोण त्रिभुज में समकोण बनाने वाली दो भुजाएँ ही दो शीर्षलंब होती हैं।"
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "problem": "∆ABC समद्विबाहु है with AB = AC. D midpoint of BC. Verify idea: AD median भी है और altitude भी.",
+      "steps": [
+        "D midpoint ⇒ AD माध्यिका by definition",
+        "AB = AC ⇒ isosceles symmetry ⇒ AD base BC को perpendicular bisect करती है",
+        "इसलिए AD ⊥ BC ⇒ AD शीर्षलंब भी"
+      ],
+      "answer": "हाँ — समद्विबाहु ∆ABC (AB=AC) में AD (D मध्य बिंदु of BC) माध्यिका तथा शीर्षलंब दोनों है।"
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "problem": "आकृति 6.11 जैसी: exterior angle 110°, एक remote interior 50°, unknown remote interior x. x ज्ञात कीजिए।",
+      "steps": [
+        "बाह्य कोण गुण: remote interiors का sum = exterior",
+        "50° + x = 110°",
+        "x = 110° − 50° = 60°"
+      ],
+      "answer": "x = 60°"
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "problem": "किसी त्रिभुज में एक बाह्य कोण 70° है और उसके अंतः सम्मुख कोणों में से एक 25° है। दूसरे अंतः सम्मुख कोण की माप ज्ञात कीजिए।",
+      "steps": [
+        "बाह्य कोण गुण: 25° + x = 70°",
+        "x = 70° − 25°",
+        "x = 45°"
+      ],
+      "answer": "45°"
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "problem": "दी गई आकृति में ∠P = ?, यदि अन्य दो कोण 47° तथा 52° हैं।",
+      "steps": [
+        "अंतःकोण योग गुण: ∠P + 47° + 52° = 180°",
+        "∠P + 99° = 180°",
+        "∠P = 180° − 99° = 81°"
+      ],
+      "answer": "∠P = 81°"
+    }
+  ]
+}

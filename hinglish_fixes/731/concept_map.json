@@ -1,0 +1,44 @@
+{
+  "chapter_overview": "नमस्ते! आज हम NCERT Class 7 Mathematics के Chapter 6 — त्रिभुज और उसके गुण — पढ़ेंगे। पहले triangle के तीन sides, तीन angles और तीन vertices (छः अवयव) clearly नाम देंगे; फिर sides और angles के basis पर classification। उसके बाद माध्यिका (median) और शीर्षलंब (altitude), बाह्य कोण का गुण, और अंतःकोणों का योग गुण (sum = 180°) — सब paper-folding activities और numericals से समझेंगे।",
+  "welcome": "अरे class, Smart Board ready? आज Geometry का favourite chapter — त्रिभुज और उसके गुण! सोचो — roof truss, set-square, road warning board, sandwich का slice — हर जगह triangles। Teacher physically नहीं हैं इस subject के लिए, लेकिन मैं तुम्हारे साथ बिल्कुल school वाली Hinglish में पढ़ाऊँगा। Copy-pencil ready? चलो शुरू करते हैं!",
+  "learning_outcomes": [
+    "त्रिभुज के छः अवयव (तीन भुजाएँ, तीन कोण) नाम देना और सम्मुख भुजा/कोण/शीर्ष identify करना",
+    "भुजाओं और कोणों के आधार पर त्रिभुजों का वर्गीकरण (विषमबाहु, समद्विबाहु, समबाहु; न्यून, समकोण, अधिक)",
+    "माध्यिका और शीर्षलंब define करके draw करना; जानना कि माध्यिका हमेशा अंदर होती है, शीर्षलंब कभी-कभी बाहर",
+    "बाह्य कोण गुण (exterior = sum of two remote interiors) और अंतःकोण योग गुण (∠A+∠B+∠C=180°) से unknown angles निकालना"
+  ],
+  "concepts": [
+    {
+      "number": 1,
+      "name": "भूमिका – त्रिभुज और उसके अवयव"
+    },
+    {
+      "number": 2,
+      "name": "त्रिभुजों का वर्गीकरण"
+    },
+    {
+      "number": 3,
+      "name": "त्रिभुज की माध्यिकाएँ"
+    },
+    {
+      "number": 4,
+      "name": "त्रिभुज के शीर्षलंब"
+    },
+    {
+      "number": 5,
+      "name": "माध्यिका और शीर्षलंब – विशेषताएँ"
+    },
+    {
+      "number": 6,
+      "name": "बाह्य कोण एवं इसका गुण"
+    },
+    {
+      "number": 7,
+      "name": "बाह्य कोण गुण के अनुप्रयोग"
+    },
+    {
+      "number": 8,
+      "name": "अंतःकोणों का योग गुण"
+    }
+  ]
+}

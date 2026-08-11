@@ -1,0 +1,36 @@
+{
+  "summaries": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "summary": "Triangle के तीन sides, तीन angles, तीन vertices होते हैं; सम्मुख भुजा/कोण opposite vertex/side से identify होते हैं।"
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "summary": "Triangles sides से विषमबाहु/समद्विबाहु/समबाहु और angles से न्यून/समकोण/अधिक में classify होते हैं।"
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "summary": "Median vertex को opposite side के midpoint से मिलाती है; हर triangle में तीन medians होती हैं और यह अंदर रहती हैं।"
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "summary": "Altitude vertex से opposite side (या उसकी line) पर perpendicular होती है; obtuse में बाहर हो सकती है; right triangle में legs खुद altitudes बन सकती हैं।"
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "summary": "Compare medians and altitudes on equilateral, isosceles, scalene — equality of the two segments needs symmetry (equal sides)."
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "summary": "Exterior angle of a triangle equals the sum of the two remote interior angles; with adjacent interior it forms a linear pair (180°)."
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "summary": "Use exterior equals sum of remotes to find unknowns; use mismatch to spot figure errors; exterior cannot be 180° for a real triangle."
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "summary": "तीनों interior angles का योग हमेशा 180°; prove via exterior property + linear pair; use to find unknown angles."
+    }
+  ]
+}

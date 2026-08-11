@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "point": "Six elements + V-O-S: A opposite BC, B opposite CA, C opposite AB."
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "point": "Sides: scalene / isosceles / equilateral. Angles: acute / right / obtuse. दोनों अलग पूछो."
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "point": "Median ↔ midpoint (not necessarily perpendicular). 3 medians, always interior."
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "point": "Altitude = perpendicular height. 3 altitudes. Obtuse can be outside. Right: two sides are altitudes."
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "point": "Equilateral: all medians = altitudes. Isosceles base: median = altitude. Scalene: usually different."
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "point": "Exterior = remote1 + remote2; Exterior + adjacent interior = 180°."
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "point": "x = E − known; E = a+b; error if E ≠ a+b. Exterior + adjacent = 180°."
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "point": "∠A+∠B+∠C=180°. Proof link: exterior ⇒ remotes sum; plus adjacent = 180°."
+    }
+  ]
+}

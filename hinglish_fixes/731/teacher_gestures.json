@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "action": "तीन उँगलियों से triangle shape बनाओ; एक उँगली vertex दबाओ, दूसरी से opposite side point करो — सम्मुख भुजा"
+    },
+    {
+      "at_concept": "त्रिभुजों का वर्गीकरण",
+      "action": "तीन sticks अलग length (scalene), दो same length (isosceles), तीन same (equilateral) से triangle बनाओ; फिर arms से acute/right/obtuse corner दिखाओ"
+    },
+    {
+      "at_concept": "त्रिभुज की माध्यिकाएँ",
+      "action": "एक हाथ से side का middle दबाओ (midpoint), दूसरे हाथ से opposite tip पकड़ो — imaginary line median"
+    },
+    {
+      "at_concept": "त्रिभुज के शीर्षलंब",
+      "action": "एक हाथ flat base (floor), दूसरा हाथ tip से सीधा नीचे लंब — plumb line gesture for altitude"
+    },
+    {
+      "at_concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "action": "दो equal sticks (isosceles) से triangle; बीच fold दिखाओ — एक ही crease median plus altitude; फिर तीन unequal sticks — दो अलग lines दिखाओ"
+    },
+    {
+      "at_concept": "बाह्य कोण एवं इसका गुण",
+      "action": "तीन उँगलियाँ triangle; एक side extend; दो दूर वाले interior angles fingers से touch करके exterior finger पर sum दिखाओ"
+    },
+    {
+      "at_concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "action": "दो remote angles add (fingers), exterior से compare — thumbs up if equal, thumbs down if figure wrong"
+    },
+    {
+      "at_concept": "अंतःकोणों का योग गुण",
+      "action": "दोनों arms सीधी line (180°); तीन students अपने angle-cut papers उस line पर सजाकर दिखाओ — sum property live"
+    }
+  ]
+}

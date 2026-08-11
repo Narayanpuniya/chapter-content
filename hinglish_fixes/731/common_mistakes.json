@@ -1,0 +1,36 @@
+{
+  "mistakes": [
+    {
+      "concept": "भूमिका – त्रिभुज और उसके अवयव",
+      "mistake": "बहुत बच्चे सम्मुख भुजा गलत बताते हैं — सोचते हैं A की opposite side AB है। नहीं! Opposite of vertex A हमेशा BC होती है — जो A को touch नहीं करती।"
+    },
+    {
+      "concept": "त्रिभुजों का वर्गीकरण",
+      "mistake": "Students सोचते हैं समबाहु सिर्फ sides से classify होता है और angles ignore करते हैं — actually equilateral हमेशा acute भी होता है (हर angle 60°), लेकिन exam में दोनों bases अलग-अलग पूछे जाते हैं।"
+    },
+    {
+      "concept": "त्रिभुज की माध्यिकाएँ",
+      "mistake": "Students median को हमेशा perpendicular समझ लेते हैं — गलत। Median सिर्फ midpoint से मिलती है; perpendicular होना ज़रूरी नहीं (सिर्फ special triangles में दोनों same line हो सकते हैं)।"
+    },
+    {
+      "concept": "त्रिभुज के शीर्षलंब",
+      "mistake": "Students सोचते हैं altitude हमेशा triangle के अंदर होती है और foot हमेशा side segment पर होता है — obtuse triangle में foot side के extension पर बाहर होता है।"
+    },
+    {
+      "concept": "माध्यिका और शीर्षलंब – विशेषताएँ",
+      "mistake": "बच्चे हर triangle में median और altitude same मान लेते हैं — सिर्फ समबाहु और समद्विबाहु (base case) में यह true; विषमबाहु में अलग।"
+    },
+    {
+      "concept": "बाह्य कोण एवं इसका गुण",
+      "mistake": "Students exterior को adjacent interior से add करके property लिख देते हैं — गलत। Exterior = sum of दो remote/opposite interiors, adjacent नहीं।"
+    },
+    {
+      "concept": "बाह्य कोण गुण के अनुप्रयोग",
+      "mistake": "Figure error सवाल में students सिर्फ 'हाँ गलत' लिख देते हैं बिना reason — हमेशा calculate करके दिखाओ कि exterior ≠ sum of remotes।"
+    },
+    {
+      "concept": "अंतःकोणों का योग गुण",
+      "mistake": "Students calculation में 180−(a+b) की जगह 90−(a+b) कर देते हैं — complementary वाला habit। Triangle में हमेशा 180।"
+    }
+  ]
+}
