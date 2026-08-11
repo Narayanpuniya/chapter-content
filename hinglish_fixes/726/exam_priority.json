@@ -1,0 +1,13 @@
+{
+  "very_important": [
+    "Word problem में पहले mixed fraction को improper बनाओ, फिर multiply — directly whole parts मत multiply करो.",
+    "अगर answer improper आए तो question पूछे तो mixed में convert करो — NCERT clearly कहता है.",
+    "Conversion step clearly दिखाओ — (whole×denominator + numerator)/denominator — examiner यही marks देता है.",
+    "Word problem में पहले sentence से fraction × number लिखो, फिर calculate — language को maths में translate करना ही half marks है.",
+    "'कितने' vs 'कितना भाग' अलग answers — number और fraction दोनों confuse मत करना.",
+    "Diagram questions में steps लिखो: कितने parts, कौनसा piece A, whole का कितना — सिर्फ answer 1/6 से marks कम मिलते हैं.",
+    "पहले multiply, फिर lowest terms; अगर mixed answer माँगा हो तो improper को mixed बनाओ.",
+    "Comparison questions में हमेशा calculate + दो inequalities लिखो — सिर्फ rule रटने से full marks मुश्किल."
+  ],
+  "board_questions": []
+}

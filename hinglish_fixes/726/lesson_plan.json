@@ -1,0 +1,28 @@
+{
+  "concept_sequence": [
+    "भिन्नों का गुणन – क्षेत्रफल से शुरुआत",
+    "एक भिन्न का पूर्ण संख्या से गुणन",
+    "विषम एवं मिश्रित भिन्न × पूर्ण संख्या",
+    "भिन्न प्रचालक 'का' के रूप में",
+    "'का' से रोज़मर्रा की समस्याएँ",
+    "भिन्न का भिन्न से गुणन",
+    "दो भिन्नों के गुणन का नियम",
+    "गुणनफल का मान – उचित और विषम भिन्नें"
+  ],
+  "example_sequence": [
+    "Copy/notebook के page का area जब sides centimetre में mixed numbers हों",
+    "Pizza के 1/4 slices — 3 slices = 3 × (1/4) of pizza",
+    "2½ metres cloth × 3 pieces चाहिए → पहले 5/2 × 3",
+    "Class के 30 students का 1/3 absent → (1/3)×30 = 10",
+    "Picnic bottle: total पानी का कितना fraction किसी ने पिया",
+    "Ribbon/या lace को पहले 4 equal, फिर एक piece को आधा — छोटा piece fraction×fraction",
+    "Book reading: hours (mixed) × fraction of book per hour",
+    "आधा of आधा pizza = 1/4 — product छोटा (proper×proper)"
+  ],
+  "learning_outcomes": [
+    "एक भिन्न को पूर्ण संख्या से गुणा करना और rule याद रखना: अंश × पूर्ण संख्या, हर same",
+    "मिश्रित भिन्न को विषम भिन्न में बदल कर पूर्ण संख्या से multiply करना",
+    "'का' को multiplication operator की तरह use करके word problems solve करना",
+    "दो भिन्नों का गुणन (अंश×अंश)/(हर×हर) करना और proper/improper products की comparison समझना"
+  ]
+}

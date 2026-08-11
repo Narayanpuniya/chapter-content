@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "भिन्नों का गुणन – क्षेत्रफल से शुरुआत",
+      "action": "हाथों से बडा rectangle बनाओ (7×4), फिर छोटे half-steps से mixed lengths दिखाओ — 'अब fraction multiply चाहिए!'"
+    },
+    {
+      "at_concept": "एक भिन्न का पूर्ण संख्या से गुणन",
+      "action": "एक circle के 4 parts fingers से दिखाओ; दो fingers up करके 2 × (1/4) = 2/4 act out करो."
+    },
+    {
+      "at_concept": "विषम एवं मिश्रित भिन्न × पूर्ण संख्या",
+      "action": "तीन उँगलियाँ: पहली 'mixed तोड़ो' (improper), दूसरी 'multiply', तीसरी 'simplify/mixed वापस'."
+    },
+    {
+      "at_concept": "भिन्न प्रचालक 'का' के रूप में",
+      "action": "एक हाथ से 'का' word air में लिखो, दूसरे हाथ से × sign बनाओ — link strong करो."
+    },
+    {
+      "at_concept": "'का' से रोज़मर्रा की समस्याएँ",
+      "action": "40 उँगलियाँ imaginary; 1/5 अलग (8), 2/5 अलग (16), बाकी दोनों हाथ से 16 — science!"
+    },
+    {
+      "at_concept": "भिन्न का भिन्न से गुणन",
+      "action": "Paper fold: पहले 3 strips, एक shade; उससे horizontally half — छोटा piece 1/6 दिखाओ."
+    },
+    {
+      "at_concept": "दो भिन्नों के गुणन का नियम",
+      "action": "दो fingers up (numerators multiply), दो fingers down (denominators multiply) — फिर एक fraction shape."
+    },
+    {
+      "at_concept": "गुणनफल का मान – उचित और विषम भिन्नें",
+      "action": "हाथ नीचे (proper×proper product shrinks), हाथ ऊपर (improper×improper grows), एक ऊपर एक नीचे (mixed case)."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tricks": [
+    {
+      "concept": "भिन्नों का गुणन – क्षेत्रफल से शुरुआत",
+      "trick": "Area पहले, rule बाद में: जब side fraction हो, पहले 'भिन्न गुणा' सोचो — सीधा 7×3 मत करो."
+    },
+    {
+      "concept": "एक भिन्न का पूर्ण संख्या से गुणन",
+      "trick": "A-H rule: अंश Active (multiply), हर Holding (same रखो) जब whole number से multiply करो."
+    },
+    {
+      "concept": "विषम एवं मिश्रित भिन्न × पूर्ण संख्या",
+      "trick": "M-I-M: Mixed → Improper → Multiply. तीन letters, तीन steps!"
+    },
+    {
+      "concept": "भिन्न प्रचालक 'का' के रूप में",
+      "trick": "KA = × : जितनी बार 'का' दिखे fraction के साथ, उतनी बार multiply याद करो."
+    },
+    {
+      "concept": "'का' से रोज़मर्रा की समस्याएँ",
+      "trick": "N-F-R: Number निकालो → Fraction of remaining → Recheck total (parts sum = whole)."
+    },
+    {
+      "concept": "भिन्न का भिन्न से गुणन",
+      "trick": "Fold-Fold-Count: पहले एक fraction से fold, फिर दूसरे से, total parts = हर×हर."
+    },
+    {
+      "concept": "दो भिन्नों के गुणन का नियम",
+      "trick": "ऊपर-ऊपर, नीचे-नीचे: numerators साथ, denominators साथ — 'UNUN' rule."
+    },
+    {
+      "concept": "गुणनफल का मान – उचित और विषम भिन्नें",
+      "trick": "P-P Small, I-I Tall, P-I Middle: Proper-Proper छोटा; Improper-Improper बडा; Proper-Improper बीच में."
+    }
+  ]
+}

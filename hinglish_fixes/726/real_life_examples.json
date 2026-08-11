@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "concept": "भिन्नों का गुणन – क्षेत्रफल से शुरुआत",
+      "items": [
+        "Copy/notebook के page का area जब sides centimetre में mixed numbers हों",
+        "खेत या classroom floor का area जब measurement 3½ m जैसी हो"
+      ]
+    },
+    {
+      "concept": "एक भिन्न का पूर्ण संख्या से गुणन",
+      "items": [
+        "Pizza के 1/4 slices — 3 slices = 3 × (1/4) of pizza",
+        "Ribbon के equal folds — हर fold total का 1/n; दो folds = 2/n"
+      ]
+    },
+    {
+      "concept": "विषम एवं मिश्रित भिन्न × पूर्ण संख्या",
+      "items": [
+        "2½ metres cloth × 3 pieces चाहिए → पहले 5/2 × 3",
+        "1¾ litre juice × 4 bottles के लिए total"
+      ]
+    },
+    {
+      "concept": "भिन्न प्रचालक 'का' के रूप में",
+      "items": [
+        "Class के 30 students का 1/3 absent → (1/3)×30 = 10",
+        "₹50 का 1/5 discount → (1/5)×50 = ₹10"
+      ]
+    },
+    {
+      "concept": "'का' से रोज़मर्रा की समस्याएँ",
+      "items": [
+        "Picnic bottle: total पानी का कितना fraction किसी ने पिया",
+        "Class survey: कितने students किस subject को पसंद करते हैं"
+      ]
+    },
+    {
+      "concept": "भिन्न का भिन्न से गुणन",
+      "items": [
+        "Ribbon/या lace को पहले 4 equal, फिर एक piece को आधा — छोटा piece fraction×fraction",
+        "Chocolate bar: 1/3 लो, उसका आधा खाओ = (1/2)×(1/3) of bar"
+      ]
+    },
+    {
+      "concept": "दो भिन्नों के गुणन का नियम",
+      "items": [
+        "Book reading: hours (mixed) × fraction of book per hour",
+        "Recipe: 2/3 cup का 3/4 part use करना = (2/3)×(3/4)"
+      ]
+    },
+    {
+      "concept": "गुणनफल का मान – उचित और विषम भिन्नें",
+      "items": [
+        "आधा of आधा pizza = 1/4 — product छोटा (proper×proper)",
+        "1⅓ plates × 2½ servings type quantities — product improper से और बडा"
+      ]
+    }
+  ]
+}

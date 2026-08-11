@@ -1,0 +1,36 @@
+{
+  "summaries": [
+    {
+      "concept": "भिन्नों का गुणन – क्षेत्रफल से शुरुआत",
+      "summary": "आयत का क्षेत्रफल लंबाई × चौड़ाई होता है; जब sides fractions हों, हमें भिन्नों का गुणन सीखना पड़ता है — यही chapter का पहला goal है."
+    },
+    {
+      "concept": "एक भिन्न का पूर्ण संख्या से गुणन",
+      "summary": "पूर्ण संख्या × भिन्न = (पूर्ण संख्या × अंश)/हर; pictures में shaded parts जोड़ना ही multiplication है."
+    },
+    {
+      "concept": "विषम एवं मिश्रित भिन्न × पूर्ण संख्या",
+      "summary": "Improper और mixed fractions पर भी same multiplication rule; mixed को पहले improper में बदलो, फिर अंश × पूर्ण संख्या."
+    },
+    {
+      "concept": "भिन्न प्रचालक 'का' के रूप में",
+      "summary": "Hindi 'का' fraction के साथ multiplication दिखाता है: a का (m/n) = (m/n)×a."
+    },
+    {
+      "concept": "'का' से रोज़मर्रा की समस्याएँ",
+      "summary": "'का' से word problems: fraction × total = number; remaining number या remaining fraction दोनों carefully लिखो."
+    },
+    {
+      "concept": "भिन्न का भिन्न से गुणन",
+      "summary": "Fraction × fraction को folding/parts से समझो: (1/2)×(1/3)=1/6 क्योंकि whole 2×3=6 equal parts में बनता है."
+    },
+    {
+      "concept": "दो भिन्नों के गुणन का नियम",
+      "summary": "दो fractions multiply: (अंश×अंश)/(हर×हर); pictures और Farida ribbon इसी rule को justify करते हैं."
+    },
+    {
+      "concept": "गुणनफल का मान – उचित और विषम भिन्नें",
+      "summary": "Proper×proper → product छोटा; improper×improper → product बडा; proper×improper → product बीच में होता है."
+    }
+  ]
+}
