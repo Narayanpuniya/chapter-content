@@ -1,0 +1,9 @@
+{
+  "overview": "आज हम NCERT Class 7 Mathematics के Chapter 17 — घातांक और घात — को पढ़ेंगे. बहुत बड़ी numbers जैसे पृथ्वी का द्रव्यमान या ग्रह-दूरी को पढ़ना-compare करना मुश्किल होता है; इसलिए हम exponents (घातांक) use करते हैं. इस chapter में base-exponent, घातांकीय रूप, expanded form, negative bases, prime-factor powers, और same-base multiplication rule सीखेंगे.",
+  "learning_outcomes": [
+    "बहुत बड़ी संख्याओं को घातांकीय रूप (exponential form) में लिखना और पढ़ना",
+    "आधार (base) और घातांक (exponent) की पहचान करना; वर्ग व घन समझना",
+    "संख्याओं को अभाज्य गुणनखंडों की घातों के गुणनफल के रूप में व्यक्त करना",
+    "ऋणात्मक आधार वाली घातें, 1 व –1 की घातें, तथा एक ही आधार वाली घातों का गुणन नियम लागू करना"
+  ]
+}

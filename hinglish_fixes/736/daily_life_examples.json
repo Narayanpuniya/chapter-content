@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "concept": "भूमिका – बहुत बड़ी संख्याएँ और घातांकों की आवश्यकता",
+      "items": [
+        "Science book में planets के mass और distances — zeros की लंबी line",
+        "Population of world या national debt जैसे huge figures news में"
+      ]
+    },
+    {
+      "concept": "घातांक और आधार – परिभाषा व घातांकीय रूप",
+      "items": [
+        "Mobile storage: 10⁹ bytes ≈ 1 GB — powers of 10 से short writing",
+        "Scientific calculators पर 1.5E8 जैसी exponential notation"
+      ]
+    },
+    {
+      "concept": "विस्तारित रूप में संख्याएँ लिखना",
+      "items": [
+        "Cheque या bank slip पर amount words के साथ place-value breakdown",
+        "Class में attendance total को hundreds-tens-ones में तोड़ना"
+      ]
+    },
+    {
+      "concept": "कोई भी आधार, वर्ग और घन",
+      "items": [
+        "वर्ग सेंटीमीटर (cm²) — area में square का use",
+        "घन सेंटीमीटर (cm³) — volume में cube का use"
+      ]
+    },
+    {
+      "concept": "ऋणात्मक आधार वाली घातें",
+      "items": [
+        "Bank debit-credit pairing: opposite signs combine stepwise",
+        "Game scores: penalty rounds odd/even times — final sign intuition"
+      ]
+    },
+    {
+      "concept": "घातों की तुलना और बीजीय रूप aⁿbᵐ",
+      "items": [
+        "Offers compare: '2³ gifts' vs '3² gifts' — numbers calculate करके decide",
+        "Computer memory powers of 2 vs ordinary squares — values बहुत अलग"
+      ]
+    },
+    {
+      "concept": "अभाज्य गुणनखंडों की घातों के गुणनफल",
+      "items": [
+        "पैकिंग: 72 sweets को 2 और 3 के group bundles में बाँटना",
+        "Class rows: students को equal prime-sized teams में arrange करना"
+      ]
+    },
+    {
+      "concept": "विशेष घातें (1, –1) और एक ही आधार का गुणन नियम",
+      "items": [
+        "Paper folding stages combine: repeated doubling counts add like exponents",
+        "Two growth phases at same doubling rate — total generations add (simplified idea)"
+      ]
+    }
+  ]
+}

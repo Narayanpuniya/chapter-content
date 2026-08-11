@@ -1,0 +1,36 @@
+{
+  "gestures": [
+    {
+      "at_concept": "भूमिका – बहुत बड़ी संख्याएँ और घातांकों की आवश्यकता",
+      "action": "दोनों हाथों से बहुत लंबी imaginary number line दिखाओ, फिर fingers से 'fold' करके short exponent form दिखाओ"
+    },
+    {
+      "at_concept": "घातांक और आधार – परिभाषा व घातांकीय रूप",
+      "action": "एक हाथ से base (बड़ा अंक) दिखाओ, दूसरे हाथ की 4 उंगलियाँ ऊपर करके '4 बार multiply' count करो"
+    },
+    {
+      "at_concept": "विस्तारित रूप में संख्याएँ लिखना",
+      "action": "Board पर number के हर digit के नीचे place (हजार/सौ/दस) point करते हुए power of 10 बोलकर expand करो"
+    },
+    {
+      "at_concept": "कोई भी आधार, वर्ग और घन",
+      "action": "दो उंगलियाँ दिखा कर 'वर्ग', तीन उंगलियाँ दिखा कर 'घन' — फिर multiply action"
+    },
+    {
+      "at_concept": "ऋणात्मक आधार वाली घातें",
+      "action": "Odd number of claps → sad/minus face; even claps → smile/plus — sign rule act out"
+    },
+    {
+      "at_concept": "घातों की तुलना और बीजीय रूप aⁿbᵐ",
+      "action": "दो palms पर दो powers लिखो, calculate करके कौनसा हाथ ऊपर (बड़ी value) उठाओ"
+    },
+    {
+      "at_concept": "अभाज्य गुणनखंडों की घातों के गुणनफल",
+      "action": "Factor tree की तरह हाथों से branch करते हुए divide actions — last में primes की उंगली count से exponent बोलो"
+    },
+    {
+      "at_concept": "विशेष घातें (1, –1) और एक ही आधार का गुणन नियम",
+      "action": "दो stacks of blocks (2² और 2³) मिलाकर एक लंबी stack 2⁵ — exponents add होने का drama"
+    }
+  ]
+}

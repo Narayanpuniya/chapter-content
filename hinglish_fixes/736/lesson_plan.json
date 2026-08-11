@@ -1,0 +1,28 @@
+{
+  "concept_sequence": [
+    "भूमिका – बहुत बड़ी संख्याएँ और घातांकों की आवश्यकता",
+    "घातांक और आधार – परिभाषा व घातांकीय रूप",
+    "विस्तारित रूप में संख्याएँ लिखना",
+    "कोई भी आधार, वर्ग और घन",
+    "ऋणात्मक आधार वाली घातें",
+    "घातों की तुलना और बीजीय रूप aⁿbᵐ",
+    "अभाज्य गुणनखंडों की घातों के गुणनफल",
+    "विशेष घातें (1, –1) और एक ही आधार का गुणन नियम"
+  ],
+  "example_sequence": [
+    "Science book में planets के mass और distances — zeros की लंबी line",
+    "Mobile storage: 10⁹ bytes ≈ 1 GB — powers of 10 से short writing",
+    "Cheque या bank slip पर amount words के साथ place-value breakdown",
+    "वर्ग सेंटीमीटर (cm²) — area में square का use",
+    "Bank debit-credit pairing: opposite signs combine stepwise",
+    "Offers compare: '2³ gifts' vs '3² gifts' — numbers calculate करके decide",
+    "पैकिंग: 72 sweets को 2 और 3 के group bundles में बाँटना",
+    "Paper folding stages combine: repeated doubling counts add like exponents"
+  ],
+  "learning_outcomes": [
+    "बहुत बड़ी संख्याओं को घातांकीय रूप (exponential form) में लिखना और पढ़ना",
+    "आधार (base) और घातांक (exponent) की पहचान करना; वर्ग व घन समझना",
+    "संख्याओं को अभाज्य गुणनखंडों की घातों के गुणनफल के रूप में व्यक्त करना",
+    "ऋणात्मक आधार वाली घातें, 1 व –1 की घातें, तथा एक ही आधार वाली घातों का गुणन नियम लागू करना"
+  ]
+}
