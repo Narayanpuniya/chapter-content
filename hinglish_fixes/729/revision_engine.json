@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "concept": "बौद्धिक खेल – संख्या सोचो!",
+      "point": "Mind Game: operations forward → result; solution = work backwards (algebra)."
+    },
+    {
+      "concept": "समीकरण बनाना – अज्ञात संख्या से व्यंजक",
+      "point": "Unknown → letter; apply ops → expression; expression = result → equation."
+    },
+    {
+      "concept": "चर, व्यंजक और हल की समीक्षा",
+      "point": "Equation = condition on variable; solution makes LHS equal RHS."
+    },
+    {
+      "concept": "समीकरण क्या है? – समता चिह्न, बायाँ और दायाँ पक्ष",
+      "point": "Equation ⇔ has ‘=’; LHS value = RHS value; at least one side has variable."
+    },
+    {
+      "concept": "कथन को समीकरण में लिखना",
+      "point": "Translate words carefully; ‘अधिक/कम’ की दिशा ध्यान से; one equation → many statements."
+    },
+    {
+      "concept": "स्थितियों से समीकरण बनाना",
+      "point": "Word situation → define variable → translate relation → equate to given number."
+    },
+    {
+      "concept": "समीकरण हल करने का सिद्धांत – तराजू जैसी संतुलन",
+      "point": "Same operation with same number on both sides keeps equality true; unequal ops break it."
+    },
+    {
+      "concept": "समीकरण हल करना – योग और व्यवकलन से",
+      "point": "To solve: undo the operation on both sides; verify by substitution."
+    }
+  ]
+}
